@@ -1253,7 +1253,7 @@
 16	сетасныс	сетны	VERB	V	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	11	conj	_	_
 17	мыйттэм	мыйтӧм	ADV	Adv	_	16	advmod	_	SpaceAfter=No
 18	,	,	PUNCT	CLB	_	17	punct	_	_
-19	сіе	сійӧ	PRON	Pron	Case=Acc|Number=Sing|Person=3|PronType=Prs	21	obj	_	_
+19	сіе	сійӧ	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	21	obj	_	_
 20	и	и	PART	Pcle	_	21	advmod	_	Lang=Mixed
 21	сдайтан	сдайтны	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	advcl	_	Lang=Mixed|SpaceAfter=No
 22	.	.	PUNCT	CLB	_	21	punct	_	_
@@ -1479,7 +1479,7 @@
 # sent_id = kpv_udo19420000SFOuVanejevMN-186.006
 # text = И сійӧ пондісны тӧварышъесыс вины.
 1	И	и	CCONJ	CC	_	3	cc	_	_
-2	сійӧ	сійӧ	PRON	Pron	Case=Acc|Number=Sing|Person=3|PronType=Prs	3	obj	_	GTtags=Pers,Sg3,Acc
+2	сійӧ	сійӧ	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	obj	_	GTtags=Pers,Sg3,Acc
 3	пондісны	пондыны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	GTtags=IV,Ind,Prt1,Pl3
 4	тӧварышъесыс	тӧварыш	NOUN	N	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	5	nsubj	_	Lang=Mixed|GTtags=Pl,Nom
 5	вины	вины	VERB	V	VerbForm=Inf	3	xcomp	_	GTtags=TV,Inf|SpaceAfter=No
@@ -1512,7 +1512,7 @@
 # text = Вӧдзӧ сэсь сійӧ вайӧдісны ягись йӧйӧн.
 1	Вӧдзӧ	вӧдзӧ	ADV	Adv	Case=Ill|Number=Sing	4	advmod	_	_
 2	сэсь	сэн	ADV	Adv	_	4	advmod	_	_
-3	сійӧ	сійӧ	PRON	Pron	Case=Acc|Number=Sing|Person=3|PronType=Prs	4	obj	_	GTtags=Pers,Sg3,Acc
+3	сійӧ	сійӧ	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	obj	_	GTtags=Pers,Sg3,Acc
 4	вайӧдісны	вайӧдны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	GTtags=TV,Ind,Prt1,Pl3
 5	ягись	яг	NOUN	N	Case=Ela|Number=Sing	4	obl	_	GTtags=Sg,Ela
 6	йӧйӧн	йӧй	NOUN	N	Case=Ins|Number=Sing	4	obl	_	GTtags=Sg,Ins|SpaceAfter=No
