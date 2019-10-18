@@ -257,13 +257,8 @@
 8	абу	абу	AUX	Pcle	Polarity=Neg	9	aux	_	_
 9	понравитчема	понравитчыны	VERB	V	Mood=Ind|Number=Sing	1	conj	_	Lang=Mixed|SpaceAfter=No|Note=Check
 10	,	,	PUNCT	CLB	_	11	punct	_	_
-<<<<<<< HEAD
-11	оз	оз	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	12	aux	_	_
-12	вермы	вермыны	VERB	V	Connegative=Yes	1	conj	_	_
-=======
 11	оз	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	12	aux:neg	_	_
 12	вермы	вермыны	VERB	V	Connegative=Yes|Number=Sing	1	conj	_	_
->>>>>>> c40f1b45836ad40a43f86c7869d687ee6c92a2cd
 13	сыа	сійӧ	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
 14	сэтшем	сэтшӧм	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	15	amod	_	_
 15	условиеясас	условие	NOUN	N	Case=Ill|Number=Plur|Number[psor]=Sing|Person[psor]=3	12	obl	_	Lang=Mixed|SpaceAfter=No
@@ -322,13 +317,8 @@
 7	висены	висьны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	кокъясэ	кок	NOUN	N	Case=Ill|Number=Plur	7	obl	_	_
 9	и	и	CCONJ	CC	_	11	cc	_	Lang=Mixed
-<<<<<<< HEAD
-10	ог	оз	AUX	V	Mood=Ind|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	11	aux	_	_
-11	вермы	вермыны	VERB	V	Connegative=Yes	7	conj	_	_
-=======
 10	ог	оз	AUX	V	Mood=Ind|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	11	aux:neg	_	_
 11	вермы	вермыны	VERB	V	Connegative=Yes|Number=Sing	7	conj	_	_
->>>>>>> c40f1b45836ad40a43f86c7869d687ee6c92a2cd
 12	ветлыны	ветлыны	VERB	V	VerbForm=Inf	11	xcomp	_	SpaceAfter=No
 13	,	,	PUNCT	CLB	_	14	punct	_	_
 14	веське	эськӧ	PART	Pcle	_	17	advmod	_	_
@@ -765,11 +755,7 @@
 # text_eng =
 1	Ас	ас	ADJ	A	Case=Nom|Number=Sing|PronType=Prs	6	reparandum	_	SpaceAfter=No
 2	,	,	PUNCT	CLB	_	1	punct	_	_
-<<<<<<< HEAD
-3	мыйке	мыйке	ADV	Adv	Case=Nom|Number=Sing	1	advmod	_	SpaceAfter=No
-=======
 3	мыйке	мыйке	INTJ	Interj	Case=Nom|Number=Sing	1	discourse	_	SpaceAfter=No
->>>>>>> c40f1b45836ad40a43f86c7869d687ee6c92a2cd
 4	,	,	PUNCT	CLB	_	5	punct	_	_
 5	ас	ас	ADJ	A	Case=Nom|Number=Sing|PronType=Prs	6	amod	_	_
 6	муас	му	NOUN	N	Case=Ill|Number=Sing|Number[psor]=Sing|Person[psor]=3	7	obl	_	_
@@ -800,13 +786,8 @@
 4	никучем	никутшӧм	ADV	Adv	Polarity=Neg	5	advmod	_	_
 5	иностраннэй	иностраннӧй	ADJ	A	Case=Nom|Number=Sing	6	advmod	_	Lang=Mixed
 6	местаясэ	места	NOUN	N	Case=Ill|Number=Plur	8	obl	_	Lang=Mixed
-<<<<<<< HEAD
-7	ог	оз	AUX	V	Mood=Ind|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	8	aux	_	_
-8	ветлоо	ветлыны	VERB	V	Connegative=Yes	0	root	_	SpaceAfter=No
-=======
 7	ог	оз	AUX	V	Mood=Ind|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	8	aux:neg	_	_
 8	ветлоо	ветлыны	VERB	V	Connegative=Yes|Number=Sing	0	root	_	SpaceAfter=No
->>>>>>> c40f1b45836ad40a43f86c7869d687ee6c92a2cd
 9	.	.	PUNCT	CLB	_	8	punct	_	_
 
 # sent_id = kpv_izva20150411-1-b-0033
@@ -930,13 +911,8 @@
 # text_eng =
 1	Пока	пока	ADV	Adv	_	2	advmod	_	_
 2	лёк	лёк	ADJ	A	Case=Nom|Number=Sing	0	root	_	_
-<<<<<<< HEAD
-3	из	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	2	aux	_	_
-4	ло	лоны	AUX	V	Connegative=Yes	2	aux	_	SpaceAfter=No
-=======
 3	из	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|VerbForm=Fin	2	aux:neg	_	_
 4	ло	лоны	AUX	V	Connegative=Yes|Number=Sing	2	aux	_	SpaceAfter=No
->>>>>>> c40f1b45836ad40a43f86c7869d687ee6c92a2cd
 5	,	,	PUNCT	CLB	_	6	punct	_	_
 6	но	но	CCONJ	CC	_	13	cc	_	Lang=Mixed|SpaceAfter=No
 7	,	,	PUNCT	CLB	_	8	punct	_	_
@@ -953,13 +929,8 @@
 # text_rus = Пока не стала мочь, пока могла.
 # text_eng =
 1	Пока	пока	ADV	Adv	_	3	advmod	_	Lang=Mixed
-<<<<<<< HEAD
-2	из	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	3	aux	_	_
-3	вермы	вермыны	VERB	V	Connegative=Yes	0	root	_	SpaceAfter=No
-=======
 2	из	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|VerbForm=Fin	3	aux:neg	_	_
 3	вермы	вермыны	VERB	V	Connegative=Yes|Number=Sing	0	root	_	SpaceAfter=No
->>>>>>> c40f1b45836ad40a43f86c7869d687ee6c92a2cd
 4	,	,	PUNCT	CLB	_	5	punct	_	_
 5	пока	пока	ADV	Adv	_	6	advmod	_	Lang=Mixed
 6	вермис	вермыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	SpaceAfter=No
@@ -990,11 +961,7 @@
 3	ачыс	ас	PRON	Pron	Case=Nom|Person=3|Reflex=Yes	4	nmod	_	_
 4	ветліс	ветлыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	CLB	_	6	punct	_	_
-<<<<<<< HEAD
-6	эта	эта	PRON	Pron	Number=Sing|PronType=Dem	4	discourse	_	Lang=Mixed|SpaceAfter=No
-=======
 6	эта	этайӧ	INTJ	Interj	Number=Sing|PronType=Dem	4	discourse	_	Lang=Mixed|SpaceAfter=No
->>>>>>> c40f1b45836ad40a43f86c7869d687ee6c92a2cd
 7	,	,	PUNCT	CLB	_	6	punct	_	_
 8	бабаясыс	баба	NOUN	N	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	4	obl	_	_
 9	доре	дорын	ADP	Po	Case=Ill|Number=Sing	8	case	_	_
@@ -1062,13 +1029,8 @@
 21	Юго-Восточной	юго-восточной	ADJ	A	Case=Nom|Number=Sing	22	amod	_	Lang=Rus
 22	Азии	Азия	PROPN	N	Case=Gen|Number=Sing	20	nmod	_	Lang=Rus
 23	зэй	зэй	ADV	Adv	_	25	advmod	_	_
-<<<<<<< HEAD
-24	из	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	25	aux	_	_
-25	привлекайтныс	привлекайтны	VERB	V	Connegative=Yes	10	advcl	_	Lang=Mixed|SpaceAfter=No
-=======
 24	из	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|VerbForm=Fin	25	aux:neg	_	_
 25	привлекайтныс	привлекайтны	VERB	V	Connegative=Yes|Number=Plur	10	advcl	_	Lang=Mixed|SpaceAfter=No
->>>>>>> c40f1b45836ad40a43f86c7869d687ee6c92a2cd
 26	.	.	PUNCT	CLB	_	10	punct	_	_
 
 # sent_id = kpv_izva20140330-1-b-176
@@ -1079,13 +1041,8 @@
 2	,	,	PUNCT	CLB	_	3	punct	_	_
 3	гашке	гашкӧ	PART	Pcle	_	6	advmod	_	SpaceAfter=No
 4	,	,	PUNCT	CLB	_	5	punct	_	_
-<<<<<<< HEAD
-5	оз	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	6	aux	_	_
-6	бросайтчы	бросайтчыны	VERB	V	Connegative=Yes	0	root	_	Lang=Mixed
-=======
 5	оз	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	6	aux:neg	_	_
 6	бросайтчы	бросайтчыны	VERB	V	Connegative=Yes|Number=Sing	0	root	_	Lang=Mixed
->>>>>>> c40f1b45836ad40a43f86c7869d687ee6c92a2cd
 7	в	в	ADP	Pr	_	8	case	_	Lang=Rus
 8	глаза	глаз	NOUN	N	Case=Nom|Number=Plur	6	obl	_	Lang=Rus|SpaceAfter=No
 9	,	,	PUNCT	CLB	_	10	punct	_	_
@@ -1128,13 +1085,8 @@
 # text = Ог тӧд, мен кажитче, без репетитора сыа невозможнэ.
 # text_rus =
 # corpus_version = f0d4b02b2cdba3ddf9e5bd1c5cd875167b4e97fc
-<<<<<<< HEAD
-1	Ог	оз	AUX	V	Mood=Ind|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	2	aux	_	_
-2	тӧд	тӧдны	VERB	V	Connegative=Yes	0	root	_	SpaceAfter=No
-=======
 1	Ог	оз	AUX	V	Mood=Ind|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	2	aux:neg	_	_
 2	тӧд	тӧдны	VERB	V	Connegative=Yes|Number=Sing	0	root	_	SpaceAfter=No
->>>>>>> c40f1b45836ad40a43f86c7869d687ee6c92a2cd
 3	,	,	PUNCT	CLB	_	4	punct	_	_
 4	мен	ме	PRON	Pron	Case=Dat|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
 5	кажитче	кажитчыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	_	SpaceAfter=No
@@ -1425,13 +1377,8 @@
 13	а	а	CCONJ	CC	_	17	cc	_	Lang=Mixed
 14	ме	ме	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	17	nsubj	_	_
 15	никодэс	некод	PRON	Pron	Case=Acc|Number=Sing|Polarity=Neg	17	obj	_	_
-<<<<<<< HEAD
-16	ог	оз	AUX	V	Mood=Ind|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	17	aux	_	_
-17	тӧд	тӧдны	VERB	V	Connegative=Yes	5	advcl	_	SpaceAfter=No
-=======
 16	ог	оз	AUX	V	Mood=Ind|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	17	aux:neg	_	_
 17	тӧд	тӧдны	VERB	V	Connegative=Yes|Number=Sing	5	advcl	_	SpaceAfter=No
->>>>>>> c40f1b45836ad40a43f86c7869d687ee6c92a2cd
 18	.	.	PUNCT	CLB	_	5	punct	_	_
 
 # sent_id = kpv_izva20150407-1-b.125
@@ -1517,11 +1464,7 @@
 1	И	и	CCONJ	CC	_	5	cc	_	Lang=Mixed
 2	сія	сія	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	GTtags=Pers,Sg3,Nom
 3	тӧварышъессӧ	тӧварыш	NOUN	N	Case=Acc|Number=Plur|Number[psor]=Sing|Person[psor]=3	5	obj	_	Lang=Mixed|GTtags=Pl,Acc
-<<<<<<< HEAD
 4	быдӧнӧс	быдӧн	PRON	Pron	Case=Acc|Number=Sing|PronType=Qnt	5	nmod	_	GTtags=Coll,Sg,Acc
-=======
-4	быдӧнӧс	быдӧн	PRON	Pron	Case=Acc|Number=Sing	3	det	_	GTtags=Coll,Sg,Acc
->>>>>>> c40f1b45836ad40a43f86c7869d687ee6c92a2cd
 5	лэбӧдліс	лэбӧдлыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	GTtags=IV,Ind,Prt1,Sg3|SpaceAfter=No
 6	.	.	PUNCT	CLB	_	5	punct	_	_
 
@@ -1666,13 +1609,8 @@
 1	Но	но	CCONJ	CC	_	2	cc	_	Lang=Mixed
 2	тятеис	тятей	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	0	root	_	GTtags=Sg,Nom,PxSg3
 3	потанас	потан	NOUN	N	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	obl	_	GTtags=Sg,Ine,PxSg3
-<<<<<<< HEAD
-4	из	оз	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	2	aux	_	GTtags=Neg,Ind,Prt1,Sg3
-5	вӧв	вӧвны	AUX	V	Connegative=Yes	2	aux	_	GTtags=IV,ConNeg|SpaceAfter=No
-=======
 4	из	оз	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	2	aux:neg	_	GTtags=Neg,Ind,Prt1,Sg3
 5	вӧв	вӧвны	AUX	V	Connegative=Yes|Number=Sing	2	aux	_	GTtags=IV,ConNeg|SpaceAfter=No
->>>>>>> c40f1b45836ad40a43f86c7869d687ee6c92a2cd
 6	.	.	PUNCT	CLB	_	2	punct	_	_
 
 # sent_id = kpv_udo19420000SFOuVanejevMN-186.020
@@ -1694,13 +1632,8 @@
 3	крукӧн	крук	NOUN	N	Case=Ins|Number=Sing	2	obl	_	GTtags=Sg,Ins
 4	бӧрӧ	бӧрӧ	ADV	Adv	Case=Ill|Number=Sing	2	advmod	_	GTtags=Sg,Ill
 5	и	и	CCONJ	CC	_	7	cc	_	Lang=Mixed
-<<<<<<< HEAD
-6	из	оз	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	7	aux	_	GTtags=Neg,Ind,Prt1,Sg3
-7	удит	удитны	VERB	V	Connegative=Yes	2	conj	_	Lang=Mixed|GTtags=IV,ConNeg
-=======
 6	из	оз	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	7	aux:neg	_	GTtags=Neg,Ind,Prt1,Sg3
 7	удит	удитны	VERB	V	Connegative=Yes|Number=Sing	2	conj	_	Lang=Mixed|GTtags=IV,ConNeg
->>>>>>> c40f1b45836ad40a43f86c7869d687ee6c92a2cd
 8	тятеис	тятей	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	7	nsubj	_	GTtags=Sg,Nom,PxSg3
 9	сотчыны	сотчыны	VERB	V	VerbForm=Inf	7	xcomp	_	GTtags=Refl,Inf|SpaceAfter=No
 10	.	.	PUNCT	CLB	_	2	punct	_	_
@@ -1753,13 +1686,8 @@
 10	сылӧн	сійӧ	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Prs	11	nmod	_	GTtags=Pers,Sg3,Gen
 11	сітан-улас	сітан-ув	NOUN	N	Case=Ill|Number=Sing|Number[psor]=Sing|Person[psor]=3	15	obl	_	GTtags=Relat,Sg,Ill,PxSg3
 12	нинӧм	нинӧм	PRON	Pron	Case=Nom|Number=Sing|Polarity=Neg	15	obj	_	GTtags=Neg,Sg,Nom
-<<<<<<< HEAD
-13	из	оз	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	15	aux	_	GTtags=Neg,Ind,Prt1,Sg3
-14	вӧв	вӧвны	AUX	V	Connegative=Yes	15	aux	_	GTtags=IV,ConNeg
-=======
 13	из	оз	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	15	aux:neg	_	GTtags=Neg,Ind,Prt1,Sg3
 14	вӧв	вӧвны	AUX	V	Connegative=Yes|Number=Sing	15	aux	_	GTtags=IV,ConNeg
->>>>>>> c40f1b45836ad40a43f86c7869d687ee6c92a2cd
 15	пуктӧма	пуктыны	VERB	V	Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	GTtags=TV,Ind,Prt2,Sg3|SpaceAfter=No
 16	.	.	PUNCT	CLB	_	4	punct	_	_
 
@@ -1796,13 +1724,8 @@
 1	И	и	CCONJ	CC	_	5	cc	_	Lang=Mixed
 2	сія	сія	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	GTtags=Pers,Sg3,Nom
 3	бӧрӧ	бӧрӧ	ADV	Adv	Case=Ill|Number=Sing	5	advmod	_	GTtags=Sg,Ill
-<<<<<<< HEAD
-4	из	оз	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	5	aux	_	GTtags=Neg,Ind,Prt1,Sg3
-5	во	во	VERB	V	Connegative=Yes	0	root	_	GTtags=IV,ConNeg
-=======
 4	из	оз	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	5	aux:neg	_	GTtags=Neg,Ind,Prt1,Sg3
 5	во	во	VERB	V	Connegative=Yes|Number=Sing	0	root	_	GTtags=IV,ConNeg
->>>>>>> c40f1b45836ad40a43f86c7869d687ee6c92a2cd
 6	гортэдзыс	горт	NOUN	Hom1	Case=Ter|Number=Sing|Number[psor]=Sing|Person[psor]=3	5	obl	_	GTtags=N,Sg,Err/Dial,Ter,PxSg3
 7	куим	куим	NUM	Num	Case=Nom|Number=Sing|NumType=Card	8	nummod	_	GTtags=Card,Sg,Nom
 8	верс	верс	NOUN	N	Case=Nom|Number=Sing	6	nmod	_	Lang=Mixed|GTtags=Sg,Nom|SpaceAfter=No
