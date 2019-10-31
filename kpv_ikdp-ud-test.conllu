@@ -321,7 +321,7 @@
 11	вермы	вермыны	VERB	V	Connegative=Yes|Number=Sing	7	conj	_	_
 12	ветлыны	ветлыны	VERB	V	VerbForm=Inf	11	xcomp	_	SpaceAfter=No
 13	,	,	PUNCT	CLB	_	14	punct	_	_
-14	веське	эськӧ	PART	Pcle	_	17	advmod	_	_
+14	веське	эськӧ	ADV	Adv	_	17	advmod	_	_
 15	с	с	ADP	Pr	_	16	case	_	Lang=Rus
 16	удовольствием	удовольствием	NOUN	N	Case=Ins	17	nmod	_	Lang=Rus
 17	пета	петны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	conj	_	_
@@ -1073,7 +1073,7 @@
 # text_rus =
 # corpus_version = f0d4b02b2cdba3ddf9e5bd1c5cd875167b4e97fc
 1	Ӧні	ӧні	ADV	Adv	_	5	advmod	_	_
-2	эське	эськӧ	PART	Pcle	_	5	advmod	_	_
+2	эське	эськӧ	ADV	Adv	_	5	advmod	_	_
 3	с	с	ADP	Pr	_	4	case	_	Lang=Rus
 4	удовольствием	удовольствие	NOUN	N	Case=Ins|Number=Sing	5	obl	_	Lang=Rus
 5	муна	мунны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
