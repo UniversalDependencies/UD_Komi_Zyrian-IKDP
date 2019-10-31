@@ -240,7 +240,7 @@
 7	оленевод	оленевод	NOUN	N	Case=Nom|Number=Sing	0	root	_	Lang=Mixed
 8	да	да	PART	Pcle	_	7	advmod	_	Lang=Mixed|SpaceAfter=No
 9	,	,	PUNCT	CLB	_	10	punct	_	_
-10	приведитчис	приведитчыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	acl	_	Lang=Mixed
+10	приведитчис	приведитчыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	conj	_	Lang=Mixed
 11	кольччыны	кольччыны	VERB	V	VerbForm=Inf	10	xcomp	_	SpaceAfter=No
 12	.	.	PUNCT	CLB	_	7	punct	_	_
 
@@ -1716,7 +1716,7 @@
 8	,	,	PUNCT	CLB	_	9	punct	_	_
 9	кӧн	кӧн	ADV	Adv	_	11	advmod	_	_
 10	мунігӧныс	мунны	VERB	V	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3|VerbForm=Conv	11	advcl	_	GTtags=IV,Der,Der/иг,Ger,Sg,Ins,PxSg3
-11	пукаліс	пукавны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	acl	_	GTtags=IV,Ind,Prt1,Sg3|SpaceAfter=No
+11	пукаліс	пукавны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	acl:relcl	_	GTtags=IV,Ind,Prt1,Sg3|SpaceAfter=No
 12	.	.	PUNCT	CLB	_	5	punct	_	_
 
 # sent_id = kpv_udo19420000SFOuVanejevMN-186.028
