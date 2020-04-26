@@ -300,7 +300,7 @@
 3	ӧкмыс	ӧкмыс	NUM	Num	Case=Nom|Number=Sing|NumType=Card	4	nummod	_	_
 4	во	во	NOUN	N	Case=Nom|Number=Sing	1	obl	_	SpaceAfter=No
 5	,	,	PUNCT	CLB	_	6	punct	_	_
-6	навернэ	навернӧ	ADV	Adv	_	1	advmod	_	Lang=Mixed|SpaceAfter=No
+6	навернэ	навернӧ	ADV	Adv	_	1	advmod:mmod	_	Lang=Mixed|SpaceAfter=No
 7	,	,	PUNCT	CLB	_	8	punct	_	_
 8	кочегариті	кочегаритны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	1	conj	_	SpaceAfter=No
 9	.	.	PUNCT	CLB	_	1	punct	_	_
@@ -321,7 +321,7 @@
 11	вермы	вермыны	VERB	V	Connegative=Yes|Number=Sing	7	conj	_	_
 12	ветлыны	ветлыны	VERB	V	VerbForm=Inf	11	xcomp	_	SpaceAfter=No
 13	,	,	PUNCT	CLB	_	14	punct	_	_
-14	веське	эськӧ	ADV	Adv	_	17	advmod	_	_
+14	веське	эськӧ	ADV	Adv	_	17	advmod:mmod	_	_
 15	с	с	ADP	Pr	_	16	case	_	Lang=Rus
 16	удовольствием	удовольствием	NOUN	N	Case=Ins	17	nmod	_	Lang=Rus
 17	пета	петны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	conj	_	_
@@ -352,7 +352,7 @@
 4	,	,	PUNCT	CLB	_	5	punct	_	_
 5	кокъясэ	кок	NOUN	N	Case=Ill|Number=Plur	6	obl	_	_
 6	висьмисныс	висьмыны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	_
-7	дзикедз	дзик	ADV	Adv	Case=Ter|Number=Sing	6	advmod	_	SpaceAfter=No
+7	дзикедз	дзик	ADV	Adv	Case=Ter|Number=Sing	6	advmod:deg	_	SpaceAfter=No
 8	,	,	PUNCT	CLB	_	9	punct	_	_
 9	и	и	CCONJ	CC	_	10	mark	_	Lang=Mixed
 10	приведитчис	приведитчыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	Lang=Mixed
@@ -489,7 +489,7 @@
 5	сыа	сыа	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
 6	вӧйна	вӧйна	NOUN	N	Case=Nom|Number=Sing	10	obl	_	Lang=Mixed
 7	вылэ	вылын	ADP	Po	Case=Ill|Number=Sing	6	case	_	_
-8	зэй	зэй	ADV	Adv	_	9	advmod	_	_
+8	зэй	зэй	ADV	Adv	_	9	advmod:deg	_	_
 9	водз	водз	ADV	Adv	Case=Nom|Number=Sing	10	advmod	_	_
 10	сюрліс	сюрлыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 11	,	,	PUNCT	CLB	_	12	punct	_	_
@@ -666,7 +666,7 @@
 7	,	,	PUNCT	CLB	_	8	punct	_	_
 8	думайтэныс	думайтны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Lang=Mixed|SpaceAfter=No
 9	,	,	PUNCT	CLB	_	10	punct	_	_
-10	гашке	гашкӧ	PART	Pcle	_	12	advmod	_	SpaceAfter=No
+10	гашке	гашкӧ	PART	Pcle	_	12	advmod:mmod	_	SpaceAfter=No
 11	,	,	PUNCT	CLB	_	12	punct	_	_
 12	вӧрзям	вӧрзьыны	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	8	ccomp	_	_
 13	да	да	PART	Pcle	_	12	advmod	_	Lang=Mixed
@@ -784,7 +784,7 @@
 2	что	что	PRON	Pron	_	1	fixed	_	Lang=Rus|SpaceAfter=No
 3	,	,	PUNCT	CLB	_	2	punct	_	_
 4	никучем	никутшӧм	ADV	Adv	Polarity=Neg	5	advmod	_	_
-5	иностраннэй	иностраннӧй	ADJ	A	Case=Nom|Number=Sing	6	advmod	_	Lang=Mixed
+5	иностраннэй	иностраннӧй	ADJ	A	Case=Nom|Number=Sing	6	amod	_	Lang=Mixed
 6	местаясэ	места	NOUN	N	Case=Ill|Number=Plur	8	obl	_	Lang=Mixed
 7	ог	оз	AUX	V	Mood=Ind|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	8	aux:neg	_	_
 8	ветлоо	ветлыны	VERB	V	Connegative=Yes|Number=Sing	0	root	_	SpaceAfter=No
@@ -887,7 +887,7 @@
 # text_rus = Моя мама тоже такой повивальной бабкой была: она ведь очень много это, детей взяла, приняла.
 # text_eng =
 1	Маме	мам	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	6	nsubj	_	Lang=Mixed|Note=CheckAll
-2	вед	вед	PART	Pcle	_	1	advmod	_	_
+2	вед	вед	PART	Pcle	_	1	advmod:mmod	_	_
 3	сэчем	сэчем	ADV	Adv	_	6	advmod	_	_
 4	же	жӧ	PART	Pcle	_	3	advmod	_	Lang=Mixed
 5	гӧг	гӧг	NOUN	N	Case=Nom|Number=Sing	6	compound	_	_
@@ -895,7 +895,7 @@
 7	вӧліс	вӧвны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	SpaceAfter=No
 8	:	:	PUNCT	CLB	_	6	punct	_	_
 9	сыа	сыа	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
-10	зэй	зэй	ADV	Adv	_	12	advmod	_	_
+10	зэй	зэй	ADV	Adv	_	12	advmod:deg	_	_
 11	уна	уна	ADV	Adv	_	12	advmod	_	_
 12	мыйке	мыйке	PRON	Pron	_	6	parataxis	_	SpaceAfter=No
 13	,	,	PUNCT	CLB	_	14	punct	_	_
@@ -982,7 +982,7 @@
 1	Но	но	CCONJ	CC	_	6	cc	_	Lang=Mixed|SpaceAfter=No
 2	,	,	PUNCT	CLB	_	1	punct	_	_
 3	сыа	сыа	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
-4	вед	вед	PART	Pcle	_	6	advmod	_	Lang=Mixed
+4	вед	вед	PART	Pcle	_	6	advmod:mmod	_	Lang=Mixed
 5	няпойнэй	няпойнӧй	ADJ	A	Case=Nom|Number=Sing	6	amod	_	Note=Check
 6	чом	чом	NOUN	N	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
 7	,	,	PUNCT	CLB	_	8	punct	_	_
@@ -1008,7 +1008,7 @@
 # text_rus =
 1	Ме	ме	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	SpaceAfter=No
 2	,	,	PUNCT	CLB	_	3	punct	_	_
-3	кӧнечнэ	конечно	ADV	Adv	_	10	advmod	_	Lang=Mixed
+3	кӧнечнэ	конечно	ADV	Adv	_	10	advmod:mmod	_	Lang=Mixed
 4	же	жӧ	PART	Pcle	_	3	advmod	_	Lang=Mixed|SpaceAfter=No
 5	,	,	PUNCT	CLB	_	3	punct	_	_
 6	кык	кык	NUM	Num	Case=Nom|Number=Sing|NumType=Card	7	nmod	_	_
@@ -1028,7 +1028,7 @@
 20	страны	страна	NOUN	N	Case=Nom|Number=Plur	25	nsubj	_	Lang=Rus
 21	Юго-Восточной	юго-восточной	ADJ	A	Case=Nom|Number=Sing	22	amod	_	Lang=Rus
 22	Азии	Азия	PROPN	N	Case=Gen|Number=Sing	20	nmod	_	Lang=Rus
-23	зэй	зэй	ADV	Adv	_	25	advmod	_	_
+23	зэй	зэй	ADV	Adv	_	25	advmod:deg	_	_
 24	из	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|VerbForm=Fin	25	aux:neg	_	_
 25	привлекайтныс	привлекайтны	VERB	V	Connegative=Yes|Number=Plur	10	advcl	_	Lang=Mixed|SpaceAfter=No
 26	.	.	PUNCT	CLB	_	10	punct	_	_
@@ -1039,7 +1039,7 @@
 # corpus_version = f0d4b02b2cdba3ddf9e5bd1c5cd875167b4e97fc
 1	Сыысь	сійӧ	PRON	Pron	Case=Ela|Number=Sing|Person=3|PronType=Prs	6	obl	_	SpaceAfter=No
 2	,	,	PUNCT	CLB	_	3	punct	_	_
-3	гашке	гашкӧ	PART	Pcle	_	6	advmod	_	SpaceAfter=No
+3	гашке	гашкӧ	PART	Pcle	_	6	advmod:mmod	_	SpaceAfter=No
 4	,	,	PUNCT	CLB	_	5	punct	_	_
 5	оз	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	6	aux:neg	_	_
 6	бросайтчы	бросайтчыны	VERB	V	Connegative=Yes|Number=Sing	0	root	_	Lang=Mixed
@@ -1059,7 +1059,7 @@
 1	А	а	CCONJ	CC	_	3	cc	_	Lang=Mixed
 2	храмыс	храм	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	nsubj	_	_
 3	восьса	восьса	ADJ	A	Case=Nom|Number=Sing	0	root	_	_
-4	дзик	дзик	ADV	Adv	_	6	advmod	_	_
+4	дзик	дзик	ADV	Adv	_	6	advmod:deg	_	_
 5	быд	быд	PRON	Pron	PronType=Qnt	6	det	_	_
 6	лун	лун	NOUN	N	Case=Nom|Number=Sing	3	obl	_	_
 7	с	с	ADP	Pr	_	8	case	_	Lang=Rus
@@ -1073,7 +1073,7 @@
 # text_rus =
 # corpus_version = f0d4b02b2cdba3ddf9e5bd1c5cd875167b4e97fc
 1	Ӧні	ӧні	ADV	Adv	_	5	advmod	_	_
-2	эське	эськӧ	ADV	Adv	_	5	advmod	_	_
+2	эське	эськӧ	ADV	Adv	_	5	advmod:mmod	_	_
 3	с	с	ADP	Pr	_	4	case	_	Lang=Rus
 4	удовольствием	удовольствие	NOUN	N	Case=Ins|Number=Sing	5	obl	_	Lang=Rus
 5	муна	мунны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -1368,7 +1368,7 @@
 4	сэтэн	сэтӧн	ADV	Adv	_	5	advmod	_	_
 5	выйым	выйым	PART	Pcle	_	0	root	_	SpaceAfter=No
 6	,	,	PUNCT	CLB	_	7	punct	_	_
-7	гашке	гашкӧ	PART	Pcle	_	5	advmod	_	SpaceAfter=No
+7	гашке	гашкӧ	PART	Pcle	_	5	advmod:mmod	_	SpaceAfter=No
 8	,	,	PUNCT	CLB	_	7	punct	_	_
 9	братан	братан	NOUN	N	Case=Nom|Number=Sing	5	nsubj	_	Lang=Rus|SpaceAfter=No
 10	,	,	PUNCT	CLB	_	9	punct	_	_
