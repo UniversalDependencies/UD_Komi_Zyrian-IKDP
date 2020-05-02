@@ -1123,7 +1123,7 @@
 10	,	,	PUNCT	CLB	_	9	punct	_	_
 11	сідз	сідз	ADV	Adv	_	13	mark	_	_
 12	и	и	PART	Pcle	_	13	advmod	_	Lang=Mixed
-13	смыло	смыть	VERB	V	_	9	conj	_	Lang=Rus
+13	смыло	смыть	VERB	V	Mood=Ind|Number=Sing|Tense=Past	9	conj	_	Lang=Rus
 14	всю	весь	DET	Det	Case=Acc|Number=Sing	15	det	_	Lang=Rus
 15	деревню	деревня	NOUN	N	Case=Acc|Number=Sing	13	obj	_	Lang=Rus|SpaceAfter=No
 16	.	.	PUNCT	CLB	_	15	punct	_	_
