@@ -46,7 +46,7 @@
 # text = Миян выйым асланум, керка, мӧс, ыж, кукань.
 1	Миян	ми	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	5	nmod	_	_
 2	выйым	эм	AUX	V	Number=Sing	5	cop	_	_
-3	асланум	ас	PRON	Pron	Case=Nom|Person=1|PronType=Prs	5	nmod	_	SpaceAfter=No
+3	асланум	ас	PRON	Pron	Case=Gen|Person=1|Reflex=Yes	5	nmod	_	SpaceAfter=No
 4	,	,	PUNCT	CLB	_	5	punct	_	_
 5	керка	керка	NOUN	N	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
 6	,	,	PUNCT	CLB	_	7	punct	_	_
@@ -95,7 +95,7 @@
 # text = А ӧні ачум велӧдча.
 1	А	а	CCONJ	CC	_	4	cc	_	Lang=Mixed
 2	ӧні	ӧні	ADV	Adv	_	4	advmod	_	_
-3	ачум	ас	PRON	_	Case=Nom|Number=Sing|Reflex=Yes	4	nmod	_	_
+3	ачум	ас	PRON	_	Case=Nom|Person=1|Reflex=Yes	4	nmod	_	_
 4	велӧдча	велӧдчыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	CLB	_	4	punct	_	_
 
@@ -140,7 +140,7 @@
 7	,	,	PUNCT	CLB	_	8	punct	_	_
 8	правда	правда	NOUN	N	Case=Nom|Number=Sing	12	parataxis	_	Lang=Rus|SpaceAfter=No
 9	,	,	PUNCT	CLB	_	12	punct	_	_
-10	быд	быд	PRON	Pron	PronType=Qnt	11	det	_	_
+10	быд	быд	PRON	Pron	PronType=Tot	11	det	_	_
 11	гожем	гожем	NOUN	N	Case=Nom|Number=Sing	12	obl	_	_
 12	ветлі	ветлыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	_
 13	родительяс	родитель	NOUN	N	Case=Nom|Number=Plur	12	obl	_	Lang=Mixed
@@ -773,7 +773,7 @@
 18	,	,	PUNCT	CLB	_	19	punct	_	_
 19	Из	из	PROPN	N	Case=Nom|Number=Sing	21	obl	_	_
 20	сайын	сайын	ADP	Po	Case=Ine|Number=Sing	19	case	_	_
-21	рӧдиттьынысэ	рӧдиттьыны	VERB	V	VerbForm=Inf|Clitic=So	16	ccomp	_	Lang=Mixed|SpaceAfter=No
+21	рӧдиттьынысэ	рӧдиттьыны	VERB	V	Clitic=So|VerbForm=Inf	16	ccomp	_	Lang=Mixed|SpaceAfter=No
 22	.	.	PUNCT	CLB	_	8	punct	_	_
 
 # sent_id = kpv_izva20150411-1-b-0032
@@ -1060,7 +1060,7 @@
 2	храмыс	храм	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	nsubj	_	_
 3	восьса	восьса	ADJ	A	Case=Nom|Number=Sing	0	root	_	_
 4	дзик	дзик	ADV	Adv	_	6	advmod:deg	_	_
-5	быд	быд	PRON	Pron	PronType=Qnt	6	det	_	_
+5	быд	быд	PRON	Pron	PronType=Tot	6	det	_	_
 6	лун	лун	NOUN	N	Case=Nom|Number=Sing	3	obl	_	_
 7	с	с	ADP	Pr	_	8	case	_	Lang=Rus
 8	десяти	десять	NUM	Num	NumType=Card	3	nmod	_	Lang=Rus
@@ -1464,7 +1464,7 @@
 1	И	и	CCONJ	CC	_	5	cc	_	Lang=Mixed
 2	сія	сія	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	GTtags=Pers,Sg3,Nom
 3	тӧварышъессӧ	тӧварыш	NOUN	N	Case=Acc|Number=Plur|Number[psor]=Sing|Person[psor]=3	5	obj	_	Lang=Mixed|GTtags=Pl,Acc
-4	быдӧнӧс	быдӧн	PRON	Pron	Case=Acc|Number=Sing|PronType=Qnt	5	nmod	_	GTtags=Coll,Sg,Acc
+4	быдӧнӧс	быдӧн	PRON	Pron	Case=Acc|Number=Sing|PronType=Tot	5	nmod	_	GTtags=Coll,Sg,Acc
 5	лэбӧдліс	лэбӧдлыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=IV,Ind,Prt1,Sg3|SpaceAfter=No
 6	.	.	PUNCT	CLB	_	5	punct	_	_
 
@@ -1711,7 +1711,7 @@
 3	Иван	Иван	PROPN	N	Case=Nom|Number=Sing	5	nsubj	_	GTtags=Prop,Sg,Nom
 4	сідь-жӧ	сідз-жӧ	ADV	Adv	_	5	advmod	_	_
 5	пукаліс	пукавны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=IV,Ind,Prt1,Sg3
-6	быд	быд	PRON	Pron	PronType=Qnt	7	det	_	GTtags=Qnt
+6	быд	быд	PRON	Pron	PronType=Tot	7	det	_	GTtags=Qnt
 7	местӧын	местӧ	NOUN	N	Case=Ine|Number=Sing	5	obl	_	Lang=Mixed|GTtags=Sg,Ine|SpaceAfter=No
 8	,	,	PUNCT	CLB	_	9	punct	_	_
 9	кӧн	кӧн	ADV	Adv	_	11	advmod:lmod	_	_
@@ -1783,7 +1783,7 @@
 5	ветлэныс	ветлыны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	GTtags=V,IV,Ind,Prs,Pl3|SpaceAfter=No
 6	,	,	PUNCT	CLB	_	9	punct	_	GTtags=CLB
 7	кодлэн	код	NOUN	N	Case=Gen|Number=Sing	9	nmod	_	GTtags=N,Sg,Err/Dial,Gen
-8	аслас	ас	PRON	Pron	Case=Gen|Person=3|PronType=Prs	9	nmod	_	GTtags=Pron,Poss,Sg3,Sg,Nom
+8	аслас	ас	PRON	Pron	Case=Gen|Person=3|PronType=Prs|Reflex=Yes	9	nmod	_	GTtags=Pron,Poss,Sg3,Sg,Nom
 9	кӧр	кӧр	NOUN	N	Case=Nom|Number=Sing	5	acl	_	GTtags=N,Sg,Nom
 10	выйым	эм	AUX	V	Number=Sing	9	cop	_	GTtags=Err/Dial,Ind,Prs,Sg3|SpaceAfter=No
 11	.	.	PUNCT	CLB	_	5	punct	_	GTtags=CLB
