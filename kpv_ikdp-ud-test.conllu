@@ -1338,7 +1338,7 @@
 4	раза	раз	NOUN	N	Case=Gen|Number=Sing	7	obl	_	Lang=Rus
 5	в	в	ADP	Pr	_	6	case	_	Lang=Rus
 6	год	год	NOUN	N	Case=Nom|Number=Sing	4	nmod	_	Lang=Rus
-7	пересчитывайтэны	пересчитывайтны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	Lang=Mixed
+7	пересчитывайтэны	пересчитывайтны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	Lang=Mixed
 8	стадосэ	стадо	NOUN	N	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	7	obj	_	Lang=Mixed|SpaceAfter=No
 9	.	.	PUNCT	CLB	_	7	punct	_	_
 
