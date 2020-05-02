@@ -755,7 +755,7 @@
 # text_eng =
 1	Ас	ас	ADJ	A	Case=Nom|Number=Sing|PronType=Prs	6	reparandum	_	SpaceAfter=No
 2	,	,	PUNCT	CLB	_	1	punct	_	_
-3	мыйке	мыйке	PRON	Pron	Case=Nom|PronType=Ind	7	advmod	_	SpaceAfter=No
+3	мыйке	мыйке	PRON	Pron	Case=Nom|PronType=Ind	1	conj	_	SpaceAfter=No
 4	,	,	PUNCT	CLB	_	5	punct	_	_
 5	ас	ас	ADJ	A	Case=Nom|Number=Sing|PronType=Prs	6	amod	_	_
 6	муас	му	NOUN	N	Case=Ill|Number=Sing|Number[psor]=Sing|Person[psor]=3	7	obl	_	_
