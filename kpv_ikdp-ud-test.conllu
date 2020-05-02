@@ -1216,7 +1216,7 @@
 12	чё	чё	PART	Pcle	_	15	obj	_	Lang=Rus|SpaceAfter=No|Note=Check
 13	-	-	PUNCT	PUNCT	_	12	punct	_	SpaceAfter=No
 14	то	то	PART	Pcle	_	12	discourse	_	Lang=Rus
-15	делал	делать	VERB	V	Number=Sing	4	conj	_	Lang=Rus|SpaceAfter=No
+15	делал	делать	VERB	V	Mood=Ind|Number=Sing|Tense=Past	4	conj	_	Lang=Rus|SpaceAfter=No
 16	.	.	PUNCT	CLB	_	4	punct	_	_
 
 # sent_id = kpv_izva20150403-2-b.062
@@ -1392,7 +1392,7 @@
 6	чтоб	чтоб	SCONJ	CS	_	9	mark	_	Lang=Rus
 7	по	по	ADP	Pr	_	8	case	_	Lang=Rus
 8	прозвищу	прозвище	NOUN	N	Case=Dat|Number=Sing	9	obj	_	Lang=Rus
-9	знали	знать	VERB	V	Number=Plur	0	root	_	Lang=Rus|SpaceAfter=No
+9	знали	знать	VERB	V	Mood=Ind|Number=Plur|Tense=Past	0	root	_	Lang=Rus|SpaceAfter=No
 10	,	,	PUNCT	CLB	_	9	punct	_	_
 11	у	у	ADP	Pr	_	12	case	_	Lang=Rus
 12	нас	я	PRON	Pron	Case=Gen|Number=Sing|Person=1|PronType=Prs	13	obl	_	Lang=Rus
