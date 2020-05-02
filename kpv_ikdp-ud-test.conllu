@@ -1149,7 +1149,7 @@
 2	вӧлэсьсэ	вӧлэсь	NOUN	N	Case=Nom|Number=Sing	5	nsubj	_	_
 3	километров	километр	NOUN	N	Case=Gen|Number=Plur	5	obl	_	Lang=Rus
 4	четыреста	четыреста	NUM	Num	Case=Nom|Number=Sing|NumType=Card	3	nummod	_	Lang=Rus
-5	будет	лоны	VERB	V	Mood=Ind|Number=Sing|Person=3	0	root	_	Lang=Rus|SpaceAfter=No
+5	будет	быть	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	Lang=Rus|SpaceAfter=No
 6	.	.	PUNCT	CLB	_	5	punct	_	_
 
 # sent_id = kpv_izva20140324-5dom_tradici-c.190
