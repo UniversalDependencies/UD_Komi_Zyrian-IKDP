@@ -1802,10 +1802,10 @@
 # text = А керкаэс вошйи карны, сдайті кӧрес.
 1	А	а	CCONJ	CC	_	3	cc	_	GTtags=CC
 2	керкаэс	керка	NOUN	N	Case=Acc|Number=Sing	4	obj	_	GTtags=N,Sg,Err/Dial,Acc
-3	вошйи	вошйыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=V,IV,Ind,Prt1,Sg3
+3	вошйи	вошйыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	GTtags=V,IV,Ind,Prt1,Sg3
 4	карны	карны	VERB	V	VerbForm=Inf	3	xcomp	_	GTtags=V,IV,Inf|SpaceAfter=No
 5	,	,	PUNCT	CLB	_	6	punct	_	GTtags=CLB
-6	сдайті	сдайтны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	3	conj	_	GTtags=V,TV,Ind,Prt1,Sg3
+6	сдайті	сдайтны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past	3	conj	_	GTtags=V,TV,Ind,Prt1,Sg3
 7	кӧрес	кӧр	NOUN	N	Case=Acc|Number=Sing	6	obj	_	GTtags=N,Sg,Acc|SpaceAfter=No
 8	.	.	PUNCT	CLB	_	3	punct	_	GTtags=CLB
 
