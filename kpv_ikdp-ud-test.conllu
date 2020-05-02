@@ -773,7 +773,7 @@
 18	,	,	PUNCT	CLB	_	19	punct	_	_
 19	Из	из	PROPN	N	Case=Nom|Number=Sing	21	obl	_	_
 20	сайын	сайын	ADP	Po	Case=Ine|Number=Sing	19	case	_	_
-21	рӧдиттьынысэ	рӧдиттьыны	VERB	V	VerbForm=Inf	16	ccomp	_	Lang=Mixed|SpaceAfter=No
+21	рӧдиттьынысэ	рӧдиттьыны	VERB	V	VerbForm=Inf|Clitic=So	16	ccomp	_	Lang=Mixed|SpaceAfter=No
 22	.	.	PUNCT	CLB	_	8	punct	_	_
 
 # sent_id = kpv_izva20150411-1-b-0032
