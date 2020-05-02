@@ -755,7 +755,7 @@
 # text_eng =
 1	Ас	ас	ADJ	A	Case=Nom|Number=Sing|PronType=Prs	6	reparandum	_	SpaceAfter=No
 2	,	,	PUNCT	CLB	_	1	punct	_	_
-3	мыйке	мыйке	INTJ	Interj	Case=Nom|Number=Sing	1	discourse	_	SpaceAfter=No
+3	мыйке	мыйке	PRON	Pron	Case=Nom|PronType=Ind	7	advmod	_	SpaceAfter=No
 4	,	,	PUNCT	CLB	_	5	punct	_	_
 5	ас	ас	ADJ	A	Case=Nom|Number=Sing|PronType=Prs	6	amod	_	_
 6	муас	му	NOUN	N	Case=Ill|Number=Sing|Number[psor]=Sing|Person[psor]=3	7	obl	_	_
@@ -897,7 +897,7 @@
 9	сыа	сыа	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
 10	зэй	зэй	ADV	Adv	_	12	advmod:deg	_	_
 11	уна	уна	ADV	Adv	_	12	advmod	_	_
-12	мыйке	мыйке	PRON	Pron	_	6	parataxis	_	SpaceAfter=No
+12	мыйке	мыйке	PRON	Pron	Case=Nom|PronType=Ind	6	parataxis	_	SpaceAfter=No
 13	,	,	PUNCT	CLB	_	14	punct	_	_
 14	челядь	челядь	NOUN	N	Case=Nom|Number=Sing	15	obj	_	_
 15	босьтіс	босьтны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	12	conj	_	SpaceAfter=No
@@ -966,7 +966,7 @@
 8	бабаясыс	баба	NOUN	N	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	4	obl	_	_
 9	доре	дорын	ADP	Po	Case=Ill|Number=Sing	8	case	_	_
 10	или	или	CCONJ	CC	_	13	cc	_	Lang=Mixed
-11	сы	сійӧ	PRON	Pron	_	13	obl	_	_
+11	сы	сійӧ	PRON	Pron	PronType=Dem	13	obl	_	_
 12	доре	дорын	ADP	Po	Case=Ill|Number=Sing	11	case	_	_
 13	ваедісны	ваедны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past	4	conj	_	SpaceAfter=No
 14	,	,	PUNCT	CLB	_	15	punct	_	_
