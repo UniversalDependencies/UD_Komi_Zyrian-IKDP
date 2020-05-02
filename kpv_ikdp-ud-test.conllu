@@ -996,7 +996,7 @@
 15	только-только	только-только	ADV	Adv	_	16	advmod	_	Lang=Mixed
 16	пуктыны	пуктыны	VERB	V	VerbForm=Inf	6	conj	_	_
 17	и	и	CCONJ	CC	_	18	cc	_	Lang=Mixed
-18	мӧдасы	мӧдны	VERB	V	Mood=Ind|Number=Plur|Person=3	16	conj	_	_
+18	мӧдасы	мӧдны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut	16	conj	_	_
 19	воедны	воедны	VERB	V	VerbForm=Inf	18	xcomp	_	SpaceAfter=No
 20	,	,	PUNCT	CLB	_	21	punct	_	_
 21	да	да	PART	Pcle	_	19	advmod	_	Lang=Mixed|SpaceAfter=No
@@ -1250,7 +1250,7 @@
 13	,	,	PUNCT	CLB	_	12	punct	_	_
 14	сколько	сколько	ADV	Adv	_	16	advmod:deg	_	Lang=Rus
 15	налог	налог	NOUN	N	Case=Nom|Number=Sing	16	obj	_	Lang=Rus
-16	сетасныс	сетны	VERB	V	Mood=Ind|Number=Plur|Person=3	11	conj	_	_
+16	сетасныс	сетны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut	11	conj	_	_
 17	мыйттэм	мыйтӧм	ADV	Adv	_	16	advmod:deg	_	SpaceAfter=No
 18	,	,	PUNCT	CLB	_	17	punct	_	_
 19	сіе	сійӧ	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	21	obj	_	_
