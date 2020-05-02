@@ -255,7 +255,7 @@
 6	из	оз	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	8	reparandum	_	SpaceAfter=No
 7	,	,	PUNCT	CLB	_	8	punct	_	_
 8	абу	абу	AUX	Pcle	Polarity=Neg	9	aux:neg	_	_
-9	понравитчема	понравитчыны	VERB	V	Mood=Ind|Number=Sing	3	acl	_	Lang=Mixed|SpaceAfter=No|Note=Check
+9	понравитчема	понравитчыны	VERB	V	Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past	3	acl	_	Lang=Mixed|SpaceAfter=No|Note=Check
 10	,	,	PUNCT	CLB	_	12	punct	_	_
 11	оз	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres	12	aux:neg	_	_
 12	вермы	вермыны	VERB	V	Connegative=Yes|Number=Sing	9	conj	_	_
