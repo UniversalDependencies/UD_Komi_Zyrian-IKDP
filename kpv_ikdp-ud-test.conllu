@@ -1445,7 +1445,7 @@
 1	Сія	Сія	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	GTtags=Pers,Sg3,Nom
 2	сэн	сэн	ADV	Adv	_	3	advmod:lmod	_	_
 3	оліс	овны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=IV,Ind,Prt1,Sg3
-4	велӧдчигӧныс	велӧдчыны	VERB	V	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3|VerbForm=Conv	3	advcl	_	GTtags=Refl,Der,Der/иг,Ger,Sg,Ins,PxSg3
+4	велӧдчигӧныс	велӧдчыны	VERB	V	Derivation=Ig|Number[psor]=Sing|Person[psor]=3|VerbForm=Conv	3	advcl	_	GTtags=Refl,Der,Der/иг,Ger,Sg,Ins,PxSg3
 5	кык-суда	кык-суда	ADJ	A	Case=Nom|Number=Sing	6	amod	_	GTtags=Sg,Nom
 6	дӧмын	дӧмын	NOUN	N	Case=Ine|Number=Sing	3	obl	_	Lang=Mixed|GTtags=Sg,Ine|SpaceAfter=No
 7	.	.	PUNCT	CLB	_	3	punct	_	_
@@ -1707,7 +1707,7 @@
 # sent_id = kpv_udo19420000SFOuVanejevMN-186.027
 # text = Бӧрӧ локтігӧныс Иван сідь-жӧ пукаліс быд местӧын, кӧн мунігӧныс пукаліс.
 1	Бӧрӧ	бӧрӧ	ADV	Adv	Case=Ill	2	advmod	_	GTtags=Ill
-2	локтігӧныс	локны	VERB	V	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3|VerbForm=Conv	5	advcl	_	GTtags=IV,Der,Der/иг,Ger,Sg,Ins,PxSg3
+2	локтігӧныс	локны	VERB	V	Derivation=Ig|Number[psor]=Sing|Person[psor]=3|VerbForm=Conv	5	advcl	_	GTtags=IV,Der,Der/иг,Ger,Sg,Ins,PxSg3
 3	Иван	Иван	PROPN	N	Case=Nom|Number=Sing	5	nsubj	_	GTtags=Prop,Sg,Nom
 4	сідь-жӧ	сідз-жӧ	ADV	Adv	_	5	advmod	_	_
 5	пукаліс	пукавны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=IV,Ind,Prt1,Sg3
@@ -1715,7 +1715,7 @@
 7	местӧын	местӧ	NOUN	N	Case=Ine|Number=Sing	5	obl	_	Lang=Mixed|GTtags=Sg,Ine|SpaceAfter=No
 8	,	,	PUNCT	CLB	_	9	punct	_	_
 9	кӧн	кӧн	ADV	Adv	_	11	advmod:lmod	_	_
-10	мунігӧныс	мунны	VERB	V	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3|VerbForm=Conv	11	advcl	_	GTtags=IV,Der,Der/иг,Ger,Sg,Ins,PxSg3
+10	мунігӧныс	мунны	VERB	V	Derivation=Ig|Number[psor]=Sing|Person[psor]=3|VerbForm=Conv	11	advcl	_	GTtags=IV,Der,Der/иг,Ger,Sg,Ins,PxSg3
 11	пукаліс	пукавны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	7	acl:relcl	_	GTtags=IV,Ind,Prt1,Sg3|SpaceAfter=No
 12	.	.	PUNCT	CLB	_	5	punct	_	_
 
