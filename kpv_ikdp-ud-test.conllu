@@ -1262,7 +1262,7 @@
 # text = И менум предложитісны должность директора межпоселенческого клубного объединения.
 # text_rus =
 1	И	и	CCONJ	CC	_	3	cc	_	Lang=Mixed
-2	менум	ме	PRON	Pron	Case=Dat|Number=Sing|Person=1|PronType=Prs	3	iobj	_	_
+2	менум	ме	PRON	Pron	Case=Dat|Number=Sing|Person=1|PronType=Prs	3	obl	_	_
 3	предложитісны	предложитны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	Lang=Mixed
 4	должность	должность	NOUN	N	Case=Nom|Number=Sing	3	obj	_	Lang=Rus
 5	директора	директор	NOUN	N	Case=Gen|Number=Sing	4	nmod	_	Lang=Rus
@@ -1498,7 +1498,7 @@
 # text = Вӧдзӧ пышйис ягӧ.
 1	Вӧдзӧ	вӧдзӧ	ADV	Adv	Case=Ill|Number=Sing	2	advmod:tmod	_	_
 2	пышйис	пышйыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=IV,Ind,Prt1,Sg3
-3	ягӧ	яг	NOUN	N	Case=Ill|Number=Sing	2	obj	_	GTtags=Sg,Ill|SpaceAfter=No
+3	ягӧ	яг	NOUN	N	Case=Ill|Number=Sing	2	obl	_	GTtags=Sg,Ill|SpaceAfter=No
 4	.	.	PUNCT	CLB	_	2	punct	_	_
 
 # sent_id = kpv_udo19420000SFOuVanejevMN-186.009
