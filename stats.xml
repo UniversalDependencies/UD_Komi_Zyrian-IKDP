@@ -18,7 +18,7 @@
     <tag name="ADJ">56</tag><!-- ас, бия, бур, важ, второй, дик, кык-суда, лёк, ыджыд, Берёзовский -->
     <tag name="ADP">54</tag><!-- вылын, в, сайын, у, бӧр, бӧрын, дорын, с, вывті, для -->
     <tag name="ADV">110</tag><!-- сэн, нин, вӧдзӧ, зэй, ӧні, пока, только, уна, бӧрӧ, медся -->
-    <tag name="AUX">50</tag><!-- оз, вӧвны, абу, лоны, эм, быть -->
+    <tag name="AUX">46</tag><!-- оз, вӧвны, абу, эм, быть -->
     <tag name="CCONJ">61</tag><!-- и, а, но, да, или -->
     <tag name="DET">6</tag><!-- став, весь, какой, мӧд, такой -->
     <tag name="INTJ">2</tag><!-- ой, этайӧ -->
@@ -29,7 +29,7 @@
     <tag name="PROPN">31</tag><!-- Иван, из, Ляпин, Азия, Генриетта, Дань, Елена, Зӧт, Йӧртым, Красный -->
     <tag name="PUNCT">308</tag><!-- ,, ., -, ?, :, ", _, … -->
     <tag name="SCONJ">14</tag><!-- как, потому, что, дак, ке, мый, так, чтоб -->
-    <tag name="VERB">194</tag><!-- ветлыны, мӧдны, рӧбитны, велӧдчыны, вермыны, босьтны, мунны, пондыны, рӧдитчыны, вежсьыны -->
+    <tag name="VERB">198</tag><!-- ветлыны, мӧдны, рӧбитны, велӧдчыны, вермыны, босьтны, лоны, мунны, пондыны, рӧдитчыны -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="53">
@@ -79,7 +79,7 @@
     <feat name="PronType" value="Prs" upos="ADJ,PRON">80</feat><!-- ме, сыа, миян, сія, сы, ас, ми, менам, сійӧ, меня -->
     <feat name="PronType" value="Tot" upos="PRON">4</feat><!-- быд, быдӧнӧс -->
     <feat name="Reflex" value="Yes" upos="PRON">6</feat><!-- ачыс, асланум, аслас, аслум, ачум -->
-    <feat name="Tense" value="Fut" upos="AUX,VERB">4</feat><!-- лоас, мӧдасы, сетасныс -->
+    <feat name="Tense" value="Fut" upos="VERB">4</feat><!-- лоас, мӧдасы, сетасныс -->
     <feat name="Tense" value="Past" upos="AUX,VERB">140</feat><!-- вӧлі, из, босьтіс, вежсис, ветлі, вӧліс, мӧдэма, примитіс, пукаліс, рӧдитчи -->
     <feat name="Tense" value="Pres" upos="AUX,VERB">41</feat><!-- ог, оз, колэныс, он, Верма, будет, велӧдча, велӧдчӧны, ветлала, ветлэныс -->
     <feat name="VerbForm" value="Conv" upos="VERB">4</feat><!-- велӧдчигӧныс, вӧрзялыгдырйи, локтігӧныс, мунігӧныс -->
@@ -88,43 +88,42 @@
     <feat name="Voice" value="Act" upos="AUX">3</feat><!-- были, было -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="37">
+  <deps unique="36">
     <dep name="acl">11</dep>
     <dep name="acl:relcl">2</dep>
     <dep name="advcl">21</dep>
-    <dep name="advmod">90</dep>
+    <dep name="advmod">89</dep>
     <dep name="advmod:deg">13</dep>
     <dep name="advmod:lmod">13</dep>
     <dep name="advmod:mmod">10</dep>
     <dep name="advmod:tmod">31</dep>
     <dep name="amod">41</dep>
     <dep name="appos">11</dep>
-    <dep name="aux">7</dep>
+    <dep name="aux">6</dep>
     <dep name="aux:neg">20</dep>
     <dep name="case">52</dep>
     <dep name="cc">58</dep>
     <dep name="ccomp">3</dep>
     <dep name="compound">3</dep>
-    <dep name="conj">70</dep>
-    <dep name="cop">20</dep>
+    <dep name="conj">71</dep>
+    <dep name="cop">17</dep>
     <dep name="csubj">2</dep>
     <dep name="det">17</dep>
     <dep name="discourse">6</dep>
     <dep name="fixed">8</dep>
     <dep name="flat:name">4</dep>
     <dep name="goeswith">4</dep>
-    <dep name="iobj">1</dep>
     <dep name="list">6</dep>
     <dep name="mark">16</dep>
     <dep name="nmod">64</dep>
-    <dep name="nsubj">99</dep>
+    <dep name="nsubj">102</dep>
     <dep name="nummod">45</dep>
-    <dep name="obj">43</dep>
-    <dep name="obl">133</dep>
+    <dep name="obj">42</dep>
+    <dep name="obl">135</dep>
     <dep name="parataxis">6</dep>
     <dep name="punct">308</dep>
     <dep name="reparandum">8</dep>
     <dep name="root">132</dep>
-    <dep name="xcomp">18</dep>
+    <dep name="xcomp">19</dep>
   </deps>
 </treebank>

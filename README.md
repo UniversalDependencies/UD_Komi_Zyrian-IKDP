@@ -28,6 +28,8 @@ If you use this treebank in your work, please cite:
 
 # Changelog
 
+- 2020-11-06
+  - Annotations of the auxiliaries were improved
 - 2020-05-15
   - New sentences included from IKDP corpus.
   - Expanding advmod:mmod, :lmod and :tmod.
