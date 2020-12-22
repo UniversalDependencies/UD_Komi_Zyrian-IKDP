@@ -133,7 +133,7 @@
 # text_rus =
 1	Десятой	десятой	NUM	Num	NumType=Card	2	nummod	_	Lang=Rus
 2	класс	класс	NOUN	N	Case=Nom|Number=Sing	3	obl	_	Lang=Mixed
-3	закончитэм	закончитны	VERB	V	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	12	advcl	_	Lang=Mixed
+3	закончитэм	закончитны	VERB	V	Case=Nom|Number=Sing|Tense=Past|VerbForm=Vnoun	12	advcl	_	Lang=Mixed
 4	бӧрын	бӧр	ADP	Po	Case=Ine|Number=Sing	3	case	_	SpaceAfter=No
 5	,	,	PUNCT	CLB	_	6	punct	_	_
 6	гожемъяснас	гожем	NOUN	N	Case=Ins|Number=Plur|Number[psor]=Sing|Person[psor]=3	12	obl	_	SpaceAfter=No
@@ -1595,7 +1595,7 @@
 3	казяліс	казявны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=TV,Ind,Prt1,Sg3|SpaceAfter=No
 4	,	,	PUNCT	CLB	_	5	punct	_	_
 5	тятейсӧ	тятей	NOUN	N	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	6	obj	_	GTtags=Sg,Acc,PxSg3
-6	босьтӧм	босьтны	VERB	V	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	3	advcl	_	GTtags=IV,Der,Der/ӧм,Der/NomAct,N,Sg,Acc|SpaceAfter=No
+6	босьтӧм	босьтны	VERB	V	Case=Nom|Number=Sing|Tense=Past|VerbForm=Vnoun	3	advcl	_	GTtags=IV,Der,Der/ӧм,Der/NomAct,N,Sg,Acc|SpaceAfter=No
 7	,	,	PUNCT	CLB	_	8	punct	_	_
 8	и	и	CCONJ	CC	_	9	cc	_	Lang=Mixed
 9	пышйис	пышйыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	6	conj	_	GTtags=IV,Ind,Prt1,Sg3
