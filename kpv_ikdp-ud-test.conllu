@@ -373,7 +373,7 @@
 5	во	во	NOUN	N	Case=Nom|Number=Sing	0	root	_	_
 6	нин	нин	ADV	Adv	_	5	advmod:tmod	_	SpaceAfter=No
 7	,	,	PUNCT	CLB	_	9	punct	_	_
-8	сизимед	сизим	NUM	Num	Case=Prl|Number=Sing|NumType=Ord	9	nummod	_	_
+8	сизимед	сизимӧд	ADJ	A	Case=Nom|Number=Sing|NumType=Ord	9	amod	_	_
 9	во	во	NOUN	N	Case=Nom|Number=Sing	5	conj	_	_
 10	нин	нин	ADV	Adv	_	9	advmod:tmod	_	SpaceAfter=No
 11	,	,	PUNCT	CLB	_	12	punct	_	_
