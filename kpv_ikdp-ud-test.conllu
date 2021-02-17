@@ -437,10 +437,10 @@
 # sent_id = temporary_id.21
 # text = Ми квайтэнэсь семьяанум.
 # text_rus = Нас в семье шестеро.
-# text_eng = We were 6 children in my family.
+# text_eng = We were 6 children in our family.
 1	Ми	ми	PRON	Pron	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
-2	квайтэнэсь	квайт	NUM	Num	Case=Ins|Number=Plur|NumType=Card	3	nummod	_	_
-3	семьяанум	семьяанум	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=1	0	root	_	Lang=Mixed|SpaceAfter=No
+2	квайтэнэсь	квайтӧн	ADV	Adv	Case=Nom|Number[subj]=Plur|NumType=Dist	0	root	_	_
+3	семьяанум	семьяанум	NOUN	N	Case=Ine|Number=Sing|Number[psor]=Plur|Person[psor]=1	2	obl:lmod	_	Lang=Mixed|SpaceAfter=No
 4	.	.	PUNCT	CLB	_	3	punct	_	_
 
 # sent_id = temporary_id.22
@@ -621,7 +621,7 @@
 7	висьтооны	висьтооны	VERB	V	VerbForm=Inf	11	advcl	_	_
 8	ке	ке	SCONJ	CS	_	7	mark	_	SpaceAfter=No
 9	,	,	PUNCT	CLB	_	10	punct	_	_
-10	мӧдэд	мӧд	NUM	Num	Case=Prl|NumType=Ord	11	nummod	_	_
+10	мӧдэд	мӧдӧд	ADJ	A	Case=Nom|NumType=Ord	11	amod	_	_
 11	бригада	бригада	NOUN	N	Case=Nom|Number=Sing	4	conj	_	Lang=Mixed|SpaceAfter=No
 12	,	,	PUNCT	CLB	_	13	punct	_	_
 13	да	да	PART	Pcle	_	11	advmod	_	Lang=Mixed|SpaceAfter=No
@@ -803,7 +803,7 @@
 7	что	что	SCONJ	CS	_	6	goeswith	_	Lang=Rus
 8	мӧд	мӧд	DET	Det	Case=Nom|Number=Sing|NumType=Ord	10	reparandum	_	SpaceAfter=No
 9	,	,	PUNCT	CLB	_	10	punct	_	_
-10	мӧдэд	мӧд	NUM	Num	Case=Prl|NumType=Ord	11	nummod	_	_
+10	мӧдэд	мӧдӧд	ADJ	A	Case=Nom|NumType=Ord	11	amod	_	_
 11	луныс	лун	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	advcl	_	SpaceAfter=No
 12	,	,	PUNCT	CLB	_	13	punct	_	_
 13	да	да	PART	Pcle	_	11	advmod	_	Lang=Mixed|SpaceAfter=No
