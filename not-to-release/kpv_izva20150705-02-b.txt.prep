@@ -1,0 +1,5788 @@
+# sent_id = kpv_izva20150705-02-b.001
+# text = Всё? Да?
+"<Всё>"
+	"Всё" ?
+"<?>"
+	"?" CLB
+"<Да>"
+	"да" Adv Parenthetic
+"<?>"
+	"?" CLB
+
+# sent_id = kpv_izva20150705-02-b.002
+# text = Да.
+"<Да>"
+	"да" Adv Parenthetic
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.004
+# text = Саша, висьтоо ассьыд полнэй нимтэ, кор да кытэн рӧдитчин.
+"<Саша>"
+	"Саша" N Prop Sg Nom
+"<,>"
+	"," CLB
+"<висьтоо>"
+	"висьтавны" V Err/Dial Imprt Sg2
+"<ассьыд>"
+	"ас" Pron Refl Sg2 Ela
+"<полнэй>"
+	"полнӧй" A Err/Dial Sg Nom
+"<нимтэ>"
+	"ним" N Sg Acc PxSg2 Err/Dial
+"<,>"
+	"," CLB
+"<кор>"
+	"кор" Adv Rel Sem/Time
+"<да>"
+	"да" CC
+"<кытэн>"
+	"кыт" N Sg Err/Dial Ins
+	"кытӧн" Adv Err/Dial
+"<рӧдитчин>"
+	"рӧдитчыны" V Refl Ind Prt1 Sg2
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.005
+# text = А, менэ шуэны Терентьев Александр Юрьевич.
+"<А>"
+	"а" Interj
+"<,>"
+	"," CLB
+"<менэ>"
+	"ме" Pron Pers Sg1 Err/Dial Acc
+"<шуэны>"
+	"шуны" V Ind Prs Err/Dial Pl3
+"<Терентьев>"
+	"Терентьев" N Prop Sem/Sur-Mal Sg Nom
+"<Александр>"
+	"Александр" N Prop Sg Nom
+"<Юрьевич>"
+	"Юрьевич" N Prop Sem/Patr-Mal Sg Nom
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.006
+# text = Рӧдитчи Пустыня грездын, Краснобор сикт.
+"<Рӧдитчи>"
+	"рӧдитчыны" V Refl Ind Prt1 Err/Dial Sg3
+"<Пустыня>"
+	"Пустыня" N Prop Sem/Plc Sem/Plc Sg Nom
+	"пустыня" N Sg Nom
+"<грездын>"
+	"грезд" N Sg Ine
+"<,>"
+	"," CLB
+"<Краснобор>"
+	"Краснобор" N Prop Sem/Plc Sem/Plc Sg Nom
+"<сикт>"
+	"сикт" N Sg Nom
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.007+kpv_izva20150705-02-b.010+kpv_izva20150705-02-b.011
+# text = А, шестого сентября, девяносто второй годын. Но, Ижмаыслэн ю кузяыс сиктъяс дорас, ӧӧ, берегыс изъя.
+"<А>"
+	"а" Interj
+"<,>"
+	"," CLB
+"<шестого>"
+	"шестого" ?
+"<сентября>"
+	"сентябрь" N Src/F Sg Der Der/ProprietiveMod A Sg Nom
+"<,>"
+	"," CLB
+"<девяносто>"
+	"девяносто" ?
+"<второй>"
+	"второй" ?
+"<годын>"
+	"год" N Sg Ine
+"<.>"
+	"." CLB
+"<Но>"
+	"но" Interj
+"<,>"
+	"," CLB
+"<Ижмаыслэн>"
+	"Ижма" N Prop Sg Err/Dial Gen PxSg3 So/PC
+"<ю>"
+	"ю" N Sg Nom
+"<кузяыс>"
+	"кузя" Adp Po PxSg3
+"<сиктъяс>"
+	"сикт" N Pl Nom
+"<дорас>"
+	"дор" N Relat Sg Ill PxSg3 So/CP
+	"дор" N Relat Sg Ine PxSg3 So/CP
+	"дорны" V Ind Fut Sg3
+"<,>"
+	"," CLB
+"<ӧӧ>"
+	"оо" Interj Err/Dial
+"<,>"
+	"," CLB
+"<берегыс>"
+	"берег" N Sg Nom PxSg3
+"<изъя>"
+	"изъя" A Sg Nom
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.009
+# text = Мыля Пустыня шусе?
+"<Мыля>"
+	"Мыля" N Prop Sg Nom
+"<Пустыня>"
+	"Пустыня" N Prop Sem/Plc Sem/Plc Sg Nom
+	"пустыня" N Sg Nom
+"<шусе>"
+	"шусьыны" V Refl Ind Prs Err/Dial Sg3
+"<?>"
+	"?" CLB
+
+# sent_id = kpv_izva20150705-02-b.013
+# text = Сіен и Изьва.
+"<Сіен>"
+	"сійӧ" Pron Pers Sg3 Ins Err/Dial
+"<и>"
+	"и" Adv
+	"и" CC
+"<Изьва>"
+	"Изьва" N Prop Sem/Plc Sem/Plc Sg Nom
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.014+kpv_izva20150705-02-b.016
+# text = А миян дорын, Пустыняын - сэтэн лыа. И сіен и Пустыня шусе.
+"<А>"
+	"а" Adv
+	"а" CC
+	"а" Interj
+"<миян>"
+	"ме" Pron Pers Pl1 Gen
+"<дорын>"
+	"дор" N Relat Sg Ine
+	"дорын" Adv Ine
+"<,>"
+	"," CLB
+"<Пустыняын>"
+	"Пустыня" N Prop Sem/Plc Sem/Plc Sg Ine
+	"пустыня" N Sg Ine
+"<->"
+	"-" PUNCT
+"<сэтэн>"
+	"сэт" N Sg Err/Dial Ins
+	"сэтӧн" Adv Err/Dial
+"<лыа>"
+	"лыа" A Sg Nom
+	"лыа" N Sg Nom
+"<.>"
+	"." CLB
+"<И>"
+	"и" Adv
+	"и" CC
+"<сіен>"
+	"сійӧ" Pron Pers Sg3 Ins Err/Dial
+"<и>"
+	"и" Adv
+	"и" CC
+"<Пустыня>"
+	"Пустыня" N Prop Sem/Plc Sem/Plc Sg Nom
+	"пустыня" N Sg Nom
+"<шусе>"
+	"шусьыны" V Refl Ind Prs Err/Dial Sg3
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.017
+# text = Ааа, сіен и Пустыня?
+"<Ааа>"
+	"а" Interj Err/Dial
+"<,>"
+	"," CLB
+"<сіен>"
+	"сійӧ" Pron Pers Sg3 Ins Err/Dial
+"<и>"
+	"и" Adv
+	"и" CC
+"<Пустыня>"
+	"Пустыня" N Prop Sem/Plc Sem/Plc Sg Nom
+	"пустыня" N Sg Nom
+"<?>"
+	"?" CLB
+
+# sent_id = kpv_izva20150705-02-b.019+kpv_izva20150705-02-b.020
+# text = Яснэ. Саша, расскажит, пӧжалуста, вот, аслад, но, тэн кызь куим ар, да?
+"<Яснэ>"
+	"яснӧй" A Der Der/Adv Err/Dial Adv
+"<.>"
+	"." CLB
+"<Саша>"
+	"Саша" N Prop Sg Nom
+"<,>"
+	"," CLB
+"<расскажит>"
+	"расскажитны" V Imprt Sg2
+"<,>"
+	"," CLB
+"<пӧжалуста>"
+	"пӧжалуста" ?
+"<,>"
+	"," CLB
+"<вот>"
+	"вот" Adv Parenthetic
+	"вот" N Sg Nom
+	"вотны" V Imprt Sg2
+"<,>"
+	"," CLB
+"<аслад>"
+	"ас" Pron Poss Sg2
+"<,>"
+	"," CLB
+"<но>"
+	"но" CC
+"<,>"
+	"," CLB
+"<тэн>"
+	"тэ" Pron Pers Sg2 Dat
+"<кызь>"
+	"кызь" Num Card Sg Nom
+"<куим>"
+	"куим" Num Card Sg Nom
+"<ар>"
+	"ар" N Sg Nom
+"<,>"
+	"," CLB
+"<да>"
+	"да" CS
+"<?>"
+	"?" CLB
+
+# sent_id = kpv_izva20150705-02-b.021
+# text = Кык.
+"<Кык>"
+	"кык" Num Card Sg Nom
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.022
+# text = Кык на?
+"<Кык>"
+	"кык" Num Card Sg Nom
+"<на>"
+	"на" Adv
+	"на" Adv Sem/Time
+	"сійӧ" Pron Pers Pl3 Cmpl
+"<?>"
+	"?" CLB
+
+# sent_id = kpv_izva20150705-02-b.023+kpv_izva20150705-02-b.024
+# text = Тае вот, кызь кык, хах, вонас олэмад мый лоис?
+"<Тае>"
+	"тайӧ" Pron Dem Sg Nom Err/Dial
+"<вот>"
+	"вот" Adv Parenthetic
+	"вот" N Sg Nom
+"<,>"
+	"," CLB
+"<кызь>"
+	"кызь" Num Card Sg Nom
+"<кык>"
+	"кык" Num Card Sg Nom
+"<,>"
+	"," CLB
+"<хах>"
+	"хах" ?
+"<,>"
+	"," CLB
+"<вонас>"
+	"во" N Sg Ins PxSg3 So/CP
+	"вон" N Err/Orth-no-paragogic-j Ill PxSg3 So/CP
+	"вон" N Err/Orth-no-paragogic-j Ine PxSg3 So/CP
+"<олэмад>"
+	"овны" V Err/Dial Der Der/ӧм Der/NomAct N Sg Ill PxSg2 So/CP
+	"овны" V Err/Dial Der Der/ӧм Der/NomAct N Sg Ine PxSg2 So/CP
+"<мый>"
+	"мый" CS
+	"мый" Pron Interr Sg Nom
+"<лоис>"
+	"лоны" V Ind Prt1 Sg3
+"<?>"
+	"?" CLB
+
+# sent_id = kpv_izva20150705-02-b.025
+# text = Кытэн велэдчин? Мый помалін? Та йылысь расскажитыш.
+"<Кытэн>"
+	"кыт" N Sg Err/Dial Ins
+	"кытӧн" Adv Err/Dial
+"<велэдчин>"
+	"велӧдчыны" V Err/Dial Refl Ind Prt1 Sg2
+"<?>"
+	"?" CLB
+"<Мый>"
+	"мый" Pron Interr Sg Nom
+"<помалін>"
+	"помавны" V Ind Prt1 Sg2
+"<?>"
+	"?" CLB
+"<Та>"
+	"тайӧ" Pron Dem Sg Cmpl
+"<йылысь>"
+	"йылысь" Adp Po Sg Ela
+"<расскажитыш>"
+	"расскажитыш" ?
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.026
+# text = Медводзсэ ме помалі Красноборса шӧр школа.
+"<Медводзсэ>"
+	"водз" Adv Superl Clt/сӧ Err/Dial
+"<ме>"
+	"ме" Pron Pers Sg1 Nom
+"<помалі>"
+	"помавны" V Ind Prt1 Sg1
+"<Красноборса>"
+	"красноборса" A Sg Nom
+"<шӧр>"
+	"шӧр" A Sg Nom
+	"шӧр" N Relat Sg Nom
+"<школа>"
+	"школа" N Sg Nom
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.028+kpv_izva20150705-02-b.030+kpv_izva20150705-02-b.032
+# text = Удиті сэтэн на велэдчыны гимназияс, гимназия искусствын Сыктывкарын, а таво помалі Сыктывкарса канму университет, "международные отношения" специальность.
+"<Удиті>"
+	"удитны" V Ind Prt1 Err/Dial Sg3
+"<сэтэн>"
+	"сэт" N Sg Err/Dial Ins
+	"сэтӧн" Adv Err/Dial
+"<на>"
+	"на" Adv
+	"на" Adv Sem/Time
+"<велэдчыны>"
+	"велӧдчыны" V Err/Dial Refl Inf
+"<гимназияс>"
+	"гимназияс" ?
+"<,>"
+	"," CLB
+"<гимназия>"
+	"гимназия" N Sg Nom
+"<искусствын>"
+	"искусствын" ?
+"<Сыктывкарын>"
+	"Сыктывкар" N Prop Sem/Plc Sem/Plc Sg Ine
+"<,>"
+	"," CLB
+"<а>"
+	"а" CC
+"<таво>"
+	"таво" Adv Sem/Time
+	"таво" N Sg Nom
+"<помалі>"
+	"помавны" V Ind Prt1 Err/Dial Sg3
+"<Сыктывкарса>"
+	"сыктывкарса" A Sg Nom
+"<канму>"
+	"канму" N Sg Nom
+"<университет>"
+	"университет" N Sg Nom
+"<,>"
+	"," CLB
+"<">"
+	""" PUNCT
+"<международные>"
+	"международные" ?
+"<отношения>"
+	"отношения" ?
+"<">"
+	""" PUNCT
+"<специальность>"
+	"специальность" N Sg Nom
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.034
+# text = А мыля именнэ сэтшем специальносьтсэ кӧсйин босьны?
+"<А>"
+	"а" Adv
+	"а" CC
+	"а" Interj
+"<мыля>"
+	"мыйла" Err/Dial CS
+	"мыйла" Err/Dial Qnt
+"<именнэ>"
+	"именнэ" Adv Err/Dial
+"<сэтшем>"
+	"сэтшӧм" A Err/Dial Det Dem
+	"сэтшӧм" A Err/Dial Det Dem Sg Nom
+"<специальносьтсэ>"
+	"специальносьт" N Sg Acc PxSg3 Err/Dial
+"<кӧсйин>"
+	"кӧсйыны" V Ind Prt1 Sg2
+"<босьны>"
+	"босьны" ?
+"<?>"
+	"?" CLB
+
+# sent_id = kpv_izva20150705-02-b.035+kpv_izva20150705-02-b.036
+# text = Дзолясянь ме кӧсйи мунны кычеге мӧд муэ ооны, визьлыны, кудз олэны йӧзыс мӧдлаын, ӧ, велэдны уна кыыяс.
+"<Дзолясянь>"
+	"дзоля" A Sg Egr
+"<ме>"
+	"ме" Pron Pers Sg1 Nom
+"<кӧсйи>"
+	"кӧсйыны" V Ind Prt1 Sg1
+"<мунны>"
+	"мунны" V Inf
+"<кычеге>"
+	"кытчӧкӧ" Adv Indef Ill Err/Dial
+"<мӧд>"
+	"мӧд" Pron Dem
+"<муэ>"
+	"му" N Sg Err/Dial Ill
+	"му" N Sg Nom PxSg1 Err/Dial
+"<ооны>"
+	"овны" V Err/Dial Inf
+"<,>"
+	"," CLB
+"<визьлыны>"
+	"визьлыны" V Inf
+"<,>"
+	"," CLB
+"<кудз>"
+	"кудз" Adv Interr Manner Err/Orth Rel
+"<олэны>"
+	"овны" V Ind Prs Err/Dial Pl3
+"<йӧзыс>"
+	"йӧз" N Sg Nom PxSg3
+"<мӧдлаын>"
+	"мӧдлаын" Adv Ine
+"<,>"
+	"," CLB
+"<ӧ>"
+	"ӧ" Interj
+"<,>"
+	"," CLB
+"<велэдны>"
+	"велӧдны" V Err/Dial Inf
+"<уна>"
+	"уна" Adv
+	"уна" Det Sg Nom
+"<кыыяс>"
+	"кыв" N Err/Dial Err/Orth Dial/л Pl Nom
+	"кыв" N Err/Dial Pl Err/Dial Nom
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.037
+# text = Ӧӧ, и сідз вошйис быдлааті ветлооны.
+"<Ӧӧ>"
+	"оо" Interj Err/Dial
+"<,>"
+	"," CLB
+"<и>"
+	"и" Adv
+	"и" CC
+"<сідз>"
+	"сідзи" Adv Manner
+"<вошйис>"
+	"вошйыны" V Ind Prt1 Sg3
+"<быдлааті>"
+	"быдла" N Der/La Sg Der Der/ProprietiveMod A Sg Tra
+"<ветлооны>"
+	"ветлооны" ?
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.038
+# text = А уна кыыяс, кымын кыы тӧдан?
+"<А>"
+	"а" Adv
+	"а" CC
+	"а" Interj
+"<уна>"
+	"уна" Adv
+	"уна" Det Sg Nom
+"<кыыяс>"
+	"кыв" N Err/Dial Err/Orth Dial/л Pl Nom
+	"кыв" N Err/Dial Pl Err/Dial Nom
+"<,>"
+	"," CLB
+"<кымын>"
+	"кым" N Sg Ine
+	"кымын" Adv
+	"кымын" Adv Qnt
+	"кымын" Adv Qnt Sg Nom
+	"кымын" CS
+	"кымын" Det Rel
+"<кыы>"
+	"кы" N Sg Err/Dial Ill
+	"кыв" N Err/Dial Sg Err/Dial Nom
+"<тӧдан>"
+	"тӧдны" V Ind Prs Sg2
+"<?>"
+	"?" CLB
+
+# sent_id = kpv_izva20150705-02-b.039+kpv_izva20150705-02-b.040+kpv_izva20150705-02-b.041+kpv_izva20150705-02-b.042
+# text = Но, позе висьтооны, мый ме комиысь да рочысь ӧтдор сёрнита английскеен бурджыка, ся неуна корейскей кылэн да немецкеен.
+"<Но>"
+	"но" Interj
+"<,>"
+	"," CLB
+"<позе>"
+	"позьны" V Ind Prs Err/Dial Sg3
+"<висьтооны>"
+	"висьтавны" V Err/Dial Inf
+"<,>"
+	"," CLB
+"<мый>"
+	"мый" CS
+"<ме>"
+	"ме" Pron Pers Sg1 Nom
+"<комиысь>"
+	"коми" N Sg Ela
+"<да>"
+	"да" CC
+"<рочысь>"
+	"роч" N Sg Ela
+"<ӧтдор>"
+	"ӧтдор" Adv
+"<сёрнита>"
+	"сёрнитны" V Ind Prs Sg1
+"<английскеен>"
+	"английскӧй" A Err/Dial Sg Err/Dial Ins
+"<бурджыка>"
+	"бурджыка" Adv
+"<,>"
+	"," CLB
+"<ся>"
+	"сэсся" Adv Err/Dial
+"<неуна>"
+	"неуна" Adv
+	"неуна" Adv Qnt
+	"неуна" Adv Qnt Sg Nom
+"<корейскей>"
+	"корейскӧй" A Sg Nom
+"<кылэн>"
+	"кы" N Sg Err/Dial Gen
+	"кыв" N Err/Dial Sg Err/Dial Ins
+	"кыл" N Sg Err/Dial Ins
+"<да>"
+	"да" CC
+	"да" CS
+"<немецкеен>"
+	"немецкӧй" A Err/Dial Sg Err/Dial Ins
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.044+kpv_izva20150705-02-b.047
+# text = Ӧӧ, Аха.
+"<Ӧӧ>"
+	"оо" Interj Err/Dial
+"<,>"
+	"," CLB
+"<Аха>"
+	"ага" Interj Err/Dial
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.045+kpv_izva20150705-02-b.046+kpv_izva20150705-02-b.048
+# text = Но финскейсэ зэй этша тӧда, кор велэдіс миянэс Римма Павловна университетын.
+"<Но>"
+	"но" Adv
+	"но" CC
+	"но" Interj
+"<финскейсэ>"
+	"финскӧй" A Err/Dial Sg Acc PxSg3 Err/Dial
+"<зэй>"
+	"зэв" Adv Err/Dial
+"<этша>"
+	"этш" N Sg Der Der/ProprietiveMod A Sg Nom
+"<тӧда>"
+	"тӧд" N Sg Der Der/ProprietiveMod A Sg Nom
+"<,>"
+	"," CLB
+"<кор>"
+	"кор" Adv Rel Sem/Time
+"<велэдіс>"
+	"велӧдны" V Err/Dial Ind Prt1 Sg3
+"<миянэс>"
+	"ме" Pron Pers Pl1 Err/Dial Acc
+"<Римма>"
+	"Римма" N Prop Sg Nom
+"<Павловна>"
+	"Павловна" N Prop Sem/Patr-Fem Sg Nom
+"<университетын>"
+	"университет" N Sg Ine
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.049
+# text = А кудз велэдін, вот тэ висьталін, бура тӧдан английскейсэ, кудз велэдін? Ачыд? Или школаын? Или кутшемке курсъяс прӧйдитін? Кудз?
+"<А>"
+	"а" Adv
+	"а" CC
+	"а" Interj
+"<кудз>"
+	"кудз" Adv Interr Manner Err/Orth Interr
+	"кудз" Adv Interr Manner Err/Orth Rel
+	"кудз" N Sg Nom
+"<велэдін>"
+	"велӧдны" V Err/Dial Ind Prt1 Sg2
+"<,>"
+	"," CLB
+"<вот>"
+	"вот" Adv Parenthetic
+	"вот" N Sg Nom
+	"вотны" V Imprt Sg2
+"<тэ>"
+	"тэ" Pron Pers Sg2 Nom
+"<висьталін>"
+	"висьтавны" V Ind Prt1 Sg2
+"<,>"
+	"," CLB
+"<бура>"
+	"бура" N Sg Nom
+"<тӧдан>"
+	"тӧдны" V Ind Prs Sg2
+"<английскейсэ>"
+	"английскӧй" A Err/Dial Sg Acc PxSg3 Err/Dial
+"<,>"
+	"," CLB
+"<кудз>"
+	"кудз" Adv Interr Manner Err/Orth Rel
+"<велэдін>"
+	"велӧдны" V Err/Dial Ind Prt1 Sg2
+"<?>"
+	"?" CLB
+"<Ачыд>"
+	"ас" Pron Refl Sg2 Nom
+"<?>"
+	"?" CLB
+"<Или>"
+	"или" Pcle
+"<школаын>"
+	"школа" N Sg Ine
+"<?>"
+	"?" CLB
+"<Или>"
+	"или" Pcle
+"<кутшемке>"
+	"кутшӧмкӧ" Err/Dial Der/кӧ Indef
+"<курсъяс>"
+	"курс" N Pl Nom
+"<прӧйдитін>"
+	"прӧйдитны" V Ind Prt1 Sg2
+"<?>"
+	"?" CLB
+"<Кудз>"
+	"кудз" Adv Interr Manner Err/Orth Interr
+	"кудз" Adv Interr Manner Err/Orth Rel
+	"кудз" N Sg Nom
+"<?>"
+	"?" CLB
+
+# sent_id = kpv_izva20150705-02-b.050+kpv_izva20150705-02-b.051+kpv_izva20150705-02-b.052+kpv_izva20150705-02-b.053+kpv_izva20150705-02-b.054+kpv_izva20150705-02-b.055+kpv_izva20150705-02-b.056+kpv_izva20150705-02-b.057
+# text = Миян школаын вӧліс зэй бур велэдысьыс, но, зэй бур, сыа менэ.сетіс вынсэ, импульсэ, мед ме зэйджык, ёна-ёна велэда кыысэ. И дзолясянь видзеді кинояс, сериалъяс английскей вылын, вуджедтэг. И сыа ортсаліс велэднысэ английскейсэ. А корейскей, корея кывсэ ме куті велэдны кык во сайын ачум, но, кӧсйысис сідз.
+"<Миян>"
+	"ме" Pron Pers Pl1 Gen
+"<школаын>"
+	"школа" N Sg Ine
+"<вӧліс>"
+	"вӧвны" V Ind Prt1 Sg3
+"<зэй>"
+	"зэв" Adv Err/Dial
+"<бур>"
+	"бур" A Sg Nom
+"<велэдысьыс>"
+	"велӧдны" V Err/Dial Der Der/ысь Der/NomAg N Sg Nom PxSg3
+"<,>"
+	"," CLB
+"<но>"
+	"но" CC
+"<,>"
+	"," CLB
+"<зэй>"
+	"зэв" Adv Err/Dial
+"<бур>"
+	"бур" A Sg Nom
+	"бур" Adv
+"<,>"
+	"," CLB
+"<сыа>"
+	"сійӧ" Pron Err/Dial Dem
+"<менэ>"
+	"ме" Pron Pers Sg1 Err/Dial Acc
+"<.>"
+	"." CLB
+
+"<сетіс>"
+	"сетны" V Ind Prt1 Sg3
+"<вынсэ>"
+	"вын" N Sg Acc PxSg3 Err/Dial
+"<,>"
+	"," CLB
+"<импульсэ>"
+	"импульс" N Sg Err/Dial Ill
+	"импульс" N Sg Nom PxSg1 Err/Dial
+"<,>"
+	"," CLB
+"<мед>"
+	"мед" Adv
+	"мед" CS
+	"мед" N Sg Nom
+"<ме>"
+	"ме" Pron Pers Sg1 Nom
+"<зэйджык>"
+	"зэв" Adv Err/Dial Comp
+"<,>"
+	"," CLB
+"<ёна-ёна>"
+	"ёна-ёна" ?
+"<велэда>"
+	"велӧдны" V Err/Dial Ind Prs Sg1
+"<кыысэ>"
+	"кы" N Sg Err/Dial Ill Clt/сӧ Err/Dial
+	"кыв" N Err/Dial Sg Err/Dial Acc PxSg3 Err/Dial
+"<.>"
+	"." CLB
+"<И>"
+	"и" Adv
+	"и" CC
+"<дзолясянь>"
+	"дзоля" A Sg Egr
+"<видзеді>"
+	"видзӧдны" V Err/Dial Ind Prt1 Err/Dial Sg3
+"<кинояс>"
+	"кино" N Pl Nom
+"<,>"
+	"," CLB
+"<сериалъяс>"
+	"сериал" N Pl Nom
+"<английскей>"
+	"английскӧй" A Sg Nom
+"<вылын>"
+	"выв" N Relat Sg Ine
+	"вылын" Adv Ine
+"<,>"
+	"," CLB
+"<вуджедтэг>"
+	"вуджедтэг" ?
+"<.>"
+	"." CLB
+"<И>"
+	"и" Adv
+	"и" CC
+"<сыа>"
+	"сійӧ" Pron Err/Dial Dem
+"<ортсаліс>"
+	"отсавны" V Err/Dial Ind Prt1 Sg3
+"<велэднысэ>"
+	"велӧдны" V Err/Dial Inf Clt/сӧ Err/Dial
+"<английскейсэ>"
+	"английскӧй" A Err/Dial Sg Acc PxSg3 Err/Dial
+"<.>"
+	"." CLB
+"<А>"
+	"а" Adv
+	"а" CC
+	"а" Interj
+"<корейскей>"
+	"корейскӧй" A Sg Nom
+"<,>"
+	"," CLB
+"<корея>"
+	"корея" ?
+"<кывсэ>"
+	"кыв" N Err/Dial Sg Acc PxSg3 Err/Dial
+	"кывны" V Imprt Sg2 Clt/сӧ Err/Dial
+"<ме>"
+	"ме" Pron Pers Sg1 Nom
+"<куті>"
+	"ку" N Sg Tra
+"<велэдны>"
+	"велӧдны" V Err/Dial Inf
+"<кык>"
+	"кык" Num Card Sg Nom
+"<во>"
+	"во" N Sg Nom
+"<сайын>"
+	"сай" N Relat Sg Ine
+	"сайын" Adv Spat Ine
+"<ачум>"
+	"ас" Pron Refl Sg1 Err/Dial Nom
+"<,>"
+	"," CLB
+"<но>"
+	"но" CC
+"<,>"
+	"," CLB
+"<кӧсйысис>"
+	"кӧсйысьны" V Refl Ind Prt1 Sg3
+"<сідз>"
+	"сідзи" Adv Manner
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.059
+# text = Тэнэ сыа интересуйтэ сэтшем восточнэй культураыс, да?
+"<Тэнэ>"
+	"тэ" Pron Pers Sg2 Err/Dial Acc
+"<сыа>"
+	"сійӧ" Pron Err/Dial Dem
+"<интересуйтэ>"
+	"интересуйтны" V Ind Prs Err/Dial Sg3
+"<сэтшем>"
+	"сэтшӧм" A Err/Dial Det Dem
+	"сэтшӧм" A Err/Dial Det Dem Sg Nom
+"<восточнэй>"
+	"восточнӧй" A Err/Dial Sg Nom
+"<культураыс>"
+	"культура" N Sg Nom PxSg3
+"<,>"
+	"," CLB
+"<да>"
+	"да" CS
+"<?>"
+	"?" CLB
+
+# sent_id = kpv_izva20150705-02-b.060+kpv_izva20150705-02-b.061+kpv_izva20150705-02-b.063
+# text = Ӧӧ, мен зэй кажитче Китай да Кореялэн культураыс, кыыныс, музыканыс, но и ӧніяторъясыс - кино да мыйке сэтшемторъясыс. Велэдчем ӧторйысь?
+"<Ӧӧ>"
+	"оо" Interj Err/Dial
+"<,>"
+	"," CLB
+"<мен>"
+	"ме" Pron Pers Sg1 Dat
+"<зэй>"
+	"зэв" Adv Err/Dial
+"<кажитче>"
+	"кажитчыны" V Refl Ind Prs Err/Dial Sg3
+"<Китай>"
+	"Китай" N Prop Sem/Plc Sem/Plc Sg Nom
+"<да>"
+	"да" CC
+"<Кореялэн>"
+	"Корея" N Prop Sem/Plc Sg Err/Dial Gen
+"<культураыс>"
+	"культура" N Sg Nom PxSg3
+"<,>"
+	"," CLB
+"<кыыныс>"
+	"кыв" N Err/Dial Sg Err/Dial Nom PxPl3
+	"кывны" V Err/Dial Inf Px3
+"<,>"
+	"," CLB
+"<музыканыс>"
+	"музыка" N Sg Nom PxPl3
+"<,>"
+	"," CLB
+"<но и>"
+	"но и" CC
+"<ӧніяторъясыс>"
+	"ӧніяторъясыс" ?
+"<->"
+	"-" PUNCT
+"<кино>"
+	"кино" N Sg Nom
+"<да>"
+	"да" CC
+"<мыйке>"
+	"мыйкӧ" N Sg Nom
+	"мыйкӧ" Pron Indef Indef Sg Nom Der/кӧ
+"<сэтшемторъясыс>"
+	"сэтшемторъясыс" ?
+"<.>"
+	"." CLB
+"<Велэдчем>"
+	"велӧдчыны" V Err/Dial Refl Err/Dial Der Der/ӧм Der/NomAct N Sg Nom
+"<ӧторйысь>"
+	"ӧторйысь" ?
+"<?>"
+	"?" CLB
+
+# sent_id = kpv_izva20150705-02-b.062
+# text = А велэдчемысь ӧтдор вот, мый, мыен тэ ещё занимайтчан?
+"<А>"
+	"а" Adv
+	"а" CC
+	"а" Interj
+"<велэдчемысь>"
+	"велӧдчыны" V Err/Dial Refl Err/Dial Der Der/ӧм Der/NomAct N Sg Ela
+"<ӧтдор>"
+	"ӧтдор" Adv
+"<вот>"
+	"вот" Adv Parenthetic
+	"вот" N Sg Nom
+"<,>"
+	"," CLB
+"<мый>"
+	"мый" CS
+"<,>"
+	"," CLB
+"<мыен>"
+	"мый" Pron Interr Sg Ins Err/Dial
+"<тэ>"
+	"тэ" Pron Pers Sg2 Nom
+"<ещё>"
+	"ещё" Adv
+"<занимайтчан>"
+	"занимайтчыны" V Refl Ind Prs Sg2
+"<?>"
+	"?" CLB
+
+# sent_id = kpv_izva20150705-02-b.064+kpv_izva20150705-02-b.065
+# text = Ооо, ме любита ветлооны быдлаті.
+"<Ооо>"
+	"Ооо" ?
+"<,>"
+	"," CLB
+"<ме>"
+	"ме" Pron Pers Sg1 Nom
+"<любита>"
+	"любитны" V Ind Prs Sg1
+"<ветлооны>"
+	"ветлооны" ?
+"<быдлаті>"
+	"быдла" N Der/La Sg Tra
+	"быдлаті" Adv Tra
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.066
+# text = Путешествуйтны?
+"<Путешествуйтны>"
+	"путешествуйтны" V Inf
+"<?>"
+	"?" CLB
+
+# sent_id = kpv_izva20150705-02-b.067+kpv_izva20150705-02-b.068
+# text = Зэй любита, ӧ, тӧдмасьны выль йӧзкед, тӧдмавны налэн культура йылысь, кытысь ныа.
+"<Зэй>"
+	"зэв" Adv Err/Dial
+"<любита>"
+	"любитны" V Ind Prs Sg1
+"<,>"
+	"," CLB
+"<ӧ>"
+	"ӧ" Interj
+"<,>"
+	"," CLB
+"<тӧдмасьны>"
+	"тӧдмасьны" V Refl Inf
+"<выль>"
+	"выль" A Sg Nom
+"<йӧзкед>"
+	"йӧз" N Sg Com
+"<,>"
+	"," CLB
+"<тӧдмавны>"
+	"тӧдмавны" V Inf
+"<налэн>"
+	"ная" Pron Dem Pl Gen Err/Dial
+"<культура>"
+	"культура" N Sg Nom
+"<йылысь>"
+	"йыв" N Relat Sg Ela
+"<,>"
+	"," CLB
+"<кытысь>"
+	"кыт" N Sg Ela
+	"кытысь" Adv Ela Rel
+"<ныа>"
+	"ныа" A Sg Nom
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.069
+# text = Мый нэ ме ещё любита?
+"<Мый>"
+	"мый" Pron Interr Sg Nom
+"<нэ>"
+	"нӧ" Pcle Err/Dial
+"<ме>"
+	"ме" Pron Pers Sg1 Nom
+"<ещё>"
+	"ещё" Adv
+"<любита>"
+	"любитны" V Ind Prs Sg1
+"<?>"
+	"?" CLB
+
+# sent_id = kpv_izva20150705-02-b.070+kpv_izva20150705-02-b.073
+# text = Ме любита фотояс вӧчны, лыддьысьны мыйке выльторъяс. Мый нэ ещё?
+"<Ме>"
+	"ме" Pron Pers Sg1 Nom
+"<любита>"
+	"любитны" V Ind Prs Sg1
+"<фотояс>"
+	"фото" N Pl Nom
+"<вӧчны>"
+	"вӧчны" V Inf
+"<,>"
+	"," CLB
+"<лыддьысьны>"
+	"лыддьысьны" V Refl Inf
+"<мыйке>"
+	"мыйкӧ" Pron Indef Indef Sg Nom Der/кӧ
+"<выльторъяс>"
+	"выльтор" N Pl Nom
+	"выльтор" N Sg Ill PxSg3 So/CP
+	"выльтор" N Sg Ine PxSg3 So/CP
+	"выльторъяс" N Pl Nom
+"<.>"
+	"." CLB
+"<Мый>"
+	"мый" Pron Interr Sg Nom
+"<нэ>"
+	"нӧ" Pcle Err/Dial
+"<ещё>"
+	"ещё" Adv
+"<?>"
+	"?" CLB
+
+# sent_id = kpv_izva20150705-02-b.071
+# text = Час, миян.
+"<Час>"
+	"Час" N Prop Sem/Plc Sem/Plc Sg Nom
+	"Час" N Prop Sg Nom
+	"час" Adv
+	"час" N Sg Nom
+"<,>"
+	"," CLB
+"<миян>"
+	"ме" Pron Pers Pl1 Gen
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.072
+# text = Висьтоо, висьтоо.
+"<Висьтоо>"
+	"висьтавны" V Err/Dial Imprt Sg2
+"<,>"
+	"," CLB
+"<висьтоо>"
+	"висьтавны" V Err/Dial Imprt Sg2
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.074+kpv_izva20150705-02-b.075+kpv_izva20150705-02-b.076+kpv_izva20150705-02-b.079
+# text = Ассюм кыы тӧдэмъяссэ вылэджык кыпедны, медум унджык кыы тӧдны, ныес бурджыка велэдны и бурджыка сёрнитны, и кутшем кыыяс ме велэда и тӧда, сыа местаясас бы ветлыны, вот, ӧні кӧсъя Корея ветлыны эське корке. Оо, эні ме кӧсъя мунны аспирантураа велэдчыны.
+"<Ассюм>"
+	"Ассюм" ?
+"<кыы>"
+	"кы" N Sg Err/Dial Ill
+	"кыв" N Err/Dial Sg Err/Dial Nom
+	"кывны" V Err/Dial Imprt Sg2
+"<тӧдэмъяссэ>"
+	"тӧдны" V Err/Dial Der Der/ӧм Der/NomAct N Pl Acc PxSg3 Err/Dial
+"<вылэджык>"
+	"выв" N Relat Sg Err/Dial Ill Comp
+	"вывны" V Ind Prs Err/Dial Sg3 Comp
+"<кыпедны>"
+	"кыпедны" ?
+"<,>"
+	"," CLB
+"<медум>"
+	"медум" ?
+"<унджык>"
+	"ун" N Sg Nom Comp
+	"уна" Adv Comp
+	"уна" Det Comp Sg Nom
+"<кыы>"
+	"кы" N Sg Err/Dial Ill
+	"кыв" N Err/Dial Sg Err/Dial Nom
+"<тӧдны>"
+	"тӧдны" V Inf
+"<,>"
+	"," CLB
+"<ныес>"
+	"ныес" ?
+"<бурджыка>"
+	"бурджыка" Adv
+"<велэдны>"
+	"велӧдны" V Err/Dial Inf
+"<и>"
+	"и" Adv
+	"и" CC
+"<бурджыка>"
+	"бурджыка" Adv
+"<сёрнитны>"
+	"сёрнитны" V Inf
+"<,>"
+	"," CLB
+"<и>"
+	"и" Adv
+	"и" CC
+"<кутшем>"
+	"кутшӧм" Adv Err/Dial
+"<кыыяс>"
+	"кыв" N Err/Dial Err/Orth Dial/л Pl Nom
+	"кыв" N Err/Dial Pl Err/Dial Nom
+"<ме>"
+	"ме" Pron Pers Sg1 Nom
+"<велэда>"
+	"велӧдны" V Err/Dial Ind Prs Sg1
+"<и>"
+	"и" CC
+"<тӧда>"
+	"тӧдны" V Ind Prs Sg1
+"<,>"
+	"," CLB
+"<сыа>"
+	"сійӧ" Pron Err/Dial Dem
+"<местаясас>"
+	"места" N Pl Ill PxSg3 So/CP
+	"места" N Pl Ine PxSg3 So/CP
+"<бы>"
+	"бы" Pcle
+"<ветлыны>"
+	"ветлыны" V Inf
+"<,>"
+	"," CLB
+"<вот>"
+	"вот" Adv Parenthetic
+	"вот" N Sg Nom
+	"вотны" V Imprt Sg2
+"<,>"
+	"," CLB
+"<ӧні>"
+	"ӧні" Adv
+"<кӧсъя>"
+	"кӧсйыны" V Ind Prs Sg1
+"<Корея>"
+	"Корея" N Prop Sem/Plc Sg Nom
+"<ветлыны>"
+	"ветлыны" V Inf
+"<эське>"
+	"эськӧ" Adv
+	"эськӧ" Adv Err/Orth
+"<корке>"
+	"коркӧ" Adv Indef Sem/Time Der/кӧ
+	"коркӧ" Adv Sem/Time
+"<.>"
+	"." CLB
+"<Оо>"
+	"оо" Interj
+"<,>"
+	"," CLB
+"<эні>"
+	"ӧні" Adv Err/Dial
+"<ме>"
+	"ме" Pron Pers Sg1 Nom
+"<кӧсъя>"
+	"кӧсйыны" V Ind Prs Sg1
+"<мунны>"
+	"мунны" V Inf
+"<аспирантураа>"
+	"аспирантура" N Sg Err/Dial Ill
+"<велэдчыны>"
+	"велӧдчыны" V Err/Dial Refl Inf
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.078
+# text = Водзе вылэ кутшем планъяс? Ӧні тэ помалін университет, мыен водзе кӧсъян занимайтчыны?
+"<Водзе>"
+	"водз" A Sg Err/Dial Ill
+	"водз" A Sg Nom PxSg1 Err/Dial
+	"водз" N Relat Sg Err/Dial Ill
+	"водз" N Relat Sg Nom PxSg1 Err/Dial
+"<вылэ>"
+	"выв" N Relat Sg Err/Dial Ill
+	"выв" N Relat Sg Nom PxSg1 Err/Dial
+"<кутшем>"
+	"кутшӧм" Adv Err/Dial
+"<планъяс>"
+	"план" N Pl Nom
+"<?>"
+	"?" CLB
+"<Ӧні>"
+	"ӧні" Adv
+"<тэ>"
+	"тэ" Pron Pers Sg2 Nom
+"<помалін>"
+	"помавны" V Ind Prt1 Sg2
+"<университет>"
+	"университет" N Sg Nom
+"<,>"
+	"," CLB
+"<мыен>"
+	"мый" Pron Interr Sg Ins Err/Dial
+"<водзе>"
+	"водз" N Relat Sg Err/Dial Ill
+	"водз" N Relat Sg Nom PxSg1 Err/Dial
+	"водзӧ" Adv Err/Dial
+"<кӧсъян>"
+	"кӧсйыны" V Ind Prs Sg2
+"<занимайтчыны>"
+	"занимайтчыны" V Refl Inf
+"<?>"
+	"?" CLB
+
+# sent_id = kpv_izva20150705-02-b.080+kpv_izva20150705-02-b.081+kpv_izva20150705-02-b.083+kpv_izva20150705-02-b.084+kpv_izva20150705-02-b.085+kpv_izva20150705-02-b.086
+# text = Велэдны кута университетын, велэдны куча коми-изьватаслысь, ненечьяс да саами войтырлысь правояссэ да, но, ммм, политическей ног вӧсни, но, наес велэдны.
+"<Велэдны>"
+	"велӧдны" V Err/Dial Inf
+"<кута>"
+	"кутны" V Ind Prs Sg1
+"<университетын>"
+	"университет" N Sg Ine
+"<,>"
+	"," CLB
+"<велэдны>"
+	"велӧдны" V Err/Dial Inf
+"<куча>"
+	"кутны" V Err/Dial Ind Prs Sg1
+"<коми-изьватаслысь>"
+	"изьватас" N Sg Abl
+		"коми" N Cmp
+"<,>"
+	"," CLB
+"<ненечьяс>"
+	"ненеч" N Pl Nom
+"<да>"
+	"да" CC
+"<саами>"
+	"саами" N Sg Nom
+"<войтырлысь>"
+	"войтыр" N Sg Abl
+"<правояссэ>"
+	"право" N Pl Acc PxSg3 Err/Dial
+"<да>"
+	"да" Adv Parenthetic
+"<,>"
+	"," CLB
+"<но>"
+	"но" CC
+"<,>"
+	"," CLB
+"<ммм>"
+	"м-м" Interj Err/Dial
+"<,>"
+	"," CLB
+"<политическей>"
+	"политическӧй" A Sg Nom
+"<ног>"
+	"ног" Adp Po
+	"ног" N Sg Nom
+"<вӧсни>"
+	"вӧсни" A Sg Nom
+"<,>"
+	"," CLB
+"<но>"
+	"но" CC
+"<,>"
+	"," CLB
+"<наес>"
+	"сійӧ" Pron Pers Pl3 Acc Err/Dial
+"<велэдны>"
+	"велӧдны" V Err/Dial Inf
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.082
+# text = Университетын, да?
+"<Университетын>"
+	"университет" N Sg Ine
+"<,>"
+	"," CLB
+"<да>"
+	"да" CS
+"<?>"
+	"?" CLB
+
+# sent_id = kpv_izva20150705-02-b.088
+# text = И сы кузя нин, сыа тема кузяыс водзе мунны, научнэй мыйке кузяыс.
+"<И>"
+	"и" Adv
+	"и" CC
+"<сы>"
+	"сійӧ" Pron Dem
+"<кузя>"
+	"кузя" A Sg Nom
+	"кузя" Adp Po
+	"кузя" N Sg Nom
+"<нин>"
+	"нин" Adv Sem/Time
+	"нин" N Sg Nom
+"<,>"
+	"," CLB
+"<сыа>"
+	"сійӧ" Pron Err/Dial Dem
+"<тема>"
+	"тема" N Sg Nom
+"<кузяыс>"
+	"кузя" Adp Po PxSg3
+"<водзе>"
+	"водзӧ" Adv Err/Dial
+"<мунны>"
+	"мунны" V Inf
+"<,>"
+	"," CLB
+"<научнэй>"
+	"научнӧй" A Err/Dial Sg Nom
+"<мыйке>"
+	"мыйкӧ" Pron Indef Indef Sg Nom Der/кӧ
+"<кузяыс>"
+	"кузя" A Sg Nom PxSg3
+	"кузя" Adp Po PxSg3
+	"кузя" N Sg Nom PxSg3
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.089+kpv_izva20150705-02-b.090+kpv_izva20150705-02-b.091+kpv_izva20150705-02-b.092
+# text = А тшӧтш велэдчыгмоз университетын кӧсъя ветлыны обмен кузя кычеге, заодно вошйыны уджооны кытэнке, Москваын али Роч му сайын кытэнке.
+"<А>"
+	"а" Adv
+	"а" CC
+	"а" Interj
+"<тшӧтш>"
+	"тшӧтш" Adv
+"<велэдчыгмоз>"
+	"велэдчыгмоз" ?
+"<университетын>"
+	"университет" N Sg Ine
+"<кӧсъя>"
+	"кӧсйыны" V Ind Prs Sg1
+"<ветлыны>"
+	"ветлыны" V Inf
+"<обмен>"
+	"обмен" N Sg Nom
+"<кузя>"
+	"кузя" Adp Po
+"<кычеге>"
+	"кытчӧкӧ" Adv Indef Ill Err/Dial
+"<,>"
+	"," CLB
+"<заодно>"
+	"заодно" ?
+"<вошйыны>"
+	"вошйыны" V Inf
+"<уджооны>"
+	"уджавны" V Err/Dial Inf
+"<кытэнке>"
+	"кӧнікӧ" Adv Indef Ine Err/Dial Der/кӧ
+"<,>"
+	"," CLB
+"<Москваын>"
+	"Москва" N Prop Sem/Plc Sg Ine
+"<али>"
+	"али" CC
+"<Роч му>"
+	"Роч му" N Prop Sem/Plc Sg Nom
+"<сайын>"
+	"сай" N Relat Sg Ine
+	"сайын" Adv Spat Ine
+"<кытэнке>"
+	"кӧнікӧ" Adv Indef Ine Err/Dial Der/кӧ
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.094+kpv_izva20150705-02-b.095+kpv_izva20150705-02-b.096
+# text = Кытысь интересыс тэнад ненецъяслысь да саамъяслысь тшӧтш мыйкесэ изучайтны, ладнэ ижмасаяслысь?
+"<Кытысь>"
+	"кыт" N Sg Ela
+	"кытысь" Adv Ela Interr
+	"кытысь" Adv Ela Rel
+	"кытысь" Adv Interr
+"<интересыс>"
+	"интерес" N Sg Nom PxSg3
+"<тэнад>"
+	"тэ" Pron Pers Sg2 Gen
+"<ненецъяслысь>"
+	"ненец" N Pl Abl
+"<да>"
+	"да" CC
+"<саамъяслысь>"
+	"саам" N Pl Abl
+"<тшӧтш>"
+	"тшӧтш" Adv
+"<мыйкесэ>"
+	"мыйкӧ" Pron Indef Indef Sg Nom Der/кӧ Clt/сӧ Err/Dial
+"<изучайтны>"
+	"изучайтны" V Inf
+"<,>"
+	"," CLB
+"<ладнэ>"
+	"ладнӧ" Adv Err/Dial
+"<ижмасаяслысь>"
+	"ижмаса" N Pl Abl
+"<?>"
+	"?" CLB
+
+# sent_id = kpv_izva20150705-02-b.097+kpv_izva20150705-02-b.098
+# text = Но вот сыа сэтысь и петіс, мый ми, изьватасыс, кӧсъям босьны статус "коренного малочисленного народа Севера".
+"<Но>"
+	"но" Adv
+	"но" CC
+	"но" Interj
+"<вот>"
+	"вот" Adv Parenthetic
+	"вот" N Sg Nom
+	"вотны" V Imprt Sg2
+"<сыа>"
+	"сійӧ" Pron Err/Dial Dem
+"<сэтысь>"
+	"сэт" N Sg Ela
+	"сэтысь" Adv Ela
+"<и>"
+	"и" Adv
+"<петіс>"
+	"петны" V Ind Prt1 Sg3
+"<,>"
+	"," CLB
+"<мый>"
+	"мый" CS
+"<ми>"
+	"ме" Pron Pers Pl1 Nom
+	"ми" N Sg Nom
+"<,>"
+	"," CLB
+"<изьватасыс>"
+	"изьватас" N Sg Nom PxSg3
+"<,>"
+	"," CLB
+"<кӧсъям>"
+	"кӧсйыны" V Ind Prs Pl1
+"<босьны>"
+	"босьны" ?
+"<статус>"
+	"статус" N Sg Nom
+"<">"
+	""" PUNCT
+"<коренного>"
+	"коренного" ?
+"<малочисленного>"
+	"малочисленного" ?
+"<народа>"
+	"народ" N Sg Der Der/ProprietiveMod A Sg Nom
+"<Севера>"
+	"Север" N Prop Sg Der Der/ProprietiveMod A Sg Nom
+"<">"
+	""" PUNCT
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.099
+# text = Миян сіе оз сетны.
+"<Миян>"
+	"ме" Pron Pers Pl1 Gen
+"<сіе>"
+	"сійӧ" Pron Err/Dial Dem
+"<оз>"
+	"оз" Aux Neg Ind Prs Pl3
+"<сетны>"
+	"сетны" V ConNeg Pl3
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.100+kpv_izva20150705-02-b.101+kpv_izva20150705-02-b.102
+# text = Но мӧдъясыслэн сыа выйым, но сідз и тадз, мый куимнан войтырыс, ӧ, кӧреннэйяс.
+"<Но>"
+	"но" Adv
+	"но" CC
+	"но" Interj
+"<мӧдъясыслэн>"
+	"мӧдъясыслэн" ?
+"<сыа>"
+	"сійӧ" Pron Err/Dial Dem
+"<выйым>"
+	"эм" Err/Dial Ind Prs Sg3 WORK
+"<,>"
+	"," CLB
+"<но>"
+	"но" CC
+"<сідз>"
+	"сідзи" Adv Manner
+"<и>"
+	"и" Adv
+	"и" CC
+"<тадз>"
+	"тадзи" Adv Manner
+"<,>"
+	"," CLB
+"<мый>"
+	"мый" CS
+"<куимнан>"
+	"куимнан" Pron AssocColl Sg Nom
+"<войтырыс>"
+	"войтыр" N Sg Nom PxSg3
+"<,>"
+	"," CLB
+"<ӧ>"
+	"ӧ" Interj
+"<,>"
+	"," CLB
+"<кӧреннэйяс>"
+	"кӧреннӧй" A Err/Dial Pl Nom
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.104+kpv_izva20150705-02-b.105
+# text = Но кыкыслэн выйым статус, миян абу. И ме кӧсъя сіе видлооны сы вӧсна вот.
+"<Но>"
+	"но" Adv
+	"но" CC
+	"но" Interj
+"<кыкыслэн>"
+	"кыкыслэн" ?
+"<выйым>"
+	"эм" Err/Dial Ind Prs Sg3 WORK
+"<статус>"
+	"статус" N Sg Nom
+"<,>"
+	"," CLB
+"<миян>"
+	"ме" Pron Pers Pl1 Gen
+"<абу>"
+	"абу" N Sg Nom
+	"абу" Pcle Aux Neg
+	"абу" V Neg Cop Ind Sg
+"<.>"
+	"." CLB
+"<И>"
+	"и" Adv
+	"и" CC
+"<ме>"
+	"ме" Pron Pers Sg1 Nom
+"<кӧсъя>"
+	"кӧсйыны" V Ind Prs Sg1
+"<сіе>"
+	"сійӧ" Pron Err/Dial Dem
+	"сійӧ" Pron Pers Sg3 Nom Err/Dial
+"<видлооны>"
+	"видлавны" V Err/Dial Inf
+"<сы>"
+	"сійӧ" Pron Pers Sg3 Cmpl
+"<вӧсна>"
+	"вӧсна" Adp Po
+"<вот>"
+	"вот" Adv Parenthetic
+	"вот" N Sg Nom
+	"вотны" V Imprt Sg2
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.106+kpv_izva20150705-02-b.108+kpv_izva20150705-02-b.110+kpv_izva20150705-02-b.111+kpv_izva20150705-02-b.117
+# text = Куимсэ ӧттшӧтш, мыйла ная ӧткойдэсь, но абу правоясас равнэйэсь. Да. И заводиті сіес, вошйи, мыля ачум коми-изьватас и менэ сыа интересуйтэ. Ме кӧсъя, мед менам, гашке, трудъясэ, рӧбетаяссэ кудзке ортсаласны миянлы босьны сіе статуссэ. Ыхы.
+"<Куимсэ>"
+	"куим" Num Card Sg Nom Clt/сӧ Err/Dial
+"<ӧттшӧтш>"
+	"ӧттшӧтш" Adv
+"<,>"
+	"," CLB
+"<мыйла>"
+	"мыйла" CS
+"<ная>"
+	"ная" Pron Dem Pl Nom Err/Dial
+"<ӧткойдэсь>"
+	"ӧткойдэсь" ?
+"<,>"
+	"," CLB
+"<но>"
+	"но" CC
+"<абу>"
+	"абу" Pcle Aux Neg
+	"абу" V Neg Cop Ind Sg
+"<правоясас>"
+	"право" N Pl Ill PxSg3 So/CP
+	"право" N Pl Ine PxSg3 So/CP
+"<равнэйэсь>"
+	"равнэйэсь" ?
+"<.>"
+	"." CLB
+"<Да>"
+	"да" Adv Parenthetic
+"<.>"
+	"." CLB
+"<И>"
+	"и" Adv
+	"и" CC
+"<заводиті>"
+	"заводитны" V Ind Prt1 Err/Dial Sg3
+"<сіес>"
+	"сійӧ" Pron Pers Sg3 Acc Err/Dial
+"<,>"
+	"," CLB
+"<вошйи>"
+	"вошйыны" V Ind Prt1 Err/Dial Sg3
+"<,>"
+	"," CLB
+"<мыля>"
+	"мыйла" Err/Dial CS
+	"мыйла" Err/Dial Qnt
+"<ачум>"
+	"ас" Pron Refl Sg1 Err/Dial Nom
+"<коми-изьватас>"
+	"изьватас" N Sg Nom
+		"коми" N Cmp
+"<и>"
+	"и" Adv
+	"и" CC
+"<менэ>"
+	"ме" Pron Pers Sg1 Err/Dial Acc
+"<сыа>"
+	"сійӧ" Pron Err/Dial Dem
+"<интересуйтэ>"
+	"интересуйтны" V Ind Prs Err/Dial Sg3
+"<.>"
+	"." CLB
+"<Ме>"
+	"ме" Pron Pers Sg1 Nom
+"<кӧсъя>"
+	"кӧсйыны" V Ind Prs Sg1
+"<,>"
+	"," CLB
+"<мед>"
+	"мед" Adv
+	"мед" CS
+	"мед" N Sg Nom
+"<менам>"
+	"ме" Pron Pers Sg1 Gen
+	"менам" N Sg Nom
+"<,>"
+	"," CLB
+"<гашке>"
+	"гашкӧ" Adv
+	"гашкӧ" Adv Err/Orth
+"<,>"
+	"," CLB
+"<трудъясэ>"
+	"труд" N Pl Err/Dial Ill
+	"труд" N Pl Nom PxSg1 Err/Dial
+"<,>"
+	"," CLB
+"<рӧбетаяссэ>"
+	"рӧбета" N Err/Dial Pl Acc PxSg3 Err/Dial
+"<кудзке>"
+	"кыдзкӧ" Adv Indef Manner Err/Dial Der/кӧ
+"<ортсаласны>"
+	"отсавны" V Err/Dial Ind Fut Pl3
+"<миянлы>"
+	"ме" Pron Pers Pl1 Dat
+"<босьны>"
+	"босьны" ?
+"<сіе>"
+	"сійӧ" Pron Pers Sg3 Nom Err/Dial
+"<статуссэ>"
+	"статус" N Sg Acc PxSg3 Err/Dial
+"<.>"
+	"." CLB
+"<Ыхы>"
+	"ага" Interj Err/Dial
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.107
+# text = Сравнитны кудзке?
+"<Сравнитны>"
+	"сравнитны" V Inf
+"<кудзке>"
+	"кыдзкӧ" Adv Indef Manner Err/Dial Der/кӧ
+"<?>"
+	"?" CLB
+
+# sent_id = kpv_izva20150705-02-b.114+kpv_izva20150705-02-b.147
+# text = Интереснэ. Нико, тэнад, гашке. Тэ серти.
+"<Интереснэ>"
+	"интереснэ" A Err/Dial Sg Nom
+"<.>"
+	"." CLB
+"<Нико>"
+	"Нико" N Prop Sem/Ant Sg Nom
+"<,>"
+	"," CLB
+"<тэнад>"
+	"тэ" Pron Pers Sg2 Gen
+"<,>"
+	"," CLB
+"<гашке>"
+	"гашкӧ" Adv
+	"гашкӧ" Adv Err/Orth
+"<.>"
+	"." CLB
+"<Тэ>"
+	"тэ" Pron Pers Sg2 Nom
+"<серти>"
+	"серти" Adp Po
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.115+kpv_izva20150705-02-b.116+kpv_izva20150705-02-b.118+kpv_izva20150705-02-b.119
+# text = Да, дерт, час, тэ уна тшӧтш тӧдмасин нин мӧд вужвойтыръяскӧд, тэнад, кор тэ но, шуам, кор тэ ветлалін, шуам, Тромсёын неважӧн вӧлін, да вед?
+"<Да>"
+	"да" Adv Parenthetic
+"<,>"
+	"," CLB
+"<дерт>"
+	"дерт" Adv Parenthetic
+"<,>"
+	"," CLB
+"<час>"
+	"час" Adv
+	"час" N Sg Nom
+"<,>"
+	"," CLB
+"<тэ>"
+	"тэ" Pron Pers Sg2 Nom
+"<уна>"
+	"уна" Adv
+	"уна" Det Sg Nom
+"<тшӧтш>"
+	"тшӧтш" Adv
+"<тӧдмасин>"
+	"тӧдмасьны" V Refl Ind Prt1 Sg2
+"<нин>"
+	"нин" Adv Sem/Time
+	"нин" N Sg Nom
+"<мӧд>"
+	"мӧд" Pron Dem
+"<вужвойтыръяскӧд>"
+	"вужвойтыр" N Pl Com
+"<,>"
+	"," CLB
+"<тэнад>"
+	"тэ" Pron Pers Sg2 Gen
+"<,>"
+	"," CLB
+"<кор>"
+	"кор" Adv Rel Sem/Time
+"<тэ>"
+	"тэ" Pron Pers Sg2 Nom
+"<но>"
+	"но" Interj
+"<,>"
+	"," CLB
+"<шуам>"
+	"шуам" Adv Parenthetic
+	"шуны" V Ind Prs Pl1
+"<,>"
+	"," CLB
+"<кор>"
+	"кор" Adv Rel Sem/Time
+"<тэ>"
+	"тэ" Pron Pers Sg2 Nom
+"<ветлалін>"
+	"ветлыны" V Der/ал Ind Prt1 Sg2
+"<,>"
+	"," CLB
+"<шуам>"
+	"шуам" Adv Parenthetic
+	"шуны" V Ind Prs Pl1
+"<,>"
+	"," CLB
+"<Тромсёын>"
+	"Тромсёын" ?
+"<неважӧн>"
+	"неважӧн" Adv Ins
+"<вӧлін>"
+	"вӧвны" V Ind Prt1 Sg2
+"<,>"
+	"," CLB
+"<да>"
+	"да" CC
+	"да" CS
+"<вед>"
+	"вед" Adv Parenthetic
+"<?>"
+	"?" CLB
+
+# sent_id = kpv_izva20150705-02-b.120
+# text = Вӧлі Тромсёын.
+"<Вӧлі>"
+	"вӧвны" V Ind Prt1 Sg3
+"<Тромсёын>"
+	"Тромсёын" ?
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.121+kpv_izva20150705-02-b.122
+# text = И, шуам, тӧдмасин, шуам, Канадаысь вужвойтыръяскӧд и мӧдлаысь Роч муысь.
+"<И>"
+	"и" Adv
+	"и" CC
+"<,>"
+	"," CLB
+"<шуам>"
+	"шуам" Adv Parenthetic
+	"шуны" V Ind Prs Pl1
+"<,>"
+	"," CLB
+"<тӧдмасин>"
+	"тӧдмасьны" V Refl Ind Prt1 Sg2
+"<,>"
+	"," CLB
+"<шуам>"
+	"шуам" Adv Parenthetic
+	"шуны" V Ind Prs Pl1
+"<,>"
+	"," CLB
+"<Канадаысь>"
+	"Канада" N Prop Sem/Plc Sg Ela
+"<вужвойтыръяскӧд>"
+	"вужвойтыр" N Pl Com
+"<и>"
+	"и" Adv
+	"и" CC
+"<мӧдлаысь>"
+	"мӧдлаысь" Adv Ela
+"<Роч муысь>"
+	"Роч му" N Prop Sem/Plc Sg Ela
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.124+kpv_izva20150705-02-b.125+kpv_izva20150705-02-b.126+kpv_izva20150705-02-b.127+kpv_izva20150705-02-b.128+kpv_izva20150705-02-b.129
+# text = А кыдз тэ аддзан тае, шуам, но, ӧні кыдзке изьватасъяслӧн тая статус, но, кыдз тэ аддзан наес, мӧд Россияса вужвойтыръяс и мӧд мирса вужвойтыръяс, тайӧ мыйке коми-изьватасъяслы тшӧтш, думайтан, тайӧ мыйкӧ сіе мыйкӧ сетас?
+"<А>"
+	"а" Adv
+	"а" CC
+	"а" Interj
+"<кыдз>"
+	"кыдз" Adv
+	"кыдз" N Sg Nom
+	"кыдз" Pron Adv Manner Interr
+	"кыдз" Pron Adv Manner Rel
+"<тэ>"
+	"тэ" Pron Pers Sg2 Nom
+"<аддзан>"
+	"аддзан" N Sg Nom
+	"аддзыны" V Ind Prs Sg2
+"<тае>"
+	"тайӧ" Pron Dem Sg Nom Err/Dial
+"<,>"
+	"," CLB
+"<шуам>"
+	"шуам" Adv Parenthetic
+	"шуны" V Ind Prs Pl1
+"<,>"
+	"," CLB
+"<но>"
+	"но" CC
+"<,>"
+	"," CLB
+"<ӧні>"
+	"ӧні" Adv
+"<кыдзке>"
+	"кыдзкӧ" Adv Indef Der/кӧ
+	"кыдзкӧ" Adv Indef Manner Der/кӧ
+"<изьватасъяслӧн>"
+	"изьватас" N Pl Gen
+"<тая>"
+	"тая" Pron Dem Sg Nom Err/Dial
+"<статус>"
+	"статус" N Sg Nom
+"<,>"
+	"," CLB
+"<но>"
+	"но" CC
+"<,>"
+	"," CLB
+"<кыдз>"
+	"кыдз" Pron Adv Manner Rel
+"<тэ>"
+	"тэ" Pron Pers Sg2 Nom
+"<аддзан>"
+	"аддзан" N Sg Nom
+	"аддзыны" V Ind Prs Sg2
+"<наес>"
+	"сійӧ" Pron Pers Pl3 Acc Err/Dial
+"<,>"
+	"," CLB
+"<мӧд>"
+	"мӧд" Pron Dem
+"<Россияса>"
+	"россияса" A Sg Nom
+"<вужвойтыръяс>"
+	"вужвойтыр" N Pl Nom
+"<и>"
+	"и" Adv
+	"и" CC
+"<мӧд>"
+	"мӧд" Pron Dem
+"<мирса>"
+	"мир" N Sg Der Der/LocMod A Sg Nom
+"<вужвойтыръяс>"
+	"вужвойтыр" N Pl Nom
+"<,>"
+	"," CLB
+"<тайӧ>"
+	"тайӧ" Pron Dem Sg Nom
+"<мыйке>"
+	"мыйкӧ" Pron Indef Indef Sg Nom Der/кӧ
+"<коми-изьватасъяслы>"
+	"изьватас" N Pl Dat
+		"коми" N Cmp
+"<тшӧтш>"
+	"тшӧтш" Adv
+"<,>"
+	"," CLB
+"<думайтан>"
+	"думайтны" V Ind Prs Sg2
+"<,>"
+	"," CLB
+"<тайӧ>"
+	"тайӧ" Pron Dem Sg Nom
+"<мыйкӧ>"
+	"мыйкӧ" N Sg Nom
+	"мыйкӧ" Pron Indef Indef Sg Nom Der/кӧ
+"<сіе>"
+	"сійӧ" Pron Err/Dial Dem
+"<мыйкӧ>"
+	"мыйкӧ" N Sg Nom
+	"мыйкӧ" Pron Indef Indef Sg Nom Der/кӧ
+"<сетас>"
+	"сетны" V Ind Fut Sg3
+"<?>"
+	"?" CLB
+
+# sent_id = kpv_izva20150705-02-b.130
+# text = Татшӧм йитӧд?
+"<Татшӧм>"
+	"татшӧм" Pron Det Dem
+	"татшӧм" Pron Det Dem Sg Nom
+"<йитӧд>"
+	"йитӧд" N Sg Nom
+"<?>"
+	"?" CLB
+
+# sent_id = kpv_izva20150705-02-b.131+kpv_izva20150705-02-b.132+kpv_izva20150705-02-b.133+kpv_izva20150705-02-b.134+kpv_izva20150705-02-b.135+kpv_izva20150705-02-b.136+kpv_izva20150705-02-b.137+kpv_izva20150705-02-b.138
+# text = Мен кажитче, сетас, мыля, но, зэй ортсалэ миянлы аслунум водзе мунны эта статус получениеас, мыля ми аддзам, мый ми абу ӧтнаснумес, ӧ, миянлы ортсалэны и финн-йӧгра вуж кузя рӧдса кыыясысь, код сёрнитэны, мӧд муясысь, ная велэдэны, нылы сыа интереснэй. Мый миянэс никод из вунэд, и сыа актуальнэй тая мирас.
+"<Мен>"
+	"ме" Pron Pers Sg1 Dat
+"<кажитче>"
+	"кажитчыны" V Refl Ind Prs Err/Dial Sg3
+"<,>"
+	"," CLB
+"<сетас>"
+	"сетны" V Ind Fut Sg3
+"<,>"
+	"," CLB
+"<мыля>"
+	"мыйла" Err/Dial CS
+	"мыйла" Err/Dial Qnt
+"<,>"
+	"," CLB
+"<но>"
+	"но" CC
+"<,>"
+	"," CLB
+"<зэй>"
+	"зэв" Adv Err/Dial
+"<ортсалэ>"
+	"отсавны" V Err/Dial Ind Prs Err/Dial Sg3
+"<миянлы>"
+	"ме" Pron Pers Pl1 Dat
+"<аслунум>"
+	"аслунум" ?
+"<водзе>"
+	"водз" A Sg Err/Dial Ill
+	"водз" A Sg Nom PxSg1 Err/Dial
+	"водз" N Relat Sg Err/Dial Ill
+	"водз" N Relat Sg Nom PxSg1 Err/Dial
+	"водзӧ" Adv Err/Dial
+"<мунны>"
+	"мунны" V ConNeg Pl3
+	"мунны" V Inf
+"<эта>"
+	"этайӧ" Pron Dem Sg Cmpl
+"<статус>"
+	"статус" N Sg Nom
+"<получениеас>"
+	"получениеас" ?
+"<,>"
+	"," CLB
+"<мыля>"
+	"мыйла" Err/Dial CS
+	"мыйла" Err/Dial Qnt
+"<ми>"
+	"ме" Pron Pers Pl1 Nom
+"<аддзам>"
+	"аддзыны" V Ind Prs Pl1
+	"адз" N Sg Ill PxSg1 So/CP
+	"адз" N Sg Ine PxSg1 So/CP
+"<,>"
+	"," CLB
+"<мый>"
+	"мый" CS
+"<ми>"
+	"ме" Pron Pers Pl1 Nom
+"<абу>"
+	"абу" N Sg Nom
+	"абу" Pcle Aux Neg
+	"абу" V Neg Cop Ind Sg
+"<ӧтнаснумес>"
+	"ӧтнаснумес" ?
+"<,>"
+	"," CLB
+"<ӧ>"
+	"ӧ" Interj
+"<,>"
+	"," CLB
+"<миянлы>"
+	"ме" Pron Pers Pl1 Dat
+"<ортсалэны>"
+	"отсавны" V Err/Dial Ind Prs Err/Dial Pl3
+"<и>"
+	"и" Adv
+	"и" CC
+"<финн-йӧгра>"
+	"финн-йӧгра" A Sg Nom
+"<вуж>"
+	"вуж" N Sg Nom
+"<кузя>"
+	"кузя" Adp Po
+"<рӧдса>"
+	"рӧд" N Sg Der Der/LocMod A Sg Nom
+"<кыыясысь>"
+	"кыв" N Err/Dial Err/Orth Dial/л Pl Ela
+	"кыв" N Err/Dial Pl Err/Dial Ela
+"<,>"
+	"," CLB
+"<код>"
+	"код" A Sg Nom
+	"код" N Sg Nom
+	"коді" Pron Rel
+	"коді" Pron Rel Sg Nom
+"<сёрнитэны>"
+	"сёрнитны" V Ind Prs Err/Dial Pl3
+"<,>"
+	"," CLB
+"<мӧд>"
+	"мӧд" Pron Dem
+"<муясысь>"
+	"му" N Pl Ela
+"<,>"
+	"," CLB
+"<ная>"
+	"ная" Pron Dem Pl Nom Err/Dial
+"<велэдэны>"
+	"велӧдны" V Err/Dial Ind Prs Err/Dial Pl3
+"<,>"
+	"," CLB
+"<нылы>"
+	"ны" N Sg Dat
+"<сыа>"
+	"сійӧ" Pron Err/Dial Dem
+"<интереснэй>"
+	"интереснӧй" A Err/Dial Sg Nom
+"<.>"
+	"." CLB
+"<Мый>"
+	"мый" Pron Interr Sg Nom
+"<миянэс>"
+	"ме" Pron Pers Pl1 Err/Dial Acc
+"<никод>"
+	"некод" Err/Dial Neg Sg Nom
+"<из>"
+	"оз" Aux Neg Ind Prt1 Sg3 Err/Dial
+"<вунэд>"
+	"вунӧдны" V Err/Dial ConNeg
+"<,>"
+	"," CLB
+"<и>"
+	"и" Adv
+	"и" CC
+"<сыа>"
+	"сійӧ" Pron Err/Dial Dem
+"<актуальнэй>"
+	"актуальнӧй" A Err/Dial Sg Nom
+"<тая>"
+	"тая" Pron Dem Sg Nom Err/Dial
+"<мирас>"
+	"мир" N Sg Ill PxSg3 So/CP
+	"мир" N Sg Ine PxSg3 So/CP
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.139+kpv_izva20150705-02-b.140+kpv_izva20150705-02-b.141
+# text = И сыа тшӧтш сетэ тэныд вын водзе сідз мунны, мый мӧдъяс велэдэны, а мыля ми асьнум асьнумес ог велэдэ, колэ тшӧтш сіе вӧчны.
+"<И>"
+	"и" Adv
+	"и" CC
+"<сыа>"
+	"сійӧ" Pron Err/Dial Dem
+"<тшӧтш>"
+	"тшӧтш" Adv
+"<сетэ>"
+	"сетны" V Ind Prs Err/Dial Sg3
+"<тэныд>"
+	"тэ" Pron Pers Sg2 Dat
+"<вын>"
+	"вын" N Sg Nom
+"<водзе>"
+	"водз" A Sg Err/Dial Ill
+	"водз" A Sg Nom PxSg1 Err/Dial
+	"водз" N Relat Sg Err/Dial Ill
+	"водз" N Relat Sg Nom PxSg1 Err/Dial
+	"водзӧ" Adv Err/Dial
+"<сідз>"
+	"сідзи" Adv Manner
+"<мунны>"
+	"мунны" V ConNeg Pl3
+	"мунны" V Inf
+"<,>"
+	"," CLB
+"<мый>"
+	"мый" CS
+"<мӧдъяс>"
+	"мӧд" Num Ord Pl Nom
+"<велэдэны>"
+	"велӧдны" V Err/Dial Ind Prs Err/Dial Pl3
+"<,>"
+	"," CLB
+"<а>"
+	"а" CC
+"<мыля>"
+	"мыйла" Err/Dial CS
+	"мыйла" Err/Dial Qnt
+"<ми>"
+	"ме" Pron Pers Pl1 Nom
+	"ми" N Sg Nom
+"<асьнум>"
+	"ас" Pron Refl Pl1 Err/Dial Nom
+"<асьнумес>"
+	"ас" Pron Refl Pl1 Err/Dial Acc Err/Dial
+"<ог>"
+	"оз" V Neg Ind Prs Sg1
+"<велэдэ>"
+	"велӧдны" V Err/Dial Ind Prs Err/Dial Sg3
+"<,>"
+	"," CLB
+"<колэ>"
+	"ковны" V Ind Prs Err/Dial Sg3
+	"кол" N Sg Err/Dial Ill
+	"кол" N Sg Nom PxSg1 Err/Dial
+"<тшӧтш>"
+	"тшӧтш" Adv
+"<сіе>"
+	"сійӧ" Pron Err/Dial Dem
+	"сійӧ" Pron Pers Sg3 Nom Err/Dial
+"<вӧчны>"
+	"вӧчны" V ConNeg Pl3
+	"вӧчны" V Inf
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.142
+# text = Ну, вот, таысь кудзке ми петім.
+"<Ну>"
+	"нуны" V Imprt Sg2
+"<,>"
+	"," CLB
+"<вот>"
+	"вот" Adv Parenthetic
+	"вот" N Sg Nom
+	"вотны" V Imprt Sg2
+"<,>"
+	"," CLB
+"<таысь>"
+	"та" N Sg Ela
+	"тайӧ" Pron Dem Sg Ela
+"<кудзке>"
+	"кыдзкӧ" Adv Indef Manner Err/Dial Der/кӧ
+"<ми>"
+	"ме" Pron Pers Pl1 Nom
+	"ми" N Sg Nom
+"<петім>"
+	"петны" V Ind Prt1 Pl1
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.143+kpv_izva20150705-02-b.145
+# text = Мый колэ в- Ыхы.
+"<Мый>"
+	"мый" Pron Interr Sg Nom
+"<колэ>"
+	"ковны" V Ind Prs Err/Dial Sg3
+	"кол" N Sg Err/Dial Ill
+	"кол" N Sg Nom PxSg1 Err/Dial
+"<в>"
+	"в" ABBR
+	"в" N ABBR
+"<->"
+	"-" PUNCT
+"<Ыхы>"
+	"ага" Interj Err/Dial
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.144
+# text = Кыдзи тэ аддзан тае, кор эмӧсь комияс да изьватас, кутшем тае йитӧд?
+"<Кыдзи>"
+	"кыдзи" CS
+	"кыдзи" Pron Adv Manner Interr
+	"кыдзи" Pron Adv Manner Rel
+"<тэ>"
+	"тэ" Pron Pers Sg2 Nom
+"<аддзан>"
+	"аддзан" N Sg Nom
+	"аддзыны" V Ind Prs Sg2
+"<тае>"
+	"тайӧ" Pron Dem Sg Nom Err/Dial
+"<,>"
+	"," CLB
+"<кор>"
+	"кор" Adv Rel Sem/Time
+"<эмӧсь>"
+	"эм" V Ind Prs Pl3
+"<комияс>"
+	"коми" N Pl Nom
+"<да>"
+	"да" CC
+"<изьватас>"
+	"изьватас" N Sg Nom
+"<,>"
+	"," CLB
+"<кутшем>"
+	"кутшӧм" Adv Err/Dial
+"<тае>"
+	"тайӧ" Pron Dem Sg Nom Err/Dial
+"<йитӧд>"
+	"йитӧд" N Sg Nom
+"<?>"
+	"?" CLB
+
+# sent_id = kpv_izva20150705-02-b.146
+# text = Найӧ ӧтик типа комияс или кыдзи торъялӧны, кыдзи?
+"<Найӧ>"
+	"сійӧ" Pron Pers Pl3 Nom
+"<ӧтик>"
+	"ӧти" Num Card Sg Nom
+"<типа>"
+	"типа" A Sg Nom
+"<комияс>"
+	"коми" N Pl Nom
+"<или>"
+	"или" Pcle
+"<кыдзи>"
+	"кыдзи" CS
+	"кыдзи" Pron Adv Manner Interr
+	"кыдзи" Pron Adv Manner Rel
+"<торъялӧны>"
+	"торъявны" V Ind Prs Pl3
+"<,>"
+	"," CLB
+"<кыдзи>"
+	"кыдзи" CS
+	"кыдзи" Pron Adv Manner Interr
+	"кыдзи" Pron Adv Manner Rel
+"<?>"
+	"?" CLB
+
+# sent_id = kpv_izva20150705-02-b.148
+# text = Да.
+"<Да>"
+	"да" Adv Parenthetic
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.149+kpv_izva20150705-02-b.150+kpv_izva20150705-02-b.151+kpv_izva20150705-02-b.152
+# text = Но, тоже зэй сэтшем дельнэй юалэм, мыля кор ме абу комияс костын или абу финн-йӧгра костын, ме висьтала, мый ме коми.
+"<Но>"
+	"но" Interj
+"<,>"
+	"," CLB
+"<тоже>"
+	"тожӧ" Adv Err/Dial
+"<зэй>"
+	"зэв" Adv Err/Dial
+"<сэтшем>"
+	"сэтшӧм" A Err/Dial Det Dem
+	"сэтшӧм" A Err/Dial Det Dem Sg Nom
+"<дельнэй>"
+	"дельнӧй" A Err/Dial Sg Nom
+"<юалэм>"
+	"юавны" V Err/Dial Der Der/ӧм Der/NomAct N Sg Nom
+"<,>"
+	"," CLB
+"<мыля>"
+	"мыйла" Err/Dial CS
+	"мыйла" Err/Dial Qnt
+"<кор>"
+	"кор" Adv Rel Sem/Time
+	"кор" CS
+	"кор" N Sg Nom
+	"корны" V ConNeg
+	"корны" V Imprt Sg2
+"<ме>"
+	"ме" Pron Pers Sg1 Nom
+"<абу>"
+	"абу" Pcle Aux Neg
+	"абу" V Neg Cop Ind Sg
+"<комияс>"
+	"коми" N Pl Nom
+"<костын>"
+	"костын" Adp Po Sg Ine
+"<или>"
+	"или" Pcle
+"<абу>"
+	"абу" Pcle Aux Neg
+	"абу" V Neg Cop Ind Sg
+"<финн-йӧгра>"
+	"йӧгра" N Sg Nom
+		"финн" N Cmp
+	"финн-йӧгра" A Sg Nom
+"<костын>"
+	"кост" N Relat Sg Ine
+"<,>"
+	"," CLB
+"<ме>"
+	"ме" Pron Pers Sg1 Nom
+"<висьтала>"
+	"висьтавны" V Ind Prs Sg1
+"<,>"
+	"," CLB
+"<мый>"
+	"мый" CS
+"<ме>"
+	"ме" Pron Pers Sg1 Nom
+"<коми>"
+	"коми" N Sg Nom
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.153
+# text = Верма содтыны, мый ме мӧдджык коми - изьватас.
+"<Верма>"
+	"вермыны" V Ind Prs Sg1
+"<содтыны>"
+	"содтыны" V Inf
+"<,>"
+	"," CLB
+"<мый>"
+	"мый" CS
+"<ме>"
+	"ме" Pron Pers Sg1 Nom
+"<мӧдджык>"
+	"мӧдджык" ?
+"<коми>"
+	"коми" N Sg Nom
+"<->"
+	"-" PUNCT
+"<изьватас>"
+	"изьватас" N Sg Nom
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.154
+# text = А сідзсэ комиэн ме висьтала.
+"<А>"
+	"а" Adv
+	"а" CC
+	"а" Interj
+"<сідзсэ>"
+	"сідзи" Adv Manner Clt/сӧ Err/Dial
+"<комиэн>"
+	"коми" N Sg Err/Dial Ins
+"<ме>"
+	"ме" Pron Pers Sg1 Nom
+"<висьтала>"
+	"висьтавны" V Ind Prs Sg1
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.155+kpv_izva20150705-02-b.156
+# text = Но кор ме финн-йӧгра, финн-йӧгра йӧз костын, комияс костын, ме висьтала, мый ме изьватас. Мед кудзке петкедлыны, мый ме мӧдджык неуна.
+"<Но>"
+	"но" Adv
+	"но" CC
+	"но" Interj
+"<кор>"
+	"кор" Adv Rel Sem/Time
+	"кор" CS
+	"кор" N Sg Nom
+	"корны" V Imprt Sg2
+"<ме>"
+	"ме" Pron Pers Sg1 Nom
+"<финн-йӧгра>"
+	"йӧгра" N Sg Nom
+		"финн" N Cmp
+	"финн-йӧгра" A Sg Nom
+"<,>"
+	"," CLB
+"<финн-йӧгра>"
+	"йӧгра" N Sg Nom
+		"финн" N Cmp
+	"финн-йӧгра" A Sg Nom
+"<йӧз>"
+	"йӧз" N Sg Nom
+"<костын>"
+	"кост" N Relat Sg Ine
+"<,>"
+	"," CLB
+"<комияс>"
+	"коми" N Pl Nom
+"<костын>"
+	"кост" N Relat Sg Ine
+"<,>"
+	"," CLB
+"<ме>"
+	"ме" Pron Pers Sg1 Nom
+"<висьтала>"
+	"висьтавны" V Ind Prs Sg1
+"<,>"
+	"," CLB
+"<мый>"
+	"мый" CS
+"<ме>"
+	"ме" Pron Pers Sg1 Nom
+"<изьватас>"
+	"изьватас" N Sg Nom
+"<.>"
+	"." CLB
+"<Мед>"
+	"мед" Adv
+	"мед" CS
+	"мед" N Sg Nom
+"<кудзке>"
+	"кыдзкӧ" Adv Indef Manner Err/Dial Der/кӧ
+"<петкедлыны>"
+	"петкӧдлыны" V Inf
+"<,>"
+	"," CLB
+"<мый>"
+	"мый" CS
+"<ме>"
+	"ме" Pron Pers Sg1 Nom
+"<мӧдджык>"
+	"мӧдджык" ?
+"<неуна>"
+	"неуна" Adv
+	"неуна" Adv Qnt
+	"неуна" Adv Qnt Sg Nom
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.157
+# text = Вот, неуна сідз.
+"<Вот>"
+	"вот" Adv Parenthetic
+	"вот" N Sg Nom
+	"вотны" V Imprt Sg2
+"<,>"
+	"," CLB
+"<неуна>"
+	"неуна" Adv
+	"неуна" Adv Qnt
+	"неуна" Adv Qnt Sg Nom
+"<сідз>"
+	"сідзи" Adv Manner
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.158+kpv_izva20150705-02-b.159
+# text = А тэнад, кыдз тае, мм, тэнад аслэн рӧдвужъяс костын нае став комияс?
+"<А>"
+	"а" Adv
+	"а" CC
+	"а" Interj
+"<тэнад>"
+	"тэ" Pron Pers Sg2 Gen
+"<,>"
+	"," CLB
+"<кыдз>"
+	"кыдз" Adv
+	"кыдз" N Sg Nom
+	"кыдз" Pron Adv Manner Interr
+	"кыдз" Pron Adv Manner Rel
+"<тае>"
+	"тайӧ" Pron Dem Sg Nom Err/Dial
+"<,>"
+	"," CLB
+"<мм>"
+	"м-м" Interj Err/Dial
+"<,>"
+	"," CLB
+"<тэнад>"
+	"тэ" Pron Pers Sg2 Gen
+"<аслэн>"
+	"аслэн" ?
+"<рӧдвужъяс>"
+	"рӧдвуж" N Pl Nom
+"<костын>"
+	"кост" N Relat Sg Ine
+"<нае>"
+	"ная" Pron Dem Pl Acc Err/Dial
+"<став>"
+	"став" Pron Sg Nom
+"<комияс>"
+	"коми" N Pl Nom
+"<?>"
+	"?" CLB
+
+# sent_id = kpv_izva20150705-02-b.160
+# text = Изьватас унджыкыс.
+"<Изьватас>"
+	"изьватас" N Sg Nom
+"<унджыкыс>"
+	"уна" Det Comp Sg Nom PxSg3
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.161
+# text = Изьватас?
+"<Изьватас>"
+	"изьватас" N Sg Nom
+"<?>"
+	"?" CLB
+
+# sent_id = kpv_izva20150705-02-b.162+kpv_izva20150705-02-b.163+kpv_izva20150705-02-b.164+kpv_izva20150705-02-b.165+kpv_izva20150705-02-b.166
+# text = Аха. А бать кузя абу изьватасъяс, но сідзсэ мыля ме быдми Изьва районын, мыля быдми Коми му вылас, ме ачумес, и ме тӧда ассюм чужан кылэс, сіен ме ачумес аддза кудз изьватасэс.
+"<Аха>"
+	"ага" Interj Err/Dial
+"<.>"
+	"." CLB
+"<А>"
+	"а" Adv
+	"а" CC
+	"а" Interj
+"<бать>"
+	"бать" N Sg Nom
+"<кузя>"
+	"кузя" Adp Po
+"<абу>"
+	"абу" V Neg Cop Ind Sg
+"<изьватасъяс>"
+	"изьватас" N Pl Nom
+"<,>"
+	"," CLB
+"<но>"
+	"но" CC
+"<сідзсэ>"
+	"сідзи" Adv Manner Clt/сӧ Err/Dial
+"<мыля>"
+	"мыйла" Err/Dial CS
+	"мыйла" Err/Dial Qnt
+"<ме>"
+	"ме" Pron Pers Sg1 Nom
+"<быдми>"
+	"быдмыны" V Ind Prt1 Sg1
+"<Изьва>"
+	"Изьва" N Prop Sem/Plc Sem/Plc Sg Nom
+"<районын>"
+	"район" N Sg Ine
+"<,>"
+	"," CLB
+"<мыля>"
+	"мыйла" Err/Dial CS
+	"мыйла" Err/Dial Qnt
+"<быдми>"
+	"быдмыны" V Ind Prt1 Err/Dial Sg3
+"<Коми му>"
+	"Коми му" N Prop Sem/Txt Sg Nom
+"<вылас>"
+	"выв" N Relat Sg Ill PxSg3 So/CP
+	"выв" N Relat Sg Ine PxSg3 So/CP
+	"вывны" V Ind Fut Sg3
+"<,>"
+	"," CLB
+"<ме>"
+	"ме" Pron Pers Sg1 Nom
+"<ачумес>"
+	"ас" Pron Refl Sg1 Err/Dial Err/Dial Acc
+"<,>"
+	"," CLB
+"<и>"
+	"и" Adv
+	"и" CC
+"<ме>"
+	"ме" Pron Pers Sg1 Nom
+"<тӧда>"
+	"тӧдны" V Ind Prs Sg1
+"<ассюм>"
+	"ассюм" ?
+"<чужан>"
+	"чужны" V Der Der/Ан PrsPtc
+"<кылэс>"
+	"кыв" N Err/Dial Err/Orth Dial/л Sg Acc PxSg1 Err/Dial
+	"кыв" N Err/Dial Sg Err/Dial Acc
+	"кыв" N Err/Dial Sg Err/Dial Acc PxSg1
+	"кыл" N Sg Acc PxSg1 Err/Dial
+	"кыл" N Sg Err/Dial Acc
+"<,>"
+	"," CLB
+"<сіен>"
+	"сійӧ" Pron Pers Sg3 Ins Err/Dial
+"<ме>"
+	"ме" Pron Pers Sg1 Nom
+"<ачумес>"
+	"ас" Pron Refl Sg1 Err/Dial Err/Dial Acc
+"<аддза>"
+	"аддза" Adp Po
+	"аддзыны" V Ind Prs Sg1
+"<кудз>"
+	"кудз" Adv Interr Manner Err/Orth Interr
+	"кудз" Adv Interr Manner Err/Orth Rel
+	"кудз" N Sg Nom
+"<изьватасэс>"
+	"изьватас" N Sg Acc PxSg1 Err/Dial
+	"изьватас" N Sg Err/Dial Acc
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.168
+# text = Куш изьватасэн.
+"<Куш>"
+	"куш" A Sg Nom
+	"куш" N Sg Nom
+"<изьватасэн>"
+	"изьватас" N Sg Err/Dial Ins
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.169
+# text = Ааа.
+"<Ааа>"
+	"а" Interj Err/Dial
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.170+kpv_izva20150705-02-b.173
+# text = Но неуна яран виртор, гашке, баб костсянь, кӧр видзысь сылэн вӧлі рӧдвужыс. Зыранъяс.
+"<Но>"
+	"но" Adv
+	"но" CC
+	"но" Interj
+"<неуна>"
+	"неуна" Adv
+	"неуна" Adv Qnt
+	"неуна" Adv Qnt Sg Nom
+"<яран>"
+	"яран" N Sg Nom
+"<виртор>"
+	"виртор" ?
+"<,>"
+	"," CLB
+"<гашке>"
+	"гашкӧ" Adv
+	"гашкӧ" Adv Err/Orth
+"<,>"
+	"," CLB
+"<баб>"
+	"баб" N Sg Nom
+	"бабны" V Imprt Sg2
+"<костсянь>"
+	"кост" N Relat Sg Egr
+"<,>"
+	"," CLB
+"<кӧр>"
+	"кӧр" N Sg Nom
+	"кӧрны" V Imprt Sg2
+"<видзысь>"
+	"видзны" V Der Der/ысь ActPrsPtc
+"<сылэн>"
+	"сыв" N Sg Err/Dial Ins
+	"сійӧ" Pron Pers Sg3 Gen Err/Dial
+"<вӧлі>"
+	"вӧвны" V Ind Prt1 Sg3
+"<рӧдвужыс>"
+	"рӧдвуж" N Err/Orth-no-paragogic-j Nom PxSg3
+"<.>"
+	"." CLB
+"<Зыранъяс>"
+	"зыран" N Pl Nom
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.171
+# text = Мм. Ааа, да, да, да.
+"<Мм>"
+	"м-м" Interj Err/Dial
+"<.>"
+	"." CLB
+"<Ааа>"
+	"а" Interj Err/Dial
+"<,>"
+	"," CLB
+"<да>"
+	"да" CS
+"<,>"
+	"," CLB
+"<да>"
+	"да" CS
+"<,>"
+	"," CLB
+"<да>"
+	"да" CS
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.172
+# text = А но, кыдз, но, кыдз аддзан тае кыв - зырянъяс?
+"<А>"
+	"а" Adv
+	"а" CC
+	"а" Interj
+"<но>"
+	"но" Interj
+"<,>"
+	"," CLB
+"<кыдз>"
+	"кыдз" Pron Adv Manner Rel
+"<,>"
+	"," CLB
+"<но>"
+	"но" CC
+"<,>"
+	"," CLB
+"<кыдз>"
+	"кыдз" Pron Adv Manner Rel
+"<аддзан>"
+	"аддзан" N Sg Nom
+	"аддзыны" V Ind Prs Sg2
+"<тае>"
+	"тайӧ" Pron Dem Sg Nom Err/Dial
+"<кыв>"
+	"кыв" N Sg Nom
+"<->"
+	"-" PUNCT
+"<зырянъяс>"
+	"зырян" N Pl Nom
+"<?>"
+	"?" CLB
+
+# sent_id = kpv_izva20150705-02-b.174
+# text = Шуам, коми-зырянъяс.
+"<Шуам>"
+	"шуам" Adv Parenthetic
+	"шуны" V Ind Prs Pl1
+"<,>"
+	"," CLB
+"<коми-зырянъяс>"
+	"коми-зырянъяс" ?
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.175+kpv_izva20150705-02-b.178+kpv_izva20150705-02-b.179+kpv_izva20150705-02-b.180
+# text = Зырянъяс ная. Ме сідз, кудз гӧгервои, мый йӧзыс, кор, кодъяс кымынке нэм сайын вӧліны вуджэмаась мӧдлаа ооны, нылэн асланыс юраныс колема на сыа зырян кылыс.
+"<Зырянъяс>"
+	"зырян" N Pl Nom
+"<ная>"
+	"ная" Pron Dem Pl Nom Err/Dial
+"<.>"
+	"." CLB
+"<Ме>"
+	"ме" Pron Pers Sg1 Nom
+"<сідз>"
+	"сідзи" Adv Manner
+"<,>"
+	"," CLB
+"<кудз>"
+	"кудз" Adv Interr Manner Err/Orth Rel
+"<гӧгервои>"
+	"гӧгервои" ?
+"<,>"
+	"," CLB
+"<мый>"
+	"мый" CS
+"<йӧзыс>"
+	"йӧз" N Sg Nom PxSg3
+"<,>"
+	"," CLB
+"<кор>"
+	"кор" Adv Rel Sem/Time
+"<,>"
+	"," CLB
+"<кодъяс>"
+	"код" A Pl Nom
+	"код" N Pl Nom
+	"кодйыны" V Ind Fut Sg3
+	"коді" Pron Rel Pl Nom
+"<кымынке>"
+	"кымынкӧ" Adv Indef Indef
+	"кымынкӧ" Adv Indef Qnt Sg Nom
+	"кымынкӧ" Det Indef Der/кӧ
+"<нэм>"
+	"нэм" N Sg Nom
+"<сайын>"
+	"сай" N Relat Sg Ine
+	"сайын" Adv Spat Ine
+"<вӧліны>"
+	"вӧвны" V Ind Prt1 Pl3
+"<вуджэмаась>"
+	"вуджэмаась" ?
+"<мӧдлаа>"
+	"мӧдлаа" ?
+"<ооны>"
+	"овны" V Err/Dial Inf
+"<,>"
+	"," CLB
+"<нылэн>"
+	"ны" N Sg Err/Dial Gen
+	"ныв" N Sg Err/Dial Ins
+	"нія" Pron Dem Pl Gen Err/Dial
+	"сійӧ" Pron Pers Pl3 Gen Err/Dial
+"<асланыс>"
+	"ас" Pron Poss Pl3
+"<юраныс>"
+	"юр" N Sg Ill PxPl3 So/CP
+	"юр" N Sg Ine PxPl3 So/CP
+	"юра" A Sg Nom PxPl3
+"<колема>"
+	"кольны" V Err/Dial Ind Prt2 Sg3
+"<на>"
+	"на" Adv
+	"на" Adv Sem/Time
+"<сыа>"
+	"сійӧ" Pron Err/Dial Dem
+"<зырян>"
+	"зырян" N Sg Nom
+"<кылыс>"
+	"кыл" N Sg Nom PxSg3
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.176+kpv_izva20150705-02-b.177
+# text = Кыдзи ная юксеныс, шуам, комияс пытшкын эмӧсь изьватас и коми-зырянъяс, или кыдз?
+"<Кыдзи>"
+	"кыдзи" CS
+	"кыдзи" Pron Adv Manner Interr
+	"кыдзи" Pron Adv Manner Rel
+"<ная>"
+	"ная" Pron Dem Pl Nom Err/Dial
+"<юксеныс>"
+	"юксьыны" V Refl Ind Prs Err/Dial Pl3 Err/Dial
+"<,>"
+	"," CLB
+"<шуам>"
+	"шуам" Adv Parenthetic
+	"шуны" V Ind Prs Pl1
+"<,>"
+	"," CLB
+"<комияс>"
+	"коми" N Pl Nom
+"<пытшкын>"
+	"пытш" N Sg Ine
+	"пытшкын" Adp Po Sg Ine
+	"пытшкын" Adv
+"<эмӧсь>"
+	"эм" V Ind Prs Pl3
+"<изьватас>"
+	"изьватас" N Sg Nom
+"<и>"
+	"и" Adv
+	"и" CC
+"<коми-зырянъяс>"
+	"коми-зырянъяс" ?
+"<,>"
+	"," CLB
+"<или>"
+	"или" Pcle
+"<кыдз>"
+	"кыдз" Adv
+	"кыдз" N Sg Nom
+	"кыдз" Pron Adv Manner Interr
+	"кыдз" Pron Adv Manner Rel
+"<?>"
+	"?" CLB
+
+# sent_id = kpv_izva20150705-02-b.181
+# text = Но, мый ная зырянъяс.
+"<Но>"
+	"но" Interj
+"<,>"
+	"," CLB
+"<мый>"
+	"мый" CS
+"<ная>"
+	"ная" Pron Dem Pl Nom Err/Dial
+"<зырянъяс>"
+	"зырян" N Pl Nom
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.182
+# text = И изьватасэн ная асьныссэ из на шуны.
+"<И>"
+	"и" Adv
+	"и" CC
+"<изьватасэн>"
+	"изьватас" N Sg Err/Dial Ins
+"<ная>"
+	"ная" Pron Dem Pl Nom Err/Dial
+"<асьныссэ>"
+	"ас" Pron Refl Pl3 Acc PxPl3 Err/Dial
+"<из>"
+	"оз" V Neg Ind Prt1 Sg3 Err/Dial
+"<на>"
+	"на" Adv
+	"на" Adv Sem/Time
+"<шуны>"
+	"шуны" V Inf
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.183+kpv_izva20150705-02-b.184
+# text = Изьватаснас кутісны бӧрсіджык, ну, неуна бӧрынджык асьныссэ висьтоолыны, мый ми изьватасъяс. А водзсэ, мен кажитче, ная вӧліны, мый комиыс ставыс ӧттшӧтш.
+"<Изьватаснас>"
+	"изьватас" N Sg Ins PxSg3 So/CP
+"<кутісны>"
+	"кутны" V Ind Prt1 Pl3
+"<бӧрсіджык>"
+	"бӧрсі" Adv Comp
+"<,>"
+	"," CLB
+"<ну>"
+	"нуны" V Imprt Sg2
+"<,>"
+	"," CLB
+"<неуна>"
+	"неуна" Adv
+	"неуна" Adv Qnt
+	"неуна" Adv Qnt Sg Nom
+"<бӧрынджык>"
+	"бӧр" N Relat Sg Ine Comp
+	"бӧрын" Adv Ine Comp
+"<асьныссэ>"
+	"ас" Pron Refl Pl3 Acc PxPl3 Err/Dial
+"<висьтоолыны>"
+	"висьтавлыны" V Err/Dial Inf
+"<,>"
+	"," CLB
+"<мый>"
+	"мый" CS
+"<ми>"
+	"ме" Pron Pers Pl1 Nom
+"<изьватасъяс>"
+	"изьватас" N Pl Nom
+"<.>"
+	"." CLB
+"<А>"
+	"а" Adv
+	"а" CC
+	"а" Interj
+"<водзсэ>"
+	"водз" A Sg Acc PxSg3 Err/Dial
+	"водз" Adv Clt/сӧ Err/Dial
+	"водз" N Relat Sg Acc PxSg3 Err/Dial
+"<,>"
+	"," CLB
+"<мен>"
+	"ме" Pron Pers Sg1 Dat
+"<кажитче>"
+	"кажитчыны" V Refl Ind Prs Err/Dial Sg3
+"<,>"
+	"," CLB
+"<ная>"
+	"ная" Pron Dem Pl Nom Err/Dial
+"<вӧліны>"
+	"вӧвны" V Ind Prt1 Pl3
+"<,>"
+	"," CLB
+"<мый>"
+	"мый" CS
+"<комиыс>"
+	"коми" N Sg Nom PxSg3
+"<ставыс>"
+	"став" N Sg Nom PxSg3
+	"став" Pron Sg Nom PxSg3
+"<ӧттшӧтш>"
+	"ӧттшӧтш" Adv
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.185+kpv_izva20150705-02-b.186+kpv_izva20150705-02-b.187+kpv_izva20150705-02-b.188+kpv_izva20150705-02-b.189+kpv_izva20150705-02-b.190
+# text = Кӧть и ная вӧліныс неуна мӧдпӧлэсысьджык нин, мыля мунісны Удораысь медводз татче, сэсся водзе мунісныс ооны тундраа нин кӧръяс видзны, и сіен, гашке, нылэн сыа важ нимыс колис юраныс. А миян нин татэн бӧрсіджык сыа концепт "изьватас мортыс" но, петіс кыське, локтіс.
+"<Кӧть>"
+	"кӧть" CS
+"<и>"
+	"и" Adv
+	"и" CC
+"<ная>"
+	"ная" Pron Dem Pl Nom Err/Dial
+"<вӧліныс>"
+	"вӧвны" V Err/Dial Ind Prt1 Pl3
+"<неуна>"
+	"неуна" Adv
+	"неуна" Adv Qnt
+	"неуна" Adv Qnt Sg Nom
+"<мӧдпӧлэсысьджык>"
+	"мӧдпӧлэсысьджык" ?
+"<нин>"
+	"нин" Adv Sem/Time
+	"нин" N Sg Nom
+"<,>"
+	"," CLB
+"<мыля>"
+	"мыйла" Err/Dial CS
+	"мыйла" Err/Dial Qnt
+"<мунісны>"
+	"мунны" V Ind Prt1 Pl3
+"<Удораысь>"
+	"Удора" N Prop Sem/Plc Sem/Plc Sg Ela
+"<медводз>"
+	"водз" Adv Superl
+"<татче>"
+	"татчӧ" Adv Err/Dial
+"<,>"
+	"," CLB
+"<сэсся>"
+	"сэсся" Adv
+"<водзе>"
+	"водз" A Sg Err/Dial Ill
+	"водз" A Sg Nom PxSg1 Err/Dial
+	"водз" N Relat Sg Err/Dial Ill
+	"водз" N Relat Sg Nom PxSg1 Err/Dial
+	"водзӧ" Adv Err/Dial
+"<мунісныс>"
+	"мунны" V Err/Dial Ind Prt1 Pl3
+"<ооны>"
+	"овны" V Err/Dial Inf
+"<тундраа>"
+	"тундра" N Sg Err/Dial Ill
+"<нин>"
+	"нин" Adv Sem/Time
+	"нин" N Sg Nom
+"<кӧръяс>"
+	"кӧр" N Pl Nom
+	"кӧр" N Sg Ill PxSg3 So/CP
+	"кӧр" N Sg Ine PxSg3 So/CP
+"<видзны>"
+	"видзны" V Inf
+"<,>"
+	"," CLB
+"<и>"
+	"и" Adv
+	"и" CC
+"<сіен>"
+	"сійӧ" Pron Pers Sg3 Ins Err/Dial
+"<,>"
+	"," CLB
+"<гашке>"
+	"гашкӧ" Adv
+	"гашкӧ" Adv Err/Orth
+"<,>"
+	"," CLB
+"<нылэн>"
+	"ны" N Sg Err/Dial Gen
+	"ныв" N Sg Err/Dial Ins
+	"нія" Pron Dem Pl Gen Err/Dial
+	"сійӧ" Pron Pers Pl3 Gen Err/Dial
+"<сыа>"
+	"сійӧ" Pron Err/Dial Dem
+"<важ>"
+	"важ" A Sg Nom
+"<нимыс>"
+	"ним" N Sg Nom PxSg3
+"<колис>"
+	"кольны" V Ind Prt1 Sg3
+"<юраныс>"
+	"юр" N Sg Ill PxPl3 So/CP
+	"юр" N Sg Ine PxPl3 So/CP
+	"юра" A Sg Nom PxPl3
+"<.>"
+	"." CLB
+"<А>"
+	"а" Adv
+	"а" CC
+	"а" Interj
+"<миян>"
+	"ме" Pron Pers Pl1 Gen
+"<нин>"
+	"нин" Adv Sem/Time
+	"нин" N Sg Nom
+"<татэн>"
+	"тат" N Sg Err/Dial Ins
+	"татӧн" Adv Err/Dial
+"<бӧрсіджык>"
+	"бӧрсі" Adv Comp
+"<сыа>"
+	"сійӧ" Pron Err/Dial Dem
+"<концепт>"
+	"концепт" N Sg Nom
+"<">"
+	""" PUNCT
+"<изьватас>"
+	"изьватас" N Sg Nom
+"<мортыс>"
+	"морт" N Sg Nom PxSg3
+"<">"
+	""" PUNCT
+"<но>"
+	"но" Interj
+"<,>"
+	"," CLB
+"<петіс>"
+	"петны" V Ind Prt1 Sg3
+"<кыське>"
+	"кыськӧ" Adv Indef Ela Der/кӧ
+	"кыськӧ" Adv Indef Indef
+"<,>"
+	"," CLB
+"<локтіс>"
+	"локны" V Ind Prt1 Sg3
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.193
+# text = А тэ, кыдз тэ, тэ ӧні тэ олан Сыктывкарын?
+"<А>"
+	"а" Adv
+	"а" CC
+	"а" Interj
+"<тэ>"
+	"тэ" Pron Pers Sg2 Nom
+"<,>"
+	"," CLB
+"<кыдз>"
+	"кыдз" Pron Adv Manner Rel
+"<тэ>"
+	"тэ" Pron Pers Sg2 Nom
+"<,>"
+	"," CLB
+"<тэ>"
+	"тэ" Pron Pers Sg2 Nom
+"<ӧні>"
+	"ӧні" Adv
+"<тэ>"
+	"тэ" Pron Pers Sg2 Nom
+"<олан>"
+	"овны" V Der Der/Ан PrsPtc
+"<Сыктывкарын>"
+	"Сыктывкар" N Prop Sem/Plc Sem/Plc Sg Ine
+"<?>"
+	"?" CLB
+
+# sent_id = kpv_izva20150705-02-b.194
+# text = Ӧні пока да.
+"<Ӧні>"
+	"ӧні" Adv
+"<пока>"
+	"пока" Adv
+"<да>"
+	"да" CS
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.195
+# text = А сэні тэ, тэ коми литературнэй кыв тэ велэдчин школаын?
+"<А>"
+	"а" Adv
+	"а" CC
+	"а" Interj
+"<сэні>"
+	"сэні" Adv Ine
+"<тэ>"
+	"тэ" Pron Pers Sg2 Nom
+"<,>"
+	"," CLB
+"<тэ>"
+	"тэ" Pron Pers Sg2 Nom
+"<коми>"
+	"коми" N Sg Nom
+"<литературнэй>"
+	"литературнӧй" A Err/Dial Sg Nom
+"<кыв>"
+	"кыв" N Sg Nom
+"<тэ>"
+	"тэ" Pron Pers Sg2 Nom
+"<велэдчин>"
+	"велӧдчыны" V Err/Dial Refl Ind Prt1 Sg2
+"<школаын>"
+	"школа" N Sg Ine
+"<?>"
+	"?" CLB
+
+# sent_id = kpv_izva20150705-02-b.196+kpv_izva20150705-02-b.197+kpv_izva20150705-02-b.201+kpv_izva20150705-02-b.202
+# text = Школаын велэді кыысэ, и литература вӧлі, да. Но, литературнэйсэ ме ачум пыртала, мыля ме кӧсъя сӧстэмджык комиэн сёрнитны.
+"<Школаын>"
+	"Школа" N Prop Sg Ine
+	"школа" N Sg Ine
+"<велэді>"
+	"велӧдны" V Err/Dial Ind Prt1 Err/Dial Sg3
+"<кыысэ>"
+	"кы" N Sg Err/Dial Ill Clt/сӧ Err/Dial
+	"кыв" N Err/Dial Sg Err/Dial Acc PxSg3 Err/Dial
+"<,>"
+	"," CLB
+"<и>"
+	"и" Adv
+	"и" CC
+"<литература>"
+	"литература" N Sg Nom
+"<вӧлі>"
+	"вӧвны" V Ind Prt1 Sg3
+"<,>"
+	"," CLB
+"<да>"
+	"да" CS
+"<.>"
+	"." CLB
+"<Но>"
+	"но" Interj
+"<,>"
+	"," CLB
+"<литературнэйсэ>"
+	"литературнӧй" A Err/Dial Sg Acc PxSg3 Err/Dial
+"<ме>"
+	"ме" Pron Pers Sg1 Nom
+"<ачум>"
+	"ас" Pron Refl Sg1 Err/Dial Nom
+"<пыртала>"
+	"пырта" N Sg Cns
+"<,>"
+	"," CLB
+"<мыля>"
+	"мыйла" Err/Dial CS
+	"мыйла" Err/Dial Qnt
+"<ме>"
+	"ме" Pron Pers Sg1 Nom
+"<кӧсъя>"
+	"кӧсйыны" V Ind Prs Sg1
+"<сӧстэмджык>"
+	"сӧстны" V Err/Dial Der Der/ӧм Der/NomAct N Sg Nom Comp
+"<комиэн>"
+	"коми" N Sg Err/Dial Ins
+"<сёрнитны>"
+	"сёрнитны" V Inf
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.198+kpv_izva20150705-02-b.199+kpv_izva20150705-02-b.200
+# text = Кыдз, а кыдз тэ аддзан, кыдз тэ ӧнія кадын сёрнитан, тэ сёрнитан унджыка, шуам, тіян ас ногӧн или тіян, пырис нин тэнад сёрниӧ кутшӧмкӧ литературнӧй?
+"<Кыдз>"
+	"кыдз" Adv
+	"кыдз" N Sg Nom
+	"кыдз" Pron Adv Manner Interr
+	"кыдз" Pron Adv Manner Rel
+"<,>"
+	"," CLB
+"<а>"
+	"а" CC
+"<кыдз>"
+	"кыдз" Adv
+	"кыдз" N Sg Nom
+	"кыдз" Pron Adv Manner Interr
+	"кыдз" Pron Adv Manner Rel
+"<тэ>"
+	"тэ" Pron Pers Sg2 Nom
+"<аддзан>"
+	"аддзан" N Sg Nom
+	"аддзыны" V Ind Prs Sg2
+"<,>"
+	"," CLB
+"<кыдз>"
+	"кыдз" Pron Adv Manner Rel
+"<тэ>"
+	"тэ" Pron Pers Sg2 Nom
+"<ӧнія>"
+	"ӧнія" A Sg Nom
+"<кадын>"
+	"кад" N Sg Ine
+	"кад" N Err/Orth-no-paragogic-j Ine
+"<сёрнитан>"
+	"сёрнитан" N Sg Nom
+	"сёрнитны" V Ind Prs Sg2
+"<,>"
+	"," CLB
+"<тэ>"
+	"тэ" Pron Pers Sg2 Nom
+"<сёрнитан>"
+	"сёрнитан" N Sg Nom
+	"сёрнитны" V Ind Prs Sg2
+"<унджыка>"
+	"уна" Det Comp Der Der/а
+"<,>"
+	"," CLB
+"<шуам>"
+	"шуам" Adv Parenthetic
+	"шуны" V Ind Prs Pl1
+"<,>"
+	"," CLB
+"<тіян>"
+	"тэ" Pron Pers Pl2 Gen
+"<ас>"
+	"ас" Pron Det Refl Abs
+"<ногӧн>"
+	"ног" N Sg Ins
+	"ногӧн" Adp Po Sg Ins
+	"ногӧн" Adv Ins
+"<или>"
+	"или" Pcle
+"<тіян>"
+	"тэ" Pron Pers Pl2 Gen
+"<,>"
+	"," CLB
+"<пырис>"
+	"пырны" V Ind Prt1 Sg3
+"<нин>"
+	"нин" Adv Sem/Time
+	"нин" N Sg Nom
+"<тэнад>"
+	"тэ" Pron Pers Sg2 Gen
+"<сёрниӧ>"
+	"сёрни" N Sg Ill
+"<кутшӧмкӧ>"
+	"кутшӧмкӧ" Pron Indef Der/кӧ
+"<литературнӧй>"
+	"литературнӧй" A Sg Nom
+	"литературнӧй" N Sg Nom
+"<?>"
+	"?" CLB
+
+# sent_id = kpv_izva20150705-02-b.203+kpv_izva20150705-02-b.204+kpv_izva20150705-02-b.205+kpv_izva20150705-02-b.206
+# text = Кор выйым дзик изьватас кыы кутшемке, ме пукта сіе кыысэ, комиас ке, ӧӧ, изьватас диалектас ке абу сэтшем кылыс, ме кӧсъя сэтче пыртны зырян кылысь, пуктыны.
+"<Кор>"
+	"кор" Adv Rel Sem/Time
+	"кор" CS
+	"кор" N Sg Nom
+	"корны" V Imprt Sg2
+"<выйым>"
+	"эм" Err/Dial Ind Prs Sg3 WORK
+"<дзик>"
+	"дзик" Adv Deg
+"<изьватас>"
+	"изьватас" N Sg Nom
+"<кыы>"
+	"кы" N Sg Err/Dial Ill
+	"кыв" N Err/Dial Sg Err/Dial Nom
+"<кутшемке>"
+	"кутшӧмкӧ" Err/Dial Der/кӧ Indef
+"<,>"
+	"," CLB
+"<ме>"
+	"ме" Pron Pers Sg1 Nom
+"<пукта>"
+	"пуктыны" V Ind Prs Sg1
+"<сіе>"
+	"сійӧ" Pron Err/Dial Dem
+	"сійӧ" Pron Pers Sg3 Nom Err/Dial
+"<кыысэ>"
+	"кы" N Sg Err/Dial Ill Clt/сӧ Err/Dial
+	"кыв" N Err/Dial Sg Err/Dial Acc PxSg3 Err/Dial
+"<,>"
+	"," CLB
+"<комиас>"
+	"коми" N Sg Ill PxSg3 So/CP
+	"коми" N Sg Ine PxSg3 So/CP
+"<ке>"
+	"кӧ" CS
+"<,>"
+	"," CLB
+"<ӧӧ>"
+	"оо" Interj Err/Dial
+"<,>"
+	"," CLB
+"<изьватас>"
+	"изьватас" N Sg Nom
+"<диалектас>"
+	"диалект" N Sg Ill PxSg3 So/CP
+	"диалект" N Sg Ine PxSg3 So/CP
+"<ке>"
+	"кӧ" CS
+"<абу>"
+	"абу" Pcle Aux Neg
+	"абу" V Neg Cop Ind Sg
+"<сэтшем>"
+	"сэтшӧм" A Err/Dial Det Dem
+	"сэтшӧм" A Err/Dial Det Dem Sg Nom
+"<кылыс>"
+	"кыл" N Sg Nom PxSg3
+"<,>"
+	"," CLB
+"<ме>"
+	"ме" Pron Pers Sg1 Nom
+"<кӧсъя>"
+	"кӧсйыны" V Ind Prs Sg1
+"<сэтче>"
+	"сэтчӧ" Adv Err/Dial Ill
+"<пыртны>"
+	"пыртны" V Inf
+"<зырян>"
+	"зырян" N Sg Nom
+"<кылысь>"
+	"кы" N Sg Abl
+	"кыл" N Sg Ela
+"<,>"
+	"," CLB
+"<пуктыны>"
+	"пуктыны" V Inf
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.207+kpv_izva20150705-02-b.208+kpv_izva20150705-02-b.209+kpv_izva20150705-02-b.210+kpv_izva20150705-02-b.211
+# text = Или кудзке мӧд мозни вежны, медум сӧстэмджык коми вӧлі кыы, а из сорлалэма мыйке, роч да коми да ас диалектысь, мед лучше неуна сӧстэмджык кыы лоас.
+"<Или>"
+	"или" Pcle
+"<кудзке>"
+	"кыдзкӧ" Adv Indef Manner Err/Dial Der/кӧ
+"<мӧд>"
+	"мӧд" Num Ord Sg Nom
+	"мӧд" Pron Dem
+	"мӧдны" V Imprt Sg2
+"<мозни>"
+	"мозни" ?
+"<вежны>"
+	"вежны" V Inf
+"<,>"
+	"," CLB
+"<медум>"
+	"медум" ?
+"<сӧстэмджык>"
+	"сӧстны" V Err/Dial Der Der/ӧм Der/NomAct N Sg Nom Comp
+"<коми>"
+	"коми" N Sg Nom
+"<вӧлі>"
+	"вӧвны" V Ind Prt1 Sg3
+"<кыы>"
+	"кы" N Sg Err/Dial Ill
+	"кыв" N Err/Dial Sg Err/Dial Nom
+"<,>"
+	"," CLB
+"<а>"
+	"а" CC
+"<из>"
+	"изны" V Imprt Sg2
+"<сорлалэма>"
+	"сорлавны" V Err/Dial Ind Prt2 Sg1
+	"сорлавны" V Err/Dial Ind Prt2 Sg3
+"<мыйке>"
+	"мыйкӧ" N Sg Nom
+	"мыйкӧ" Pron Indef Indef Sg Nom Der/кӧ
+"<,>"
+	"," CLB
+"<роч>"
+	"роч" N Sg Nom
+"<да>"
+	"да" CC
+"<коми>"
+	"коми" N Sg Nom
+"<да>"
+	"да" CC
+"<ас>"
+	"ас" Pron Det Refl Abs
+"<диалектысь>"
+	"диалект" N Sg Ela
+"<,>"
+	"," CLB
+"<мед>"
+	"мед" Adv
+	"мед" CS
+	"мед" N Sg Nom
+"<лучше>"
+	"лучше" ?
+"<неуна>"
+	"неуна" Adv
+	"неуна" Adv Qnt
+	"неуна" Adv Qnt Sg Nom
+"<сӧстэмджык>"
+	"сӧс" N Sg Err/Dial Der Der/PrivMod A Comp
+	"сӧс" N Sg Err/Dial Der Der/PrivMod A Comp Sg Nom
+"<кыы>"
+	"кы" N Sg Err/Dial Ill
+	"кыв" N Err/Dial Sg Err/Dial Nom
+"<лоас>"
+	"лоны" V Ind Fut Sg3
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.212
+# text = Гӧгӧрвоа.
+"<Гӧгӧрвоа>"
+	"гӧгӧрвоны" V Ind Prs Sg1
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.213
+# text = Аа.
+"<Аа>"
+	"а" Interj Err/Dial
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.214
+# text = Хватит, да?
+"<Хватит>"
+	"Хватит" ?
+"<,>"
+	"," CLB
+"<да>"
+	"да" CS
+"<?>"
+	"?" CLB
+
+# sent_id = kpv_izva20150705-02-b.215
+# text = Тырмас или?
+"<Тырмас>"
+	"тырмыны" V Ind Fut Sg3
+"<или>"
+	"или" Pcle
+"<?>"
+	"?" CLB
+
+# sent_id = kpv_izva20150705-02-b.216+kpv_izva20150705-02-b.218
+# text = Тэнад эм кӧ юалӧм, сет на. Юрысь петі?
+"<Тэнад>"
+	"тэ" Pron Pers Sg2 Gen
+"<эм>"
+	"эм" N Sg Nom
+	"эм" V Ind Prs Sg3
+"<кӧ>"
+	"кӧ" CS
+"<юалӧм>"
+	"юалӧм" N Sg Nom
+"<,>"
+	"," CLB
+"<сет>"
+	"сетны" V Imprt Sg2
+"<на>"
+	"на" Adv
+	"на" Adv Sem/Time
+"<.>"
+	"." CLB
+"<Юрысь>"
+	"Юр" N Prop Sg Ela
+	"юр" N Sg Ela
+"<петі>"
+	"петны" V Ind Prt1 Sg3
+"<?>"
+	"?" CLB
+
+# sent_id = kpv_izva20150705-02-b.217
+# text = Эм, но ӧні сӧмын.
+"<Эм>"
+	"эм" N Sg Nom
+	"эм" V Ind Prs Sg3
+"<,>"
+	"," CLB
+"<но>"
+	"но" CC
+"<ӧні>"
+	"ӧні" Adv
+"<сӧмын>"
+	"сӧмын" Adv
+	"сӧмын" N Sg Nom
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.219+kpv_izva20150705-02-b.220+kpv_izva20150705-02-b.221
+# text = Да. Вот, колэ тіян тайӧ, ӧӧӧ, тэнад тая коді, Владимир Рочев, сійӧ тэнад кутшем? Вертепса.
+"<Да>"
+	"да" Adv Parenthetic
+"<.>"
+	"." CLB
+"<Вот>"
+	"вот" Adv Parenthetic
+	"вот" N Sg Nom
+	"вотны" V Imprt Sg2
+"<,>"
+	"," CLB
+"<колэ>"
+	"ковны" V Ind Prs Err/Dial Sg3
+	"кол" N Sg Err/Dial Ill
+	"кол" N Sg Nom PxSg1 Err/Dial
+"<тіян>"
+	"тэ" Pron Pers Pl2 Gen
+"<тайӧ>"
+	"тайӧ" Pron Dem Sg Nom
+"<,>"
+	"," CLB
+"<ӧӧӧ>"
+	"ӧӧӧ" ?
+"<,>"
+	"," CLB
+"<тэнад>"
+	"тэ" Pron Pers Sg2 Gen
+"<тая>"
+	"тая" N Sg Nom
+"<коді>"
+	"коді" Pron Interr Sg Nom
+	"коді" Pron Rel Sg Nom
+"<,>"
+	"," CLB
+"<Владимир>"
+	"Владимир" N Prop Sg Nom
+"<Рочев>"
+	"Рочев" N Prop Sem/Sur-Mal Sg Nom
+"<,>"
+	"," CLB
+"<сійӧ>"
+	"сійӧ" Pron Pers Sg3 Nom
+"<тэнад>"
+	"тэ" Pron Pers Sg2 Gen
+"<кутшем>"
+	"кутшӧм" Adv Err/Dial
+"<?>"
+	"?" CLB
+"<Вертепса>"
+	"Вертеп" N Prop Sem/Plc Sem/Plc Sg Der Der/LocMod Sg Nom
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.222
+# text = Сыа вертепса.
+"<Сыа>"
+	"сійӧ" Pron Err/Dial Dem
+"<вертепса>"
+	"Вертеп" N Prop Sem/Plc Sem/Plc Sg Der Der/LocMod Sg Nom
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.223
+# text = Кутшӧм ногӧн сійӧ тэнад рӧдвуж?
+"<Кутшӧм>"
+	"кутшӧм" Pron Interr Sg Nom
+	"кутшӧм" Pron Rel Sg Nom
+"<ногӧн>"
+	"ног" N Sg Ins
+	"ногӧн" Adp Po Sg Ins
+	"ногӧн" Adv Ins
+"<сійӧ>"
+	"сійӧ" Pron Pers Sg3 Nom
+"<тэнад>"
+	"тэ" Pron Pers Sg2 Gen
+"<рӧдвуж>"
+	"рӧдвуж" N Sg Nom
+"<?>"
+	"?" CLB
+
+# sent_id = kpv_izva20150705-02-b.224
+# text = Сыа менам рӧднэй тьӧтлэн мужичӧйыс.
+"<Сыа>"
+	"сійӧ" Pron Err/Dial Dem
+"<менам>"
+	"ме" Pron Pers Sg1 Gen
+	"менам" N Sg Nom
+"<рӧднэй>"
+	"рӧднӧй" A Err/Dial Sg Nom
+"<тьӧтлэн>"
+	"тьӧт" N Sg Err/Dial Gen
+"<мужичӧйыс>"
+	"мужичӧй" N Sg Nom PxSg3
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.226+kpv_izva20150705-02-b.227
+# text = И артмӧ, мый ті Маринакӧд тшӧтш.
+"<И>"
+	"и" Adv
+	"и" CC
+"<артмӧ>"
+	"артмыны" V Ind Prs Sg3
+"<,>"
+	"," CLB
+"<мый>"
+	"мый" CS
+"<ті>"
+	"тэ" Pron Pers Pl2 Nom
+"<Маринакӧд>"
+	"Марин" N Prop Sem/Sur-Fem Sg Com
+	"Марина" N Prop Sg Com
+	"Марина" N Prop Sem/Sur-Fem Sg Com
+"<тшӧтш>"
+	"тшӧтш" Adv
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.228
+# text = Рӧдвуж.
+"<Рӧдвуж>"
+	"рӧдвуж" N Sg Nom
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.229
+# text = Рӧдвужъяс.
+"<Рӧдвужъяс>"
+	"рӧдвуж" N Pl Nom
+	"рӧдвуж" N Sg Ill PxSg3 So/CP
+	"рӧдвуж" N Sg Ine PxSg3 So/CP
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.230
+# text = Аха, ыыса родственникъяс.
+"<Аха>"
+	"ага" Interj Err/Dial
+"<,>"
+	"," CLB
+"<ыыса>"
+	"ыыса" ?
+"<родственникъяс>"
+	"родственник" N Pl Nom
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.231
+# text = Кутшӧм ногӧн?
+"<Кутшӧм>"
+	"кутшӧм" Pron Interr Sg Nom
+	"кутшӧм" Pron Rel Sg Nom
+"<ногӧн>"
+	"ног" N Sg Ins
+	"ногӧн" Adp Po Sg Ins
+	"ногӧн" Adv Ins
+"<?>"
+	"?" CLB
+
+# sent_id = kpv_izva20150705-02-b.232
+# text = Но, Владимирыс сыа вок сылэн.
+"<Но>"
+	"но" Interj
+"<,>"
+	"," CLB
+"<Владимирыс>"
+	"Владимир" N Prop Sg Nom PxSg3
+"<сыа>"
+	"сійӧ" Pron Err/Dial Dem
+"<вок>"
+	"вок" N Sg Nom
+"<сылэн>"
+	"сыв" N Sg Err/Dial Ins
+	"сійӧ" Pron Pers Sg3 Gen Err/Dial
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.233
+# text = Рӧднэй.
+"<Рӧднэй>"
+	"рӧднӧй" A Err/Dial Sg Nom
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.234
+# text = Гӧгӧрвоа, да, да, да.
+"<Гӧгӧрвоа>"
+	"гӧгӧрвоны" V Ind Prs Sg1
+"<,>"
+	"," CLB
+"<да>"
+	"да" CS
+"<,>"
+	"," CLB
+"<да>"
+	"да" CS
+"<,>"
+	"," CLB
+"<да>"
+	"да" CS
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.235+kpv_izva20150705-02-b.236
+# text = И, и, но тіян но ті тӧданныд Пётр Хозяинов?
+"<И>"
+	"и" Adv
+	"и" CC
+"<,>"
+	"," CLB
+"<и>"
+	"и" Adv
+	"и" CC
+"<,>"
+	"," CLB
+"<но>"
+	"но" CC
+"<тіян>"
+	"тэ" Pron Pers Pl2 Gen
+"<но>"
+	"но" Adv
+	"но" CC
+	"но" Interj
+"<ті>"
+	"тэ" Pron Pers Pl2 Nom
+"<тӧданныд>"
+	"тӧдны" V Ind Prs Pl2
+"<Пётр>"
+	"Пётр" N Prop Sg Nom
+"<Хозяинов>"
+	"Хозяинов" N Prop Sem/Sur-Mal Sg Nom
+"<?>"
+	"?" CLB
+
+# sent_id = kpv_izva20150705-02-b.237
+# text = Вертепса.
+"<Вертепса>"
+	"Вертеп" N Prop Sem/Plc Sem/Plc Sg Der Der/LocMod Sg Nom
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.238
+# text = Тӧда, тӧда.
+"<Тӧда>"
+	"тӧдны" V Ind Prs Sg1
+"<,>"
+	"," CLB
+"<тӧда>"
+	"тӧдны" V Ind Prs Sg1
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.239
+# text = Сійӧ тіян ылыс рӧдвуж или оз?
+"<Сійӧ>"
+	"сійӧ" Pron Pers Sg3 Nom
+"<тіян>"
+	"тэ" Pron Pers Pl2 Gen
+"<ылыс>"
+	"ылыс" A Sg Nom
+"<рӧдвуж>"
+	"рӧдвуж" N Sg Nom
+"<или>"
+	"или" Pcle
+"<оз>"
+	"оз" V Neg Ind Prs Sg3
+"<?>"
+	"?" CLB
+
+# sent_id = kpv_izva20150705-02-b.240
+# text = Сыа миянлы оз.
+"<Сыа>"
+	"сійӧ" Pron Err/Dial Dem
+"<миянлы>"
+	"ме" Pron Pers Pl1 Dat
+"<оз>"
+	"оз" V Neg Ind Prs Sg3
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.242+kpv_izva20150705-02-b.243+kpv_izva20150705-02-b.244
+# text = А но тіян, тэнад эмӧсь рӧдвужъяс кӧнкӧ Из сайын или Мурманскӧй областьын или, тӧдан?
+"<А>"
+	"а" Adv
+	"а" CC
+	"а" Interj
+"<но>"
+	"но" Adv
+	"но" CC
+	"но" Interj
+"<тіян>"
+	"тэ" Pron Pers Pl2 Gen
+"<,>"
+	"," CLB
+"<тэнад>"
+	"тэ" Pron Pers Sg2 Gen
+"<эмӧсь>"
+	"эм" V Ind Prs Pl3
+"<рӧдвужъяс>"
+	"рӧдвуж" N Pl Nom
+	"рӧдвуж" N Sg Ill PxSg3 So/CP
+	"рӧдвуж" N Sg Ine PxSg3 So/CP
+"<кӧнкӧ>"
+	"кӧнкӧ" Adv
+	"кӧнкӧ" Adv Indef Indef
+	"кӧнікӧ" Adv Indef Ine Der/кӧ
+"<Из сайын>"
+	"Из сай" N Prop Sem/Plc Sg Ine
+"<или>"
+	"или" Pcle
+"<Мурманскӧй>"
+	"Мурманск" N Prop Sem/Plc Sg Nom PxSg1
+	"мурманскӧй" A Sg Nom
+"<областьын>"
+	"область" N Sg Ine
+"<или>"
+	"или" Pcle
+"<,>"
+	"," CLB
+"<тӧдан>"
+	"тӧдны" V Ind Prs Sg2
+"<?>"
+	"?" CLB
+
+# sent_id = kpv_izva20150705-02-b.245
+# text = Тӧдан?
+"<Тӧдан>"
+	"тӧдны" V Ind Prs Sg2
+"<?>"
+	"?" CLB
+
+# sent_id = kpv_izva20150705-02-b.246
+# text = Ог тӧд, сідз, мед весьтас кодке.
+"<Ог>"
+	"оз" Aux Neg Ind Prs Sg1
+"<тӧд>"
+	"тӧдны" V ConNeg
+"<,>"
+	"," CLB
+"<сідз>"
+	"сідзи" Adv Manner
+"<,>"
+	"," CLB
+"<мед>"
+	"мед" N Sg Nom
+"<весьтас>"
+	"весьт" N Sg Ill PxSg3 So/CP
+	"весьт" N Sg Ine PxSg3 So/CP
+	"весьтас" Adv
+	"весьтас" N Sg Nom
+	"весьтын" Adp Po Sg Ine PxSg3
+	"весьтӧ" Adp Po Sg Ill PxSg3
+"<кодке>"
+	"кодкӧ" N Sg Nom
+	"кодкӧ" Pron Indef Indef Sg Nom Der/кӧ
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.247+kpv_izva20150705-02-b.252
+# text = Но Терентьевыс уна, ме думайта, кодке выйым, колис. Квайт, лыддьыны ке велэдчемсэ искусствояс гимназияын.
+"<Но>"
+	"но" Adv
+	"но" CC
+	"но" Interj
+"<Терентьевыс>"
+	"Терентьев" N Prop Sem/Sur-Mal Sg Nom PxSg3
+"<уна>"
+	"уна" Adv
+"<,>"
+	"," CLB
+"<ме>"
+	"ме" Pron Pers Sg1 Nom
+"<думайта>"
+	"думайтны" V Ind Prs Sg1
+"<,>"
+	"," CLB
+"<кодке>"
+	"кодкӧ" N Sg Nom
+	"кодкӧ" Pron Indef Indef Sg Nom Der/кӧ
+"<выйым>"
+	"эм" Err/Dial Ind Prs Sg3 WORK
+"<,>"
+	"," CLB
+"<колис>"
+	"кольны" V Ind Prt1 Sg3
+"<.>"
+	"." CLB
+"<Квайт>"
+	"квайт" Num Card Sg Nom
+"<,>"
+	"," CLB
+"<лыддьыны>"
+	"лыддьыны" V Inf
+"<ке>"
+	"кӧ" CS
+"<велэдчемсэ>"
+	"велӧдчыны" V Err/Dial Refl Err/Dial Der Der/ӧм PastPtc Clt/сӧ Err/Dial
+"<искусствояс>"
+	"искусство" N Pl Nom
+"<гимназияын>"
+	"гимназия" N Sg Ine
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.248
+# text = Гӧгӧрвоа.
+"<Гӧгӧрвоа>"
+	"гӧгӧрвоны" V Ind Prs Sg1
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.249
+# text = Да, ммм.
+"<Да>"
+	"да" Adv Parenthetic
+"<,>"
+	"," CLB
+"<ммм>"
+	"м-м" Interj Err/Dial
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.250
+# text = А кыдз тэ аддзан, шуам, кымын во тэ Сыктывкарын олін нин?
+"<А>"
+	"а" Adv
+	"а" CC
+	"а" Interj
+"<кыдз>"
+	"кыдз" Adv
+	"кыдз" N Sg Nom
+	"кыдз" Pron Adv Manner Interr
+	"кыдз" Pron Adv Manner Rel
+"<тэ>"
+	"тэ" Pron Pers Sg2 Nom
+"<аддзан>"
+	"аддзан" N Sg Nom
+	"аддзыны" V Ind Prs Sg2
+"<,>"
+	"," CLB
+"<шуам>"
+	"шуам" Adv Parenthetic
+	"шуны" V Ind Prs Pl1
+"<,>"
+	"," CLB
+"<кымын>"
+	"кым" N Sg Ine
+	"кымын" Adv
+	"кымын" Adv Qnt
+	"кымын" Adv Qnt Sg Nom
+	"кымын" CS
+	"кымын" Det Interr
+	"кымын" Det Rel
+"<во>"
+	"во" N Sg Nom
+"<тэ>"
+	"тэ" Pron Pers Sg2 Nom
+"<Сыктывкарын>"
+	"Сыктывкар" N Prop Sem/Plc Sem/Plc Sg Ine
+"<олін>"
+	"овны" V Ind Prt1 Sg2
+"<нин>"
+	"нин" Adv Sem/Time
+"<?>"
+	"?" CLB
+
+# sent_id = kpv_izva20150705-02-b.251
+# text = Ӧӧӧ.
+"<Ӧӧӧ>"
+	"Ӧӧӧ" ?
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.253
+# text = А кыдз тэ аддзан сэні, а Сыктывкарын тэ сэні, сэні уна комиӧн сёрнитан?
+"<А>"
+	"а" Adv
+	"а" CC
+	"а" Interj
+"<кыдз>"
+	"кыдз" Adv
+	"кыдз" N Sg Nom
+	"кыдз" Pron Adv Manner Interr
+	"кыдз" Pron Adv Manner Rel
+"<тэ>"
+	"тэ" Pron Pers Sg2 Nom
+"<аддзан>"
+	"аддзан" N Sg Nom
+	"аддзыны" V Ind Prs Sg2
+"<сэні>"
+	"сэні" Adv Ine
+"<,>"
+	"," CLB
+"<а>"
+	"а" CC
+"<Сыктывкарын>"
+	"Сыктывкар" N Prop Sem/Plc Sem/Plc Sg Ine
+"<тэ>"
+	"тэ" Pron Pers Sg2 Nom
+"<сэні>"
+	"сэні" Adv Ine
+"<,>"
+	"," CLB
+"<сэні>"
+	"сэні" Adv Ine
+"<уна>"
+	"уна" Adv
+	"уна" Det Sg Nom
+"<комиӧн>"
+	"коми" N Sg Ins
+"<сёрнитан>"
+	"сёрнитан" N Sg Nom
+	"сёрнитны" V Ind Prs Sg2
+"<?>"
+	"?" CLB
+
+# sent_id = kpv_izva20150705-02-b.254
+# text = Сэні эмӧсь уна местаяс, кӧні комиэн позьӧ сёрнитны?
+"<Сэні>"
+	"сэні" Adv Ine
+"<эмӧсь>"
+	"эм" V Ind Prs Pl3
+"<уна>"
+	"уна" Adv
+	"уна" Det Sg Nom
+"<местаяс>"
+	"места" N Pl Nom
+"<,>"
+	"," CLB
+"<кӧні>"
+	"кӧні" Adv Ine Rel
+"<комиэн>"
+	"коми" N Sg Err/Dial Ins
+"<позьӧ>"
+	"позьны" V Ind Prs Sg3
+"<сёрнитны>"
+	"сёрнитны" V Inf
+"<?>"
+	"?" CLB
+
+# sent_id = kpv_izva20150705-02-b.255
+# text = Ме быд ёрткед, код ме тӧда, мый ная коми, сёрнита комиэн.
+"<Ме>"
+	"ме" Pron Pers Sg1 Nom
+"<быд>"
+	"быд" Pron Qnt
+"<ёрткед>"
+	"ёрт" N Sg Com
+"<,>"
+	"," CLB
+"<код>"
+	"код" A Sg Nom
+	"код" N Sg Nom
+	"коді" Pron Rel
+	"коді" Pron Rel Sg Nom
+"<ме>"
+	"ме" Pron Pers Sg1 Nom
+"<тӧда>"
+	"тӧдны" V Ind Prs Sg1
+"<,>"
+	"," CLB
+"<мый>"
+	"мый" CS
+"<ная>"
+	"ная" Pron Dem Pl Nom Err/Dial
+"<коми>"
+	"коми" N Sg Nom
+"<,>"
+	"," CLB
+"<сёрнита>"
+	"сёрнитны" V Ind Prs Sg1
+"<комиэн>"
+	"коми" N Sg Err/Dial Ins
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.256
+# text = Ме ке муна ньӧбасьны, ме сёрнита комиэн, но ог висьтоо ставсэ дзик комиэн.
+"<Ме>"
+	"ме" Pron Pers Sg1 Nom
+"<ке>"
+	"кӧ" CS
+"<муна>"
+	"мунны" V Ind Prs Sg1
+"<ньӧбасьны>"
+	"ньӧбасьны" V Refl Inf
+"<,>"
+	"," CLB
+"<ме>"
+	"ме" Pron Pers Sg1 Nom
+"<сёрнита>"
+	"сёрнитны" V Ind Prs Sg1
+"<комиэн>"
+	"коми" N Sg Err/Dial Ins
+"<,>"
+	"," CLB
+"<но>"
+	"но" CC
+"<ог>"
+	"оз" Aux Neg Ind Prs Sg1
+"<висьтоо>"
+	"висьтавны" V Err/Dial ConNeg
+"<ставсэ>"
+	"став" Pron Sg Nom Clt/сӧ Err/Dial
+"<дзик>"
+	"дзик" Adv Deg
+"<комиэн>"
+	"коми" N Sg Err/Dial Ins
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.257+kpv_izva20150705-02-b.258
+# text = Но шуа: "Видза оланныд!" "Аттьӧсэ" висьтала, "аддзысьлытэдз", "аддзысьлам".
+"<Но>"
+	"но" Adv
+	"но" CC
+	"но" Interj
+"<шуа>"
+	"шуны" V Ind Prs Sg1
+"<:>"
+	":" CLB
+"<">"
+	""" PUNCT
+"<Видза>"
+	"видза" A Sg Nom
+	"видзны" V Ind Prs Sg1
+"<оланныд>"
+	"овны" V Ind Prs Pl2
+"<!>"
+	"!" CLB
+
+"<">"
+	""" PUNCT
+"<">"
+	""" PUNCT
+"<Аттьӧсэ>"
+	"аттьыны" V Ind Prs Sg3 Clt/сӧ Err/Dial
+	"аттьӧ" N Sg Acc PxSg3 Err/Dial
+"<">"
+	""" PUNCT
+"<висьтала>"
+	"висьтавны" V Ind Prs Sg1
+"<,>"
+	"," CLB
+"<">"
+	""" PUNCT
+"<аддзысьлытэдз>"
+	"аддзысьлыны" V Refl Err/Dial VTer
+"<">"
+	""" PUNCT
+"<,>"
+	"," CLB
+"<">"
+	""" PUNCT
+"<аддзысьлам>"
+	"аддзысьлыны" V Refl Ind Prs Pl1
+"<">"
+	""" PUNCT
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.259+kpv_izva20150705-02-b.260+kpv_izva20150705-02-b.261+kpv_izva20150705-02-b.262
+# text = А оолылэ, мый кыла кыське "Ой эта комиясыс!", и менам сідз мыйке юрам, и специальнэ куш комиэн сёрнита, мед менэ хӧтьтэ кудз гӧгервоасны, мед менэ гӧгервоасны.
+"<А>"
+	"а" Adv
+	"а" CC
+	"а" Interj
+"<оолылэ>"
+	"овлыны" V Err/Dial Der/л Ind Prs Err/Dial Sg3
+	"овны" V Err/Dial Der/л Der/л Ind Prs Err/Dial Sg3
+"<,>"
+	"," CLB
+"<мый>"
+	"мый" CS
+"<кыла>"
+	"кы" N Sg Cns
+	"кывны" V Ind Prs Sg1
+	"кыла" N Sg Nom
+"<кыське>"
+	"кыськӧ" Adv Indef Ela Der/кӧ
+	"кыськӧ" Adv Indef Indef
+"<">"
+	""" PUNCT
+"<Ой>"
+	"ой" Interj
+	"ой" N Sg Nom
+"<эта>"
+	"этайӧ" Pron Dem Sg Cmpl
+"<комиясыс>"
+	"коми" N Pl Nom PxSg3
+"<!>"
+	"!" CLB
+
+"<">"
+	""" PUNCT
+"<,>"
+	"," CLB
+"<и>"
+	"и" Adv
+	"и" CC
+"<менам>"
+	"ме" Pron Pers Sg1 Gen
+	"менам" N Sg Nom
+"<сідз>"
+	"сідзи" Adv Manner
+"<мыйке>"
+	"мыйкӧ" Pron Indef Indef Sg Nom Der/кӧ
+"<юрам>"
+	"юр" N Sg Ill PxSg1 So/CP
+	"юр" N Sg Ine PxSg1 So/CP
+"<,>"
+	"," CLB
+"<и>"
+	"и" Adv
+	"и" CC
+"<специальнэ>"
+	"специальнэ" A Err/Dial Sg Nom
+"<куш>"
+	"куш" A Sg Nom
+"<комиэн>"
+	"коми" N Sg Err/Dial Ins
+"<сёрнита>"
+	"сёрнитны" V Ind Prs Sg1
+"<,>"
+	"," CLB
+"<мед>"
+	"мед" Adv
+	"мед" CS
+	"мед" N Sg Nom
+"<менэ>"
+	"ме" Pron Pers Sg1 Err/Dial Acc
+"<хӧтьтэ>"
+	"хӧтьтэ" ?
+"<кудз>"
+	"кудз" Adv Interr Manner Err/Orth Interr
+	"кудз" Adv Interr Manner Err/Orth Rel
+	"кудз" N Sg Nom
+"<гӧгервоасны>"
+	"гӧгервоасны" ?
+"<,>"
+	"," CLB
+"<мед>"
+	"мед" Adv
+	"мед" CS
+	"мед" N Sg Nom
+"<менэ>"
+	"ме" Pron Pers Sg1 Err/Dial Acc
+"<гӧгервоасны>"
+	"гӧгервоасны" ?
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.263
+# text = И мыйке.
+"<И>"
+	"и" Adv
+	"и" CC
+"<мыйке>"
+	"мыйкӧ" N Sg Nom
+	"мыйкӧ" Pron Indef Indef Sg Nom Der/кӧ
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.264
+# text = А Сыктывкарын позе тӧдны, шуам, тэ аддзан ӧтік морт, позе тӧдны, мый тайӧ коми?
+"<А>"
+	"а" Adv
+	"а" CC
+	"а" Interj
+"<Сыктывкарын>"
+	"Сыктывкар" N Prop Sem/Plc Sem/Plc Sg Ine
+"<позе>"
+	"позьны" V Ind Prs Err/Dial Sg3
+"<тӧдны>"
+	"тӧдны" V Inf
+"<,>"
+	"," CLB
+"<шуам>"
+	"шуам" Adv Parenthetic
+	"шуны" V Ind Prs Pl1
+"<,>"
+	"," CLB
+"<тэ>"
+	"тэ" Pron Pers Sg2 Nom
+"<аддзан>"
+	"аддзан" N Sg Nom
+	"аддзыны" V Ind Prs Sg2
+"<ӧтік>"
+	"ӧти" Num Err/Dial Card Sg Nom
+"<морт>"
+	"морт" N Sg Nom
+"<,>"
+	"," CLB
+"<позе>"
+	"позьны" V Ind Prs Err/Dial Sg3
+"<тӧдны>"
+	"тӧдны" V Inf
+"<,>"
+	"," CLB
+"<мый>"
+	"мый" CS
+"<тайӧ>"
+	"тайӧ" Pron Dem Sg Nom
+"<коми>"
+	"коми" N Sg Nom
+"<?>"
+	"?" CLB
+
+# sent_id = kpv_izva20150705-02-b.265
+# text = Тайӧ роч или?
+"<Тайӧ>"
+	"тайӧ" Pron Dem Sg Nom
+"<роч>"
+	"роч" N Sg Nom
+"<или>"
+	"или" Pcle
+"<?>"
+	"?" CLB
+
+# sent_id = kpv_izva20150705-02-b.266+kpv_izva20150705-02-b.267+kpv_izva20150705-02-b.268
+# text = Чужем кузяыс кудзке позе тӧдмооны, мый тая кӧнке коми, кор тӧдан антропологическей характеристикаяс, вот дзик, дзик мый эта мортыс кӧнке коми, вот тыдалэ мукед кузя.
+"<Чужем>"
+	"чужны" V Err/Dial Der Der/ӧм Der/NomAct N Sg Nom
+"<кузяыс>"
+	"кузя" Adp Po PxSg3
+"<кудзке>"
+	"кыдзкӧ" Adv Indef Manner Err/Dial Der/кӧ
+"<позе>"
+	"позьны" V Ind Prs Err/Dial Sg3
+"<тӧдмооны>"
+	"тӧдмавны" V Err/Dial Inf
+"<,>"
+	"," CLB
+"<мый>"
+	"мый" CS
+"<тая>"
+	"тая" N Sg Nom
+"<кӧнке>"
+	"кӧнкӧ" Adv
+	"кӧнкӧ" Adv Indef Indef
+	"кӧнікӧ" Adv Indef Ine Der/кӧ
+"<коми>"
+	"коми" N Sg Nom
+"<,>"
+	"," CLB
+"<кор>"
+	"кор" Adv Rel Sem/Time
+"<тӧдан>"
+	"тӧдны" V Ind Prs Sg2
+"<антропологическей>"
+	"антропологическӧй" A Sg Nom
+"<характеристикаяс>"
+	"характеристика" N Pl Nom
+"<,>"
+	"," CLB
+"<вот>"
+	"вот" Adv Parenthetic
+	"вот" N Sg Nom
+	"вотны" V Imprt Sg2
+"<дзик>"
+	"дзик" Adv Deg
+"<,>"
+	"," CLB
+"<дзик>"
+	"дзик" Adv Deg
+"<мый>"
+	"мый" CS
+	"мый" Pron Interr Sg Nom
+"<эта>"
+	"этайӧ" Pron Dem Sg Cmpl
+"<мортыс>"
+	"морт" N Sg Nom PxSg3
+"<кӧнке>"
+	"кӧнкӧ" Adv
+	"кӧнкӧ" Adv Indef Indef
+	"кӧнікӧ" Adv Indef Ine Der/кӧ
+"<коми>"
+	"коми" N Sg Nom
+"<,>"
+	"," CLB
+"<вот>"
+	"вот" Adv Parenthetic
+	"вот" N Sg Nom
+	"вотны" V Imprt Sg2
+"<тыдалэ>"
+	"тыдавны" V Ind Prs Err/Dial Sg3
+"<мукед>"
+	"мукӧд" Pron Sg Nom
+"<кузя>"
+	"кузя" A Sg Nom
+	"кузя" Adp Po
+	"кузя" Adv
+	"кузя" N Sg Nom
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.269+kpv_izva20150705-02-b.270+kpv_izva20150705-02-b.271+kpv_izva20150705-02-b.272+kpv_izva20150705-02-b.273
+# text = А мукед кузя оз, эстшем оолылэ: неважен автобусын муні и видзеда - кондукторыс, но чужемыс но комисьыс коми. Ме сылы висьтала: "Аттьӧ зэв ыджыд" - билетсэ мынтэмсьыс, висьталэ: "Нинэмла".
+"<А>"
+	"а" Adv
+	"а" CC
+	"а" Interj
+"<мукед>"
+	"мукӧд" Pron Sg Nom
+"<кузя>"
+	"кузя" Adp Po
+	"кузя" Adv
+	"кузя" N Sg Nom
+"<оз>"
+	"оз" V Neg Ind Prs Sg3
+"<,>"
+	"," CLB
+"<эстшем>"
+	"эстшӧм" Err/Dial Dem
+"<оолылэ>"
+	"овлыны" V Err/Dial Der/л Ind Prs Err/Dial Sg3
+	"овны" V Err/Dial Der/л Der/л Ind Prs Err/Dial Sg3
+"<:>"
+	":" CLB
+"<неважен>"
+	"неважен" ?
+"<автобусын>"
+	"автобус" N Sg Ine
+"<муні>"
+	"мунны" V Ind Prt1 Err/Dial Sg3
+"<и>"
+	"и" CC
+"<видзеда>"
+	"видзӧдны" V Err/Dial Ind Prs Sg1
+"<->"
+	"-" PUNCT
+"<кондукторыс>"
+	"кондуктор" N Sg Nom PxSg3
+"<,>"
+	"," CLB
+"<но>"
+	"но" CC
+"<чужемыс>"
+	"чужны" V Err/Dial Der Der/ӧм Der/NomAct N Sg Nom PxSg3
+"<но>"
+	"но" CC
+"<комисьыс>"
+	"коми" N Sg Ela PxSg3 So/CP
+"<коми>"
+	"коми" N Sg Nom
+"<.>"
+	"." CLB
+"<Ме>"
+	"ме" Pron Pers Sg1 Nom
+"<сылы>"
+	"сійӧ" Pron Pers Sg3 Dat
+"<висьтала>"
+	"висьтавны" V Ind Prs Sg1
+"<:>"
+	":" CLB
+"<">"
+	""" PUNCT
+"<Аттьӧ>"
+	"аттьыны" V Ind Prs Sg3
+	"аттьӧ" Interj
+	"аттьӧ" Interj Formulaic
+	"аттьӧ" N Sg Nom
+"<зэв>"
+	"зэв" Adv
+"<ыджыд>"
+	"ыджыд" A Sg Nom
+"<">"
+	""" PUNCT
+"<->"
+	"-" PUNCT
+"<билетсэ>"
+	"билет" N Sg Acc PxSg3 Err/Dial
+"<мынтэмсьыс>"
+	"мынтыны" V Err/Dial Der Der/ӧм Der/NomAct N Sg Ela PxSg3 So/CP
+"<,>"
+	"," CLB
+"<висьталэ>"
+	"висьтавны" V Ind Prs Err/Dial Sg3
+"<:>"
+	":" CLB
+"<">"
+	""" PUNCT
+"<Нинэмла>"
+	"нинӧм" Err/Dial Neg Sg Cns
+"<">"
+	""" PUNCT
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.274+kpv_izva20150705-02-b.275+kpv_izva20150705-02-b.276+kpv_izva20150705-02-b.277+kpv_izva20150705-02-b.278+kpv_izva20150705-02-b.279
+# text = И вочавидзис комиэн, ыысянь нин тӧдмалі, мый сыа тыдалэ, мый вермас комиэн вӧӧсьыны. Да и кыы кузяыс, мыля кылан ке, мортыс кор сёрнитэ, вот ӧ-ыс да мӧдпӧлэс шыяс кузяыс тэ верман гӧгервоны, мый мортыслэн чужан кылыс мӧд, и матсаджык сыа коми доре.
+"<И>"
+	"и" Adv
+	"и" CC
+"<вочавидзис>"
+	"вочавидзны" V Ind Prt1 Sg3
+"<комиэн>"
+	"коми" N Sg Err/Dial Ins
+"<,>"
+	"," CLB
+"<ыысянь>"
+	"ыысянь" ?
+"<нин>"
+	"нин" Adv Sem/Time
+	"нин" N Sg Nom
+"<тӧдмалі>"
+	"тӧдмавны" V Ind Prt1 Err/Dial Sg3
+"<,>"
+	"," CLB
+"<мый>"
+	"мый" CS
+"<сыа>"
+	"сійӧ" Pron Err/Dial Dem
+"<тыдалэ>"
+	"тыдавны" V Ind Prs Err/Dial Sg3
+"<,>"
+	"," CLB
+"<мый>"
+	"мый" CS
+"<вермас>"
+	"вермыны" V Ind Fut Sg3
+"<комиэн>"
+	"коми" N Sg Err/Dial Ins
+"<вӧӧсьыны>"
+	"вӧвсьыны" V Err/Dial Refl Inf
+"<.>"
+	"." CLB
+"<Да>"
+	"да" CC
+	"да" CS
+"<и>"
+	"и" Adv
+	"и" CC
+"<кыы>"
+	"кыв" N Err/Dial Sg Err/Dial Nom
+"<кузяыс>"
+	"кузя" Adp Po PxSg3
+"<,>"
+	"," CLB
+"<мыля>"
+	"мыйла" Err/Dial CS
+	"мыйла" Err/Dial Qnt
+"<кылан>"
+	"кывны" V Ind Prs Sg2
+	"кылан" Adv
+"<ке>"
+	"кӧ" CS
+"<,>"
+	"," CLB
+"<мортыс>"
+	"морт" N Sg Nom PxSg3
+"<кор>"
+	"кор" Adv Rel Sem/Time
+"<сёрнитэ>"
+	"сёрни" N Sg Acc PxSg2 Err/Dial
+	"сёрнитны" V Ind Prs Err/Dial Sg3
+"<,>"
+	"," CLB
+"<вот>"
+	"вот" Adv Parenthetic
+	"вот" N Sg Nom
+	"вотны" V Imprt Sg2
+"<ӧ-ыс>"
+	"ӧ" N ABBR Sg Nom PxSg3
+"<да>"
+	"да" Adv Parenthetic
+"<мӧдпӧлэс>"
+	"мӧдпӧлэс" ?
+"<шыяс>"
+	"шы" N Pl Nom
+	"шыяс" N Sg Nom
+"<кузяыс>"
+	"кузя" Adp Po PxSg3
+"<тэ>"
+	"тэ" Pron Pers Sg2 Nom
+"<верман>"
+	"вермыны" V Ind Prs Sg2
+"<гӧгервоны>"
+	"гӧгервоны" ?
+"<,>"
+	"," CLB
+"<мый>"
+	"мый" CS
+"<мортыслэн>"
+	"морт" N Sg Err/Dial Gen PxSg3 So/PC
+"<чужан>"
+	"чужны" V Der Der/Ан PrsPtc
+"<кылыс>"
+	"кыл" N Sg Nom PxSg3
+"<мӧд>"
+	"мӧд" Num Ord Sg Nom
+	"мӧд" Pron Dem
+"<,>"
+	"," CLB
+"<и>"
+	"и" Adv
+	"и" CC
+"<матсаджык>"
+	"мат" N Sg Der Der/LocMod A Comp
+	"мат" N Sg Der Der/LocMod A Comp Sg Nom
+"<сыа>"
+	"сійӧ" Pron Err/Dial Dem
+"<коми>"
+	"коми" N Sg Nom
+"<доре>"
+	"дор" N Relat Sg Err/Dial Ill
+	"дор" N Relat Sg Nom PxSg1 Err/Dial
+	"дорны" V Ind Prs Err/Dial Sg3
+	"дорь" N Sg Err/Dial Ill
+	"дорь" N Sg Nom PxSg1 Err/Dial
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.280
+# text = Ну, унджыкыслэн кылэ мортыслэн.
+"<Ну>"
+	"нуны" V Imprt Sg2
+"<,>"
+	"," CLB
+"<унджыкыслэн>"
+	"уна" Det Comp Sg Err/Dial Gen PxSg3 So/PC
+"<кылэ>"
+	"кыв" N Err/Dial Sg Err/Dial Ill
+	"кыв" N Err/Dial Sg Nom PxSg1 Err/Dial
+	"кывны" V Ind Prs Err/Dial Sg3
+	"кыл" N Sg Err/Dial Ill
+	"кыл" N Sg Nom PxSg1 Err/Dial
+"<мортыслэн>"
+	"морт" N Sg Err/Dial Gen PxSg3 So/PC
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.281
+# text = Ммм.
+"<Ммм>"
+	"м-м" Interj Err/Dial
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.282+kpv_izva20150705-02-b.283+kpv_izva20150705-02-b.284
+# text = А кыдз, ӧні квайт во, мый тэ олін Сыктывкарын, сэні мыйкӧ, тэ верман аддзыны, мый сэн мыйкӧ вежсьӧма, шуам, йӧз унджыка сёрнитӧ комиӧн или этшаджыка или сэтшӧм жӧ ногӧн, кыдзи?
+"<А>"
+	"а" Adv
+	"а" CC
+	"а" Interj
+"<кыдз>"
+	"кыдз" Adv
+	"кыдз" N Sg Nom
+	"кыдз" Pron Adv Manner Interr
+	"кыдз" Pron Adv Manner Rel
+"<,>"
+	"," CLB
+"<ӧні>"
+	"ӧні" Adv
+"<квайт>"
+	"квайт" Num Card Sg Nom
+"<во>"
+	"во" N Sg Nom
+	"воны" V Imprt Sg2
+"<,>"
+	"," CLB
+"<мый>"
+	"мый" CS
+"<тэ>"
+	"тэ" Pron Pers Sg2 Nom
+"<олін>"
+	"овны" V Ind Prt1 Sg2
+"<Сыктывкарын>"
+	"Сыктывкар" N Prop Sem/Plc Sem/Plc Sg Ine
+"<,>"
+	"," CLB
+"<сэні>"
+	"сэні" Adv Ine
+"<мыйкӧ>"
+	"мыйкӧ" N Sg Nom
+	"мыйкӧ" Pron Indef Indef Sg Nom Der/кӧ
+"<,>"
+	"," CLB
+"<тэ>"
+	"тэ" Pron Pers Sg2 Nom
+"<верман>"
+	"вермыны" V Ind Prs Sg2
+"<аддзыны>"
+	"аддзыны" V Inf
+"<,>"
+	"," CLB
+"<мый>"
+	"мый" CS
+"<сэн>"
+	"сэн" N Sg Nom
+	"сэні" Adv Ine
+"<мыйкӧ>"
+	"мыйкӧ" Pron Indef Indef Sg Nom Der/кӧ
+"<вежсьӧма>"
+	"вежсьыны" V Refl Ind Prt2 Sg1
+	"вежсьыны" V Refl Ind Prt2 Sg3
+"<,>"
+	"," CLB
+"<шуам>"
+	"шуам" Adv Parenthetic
+	"шуны" V Ind Prs Pl1
+"<,>"
+	"," CLB
+"<йӧз>"
+	"йӧз" N Sg Nom
+"<унджыка>"
+	"уна" Det Comp Der Der/а
+"<сёрнитӧ>"
+	"сёрни" N Sg Acc PxSg2
+	"сёрнитны" V Ind Prs Sg3
+"<комиӧн>"
+	"коми" N Sg Ins
+"<или>"
+	"или" Pcle
+"<этшаджыка>"
+	"этш" N Sg Der Der/ProprietiveMod A Comp Der Der/а
+"<или>"
+	"или" Pcle
+"<сэтшӧм>"
+	"сэтшӧм" A Sg Nom
+	"сэтшӧм" Pron Det Dem Sg Nom
+"<жӧ>"
+	"жӧ" Adv Parenthetic
+"<ногӧн>"
+	"ног" N Sg Ins
+	"ногӧн" Adv Ins
+"<,>"
+	"," CLB
+"<кыдзи>"
+	"кыдзи" CS
+	"кыдзи" Pron Adv Manner Rel
+"<?>"
+	"?" CLB
+
+# sent_id = kpv_izva20150705-02-b.285
+# text = Мен кажитче, унджык неуна кутісны сёрнитны.
+"<Мен>"
+	"ме" Pron Pers Sg1 Dat
+"<кажитче>"
+	"кажитчыны" V Refl Ind Prs Err/Dial Sg3
+"<,>"
+	"," CLB
+"<унджык>"
+	"ун" N Sg Nom Comp
+	"уна" Adv Comp
+	"уна" Det Comp Sg Nom
+"<неуна>"
+	"неуна" Adv
+	"неуна" Adv Qnt
+	"неуна" Adv Qnt Sg Nom
+"<кутісны>"
+	"кутны" V Ind Prt1 Pl3
+"<сёрнитны>"
+	"сёрнитны" V Inf
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.286+kpv_izva20150705-02-b.287
+# text = Кор ме медводз курсъясас локті, но ме иг аддзы, мый сэтшем зэй-зэй уна морт сёрнитісны.
+"<Кор>"
+	"кор" Adv Rel Sem/Time
+	"кор" CS
+	"кор" N Sg Nom
+	"корны" V Imprt Sg2
+"<ме>"
+	"ме" Pron Pers Sg1 Nom
+"<медводз>"
+	"водз" Adv Superl
+"<курсъясас>"
+	"курс" N Pl Ill PxSg3 So/CP
+	"курс" N Pl Ine PxSg3 So/CP
+"<локті>"
+	"лок" N Sg Tra
+"<,>"
+	"," CLB
+"<но>"
+	"но" CC
+"<ме>"
+	"ме" Pron Pers Sg1 Nom
+"<иг>"
+	"оз" Aux Neg Ind Prt1 Pl1 Err/Dial
+"<аддзы>"
+	"аддзыны" V ConNeg
+"<,>"
+	"," CLB
+"<мый>"
+	"мый" CS
+"<сэтшем>"
+	"сэтшӧм" A Err/Dial Det Dem
+	"сэтшӧм" A Err/Dial Det Dem Sg Nom
+"<зэй-зэй>"
+	"зэй-зэй" Adv
+"<уна>"
+	"уна" Adv
+	"уна" Det Sg Nom
+"<морт>"
+	"морт" N Sg Nom
+"<сёрнитісны>"
+	"сёрнитны" V Ind Prt1 Pl3
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.288+kpv_izva20150705-02-b.289+kpv_izva20150705-02-b.290+kpv_izva20150705-02-b.291+kpv_izva20150705-02-b.292+kpv_izva20150705-02-b.293+kpv_izva20150705-02-b.294+kpv_izva20150705-02-b.295+kpv_izva20150705-02-b.296
+# text = Ӧӧӧ, но сідзже ме иг зэй интересуйтчы тае теманас и ме медводз курсъясас иг аддзыл, мый мукед мортыс зэй оз радейтны коми кыы велэдэмсэ. А вот именнэ кор ме нин пыредчи тае велэдэмас, ӧӧ, тӧдмаси йӧзыскед и куті лыддьыны определеннэй ресурсъяс, и ме сэтысь вошйи аддзыны, мый зэй, но абу же зэй уна, но выйым сэтшем морт Комиас, рочьяс, кодъяс зэй лёка относитчены коми кыы велэдэм дорас.
+"<Ӧӧӧ>"
+	"Ӧӧӧ" ?
+"<,>"
+	"," CLB
+"<но>"
+	"но" CC
+"<сідзже>"
+	"сідзже" ?
+"<ме>"
+	"ме" Pron Pers Sg1 Nom
+"<иг>"
+	"оз" V Neg Ind Prt1 Pl1 Err/Dial
+"<зэй>"
+	"зэв" Adv Err/Dial
+"<интересуйтчы>"
+	"интересуйтчыны" V Refl ConNeg
+	"интересуйтчыны" V Refl Imprt Sg2
+"<тае>"
+	"тайӧ" Pron Dem Sg Nom Err/Dial
+"<теманас>"
+	"тема" N Sg Ins PxSg3 So/CP
+"<и>"
+	"и" Adv
+"<ме>"
+	"ме" Pron Pers Sg1 Nom
+"<медводз>"
+	"водз" Adv Superl
+"<курсъясас>"
+	"курс" N Pl Ill PxSg3 So/CP
+	"курс" N Pl Ine PxSg3 So/CP
+"<иг>"
+	"оз" V Neg Ind Prt1 Pl1 Err/Dial
+"<аддзыл>"
+	"аддзыл" ?
+"<,>"
+	"," CLB
+"<мый>"
+	"мый" CS
+"<мукед>"
+	"мукӧд" Pron Sg Nom
+"<мортыс>"
+	"морт" N Sg Nom PxSg3
+"<зэй>"
+	"зэв" Adv Err/Dial
+"<оз>"
+	"оз" Aux Neg Ind Prs Pl3
+"<радейтны>"
+	"радейтны" V ConNeg Pl3
+"<коми>"
+	"коми" N Sg Nom
+"<кыы>"
+	"кы" N Sg Err/Dial Ill
+	"кыв" N Err/Dial Sg Err/Dial Nom
+"<велэдэмсэ>"
+	"велӧдны" V Err/Dial Err/Dial Der Der/ӧм Der/NomAct N Sg Acc PxSg3 Err/Dial
+"<.>"
+	"." CLB
+"<А>"
+	"а" Adv
+	"а" CC
+	"а" Interj
+"<вот>"
+	"вот" Adv Parenthetic
+	"вот" N Sg Nom
+	"вотны" V ConNeg
+	"вотны" V Imprt Sg2
+"<именнэ>"
+	"именнӧй" A Der Der/Adv Err/Dial Adv
+"<кор>"
+	"кор" Adv Rel Sem/Time
+	"кор" CS
+	"кор" N Sg Nom
+"<ме>"
+	"ме" Pron Pers Sg1 Nom
+"<нин>"
+	"нин" Adv Sem/Time
+	"нин" N Sg Nom
+"<пыредчи>"
+	"пыредчи" ?
+"<тае>"
+	"тайӧ" Pron Dem Sg Nom Err/Dial
+"<велэдэмас>"
+	"велӧдны" V Err/Dial Err/Dial Der Der/ӧм Der/NomAct N Sg Ill PxSg3 So/CP
+	"велӧдны" V Err/Dial Err/Dial Der Der/ӧм Der/NomAct N Sg Ine PxSg3 So/CP
+"<,>"
+	"," CLB
+"<ӧӧ>"
+	"оо" Interj Err/Dial
+"<,>"
+	"," CLB
+"<тӧдмаси>"
+	"тӧдмасьны" V Refl Ind Prt1 Err/Dial Sg3
+"<йӧзыскед>"
+	"йӧз" N Sg Com PxSg3 So/PC
+"<и>"
+	"и" CC
+"<куті>"
+	"ку" N Sg Tra
+"<лыддьыны>"
+	"лыддьыны" V Inf
+"<определеннэй>"
+	"определеннэй" ?
+"<ресурсъяс>"
+	"ресурс" N Pl Nom
+"<,>"
+	"," CLB
+"<и>"
+	"и" Adv
+	"и" CC
+"<ме>"
+	"ме" Pron Pers Sg1 Nom
+"<сэтысь>"
+	"сэт" N Sg Ela
+	"сэтысь" Adv Ela
+"<вошйи>"
+	"вошйыны" V Ind Prt1 Sg1
+"<аддзыны>"
+	"аддзыны" V Inf
+"<,>"
+	"," CLB
+"<мый>"
+	"мый" CS
+"<зэй>"
+	"зэв" Adv Err/Dial
+"<,>"
+	"," CLB
+"<но>"
+	"но" CC
+"<абу>"
+	"абу" N Sg Nom
+	"абу" Pcle Aux Neg
+	"абу" V Neg Cop Ind Sg
+"<же>"
+	"жӧ" Pcle Err/Dial
+"<зэй>"
+	"зэв" Adv Err/Dial
+"<уна>"
+	"уна" Adv
+	"уна" Det Sg Nom
+"<,>"
+	"," CLB
+"<но>"
+	"но" CC
+"<выйым>"
+	"эм" Err/Dial Ind Prs Sg3 WORK
+"<сэтшем>"
+	"сэтшӧм" A Err/Dial Det Dem
+	"сэтшӧм" A Err/Dial Det Dem Sg Nom
+"<морт>"
+	"морт" N Sg Nom
+"<Комиас>"
+	"Коми" N Prop Sem/Plc Sem/Plc Sg Ill PxSg3 So/CP
+	"Коми" N Prop Sem/Plc Sem/Plc Sg Ine PxSg3 So/CP
+	"коми" N Sg Ill PxSg3 So/CP
+	"коми" N Sg Ine PxSg3 So/CP
+"<,>"
+	"," CLB
+"<рочьяс>"
+	"роч" N Pl Nom
+"<,>"
+	"," CLB
+"<кодъяс>"
+	"код" A Pl Nom
+	"код" N Pl Nom
+	"кодйыны" V Ind Fut Sg3
+	"коді" Pron Rel Pl Nom
+"<зэй>"
+	"зэв" Adv Err/Dial
+"<лёка>"
+	"лёка" Adv
+	"лёка" Adv Deg
+	"лёка" CS
+	"лёка" N Sg Nom
+"<относитчены>"
+	"относитчыны" V Ind Prs Err/Dial Pl3
+"<коми>"
+	"коми" N Sg Nom
+"<кыы>"
+	"кы" N Sg Err/Dial Ill
+	"кыв" N Err/Dial Sg Err/Dial Nom
+	"кывны" V Err/Dial ConNeg
+"<велэдэм>"
+	"велӧдны" V Err/Dial Err/Dial Der Der/ӧм Der/NomAct N Sg Nom
+"<дорас>"
+	"дор" N Relat Sg Ill PxSg3 So/CP
+	"дор" N Relat Sg Ine PxSg3 So/CP
+	"дорны" V Ind Fut Sg3
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.297+kpv_izva20150705-02-b.298+kpv_izva20150705-02-b.299+kpv_izva20150705-02-b.300
+# text = Мый выйымесь коми кыыяс, висьталэны, ті Роч му вылын оланныд, а он Коми му вылын, сіенсэ рочен сёрнитэ, мый вылэ тая коми кылыс колэ, тая всё равно кулас. Сёрнитэны сӧмын сиктъясын да бабъяс-дедъяс, томъяс сіен оз сёрнитны.
+"<Мый>"
+	"мый" Pron Interr Sg Nom
+"<выйымесь>"
+	"эм" Err/Dial Ind Prs Pl3 WORK
+"<коми>"
+	"коми" N Sg Nom
+"<кыыяс>"
+	"кыв" N Err/Dial Err/Orth Dial/л Pl Nom
+	"кыв" N Err/Dial Pl Err/Dial Nom
+"<,>"
+	"," CLB
+"<висьталэны>"
+	"висьтавны" V Ind Prs Err/Dial Pl3
+"<,>"
+	"," CLB
+"<ті>"
+	"тэ" Pron Pers Pl2 Nom
+"<Роч му>"
+	"Роч му" N Prop Sem/Plc Sg Nom
+"<вылын>"
+	"выв" N Relat Sg Ine
+	"вылын" Adv Ine
+"<оланныд>"
+	"овны" V Ind Prs Pl2
+"<,>"
+	"," CLB
+"<а>"
+	"а" CC
+"<он>"
+	"оз" V Neg Ind Prs Sg2
+"<Коми му>"
+	"Коми му" N Prop Sem/Txt Sg Nom
+"<вылын>"
+	"выв" N Relat Sg Ine
+	"вылын" Adv Ine
+"<,>"
+	"," CLB
+"<сіенсэ>"
+	"сійӧ" Pron Pers Sg3 Ins Err/Dial Clt/сӧ Err/Dial
+"<рочен>"
+	"роч" N Sg Err/Dial Ins
+"<сёрнитэ>"
+	"сёрни" N Sg Acc PxSg2 Err/Dial
+	"сёрнитны" V Ind Prs Err/Dial Sg3
+"<,>"
+	"," CLB
+"<мый>"
+	"мый" CS
+"<вылэ>"
+	"выв" N Relat Sg Err/Dial Ill
+	"выв" N Relat Sg Nom PxSg1 Err/Dial
+	"вывны" V Ind Prs Err/Dial Sg3
+"<тая>"
+	"тая" Pron Dem Sg Nom Err/Dial
+"<коми>"
+	"коми" N Sg Nom
+"<кылыс>"
+	"кыл" N Sg Nom PxSg3
+"<колэ>"
+	"ковны" V Ind Prs Err/Dial Sg3
+	"кол" N Sg Err/Dial Ill
+	"кол" N Sg Nom PxSg1 Err/Dial
+"<,>"
+	"," CLB
+"<тая>"
+	"тая" N Sg Nom
+"<всё>"
+	"всё" ?
+"<равно>"
+	"равно" Adv
+"<кулас>"
+	"кувны" V Ind Fut Sg3
+"<.>"
+	"." CLB
+"<Сёрнитэны>"
+	"сёрнитны" V Ind Prs Err/Dial Pl3
+"<сӧмын>"
+	"сӧмын" Adv
+	"сӧмын" N Sg Nom
+"<сиктъясын>"
+	"сикт" N Pl Ine
+"<да>"
+	"да" CC
+"<бабъяс-дедъяс>"
+	"бабъяс-дедъяс" ?
+"<,>"
+	"," CLB
+"<томъяс>"
+	"том" A Pl Nom
+	"том" N Pl Nom
+"<сіен>"
+	"сійӧ" Pron Pers Sg3 Ins Err/Dial
+"<оз>"
+	"оз" Aux Neg Ind Prs Pl3
+"<сёрнитны>"
+	"сёрнитны" V ConNeg Pl3
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.301+kpv_izva20150705-02-b.302+kpv_izva20150705-02-b.303
+# text = И сыа тоже лоис сэтшем причинаан, мыля ме куті велэдны, иг кут велэдны, а ме пыредчи татче, мед кудзке водзеджык нуэдны коми кыысэ, мед йӧзыс оз пооны сёрнитны.
+"<И>"
+	"и" Adv
+	"и" CC
+"<сыа>"
+	"сійӧ" Pron Err/Dial Dem
+"<тоже>"
+	"тожӧ" Adv Err/Dial
+"<лоис>"
+	"лоны" V Ind Prt1 Sg3
+"<сэтшем>"
+	"сэтшӧм" A Err/Dial Det Dem
+	"сэтшӧм" A Err/Dial Det Dem Sg Nom
+"<причинаан>"
+	"причина" N Sg Err/Dial Ins
+"<,>"
+	"," CLB
+"<мыля>"
+	"мыйла" Err/Dial CS
+	"мыйла" Err/Dial Qnt
+"<ме>"
+	"ме" Pron Pers Sg1 Nom
+"<куті>"
+	"ку" N Sg Tra
+"<велэдны>"
+	"велӧдны" V Err/Dial ConNeg Pl3
+	"велӧдны" V Err/Dial Inf
+"<,>"
+	"," CLB
+"<иг>"
+	"оз" Aux Neg Ind Prt1 Pl1 Err/Dial
+"<кут>"
+	"кутны" V ConNeg
+	"кутны" V Imprt Sg2
+"<велэдны>"
+	"велӧдны" V Err/Dial Inf
+"<,>"
+	"," CLB
+"<а>"
+	"а" CC
+"<ме>"
+	"ме" Pron Pers Sg1 Nom
+"<пыредчи>"
+	"пыредчи" ?
+"<татче>"
+	"татчӧ" Adv Err/Dial
+"<,>"
+	"," CLB
+"<мед>"
+	"мед" Adv
+	"мед" CS
+	"мед" N Sg Nom
+"<кудзке>"
+	"кыдзкӧ" Adv Indef Manner Err/Dial Der/кӧ
+"<водзеджык>"
+	"водз" A Sg Err/Dial Ill Comp
+	"водз" N Relat Sg Err/Dial Ill Comp
+	"водзӧ" Adv Err/Dial Comp
+"<нуэдны>"
+	"нуэдны" ?
+"<коми>"
+	"коми" N Sg Nom
+"<кыысэ>"
+	"кы" N Sg Err/Dial Ill Clt/сӧ Err/Dial
+	"кыв" N Err/Dial Sg Err/Dial Acc PxSg3 Err/Dial
+"<,>"
+	"," CLB
+"<мед>"
+	"мед" Adv
+	"мед" CS
+	"мед" N Sg Nom
+"<йӧзыс>"
+	"йӧз" N Sg Nom PxSg3
+"<оз>"
+	"оз" Aux Neg Ind Prs Pl3
+"<пооны>"
+	"повны" V Err/Dial ConNeg Pl3
+"<сёрнитны>"
+	"сёрнитны" V Inf
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.304+kpv_izva20150705-02-b.305+kpv_izva20150705-02-b.306
+# text = Вот, аддза ке ме, гора висьтала сэк комиэн кар кузяыс ветлалыген, мед кыласныс, мый том йӧз сёрнитэныс, мый ная оз, нылы абу яндзим, оз янсэдчыны, мый ная тӧдэны ассьыныс чужан кыыныссэ.
+"<Вот>"
+	"вот" Adv Parenthetic
+	"вот" N Sg Nom
+	"вотны" V Imprt Sg2
+"<,>"
+	"," CLB
+"<аддза>"
+	"аддзыны" V Ind Prs Sg1
+"<ке>"
+	"кӧ" CS
+"<ме>"
+	"ме" Pron Pers Sg1 Nom
+"<,>"
+	"," CLB
+"<гора>"
+	"гора" A Sg Nom
+"<висьтала>"
+	"висьт" N Sg Der Der/ProprietiveMod A Sg Cns
+"<сэк>"
+	"сэк" CS
+	"сэк" N Sg Nom
+	"сэки" Adv Sem/Time
+"<комиэн>"
+	"коми" N Sg Err/Dial Ins
+"<кар>"
+	"кар" N Sg Nom
+"<кузяыс>"
+	"кузя" Adp Po PxSg3
+"<ветлалыген>"
+	"ветлалыген" ?
+"<,>"
+	"," CLB
+"<мед>"
+	"мед" Adv
+	"мед" CS
+	"мед" N Sg Nom
+"<кыласныс>"
+	"кывны" V Ind Fut Pl3 Err/Dial
+"<,>"
+	"," CLB
+"<мый>"
+	"мый" CS
+"<том>"
+	"том" A Sg Nom
+	"том" N Sg Nom
+"<йӧз>"
+	"йӧз" N Sg Nom
+"<сёрнитэныс>"
+	"сёрнитны" V Ind Prs Err/Dial Pl3 Err/Dial
+"<,>"
+	"," CLB
+"<мый>"
+	"мый" CS
+"<ная>"
+	"ная" Pron Dem Pl Nom Err/Dial
+"<оз>"
+	"оз" V Neg Ind Prs Sg3
+"<,>"
+	"," CLB
+"<нылы>"
+	"нія" Pron Dem Pl Dat Err/Dial
+"<абу>"
+	"абу" Pcle Aux Neg
+	"абу" V Neg Cop Ind Sg
+"<яндзим>"
+	"яндзим" N Sg Nom
+	"яндзыны" V Ind Prt1 Pl1
+"<,>"
+	"," CLB
+"<оз>"
+	"оз" V Neg Ind Prs Sg3
+"<янсэдчыны>"
+	"янсэдчыны" ?
+"<,>"
+	"," CLB
+"<мый>"
+	"мый" CS
+"<ная>"
+	"ная" Pron Dem Pl Nom Err/Dial
+"<тӧдэны>"
+	"тӧдны" V Ind Prs Err/Dial Pl3
+"<ассьыныс>"
+	"ас" Pron Refl Pl3 Ela
+"<чужан>"
+	"чужны" V Ind Prs Sg2
+"<кыыныссэ>"
+	"кывны" V Err/Dial Inf Px3 Clt/сӧ Err/Dial
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.307
+# text = А кыдзи тэ, асьныд тэ сёрнитан комиӧн и рочӧн?
+"<А>"
+	"а" Adv
+	"а" CC
+	"а" Interj
+"<кыдзи>"
+	"кыдзи" CS
+	"кыдзи" Pron Adv Manner Interr
+	"кыдзи" Pron Adv Manner Rel
+"<тэ>"
+	"тэ" Pron Pers Sg2 Nom
+"<,>"
+	"," CLB
+"<асьныд>"
+	"ас" Pron Refl Pl2 Nom
+"<тэ>"
+	"тэ" Pron Pers Sg2 Nom
+"<сёрнитан>"
+	"сёрнитны" V Der Der/Ан PrsPtc
+"<комиӧн>"
+	"коми" N Sg Ins
+"<и>"
+	"и" CC
+"<рочӧн>"
+	"роч" N Sg Ins
+	"рочӧн" Adv Ins
+"<?>"
+	"?" CLB
+
+# sent_id = kpv_izva20150705-02-b.308
+# text = Кор тэ, кор тэ рочӧн велӧдчин сёрнитны?
+"<Кор>"
+	"кор" Adv Rel Sem/Time
+	"кор" CS
+	"кор" N Sg Nom
+	"корны" V Imprt Sg2
+"<тэ>"
+	"тэ" Pron Pers Sg2 Nom
+"<,>"
+	"," CLB
+"<кор>"
+	"кор" Adv Rel Sem/Time
+"<тэ>"
+	"тэ" Pron Pers Sg2 Nom
+"<рочӧн>"
+	"роч" N Sg Ins
+	"рочӧн" Adv Ins
+"<велӧдчин>"
+	"велӧдчыны" V Refl Ind Prt1 Sg2
+"<сёрнитны>"
+	"сёрнитны" V Inf
+"<?>"
+	"?" CLB
+
+# sent_id = kpv_izva20150705-02-b.309
+# text = Челядьын, кагаӧн?
+"<Челядьын>"
+	"челядь" N Sg Ine
+"<,>"
+	"," CLB
+"<кагаӧн>"
+	"кага" N Sg Ins
+"<?>"
+	"?" CLB
+
+# sent_id = kpv_izva20150705-02-b.310+kpv_izva20150705-02-b.311+kpv_izva20150705-02-b.312+kpv_izva20150705-02-b.313
+# text = Ммм, челядьдыръя, медводзсэ коми вӧлі, коминас ме бура сёрниті. А вӧлі сэтшем случай: ми мамекӧд шойччим, мамӧкӧд да ёртъяскед шойччим Кировын, сыа вӧліс мен ар куим.
+"<Ммм>"
+	"м-м" Interj Err/Dial
+"<,>"
+	"," CLB
+"<челядьдыръя>"
+	"челядьдыръя" ?
+"<,>"
+	"," CLB
+"<медводзсэ>"
+	"водз" Adv Superl Clt/сӧ Err/Dial
+"<коми>"
+	"коми" N Sg Nom
+"<вӧлі>"
+	"вӧвны" V Ind Prt1 Sg3
+"<,>"
+	"," CLB
+"<коминас>"
+	"коми" N Sg Ins PxSg3 So/CP
+"<ме>"
+	"ме" Pron Pers Sg1 Nom
+"<бура>"
+	"бура" Adv
+	"бура" N Sg Nom
+"<сёрниті>"
+	"сёрни" N Sg Tra
+"<.>"
+	"." CLB
+"<А>"
+	"а" Adv
+	"а" CC
+	"а" Interj
+"<вӧлі>"
+	"вӧвны" V Ind Prt1 Sg3
+"<сэтшем>"
+	"сэтшӧм" A Err/Dial Det Dem
+	"сэтшӧм" A Err/Dial Det Dem Sg Nom
+"<случай>"
+	"случай" N Sg Nom
+"<:>"
+	":" CLB
+"<ми>"
+	"ме" Pron Pers Pl1 Nom
+	"ми" N Sg Nom
+"<мамекӧд>"
+	"мамекӧд" ?
+"<шойччим>"
+	"шойччыны" V Ind Prt1 Pl1
+"<,>"
+	"," CLB
+"<мамӧкӧд>"
+	"мамӧ" N Sg Com
+"<да>"
+	"да" CC
+"<ёртъяскед>"
+	"ёрт" N Pl Com
+"<шойччим>"
+	"шойччыны" V Ind Prt1 Pl1
+"<Кировын>"
+	"Киров" N Prop Sem/Plc Sem/Plc Sg Ine
+	"Киров" N Prop Sem/Sur-Mal Sg Ine
+"<,>"
+	"," CLB
+"<сыа>"
+	"сійӧ" Pron Err/Dial Dem
+"<вӧліс>"
+	"вӧвны" V Ind Prt1 Sg3
+"<мен>"
+	"ме" Pron Pers Sg1 Dat
+"<ар>"
+	"ар" N Sg Nom
+"<куим>"
+	"куим" Num Card Sg Nom
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.314+kpv_izva20150705-02-b.315+kpv_izva20150705-02-b.316+kpv_izva20150705-02-b.317
+# text = И юасены, ммм, отеляс женщина мыля аддзе, мый ӧтнасэ, абу мамекед: "Мыля, но кытэн нэ мамыд?" А ме висьталі: "Она пошла на комнату".
+"<И>"
+	"и" Adv
+	"и" CC
+"<юасены>"
+	"юасьны" V Refl Ind Prs Err/Dial Pl3
+"<,>"
+	"," CLB
+"<ммм>"
+	"м-м" Interj Err/Dial
+"<,>"
+	"," CLB
+"<отеляс>"
+	"отель" N Sg Ill PxSg3 So/CP
+	"отель" N Sg Ine PxSg3 So/CP
+"<женщина>"
+	"женщина" N Sg Nom
+"<мыля>"
+	"мыйла" Err/Dial CS
+	"мыйла" Err/Dial Qnt
+"<аддзе>"
+	"аддзыны" V Ind Prs Err/Dial Sg3
+	"адз" N Sg Err/Dial Ill
+	"адз" N Sg Nom PxSg1 Err/Dial
+"<,>"
+	"," CLB
+"<мый>"
+	"мый" CS
+"<ӧтнасэ>"
+	"ӧтнасэ" ?
+"<,>"
+	"," CLB
+"<абу>"
+	"абу" Pcle Aux Neg
+	"абу" V Neg Cop Ind Sg
+"<мамекед>"
+	"мам" N Sg Com PxSg1 So/PC Err/Dial
+"<:>"
+	":" CLB
+"<">"
+	""" PUNCT
+"<Мыля>"
+	"Мыля" N Prop Sg Nom
+"<,>"
+	"," CLB
+"<но>"
+	"но" CC
+"<кытэн>"
+	"кыт" N Sg Err/Dial Ins
+	"кытӧн" Adv Err/Dial
+"<нэ>"
+	"нӧ" Pcle Err/Dial
+"<мамыд>"
+	"мам" N Sg Nom PxSg2
+	"мамыд" N Sg Nom
+"<?>"
+	"?" CLB
+
+"<">"
+	""" PUNCT
+"<А>"
+	"а" Adv
+	"а" CC
+	"а" Interj
+"<ме>"
+	"ме" Pron Pers Sg1 Nom
+"<висьталі>"
+	"висьтавны" V Ind Prt1 Sg1
+"<:>"
+	":" CLB
+"<">"
+	""" PUNCT
+"<Она>"
+	"Она" ?
+"<пошла>"
+	"пошла" ?
+"<на>"
+	"на" Adv
+	"на" Adv Sem/Time
+	"сійӧ" Pron Pers Pl3 Cmpl
+"<комнату>"
+	"комнату" ?
+"<">"
+	""" PUNCT
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.318
+# text = Из комнатаӦ, а комната ВЫЛӦ муніс.
+"<Из>"
+	"изны" V Imprt Sg2
+"<комнатаӦ>"
+	"комнатаӦ" ?
+"<,>"
+	"," CLB
+"<а>"
+	"а" CC
+"<комната>"
+	"комната" N Sg Nom
+"<ВЫЛӦ>"
+	"ВЫЛӦ" N ACR Nom
+	"выв" N Relat Sg Ill
+	"вывны" V Ind Prs Sg3
+	"вылӧ" Adv Ill
+"<муніс>"
+	"мунны" V Ind Prt1 Sg3
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.319
+# text = Но мыйке путайті роч кыыяссэ, мыля иг на зэй бура тӧд.
+"<Но>"
+	"но" Adv
+	"но" CC
+	"но" Interj
+"<мыйке>"
+	"мыйкӧ" N Sg Nom
+	"мыйкӧ" Pron Indef Indef Sg Nom Der/кӧ
+"<путайті>"
+	"путайтны" V Ind Prt1 Err/Dial Sg3
+"<роч>"
+	"роч" N Sg Nom
+"<кыыяссэ>"
+	"кыв" N Err/Dial Err/Orth Dial/л Pl Acc PxSg3 Err/Dial
+	"кыв" N Err/Dial Pl Err/Dial Acc PxSg3 Err/Dial
+"<,>"
+	"," CLB
+"<мыля>"
+	"мыйла" Err/Dial CS
+	"мыйла" Err/Dial Qnt
+"<иг>"
+	"оз" V Neg Ind Prt1 Pl1 Err/Dial
+"<на>"
+	"на" Adv
+	"на" Adv Sem/Time
+"<зэй>"
+	"зэв" Adv Err/Dial
+"<бура>"
+	"бур" A Der Der/а
+"<тӧд>"
+	"тӧд" N Sg Nom
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.320
+# text = А сідзсэ бӧрсіджык нин, ар вит дорас, кор ме куим арен вошйи лыддьысьны.
+"<А>"
+	"а" Adv
+	"а" CC
+	"а" Interj
+"<сідзсэ>"
+	"сідзи" Adv Manner Clt/сӧ Err/Dial
+"<бӧрсіджык>"
+	"бӧрсі" Adv Comp
+"<нин>"
+	"нин" Adv Sem/Time
+	"нин" N Sg Nom
+"<,>"
+	"," CLB
+"<ар>"
+	"ар" N Sg Nom
+"<вит>"
+	"вит" Num Card Sg Nom
+"<дорас>"
+	"дор" N Relat Sg Ill PxSg3 So/CP
+	"дор" N Relat Sg Ine PxSg3 So/CP
+	"дорны" V Ind Fut Sg3
+"<,>"
+	"," CLB
+"<кор>"
+	"кор" Adv Rel Sem/Time
+"<ме>"
+	"ме" Pron Pers Sg1 Nom
+"<куим>"
+	"куим" Num Card Sg Nom
+"<арен>"
+	"ар" N Sg Err/Dial Ins
+"<вошйи>"
+	"вошйыны" V Ind Prt1 Sg1
+"<лыддьысьны>"
+	"лыддьысьны" V Refl Inf
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.321+kpv_izva20150705-02-b.322
+# text = И вот роч небӧгъяс тшӧтш, и кудзке менам роч кылыс кыпедчис тӧдэмыс.
+"<И>"
+	"и" Adv
+	"и" CC
+"<вот>"
+	"вот" Adv Parenthetic
+	"вот" N Sg Nom
+	"вотны" V Imprt Sg2
+"<роч>"
+	"роч" N Sg Nom
+"<небӧгъяс>"
+	"небӧг" N Pl Nom
+"<тшӧтш>"
+	"тшӧтш" Adv
+"<,>"
+	"," CLB
+"<и>"
+	"и" Adv
+	"и" CC
+"<кудзке>"
+	"кыдзкӧ" Adv Indef Manner Err/Dial Der/кӧ
+"<менам>"
+	"ме" Pron Pers Sg1 Gen
+"<роч>"
+	"роч" N Sg Nom
+"<кылыс>"
+	"кыл" N Sg Nom PxSg3
+"<кыпедчис>"
+	"кыпедчис" ?
+"<тӧдэмыс>"
+	"тӧдны" V Err/Dial Der Der/ӧм Der/NomAct N Sg Nom PxSg3
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.323
+# text = А медся водз небӧгыс, кодэс лыдди, вӧлі коми, мыля коми анбур вошйи лыддьыны, а иг азбука кузя.
+"<А>"
+	"а" Adv
+	"а" CC
+	"а" Interj
+"<медся>"
+	"мед" N Sg Der Der/TempMod A Sg Nom
+"<водз>"
+	"водз" A Sg Nom
+	"водз" N Relat Sg Nom
+"<небӧгыс>"
+	"небӧг" N Sg Nom PxSg3
+"<,>"
+	"," CLB
+"<кодэс>"
+	"код" A Sg Acc PxSg1 Err/Dial
+	"код" A Sg Err/Dial Acc
+	"код" N Sg Acc PxSg1 Err/Dial
+	"код" N Sg Err/Dial Acc
+	"коді" Pron Rel Sg Err/Dial Acc
+"<лыдди>"
+	"лыддьыны" V Ind Prt1 Err/Dial Sg3
+"<,>"
+	"," CLB
+"<вӧлі>"
+	"вӧвны" V Ind Prt1 Sg3
+"<коми>"
+	"коми" N Sg Nom
+"<,>"
+	"," CLB
+"<мыля>"
+	"мыйла" Err/Dial CS
+	"мыйла" Err/Dial Qnt
+"<коми>"
+	"коми" N Sg Nom
+"<анбур>"
+	"анбур" N Sg Nom
+"<вошйи>"
+	"вошйыны" V Ind Prt1 Err/Dial Sg3
+"<лыддьыны>"
+	"лыддьыны" V Inf
+"<,>"
+	"," CLB
+"<а>"
+	"а" CC
+"<иг>"
+	"оз" V Neg Ind Prt1 Pl1 Err/Dial
+"<азбука>"
+	"азбука" N Sg Nom
+"<кузя>"
+	"кузя" Adp Po
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.325
+# text = Но, зэв ыджыд аттьӧ!
+"<Но>"
+	"но" Interj
+"<,>"
+	"," CLB
+"<зэв>"
+	"зэв" Adv
+"<ыджыд>"
+	"ыджыд" A Sg Nom
+"<аттьӧ>"
+	"аттьӧ" Interj
+	"аттьӧ" Interj Formulaic
+"<!>"
+	"!" CLB
+
+# sent_id = kpv_izva20150705-02-b.326
+# text = Аттьӧ тіянлы.
+"<Аттьӧ>"
+	"аттьыны" V Ind Prs Sg3
+	"аттьӧ" Interj
+	"аттьӧ" Interj Formulaic
+	"аттьӧ" N Sg Nom
+"<тіянлы>"
+	"тэ" Pron Pers Pl2 Dat
+"<.>"
+	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.327
+# text = Но.
+"<Но>"
+	"но" Interj
+"<.>"
+	"." CLB
+
+
