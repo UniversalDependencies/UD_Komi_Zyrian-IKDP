@@ -1,134 +1,66 @@
-# sent_id = kpv_izva20150705-02-b.001
-# text = Всё? Да?
-"<Всё>"
-	"Всё" ?
-"<?>"
-	"?" CLB
-"<Да>"
-	"да" Adv Parenthetic
-"<?>"
-	"?" CLB
-
-# sent_id = kpv_izva20150705-02-b.002
-# text = Да.
-"<Да>"
-	"да" Adv Parenthetic
-"<.>"
-	"." CLB
-
 # sent_id = kpv_izva20150705-02-b.004
 # text = Саша, висьтоо ассьыд полнэй нимтэ, кор да кытэн рӧдитчин.
-"<Саша>"
-	"Саша" N Prop Sg Nom
-"<,>"
-	"," CLB
-"<висьтоо>"
-	"висьтавны" V Err/Dial Imprt Sg2
-"<ассьыд>"
-	"ас" Pron Refl Sg2 Ela
-"<полнэй>"
-	"полнӧй" A Err/Dial Sg Nom
-"<нимтэ>"
-	"ним" N Sg Acc PxSg2 Err/Dial
-"<,>"
-	"," CLB
-"<кор>"
-	"кор" Adv Rel Sem/Time
-"<да>"
-	"да" CC
-"<кытэн>"
-	"кыт" N Sg Err/Dial Ins
-	"кытӧн" Adv Err/Dial
-"<рӧдитчин>"
-	"рӧдитчыны" V Refl Ind Prt1 Sg2
-"<.>"
-	"." CLB
+1	Саша	Саша	N	_	Prop|Sg|Nom	3	vocative	_	_
+2	,	,	CLB	_	_	1	punct	_	_
+3	висьтоо	висьтавны	V	_	Err/Dial|Imprt|Sg2	0	root	_	_
+4	ассьыд	ас	Pron	_	Refl|Sg2|Ela	6	nmod:poss	_	_
+5	полнэй	полнӧй	A	_	Err/Dial|Sg|Nom	6	amod	_	_
+6	нимтэ	ним	N	_	Sg|Acc|PxSg2|Err/Dial	3	obj	_	_
+7	,	,	CLB	_	_	11	punct	_	_
+8	кор	кор	Adv	_	Rel|Sem/Time	11	advmod:tmod	_	_
+9	да	да	CC	_	_	10	cc	_	_
+10	кытэн	кытӧн	Adv	_	Err/Dial	8	conj	_	_
+11	рӧдитчин	рӧдитчыны	V	_	Refl|Ind|Prt1|Sg2	3	advcl:tcl	_	_
+12	.	.	CLB	_	_	3	punct	_	_
 
 # sent_id = kpv_izva20150705-02-b.005
 # text = А, менэ шуэны Терентьев Александр Юрьевич.
-"<А>"
-	"а" Interj
-"<,>"
-	"," CLB
-"<менэ>"
-	"ме" Pron Pers Sg1 Err/Dial Acc
-"<шуэны>"
-	"шуны" V Ind Prs Err/Dial Pl3
-"<Терентьев>"
-	"Терентьев" N Prop Sem/Sur-Mal Sg Nom
-"<Александр>"
-	"Александр" N Prop Sg Nom
-"<Юрьевич>"
-	"Юрьевич" N Prop Sem/Patr-Mal Sg Nom
-"<.>"
-	"." CLB
+1	А	а	INTJ	_	_	4	discourse	_	_
+2	,	,	CLB	_	_	1	punct	_	_
+3	менэ	ме	Pron	_	Pers|Sg1|Err/Dial|Acc	4	obj	_	_
+4	шуэны	шуны	V	_	Ind|Prs|Err/Dial|Pl3	0	root	_	_
+5	Терентьев	Терентьев	N	_	Prop|Sem/Sur-Mal|Sg|Nom	4	xcomp	_	_
+6	Александр	Александр	N	_	Prop|Sg|Nom	5	flat:name	_	_
+7	Юрьевич	Юрьевич	N	_	Prop|Sem/Patr-Mal|Sg|Nom	5	flat:name	_	_
+8	.	.	CLB	_	_	4	punct	_	_
 
 # sent_id = kpv_izva20150705-02-b.006
 # text = Рӧдитчи Пустыня грездын, Краснобор сикт.
-"<Рӧдитчи>"
-	"рӧдитчыны" V Refl Ind Prt1 Err/Dial Sg3
-"<Пустыня>"
-	"Пустыня" N Prop Sem/Plc Sem/Plc Sg Nom
-	"пустыня" N Sg Nom
-"<грездын>"
-	"грезд" N Sg Ine
-"<,>"
-	"," CLB
-"<Краснобор>"
-	"Краснобор" N Prop Sem/Plc Sem/Plc Sg Nom
-"<сикт>"
-	"сикт" N Sg Nom
-"<.>"
-	"." CLB
+1	Рӧдитчи	рӧдитчыны	V	_	Refl|Ind|Prt1|Err/Dial|Sg3	0	root	_	_
+2	Пустыня	Пустыня	N	_	Prop|Sem/Plc|Sem/Plc|Sg|Nom	3	compound:nn	_	_
+3	грездын	грезд	N	_	Sg|Ine	1	obl:lmod	_	_
+4	,	,	CLB	_	_	6	punct	_	_
+5	Краснобор	Краснобор	N	_	Prop|Sem/Plc|Sem/Plc|Sg|Nom	6	compound:nn	_	_
+6	сикт	сикт	N	_	Sg|Nom	3	appos	_	_
+7	.	.	CLB	_	_	1	punct	_	_
 
-# sent_id = kpv_izva20150705-02-b.007+kpv_izva20150705-02-b.010+kpv_izva20150705-02-b.011
-# text = А, шестого сентября, девяносто второй годын. Но, Ижмаыслэн ю кузяыс сиктъяс дорас, ӧӧ, берегыс изъя.
-"<А>"
-	"а" Interj
-"<,>"
-	"," CLB
-"<шестого>"
-	"шестого" ?
-"<сентября>"
-	"сентябрь" N Src/F Sg Der Der/ProprietiveMod A Sg Nom
-"<,>"
-	"," CLB
-"<девяносто>"
-	"девяносто" ?
-"<второй>"
-	"второй" ?
-"<годын>"
-	"год" N Sg Ine
-"<.>"
-	"." CLB
-"<Но>"
-	"но" Interj
-"<,>"
-	"," CLB
-"<Ижмаыслэн>"
-	"Ижма" N Prop Sg Err/Dial Gen PxSg3 So/PC
-"<ю>"
-	"ю" N Sg Nom
-"<кузяыс>"
-	"кузя" Adp Po PxSg3
-"<сиктъяс>"
-	"сикт" N Pl Nom
-"<дорас>"
-	"дор" N Relat Sg Ill PxSg3 So/CP
-	"дор" N Relat Sg Ine PxSg3 So/CP
-	"дорны" V Ind Fut Sg3
-"<,>"
-	"," CLB
-"<ӧӧ>"
-	"оо" Interj Err/Dial
-"<,>"
-	"," CLB
-"<берегыс>"
-	"берег" N Sg Nom PxSg3
-"<изъя>"
-	"изъя" A Sg Nom
-"<.>"
-	"." CLB
+# sent_id = kpv_izva20150705-02-b.007+kpv_izva20150705-02-b.010+kpv_izva20150705-02-b.011a
+# text = А, шестого сентября, девяносто второй годын.
+1	А	а	Interj	_	_	_	_	_	_
+2	,	,	CLB	_	_	_	_	_	_
+3	шестого	шестого	ADJ	_	_	_	_	_	_
+4	сентября	сентябрь	N	_	Src/F|Sg|Der|Der/ProprietiveMod|A|Sg|Nom	_	_	_	_
+5	,	,	CLB	_	_	_	x	_	_
+6	девяносто	девяносто	NUM	_	_	8	amod	_	_
+7	второй	второй	ADJ	_	_	6	fixed	_	_
+8	годын	год	N	_	Sg|Ine	_	_	_	_
+9	.	.	CLB	_	_	_	_	_	_
+
+# sent_id = kpv_izva20150705-02-b.007+kpv_izva20150705-02-b.010+kpv_izva20150705-02-b.011b
+# text = Но, Ижмаыслэн ю кузяыс сиктъяс дорас, ӧӧ, берегыс изъя.
+1	Но	но	Interj	_	_	12	discourse	_	_
+2	,	,	CLB	_	_	1	punct	_	_
+3	Ижмаыслэн	Ижма	N	_	Prop|Sg|Err/Dial|Gen|PxSg3|So/PC	4	nmod:poss	_	_
+4	ю	ю	N	_	Sg|Nom	12	obl:lmod	_	_
+5	кузяыс	кузя	Adp	_	Po|PxSg3	4	case	_	_
+6	сиктъяс	сикт	N	_	Pl|Nom	7	nmod	_	_
+7	дорас	дор	N	_	Relat|Sg|Ine|PxSg3|So/CP	4	appos	_	_
+8	,	,	CLB	_	_	9	punct	_	_
+9	ӧӧ	оо	Interj	_	Err/Dial	12	discourse	_	_
+10	,	,	CLB	_	_	9	punct	_	_
+11	берегыс	берег	N	_	Sg|Nom|PxSg3	12	nsubj	_	_
+12	изъя	изъя	A	_	Sg|Nom	0	root	_	_
+13	.	.	CLB	_	_	12	punct	_	_
 
 # sent_id = kpv_izva20150705-02-b.009
 # text = Мыля Пустыня шусе?
