@@ -64,563 +64,274 @@
 
 # sent_id = kpv_izva20150705-02-b.009
 # text = Мыля Пустыня шусе?
-"<Мыля>"
-	"Мыля" N Prop Sg Nom
-"<Пустыня>"
-	"Пустыня" N Prop Sem/Plc Sem/Plc Sg Nom
-	"пустыня" N Sg Nom
-"<шусе>"
-	"шусьыны" V Refl Ind Prs Err/Dial Sg3
-"<?>"
-	"?" CLB
+1	Мыля	мыйла	Adv	_	Sem/Cau	3	advmod	_	_
+2	Пустыня	Пустыня	N	_	Prop|Sem/Plc|Sg|Nom	3	nsubj	_	_
+3	шусе	шусьыны	V	_	Refl|Ind|Prs|Err/Dial|Sg3	0	root	_	_
+4	?	?	CLB	_	_	3	punct	_	_
 
 # sent_id = kpv_izva20150705-02-b.013
 # text = Сіен и Изьва.
-"<Сіен>"
-	"сійӧ" Pron Pers Sg3 Ins Err/Dial
-"<и>"
-	"и" Adv
-	"и" CC
-"<Изьва>"
-	"Изьва" N Prop Sem/Plc Sem/Plc Sg Nom
-"<.>"
-	"." CLB
+1	Сіен	сійӧ	Pron	_	Pers|Sg3|Ins|Err/Dial	0	root	_	_
+2	и	и	Adv	_	_	1	advmod	_	_
+3	Изьва	Изьва	N	_	Prop|Sem/Plc|Sem/Plc|Sg|Nom	1	nsubj	_	_
+4	.	.	CLB	_	_	1	punct	_	_
 
-# sent_id = kpv_izva20150705-02-b.014+kpv_izva20150705-02-b.016
-# text = А миян дорын, Пустыняын - сэтэн лыа. И сіен и Пустыня шусе.
-"<А>"
-	"а" Adv
-	"а" CC
-	"а" Interj
-"<миян>"
-	"ме" Pron Pers Pl1 Gen
-"<дорын>"
-	"дор" N Relat Sg Ine
-	"дорын" Adv Ine
-"<,>"
-	"," CLB
-"<Пустыняын>"
-	"Пустыня" N Prop Sem/Plc Sem/Plc Sg Ine
-	"пустыня" N Sg Ine
-"<->"
-	"-" PUNCT
-"<сэтэн>"
-	"сэт" N Sg Err/Dial Ins
-	"сэтӧн" Adv Err/Dial
-"<лыа>"
-	"лыа" A Sg Nom
-	"лыа" N Sg Nom
-"<.>"
-	"." CLB
-"<И>"
-	"и" Adv
-	"и" CC
-"<сіен>"
-	"сійӧ" Pron Pers Sg3 Ins Err/Dial
-"<и>"
-	"и" Adv
-	"и" CC
-"<Пустыня>"
-	"Пустыня" N Prop Sem/Plc Sem/Plc Sg Nom
-	"пустыня" N Sg Nom
-"<шусе>"
-	"шусьыны" V Refl Ind Prs Err/Dial Sg3
-"<.>"
-	"." CLB
+# sent_id = kpv_izva20150705-02-b.014+kpv_izva20150705-02-b.016a
+# text = А миян дорын, Пустыняын - сэтэн лыа.
+1	А	а	CC	_	_	3	cc	_	_
+2	миян	ме	Pron	_	Pers|Pl1|Gen	3	nmod	_	_
+3	дорын	дор	N	_	Relat|Sg|Ine	0	root	_	_
+4	,	,	CLB	_	_	5	punct	_	_
+5	Пустыняын	Пустыня	N	_	Prop|Sem/Plc|Sem/Plc|Sg|Ine	3	appos	_	_
+6	-	-	PUNCT	_	_	7	punct	_	_
+7	сэтэн	сэтӧн	Adv	_	Err/Dial	3	appos	_	_
+8	лыа	лыа	A	_	Sg|Nom	3	nsubj	_	_
+9	.	.	CLB	_	_	3	punct	_	_
+
+# sent_id = kpv_izva20150705-02-b.014+kpv_izva20150705-02-b.016b
+# text = И сіен и Пустыня шусе.
+1	И	и	CC	_	_	5	cc	_	_
+2	сіен	сійӧ	Pron	_	Pers|Sg3|Ins|Err/Dial	5	obl	_	_
+3	и	и	Adv	_	_	2	advmod	_	_
+4	Пустыня	Пустыня	N	_	Prop|Sem/Plc|Sem/Plc|Sg|Nom	5	nsubj	_	_
+5	шусе	шусьыны	V	_	Refl|Ind|Prs|Err/Dial|Sg3	0	root	_	_
+6	.	.	CLB	_	_	5	punct	_	_
 
 # sent_id = kpv_izva20150705-02-b.017
 # text = Ааа, сіен и Пустыня?
-"<Ааа>"
-	"а" Interj Err/Dial
-"<,>"
-	"," CLB
-"<сіен>"
-	"сійӧ" Pron Pers Sg3 Ins Err/Dial
-"<и>"
-	"и" Adv
-	"и" CC
-"<Пустыня>"
-	"Пустыня" N Prop Sem/Plc Sem/Plc Sg Nom
-	"пустыня" N Sg Nom
-"<?>"
-	"?" CLB
+1	Ааа	а	Interj	_	Err/Dial	3	discourse	_	_
+2	,	,	CLB	_	_	1	punct	_	_
+3	сіен	сійӧ	Pron	_	Pers|Sg3|Ins|Err/Dial	0	root	_	_
+4	и	и	Adv	_	_	3	advmod	_	_
+5	Пустыня	Пустыня	N	_	Prop|Sem/Plc|Sem/Plc|Sg|Nom	3	nsubj	_	_
+6	?	?	CLB	_	_	3	punct	_	_
 
 # sent_id = kpv_izva20150705-02-b.019+kpv_izva20150705-02-b.020
-# text = Яснэ. Саша, расскажит, пӧжалуста, вот, аслад, но, тэн кызь куим ар, да?
-"<Яснэ>"
-	"яснӧй" A Der Der/Adv Err/Dial Adv
-"<.>"
-	"." CLB
-"<Саша>"
-	"Саша" N Prop Sg Nom
-"<,>"
-	"," CLB
-"<расскажит>"
-	"расскажитны" V Imprt Sg2
-"<,>"
-	"," CLB
-"<пӧжалуста>"
-	"пӧжалуста" ?
-"<,>"
-	"," CLB
-"<вот>"
-	"вот" Adv Parenthetic
-	"вот" N Sg Nom
-	"вотны" V Imprt Sg2
-"<,>"
-	"," CLB
-"<аслад>"
-	"ас" Pron Poss Sg2
-"<,>"
-	"," CLB
-"<но>"
-	"но" CC
-"<,>"
-	"," CLB
-"<тэн>"
-	"тэ" Pron Pers Sg2 Dat
-"<кызь>"
-	"кызь" Num Card Sg Nom
-"<куим>"
-	"куим" Num Card Sg Nom
-"<ар>"
-	"ар" N Sg Nom
-"<,>"
-	"," CLB
-"<да>"
-	"да" CS
-"<?>"
-	"?" CLB
-
-# sent_id = kpv_izva20150705-02-b.021
-# text = Кык.
-"<Кык>"
-	"кык" Num Card Sg Nom
-"<.>"
-	"." CLB
+# text = Саша, расскажит, пӧжалуста, вот, аслад, но, тэн кызь куим ар, да?
+1	Саша	Саша	N	_	Prop|Sg|Nom	3	vocative	_	_
+2	,	,	CLB	_	_	1	punct	_	_
+3	расскажит	расскажитны	V	_	Imprt|Sg2	_	_	_	_
+4	,	,	CLB	_	_	5	punct	_	_
+5	пӧжалуста	пӧжалуста	Interj	_	_	3	discourse	_	_
+6	,	,	CLB	_	_	5	punct	_	_
+7	вот	вот	Adv	_	Parenthetic	3	discourse	_	_
+8	,	,	CLB	_	_	7	punct	_	_
+9	аслад	ас	Pron	_	Poss|Sg2	3	conj	_	_
+10	,	,	CLB	_	_	11	punct	_	_
+11	но	но	CC	_	_	9	discourse	_	_
+12	,	,	CLB	_	_	11	punct	_	_
+13	тэн	тэ	Pron	_	Pers|Sg2|Dat	9	appos	_	_
+14	кызь	кызь	Num	_	Card|Sg|Nom	16	nummod	_	_
+15	куим	куим	Num	_	Card|Sg|Nom	14	fixed	_	_
+16	ар	ар	N	_	Sg|Nom	9	nsubj	_	_
+17	,	,	CLB	_	_	18	punct	_	_
+18	да	да	CS	_	_	9	parataxis	_	_
+19	?	?	CLB	_	_	3	punct	_	_
 
 # sent_id = kpv_izva20150705-02-b.022
 # text = Кык на?
-"<Кык>"
-	"кык" Num Card Sg Nom
-"<на>"
-	"на" Adv
-	"на" Adv Sem/Time
-	"сійӧ" Pron Pers Pl3 Cmpl
-"<?>"
-	"?" CLB
+1	Кык	кык	Num	_	Card|Sg|Nom	0	root	_	_
+2	на	на	Adv	_	Sem/Time	1	advmod	_	_
+3	?	?	CLB	_	_	1	punct	_	_
 
 # sent_id = kpv_izva20150705-02-b.023+kpv_izva20150705-02-b.024
 # text = Тае вот, кызь кык, хах, вонас олэмад мый лоис?
-"<Тае>"
-	"тайӧ" Pron Dem Sg Nom Err/Dial
-"<вот>"
-	"вот" Adv Parenthetic
-	"вот" N Sg Nom
-"<,>"
-	"," CLB
-"<кызь>"
-	"кызь" Num Card Sg Nom
-"<кык>"
-	"кык" Num Card Sg Nom
-"<,>"
-	"," CLB
-"<хах>"
-	"хах" ?
-"<,>"
-	"," CLB
-"<вонас>"
-	"во" N Sg Ins PxSg3 So/CP
-	"вон" N Err/Orth-no-paragogic-j Ill PxSg3 So/CP
-	"вон" N Err/Orth-no-paragogic-j Ine PxSg3 So/CP
-"<олэмад>"
-	"овны" V Err/Dial Der Der/ӧм Der/NomAct N Sg Ill PxSg2 So/CP
-	"овны" V Err/Dial Der Der/ӧм Der/NomAct N Sg Ine PxSg2 So/CP
-"<мый>"
-	"мый" CS
-	"мый" Pron Interr Sg Nom
-"<лоис>"
-	"лоны" V Ind Prt1 Sg3
-"<?>"
-	"?" CLB
+1	Тае	тайӧ	Pron	_	Dem|Sg|Nom|Err/Dial	9	det	_	_
+2	вот	вот	Adv	_	Parenthetic	1	discourse	_	_
+3	,	,	CLB	_	_	2	punct	_	_
+4	кызь	кызь	Num	_	Card|Sg|Nom	9	nummod	_	_
+5	кык	кык	Num	_	Card|Sg|Nom	4	fixed	_	_
+6	,	,	CLB	_	_	7	punct	_	_
+7	хах	хах	Interj	_	_	9	discourse	_	_
+8	,	,	CLB	_	_	7	punct	_	_
+9	вонас	во	N	_	Sg|Ins|PxSg3|So/CP	12	obl	_	_
+10	олэмад	овны	V	_	Err/Dial|Der|Der/ӧм|Der/NomAct|N|Sg|Ine|PxSg2|So/CP	12	advcl:lmod	_	_
+11	мый	мый	Pron	_	Interr|Sg|Nom	12	nsubj	_	_
+12	лоис	лоны	V	_	Ind|Prt1|Sg3	0	root	_	_
+13	?	?	CLB	_	_	12	punct	_	_
 
-# sent_id = kpv_izva20150705-02-b.025
-# text = Кытэн велэдчин? Мый помалін? Та йылысь расскажитыш.
-"<Кытэн>"
-	"кыт" N Sg Err/Dial Ins
-	"кытӧн" Adv Err/Dial
-"<велэдчин>"
-	"велӧдчыны" V Err/Dial Refl Ind Prt1 Sg2
-"<?>"
-	"?" CLB
-"<Мый>"
-	"мый" Pron Interr Sg Nom
-"<помалін>"
-	"помавны" V Ind Prt1 Sg2
-"<?>"
-	"?" CLB
-"<Та>"
-	"тайӧ" Pron Dem Sg Cmpl
-"<йылысь>"
-	"йылысь" Adp Po Sg Ela
-"<расскажитыш>"
-	"расскажитыш" ?
-"<.>"
-	"." CLB
+# sent_id = kpv_izva20150705-02-b.025a
+# text = Кытэн велэдчин?
+1	Кытэн	кытӧн	Adv	_	Err/Dial	2	advmod:lmod	_	_
+2	велэдчин	велӧдчыны	V	_	Err/Dial|Refl|Ind|Prt1|Sg2	0	root	_	_
+3	?	?	CLB	_	_	2	punct	_	_
+
+# sent_id = kpv_izva20150705-02-b.025b
+# text = Мый помалін?
+1	Мый	мый	Pron	_	Interr|Sg|Nom	2	obj	_	_
+2	помалін	помавны	V	_	Ind|Prt1|Sg2	0	root	_	_
+3	?	?	CLB	_	_	2	punct	_	_
+
+# sent_id = kpv_izva20150705-02-b.025c
+# text = Та йылысь расскажитыш.
+1	Та	тайӧ	Pron	_	Dem|Sg|Cmpl	3	obl	_	_
+2	йылысь	йылысь	Adp	_	Po|Sg|Ela	1	case	_	_
+3	расскажитыш	расскажитыш	V	_	Ind|Prs|Sg2	0	root	_	_
+4	.	.	CLB	_	_	3	punct	_	_
 
 # sent_id = kpv_izva20150705-02-b.026
 # text = Медводзсэ ме помалі Красноборса шӧр школа.
-"<Медводзсэ>"
-	"водз" Adv Superl Clt/сӧ Err/Dial
-"<ме>"
-	"ме" Pron Pers Sg1 Nom
-"<помалі>"
-	"помавны" V Ind Prt1 Sg1
-"<Красноборса>"
-	"красноборса" A Sg Nom
-"<шӧр>"
-	"шӧр" A Sg Nom
-	"шӧр" N Relat Sg Nom
-"<школа>"
-	"школа" N Sg Nom
-"<.>"
-	"." CLB
+1	Медводзсэ	водз	Adv	_	Superl|Clt/сӧ|Err/Dial	3	advmod	_	_
+2	ме	ме	Pron	_	Pers|Sg1|Nom	3	nsubj	_	_
+3	помалі	помавны	V	_	Ind|Prt1|Sg1	0	root	_	_
+4	Красноборса	красноборса	A	_	Sg|Nom	6	amod	_	_
+5	шӧр	шӧр	N	_	Relat|Sg|Nom	6	compound	_	_
+6	школа	школа	N	_	Sg|Nom	3	obj	_	_
+7	.	.	CLB	_	_	3	punct	_	_
 
 # sent_id = kpv_izva20150705-02-b.028+kpv_izva20150705-02-b.030+kpv_izva20150705-02-b.032
 # text = Удиті сэтэн на велэдчыны гимназияс, гимназия искусствын Сыктывкарын, а таво помалі Сыктывкарса канму университет, "международные отношения" специальность.
-"<Удиті>"
-	"удитны" V Ind Prt1 Err/Dial Sg3
-"<сэтэн>"
-	"сэт" N Sg Err/Dial Ins
-	"сэтӧн" Adv Err/Dial
-"<на>"
-	"на" Adv
-	"на" Adv Sem/Time
-"<велэдчыны>"
-	"велӧдчыны" V Err/Dial Refl Inf
-"<гимназияс>"
-	"гимназияс" ?
-"<,>"
-	"," CLB
-"<гимназия>"
-	"гимназия" N Sg Nom
-"<искусствын>"
-	"искусствын" ?
-"<Сыктывкарын>"
-	"Сыктывкар" N Prop Sem/Plc Sem/Plc Sg Ine
-"<,>"
-	"," CLB
-"<а>"
-	"а" CC
-"<таво>"
-	"таво" Adv Sem/Time
-	"таво" N Sg Nom
-"<помалі>"
-	"помавны" V Ind Prt1 Err/Dial Sg3
-"<Сыктывкарса>"
-	"сыктывкарса" A Sg Nom
-"<канму>"
-	"канму" N Sg Nom
-"<университет>"
-	"университет" N Sg Nom
-"<,>"
-	"," CLB
-"<">"
-	""" PUNCT
-"<международные>"
-	"международные" ?
-"<отношения>"
-	"отношения" ?
-"<">"
-	""" PUNCT
-"<специальность>"
-	"специальность" N Sg Nom
-"<.>"
-	"." CLB
+1	Удиті	удитны	V	_	Ind|Prt1|Err/Dial|Sg3	0	root	_	_
+2	сэтэн	сэтӧн	Adv	_	Err/Dial	1	advmod:lmod	_	_
+3	на	на	Adv	_	Sem/Time	4	advmod:tmod	_	_
+4	велэдчыны	велӧдчыны	V	_	Err/Dial|Refl|Inf	1	xcomp	_	_
+5	гимназияс	гимназия	N	_	Sg|Ine|PxSg3	4	obl:lmod	_	_
+6	,	,	CLB	_	_	8	punct	_	_
+7	гимназия	гимназия	N	_	Sg|Nom	8	compound	_	_
+8	искусствын	искусствӧ	N	_	Sg|Ine	5	appos	_	_
+9	Сыктывкарын	Сыктывкар	N	_	Prop|Sem/Plc|Sem/Plc|Sg|Ine	8	appos	_	_
+10	,	,	CLB	_	_	13	punct	_	_
+11	а	а	CC	_	_	13	cc	_	_
+12	таво	таво	Adv	_	Sem/Time	13	advmod:tmod	_	_
+13	помалі	помавны	V	_	Ind|Prt1|Err/Dial|Sg3	1	conj	_	_
+14	Сыктывкарса	сыктывкарса	A	_	Sg|Nom	16	amod	_	_
+15	канму	канму	N	_	Sg|Nom	16	compound	_	_
+16	университет	университет	N	_	Sg|Nom	13	obj	_	_
+17	,	,	CLB	_	_	19	punct	_	_
+18	"	_	PUNCT	_	_	19	punct	_	_
+19	международные	международные	X	_	_	_	_	_	_
+20	отношения	отношения	X	_	_	19	flat:foreign	_	_
+21	"	_	PUNCT	_	_	19	punct	_	_
+22	специальность	специальность	N	_	Sg|Nom	16	appos	_	_
+23	.	.	CLB	_	_	1	punct	_	_
 
 # sent_id = kpv_izva20150705-02-b.034
 # text = А мыля именнэ сэтшем специальносьтсэ кӧсйин босьны?
-"<А>"
-	"а" Adv
-	"а" CC
-	"а" Interj
-"<мыля>"
-	"мыйла" Err/Dial CS
-	"мыйла" Err/Dial Qnt
-"<именнэ>"
-	"именнэ" Adv Err/Dial
-"<сэтшем>"
-	"сэтшӧм" A Err/Dial Det Dem
-	"сэтшӧм" A Err/Dial Det Dem Sg Nom
-"<специальносьтсэ>"
-	"специальносьт" N Sg Acc PxSg3 Err/Dial
-"<кӧсйин>"
-	"кӧсйыны" V Ind Prt1 Sg2
-"<босьны>"
-	"босьны" ?
-"<?>"
-	"?" CLB
+1	А	а	CC	_	_	6	cc	_	_
+2	мыля	мыйла	Adv	_	Err/Dial|Cau	6	advmod	_	_
+3	именнэ	именнэ	Adv	_	Err/Dial	6	advmod	_	_
+4	сэтшем	сэтшӧм	A	_	Err/Dial|Det|Dem|Sg|Nom	5	amod	_	_
+5	специальносьтсэ	специальносьт	N	_	Sg|Acc|PxSg3|Err/Dial	7	obj	_	_
+6	кӧсйин	кӧсйыны	V	_	Ind|Prt1|Sg2	0	root	_	_
+7	босьны	босьтны	V	_	Inf	6	xcomp	_	_
+8	?	?	CLB	_	_	6	punct	_	_
 
 # sent_id = kpv_izva20150705-02-b.035+kpv_izva20150705-02-b.036
 # text = Дзолясянь ме кӧсйи мунны кычеге мӧд муэ ооны, визьлыны, кудз олэны йӧзыс мӧдлаын, ӧ, велэдны уна кыыяс.
-"<Дзолясянь>"
-	"дзоля" A Sg Egr
-"<ме>"
-	"ме" Pron Pers Sg1 Nom
-"<кӧсйи>"
-	"кӧсйыны" V Ind Prt1 Sg1
-"<мунны>"
-	"мунны" V Inf
-"<кычеге>"
-	"кытчӧкӧ" Adv Indef Ill Err/Dial
-"<мӧд>"
-	"мӧд" Pron Dem
-"<муэ>"
-	"му" N Sg Err/Dial Ill
-	"му" N Sg Nom PxSg1 Err/Dial
-"<ооны>"
-	"овны" V Err/Dial Inf
-"<,>"
-	"," CLB
-"<визьлыны>"
-	"визьлыны" V Inf
-"<,>"
-	"," CLB
-"<кудз>"
-	"кудз" Adv Interr Manner Err/Orth Rel
-"<олэны>"
-	"овны" V Ind Prs Err/Dial Pl3
-"<йӧзыс>"
-	"йӧз" N Sg Nom PxSg3
-"<мӧдлаын>"
-	"мӧдлаын" Adv Ine
-"<,>"
-	"," CLB
-"<ӧ>"
-	"ӧ" Interj
-"<,>"
-	"," CLB
-"<велэдны>"
-	"велӧдны" V Err/Dial Inf
-"<уна>"
-	"уна" Adv
-	"уна" Det Sg Nom
-"<кыыяс>"
-	"кыв" N Err/Dial Err/Orth Dial/л Pl Nom
-	"кыв" N Err/Dial Pl Err/Dial Nom
-"<.>"
-	"." CLB
+1	Дзолясянь	дзоля	A	_	Sg|Egr	3	obl:tmod	_	_
+2	ме	ме	Pron	_	Pers|Sg1|Nom	3	nsubj	_	_
+3	кӧсйи	кӧсйыны	V	_	Ind|Prt1|Sg1	0	root	_	_
+4	мунны	мунны	V	_	Inf	3	xcomp	_	_
+5	кычеге	кытчӧкӧ	Adv	_	Indef|Ill|Err/Dial	4	advmod:lmod	_	_
+6	мӧд	мӧд	Pron	_	Dem	7	det	_	_
+7	муэ	му	N	_	Sg|Err/Dial|Ill	4	obl:lmod	_	_
+8	ооны	овны	V	_	Err/Dial|Inf	4	xcomp	_	_
+9	,	,	CLB	_	_	10	punct	_	_
+10	визьлыны	визьлыны	V	_	Inf	8	conj	_	_
+11	,	,	CLB	_	_	13	punct	_	_
+12	кудз	кудз	Adv	_	Interr|Manner|Err/Orth|Rel	13	advmod	_	_
+13	олэны	овны	V	_	Ind|Prs|Err/Dial|Pl3	10	ccomp	_	_
+14	йӧзыс	йӧз	N	_	Sg|Nom|PxSg3	13	nsubj	_	_
+15	мӧдлаын	мӧдлаын	Adv	_	Ine	13	advmod:lmod	_	_
+16	,	,	CLB	_	_	17	punct	_	_
+17	ӧ	ӧ	Interj	_	_	13	discourse	_	_
+18	,	,	CLB	_	_	17	punct	_	_
+19	велэдны	велӧдны	V	_	Err/Dial|Inf	13	conj	_	_
+20	уна	уна	Det	_	Sg|Nom	21	det	_	_
+21	кыыяс	кыв	N	_	Err/Dial|Pl|Err/Dial|Nom	19	obj	_	_
+22	.	.	CLB	_	_	3	punct	_	_
 
 # sent_id = kpv_izva20150705-02-b.037
 # text = Ӧӧ, и сідз вошйис быдлааті ветлооны.
-"<Ӧӧ>"
-	"оо" Interj Err/Dial
-"<,>"
-	"," CLB
-"<и>"
-	"и" Adv
-	"и" CC
-"<сідз>"
-	"сідзи" Adv Manner
-"<вошйис>"
-	"вошйыны" V Ind Prt1 Sg3
-"<быдлааті>"
-	"быдла" N Der/La Sg Der Der/ProprietiveMod A Sg Tra
-"<ветлооны>"
-	"ветлооны" ?
-"<.>"
-	"." CLB
+1	Ӧӧ	оо	Interj	_	Err/Dial	5	discourse	_	_
+2	,	,	CLB	_	_	1	punct	_	_
+3	и	и	CC	_	_	5	cc	_	_
+4	сідз	сідзи	Adv	_	Manner	5	advmod	_	_
+5	вошйис	вошйыны	V	_	Ind|Prt1|Sg3	0	root	_	_
+6	быдлааті	быдла	N	_	Der/La|Sg|Der|Der/ProprietiveMod|A|Sg|Tra	7	advmod:lmod	_	_
+7	ветлооны	ветлавны	V	_	Inf	5	xcomp	_	_
+8	.	.	CLB	_	_	5	punct	_	_
 
 # sent_id = kpv_izva20150705-02-b.038
 # text = А уна кыыяс, кымын кыы тӧдан?
-"<А>"
-	"а" Adv
-	"а" CC
-	"а" Interj
-"<уна>"
-	"уна" Adv
-	"уна" Det Sg Nom
-"<кыыяс>"
-	"кыв" N Err/Dial Err/Orth Dial/л Pl Nom
-	"кыв" N Err/Dial Pl Err/Dial Nom
-"<,>"
-	"," CLB
-"<кымын>"
-	"кым" N Sg Ine
-	"кымын" Adv
-	"кымын" Adv Qnt
-	"кымын" Adv Qnt Sg Nom
-	"кымын" CS
-	"кымын" Det Rel
-"<кыы>"
-	"кы" N Sg Err/Dial Ill
-	"кыв" N Err/Dial Sg Err/Dial Nom
-"<тӧдан>"
-	"тӧдны" V Ind Prs Sg2
-"<?>"
-	"?" CLB
+1	А	а	CC	_	_	6	cc	_	_
+2	уна	уна	Det	_	Sg|Nom	3	dep	_	_
+3	кыыяс	кыв	N	_	Err/Dial|Pl|Err/Dial|Nom	6	reparandum	_	_
+4	,	,	CLB	_	_	3	punct	_	_
+5	кымын	кымын	Det	_	Rel	6	det	_	_
+6	кыы	кыв	N	_	Err/Dial|Sg|Nom	7	obj	_	_
+7	тӧдан	тӧдны	V	_	Ind|Prs|Sg2	0	root	_	_
+8	?	?	CLB	_	_	7	punct	_	_
 
 # sent_id = kpv_izva20150705-02-b.039+kpv_izva20150705-02-b.040+kpv_izva20150705-02-b.041+kpv_izva20150705-02-b.042
 # text = Но, позе висьтооны, мый ме комиысь да рочысь ӧтдор сёрнита английскеен бурджыка, ся неуна корейскей кылэн да немецкеен.
-"<Но>"
-	"но" Interj
-"<,>"
-	"," CLB
-"<позе>"
-	"позьны" V Ind Prs Err/Dial Sg3
-"<висьтооны>"
-	"висьтавны" V Err/Dial Inf
-"<,>"
-	"," CLB
-"<мый>"
-	"мый" CS
-"<ме>"
-	"ме" Pron Pers Sg1 Nom
-"<комиысь>"
-	"коми" N Sg Ela
-"<да>"
-	"да" CC
-"<рочысь>"
-	"роч" N Sg Ela
-"<ӧтдор>"
-	"ӧтдор" Adv
-"<сёрнита>"
-	"сёрнитны" V Ind Prs Sg1
-"<английскеен>"
-	"английскӧй" A Err/Dial Sg Err/Dial Ins
-"<бурджыка>"
-	"бурджыка" Adv
-"<,>"
-	"," CLB
-"<ся>"
-	"сэсся" Adv Err/Dial
-"<неуна>"
-	"неуна" Adv
-	"неуна" Adv Qnt
-	"неуна" Adv Qnt Sg Nom
-"<корейскей>"
-	"корейскӧй" A Sg Nom
-"<кылэн>"
-	"кы" N Sg Err/Dial Gen
-	"кыв" N Err/Dial Sg Err/Dial Ins
-	"кыл" N Sg Err/Dial Ins
-"<да>"
-	"да" CC
-	"да" CS
-"<немецкеен>"
-	"немецкӧй" A Err/Dial Sg Err/Dial Ins
-"<.>"
-	"." CLB
-
-# sent_id = kpv_izva20150705-02-b.044+kpv_izva20150705-02-b.047
-# text = Ӧӧ, Аха.
-"<Ӧӧ>"
-	"оо" Interj Err/Dial
-"<,>"
-	"," CLB
-"<Аха>"
-	"ага" Interj Err/Dial
-"<.>"
-	"." CLB
+1	Но	но	Interj	_	_	3	discourse	_	_
+2	,	,	CLB	_	_	1	punct	_	_
+3	позе	позьны	V	_	Ind|Prs|Err/Dial|Sg3	0	root	_	_
+4	висьтооны	висьтавны	V	_	Err/Dial|Inf	3	xcomp	_	_
+5	,	,	CLB	_	_	12	punct	_	_
+6	мый	мый	CS	_	_	12	mark	_	_
+7	ме	ме	Pron	_	Pers|Sg1|Nom	12	nsubj	_	_
+8	комиысь	коми	N	_	Sg|Ela	13	nmod:comp	_	_
+9	да	да	CC	_	_	10	cc	_	_
+10	рочысь	роч	N	_	Sg|Ela	8	conj	_	_
+11	ӧтдор	ӧтдор	Adv	_	_	8	advmod	_	_
+12	сёрнита	сёрнитны	V	_	Ind|Prs|Sg1	4	ccomp	_	_
+13	английскеен	английскӧй	A	_	Err/Dial|Sg|Ins	12	obl	_	_
+14	бурджыка	бурджыка	Adv	_	_	12	advmod	_	_
+15	,	,	CLB	_	_	16	punct	_	_
+16	ся	сэсся	Adv	_	Err/Dial	12	advmod:tmod	_	_
+17	неуна	неуна	Adv	_	Qnt	19	advmod	_	_
+18	корейскей	корейскӧй	A	_	Sg|Nom	19	amod	_	_
+19	кылэн	кыв	N	_	Err/Dial|Sg|Err/Dial|Ins	12	obl	_	_
+20	да	да	CC	_	_	21	cc	_	_
+21	немецкеен	немецкӧй	A	_	Err/Dial|Sg|Ins	19	conj	_	_
+22	.	.	CLB	_	_	3	punct	_	_
 
 # sent_id = kpv_izva20150705-02-b.045+kpv_izva20150705-02-b.046+kpv_izva20150705-02-b.048
 # text = Но финскейсэ зэй этша тӧда, кор велэдіс миянэс Римма Павловна университетын.
-"<Но>"
-	"но" Adv
-	"но" CC
-	"но" Interj
-"<финскейсэ>"
-	"финскӧй" A Err/Dial Sg Acc PxSg3 Err/Dial
-"<зэй>"
-	"зэв" Adv Err/Dial
-"<этша>"
-	"этш" N Sg Der Der/ProprietiveMod A Sg Nom
-"<тӧда>"
-	"тӧд" N Sg Der Der/ProprietiveMod A Sg Nom
-"<,>"
-	"," CLB
-"<кор>"
-	"кор" Adv Rel Sem/Time
-"<велэдіс>"
-	"велӧдны" V Err/Dial Ind Prt1 Sg3
-"<миянэс>"
-	"ме" Pron Pers Pl1 Err/Dial Acc
-"<Римма>"
-	"Римма" N Prop Sg Nom
-"<Павловна>"
-	"Павловна" N Prop Sem/Patr-Fem Sg Nom
-"<университетын>"
-	"университет" N Sg Ine
-"<.>"
-	"." CLB
+1	Но	но	CC	_	_	5	cc	_	_
+2	финскейсэ	финскӧй	A	_	Err/Dial|Sg|Acc|PxSg3|Err/Dial	5	obj	_	_
+3	зэй	зэв	Adv	_	Err/Dial	4	advmod:deg	_	_
+4	этша	этш	DET	_	Sg|Der|Der/ProprietiveMod|A|Sg|Nom	5	advmod	_	_
+5	тӧда	тӧд	N	_	Sg|Der|Der/ProprietiveMod|A|Sg|Nom	0	root	_	_
+6	,	,	CLB	_	_	8	punct	_	_
+7	кор	кор	Adv	_	Rel|Sem/Time	8	mark	_	_
+8	велэдіс	велӧдны	V	_	Err/Dial|Ind|Prt1|Sg3	5	advcl:tcl	_	_
+9	миянэс	ме	Pron	_	Pers|Pl1|Err/Dial|Acc	8	obj	_	_
+10	Римма	Римма	N	_	Prop|Sg|Nom	8	nsubj	_	_
+11	Павловна	Павловна	N	_	Prop|Sem/Patr-Fem|Sg|Nom	10	flat:name	_	_
+12	университетын	университет	N	_	Sg|Ine	8	obl:lmod	_	_
+13	.	.	CLB	_	_	5	punct	_	_
 
-# sent_id = kpv_izva20150705-02-b.049
-# text = А кудз велэдін, вот тэ висьталін, бура тӧдан английскейсэ, кудз велэдін? Ачыд? Или школаын? Или кутшемке курсъяс прӧйдитін? Кудз?
-"<А>"
-	"а" Adv
-	"а" CC
-	"а" Interj
-"<кудз>"
-	"кудз" Adv Interr Manner Err/Orth Interr
-	"кудз" Adv Interr Manner Err/Orth Rel
-	"кудз" N Sg Nom
-"<велэдін>"
-	"велӧдны" V Err/Dial Ind Prt1 Sg2
-"<,>"
-	"," CLB
-"<вот>"
-	"вот" Adv Parenthetic
-	"вот" N Sg Nom
-	"вотны" V Imprt Sg2
-"<тэ>"
-	"тэ" Pron Pers Sg2 Nom
-"<висьталін>"
-	"висьтавны" V Ind Prt1 Sg2
-"<,>"
-	"," CLB
-"<бура>"
-	"бура" N Sg Nom
-"<тӧдан>"
-	"тӧдны" V Ind Prs Sg2
-"<английскейсэ>"
-	"английскӧй" A Err/Dial Sg Acc PxSg3 Err/Dial
-"<,>"
-	"," CLB
-"<кудз>"
-	"кудз" Adv Interr Manner Err/Orth Rel
-"<велэдін>"
-	"велӧдны" V Err/Dial Ind Prt1 Sg2
-"<?>"
-	"?" CLB
-"<Ачыд>"
-	"ас" Pron Refl Sg2 Nom
-"<?>"
-	"?" CLB
-"<Или>"
-	"или" Pcle
-"<школаын>"
-	"школа" N Sg Ine
-"<?>"
-	"?" CLB
-"<Или>"
-	"или" Pcle
-"<кутшемке>"
-	"кутшӧмкӧ" Err/Dial Der/кӧ Indef
-"<курсъяс>"
-	"курс" N Pl Nom
-"<прӧйдитін>"
-	"прӧйдитны" V Ind Prt1 Sg2
-"<?>"
-	"?" CLB
-"<Кудз>"
-	"кудз" Adv Interr Manner Err/Orth Interr
-	"кудз" Adv Interr Manner Err/Orth Rel
-	"кудз" N Sg Nom
-"<?>"
-	"?" CLB
+# sent_id = kpv_izva20150705-02-b.049a
+# text = А кудз велэдін, вот тэ висьталін, бура тӧдан английскейсэ, кудз велэдін?
+1	А	а	CC	_	_	3	cc	_	_
+2	кудз	кудз	Adv	_	Interr|Manner|Err/Orth|Interr	3	advmod	_	_
+3	велэдін	велӧдны	V	_	Err/Dial|Ind|Prt1|Sg2	0	root	_	_
+4	,	,	CLB	_	_	7	punct	_	_
+5	вот	вот	Adv	_	Parenthetic	7	advmod	_	_
+6	тэ	тэ	Pron	_	Pers|Sg2|Nom	7	nsubj	_	_
+7	висьталін	висьтавны	V	_	Ind|Prt1|Sg2	3	conj	_	_
+8	,	,	CLB	_	_	10	punct	_	_
+9	бура	бура	N	_	Sg|Nom	10	advmod	_	_
+10	тӧдан	тӧдны	V	_	Ind|Prs|Sg2	7	ccomp	_	_
+11	английскейсэ	английскӧй	A	_	Err/Dial|Sg|Acc|PxSg3|Err/Dial	10	obj	_	_
+12	,	,	CLB	_	_	14	punct	_	_
+13	кудз	кудз	Adv	_	Interr|Manner|Err/Orth|Rel	14	advmod	_	_
+14	велэдін	велӧдны	V	_	Err/Dial|Ind|Prt1|Sg2	3	conj	_	_
+15	?	?	CLB	_	_	3	punct	_	_
 
-# sent_id = kpv_izva20150705-02-b.050+kpv_izva20150705-02-b.051+kpv_izva20150705-02-b.052+kpv_izva20150705-02-b.053+kpv_izva20150705-02-b.054+kpv_izva20150705-02-b.055+kpv_izva20150705-02-b.056+kpv_izva20150705-02-b.057
-# text = Миян школаын вӧліс зэй бур велэдысьыс, но, зэй бур, сыа менэ.сетіс вынсэ, импульсэ, мед ме зэйджык, ёна-ёна велэда кыысэ. И дзолясянь видзеді кинояс, сериалъяс английскей вылын, вуджедтэг. И сыа ортсаліс велэднысэ английскейсэ. А корейскей, корея кывсэ ме куті велэдны кык во сайын ачум, но, кӧсйысис сідз.
+# sent_id = kpv_izva20150705-02-b.049b
+# text = Или кутшемке курсъяс прӧйдитін?
+1	Или	или	CC	_	_	4	cc	_	_
+2	кутшемке	кутшӧмкӧ	ADJ	_	Err/Dial|Der/кӧ|Indef	3	amod	_	_
+3	курсъяс	курс	N	_	Pl|Nom	4	obj	_	_
+4	прӧйдитін	прӧйдитны	V	_	Ind|Prt1|Sg2	0	root	_	_
+5	?	?	CLB	_	_	4	punct	_	_
+
+# sent_id = kpv_izva20150705-02-b.050+kpv_izva20150705-02-b.051+kpv_izva20150705-02-b.052+kpv_izva20150705-02-b.053+kpv_izva20150705-02-b.054+kpv_izva20150705-02-b.055+kpv_izva20150705-02-b.056+kpv_izva20150705-02-b.057a
+# text = Миян школаын вӧліс зэй бур велэдысьыс, но, зэй бур, сыа менэ.сетіс вынсэ, импульсэ, мед ме зэйджык, ёна-ёна велэда кыысэ.
 "<Миян>"
 	"ме" Pron Pers Pl1 Gen
 "<школаын>"
@@ -652,7 +363,6 @@
 	"ме" Pron Pers Sg1 Err/Dial Acc
 "<.>"
 	"." CLB
-
 "<сетіс>"
 	"сетны" V Ind Prt1 Sg3
 "<вынсэ>"
@@ -661,13 +371,10 @@
 	"," CLB
 "<импульсэ>"
 	"импульс" N Sg Err/Dial Ill
-	"импульс" N Sg Nom PxSg1 Err/Dial
 "<,>"
 	"," CLB
 "<мед>"
-	"мед" Adv
 	"мед" CS
-	"мед" N Sg Nom
 "<ме>"
 	"ме" Pron Pers Sg1 Nom
 "<зэйджык>"
@@ -675,16 +382,17 @@
 "<,>"
 	"," CLB
 "<ёна-ёна>"
-	"ёна-ёна" ?
+	"ёна-ёна" Adv
 "<велэда>"
 	"велӧдны" V Err/Dial Ind Prs Sg1
 "<кыысэ>"
-	"кы" N Sg Err/Dial Ill Clt/сӧ Err/Dial
-	"кыв" N Err/Dial Sg Err/Dial Acc PxSg3 Err/Dial
+	"кыв" N Sg Acc PxSg3 Err/Dial
 "<.>"
 	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.050+kpv_izva20150705-02-b.051+kpv_izva20150705-02-b.052+kpv_izva20150705-02-b.053+kpv_izva20150705-02-b.054+kpv_izva20150705-02-b.055+kpv_izva20150705-02-b.056+kpv_izva20150705-02-b.057b
+# text = И дзолясянь видзеді кинояс, сериалъяс английскей вылын, вуджедтэг. И сыа ортсаліс велэднысэ английскейсэ. А корейскей, корея кывсэ ме куті велэдны кык во сайын ачум, но, кӧсйысис сідз.
 "<И>"
-	"и" Adv
 	"и" CC
 "<дзолясянь>"
 	"дзоля" A Sg Egr
