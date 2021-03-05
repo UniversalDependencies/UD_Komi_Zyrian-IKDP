@@ -570,44 +570,37 @@
 "<.>"
 	"." CLB
 
-# sent_id = kpv_izva20150705-02-b.074+kpv_izva20150705-02-b.075+kpv_izva20150705-02-b.076+kpv_izva20150705-02-b.079
+# sent_id = kpv_izva20150705-02-b.074+kpv_izva20150705-02-b.075+kpv_izva20150705-02-b.076+kpv_izva20150705-02-b.079a
 # text = Ассюм кыы тӧдэмъяссэ вылэджык кыпедны, медум унджык кыы тӧдны, ныес бурджыка велэдны и бурджыка сёрнитны, и кутшем кыыяс ме велэда и тӧда, сыа местаясас бы ветлыны, вот, ӧні кӧсъя Корея ветлыны эське корке. Оо, эні ме кӧсъя мунны аспирантураа велэдчыны.
 "<Ассюм>"
-	"Ассюм" ?
+	"Ассюм" Pron Refl Sg1 Ela
 "<кыы>"
-	"кы" N Sg Err/Dial Ill
 	"кыв" N Err/Dial Sg Err/Dial Nom
-	"кывны" V Err/Dial Imprt Sg2
 "<тӧдэмъяссэ>"
 	"тӧдны" V Err/Dial Der Der/ӧм Der/NomAct N Pl Acc PxSg3 Err/Dial
 "<вылэджык>"
 	"выв" N Relat Sg Err/Dial Ill Comp
-	"вывны" V Ind Prs Err/Dial Sg3 Comp
 "<кыпедны>"
-	"кыпедны" ?
+	"кыпӧдны" V Inf
 "<,>"
 	"," CLB
 "<медум>"
-	"медум" ?
+	"медым" CS
 "<унджык>"
-	"ун" N Sg Nom Comp
-	"уна" Adv Comp
 	"уна" Det Comp Sg Nom
 "<кыы>"
-	"кы" N Sg Err/Dial Ill
 	"кыв" N Err/Dial Sg Err/Dial Nom
 "<тӧдны>"
 	"тӧдны" V Inf
 "<,>"
 	"," CLB
 "<ныес>"
-	"ныес" ?
+	"ныес" Pron Pl Acc
 "<бурджыка>"
 	"бурджыка" Adv
 "<велэдны>"
 	"велӧдны" V Err/Dial Inf
 "<и>"
-	"и" Adv
 	"и" CC
 "<бурджыка>"
 	"бурджыка" Adv
@@ -616,13 +609,11 @@
 "<,>"
 	"," CLB
 "<и>"
-	"и" Adv
 	"и" CC
 "<кутшем>"
 	"кутшӧм" Adv Err/Dial
 "<кыыяс>"
-	"кыв" N Err/Dial Err/Orth Dial/л Pl Nom
-	"кыв" N Err/Dial Pl Err/Dial Nom
+	"кыв" N Err/Dial Pl Nom
 "<ме>"
 	"ме" Pron Pers Sg1 Nom
 "<велэда>"
@@ -637,7 +628,6 @@
 	"сійӧ" Pron Err/Dial Dem
 "<местаясас>"
 	"места" N Pl Ill PxSg3 So/CP
-	"места" N Pl Ine PxSg3 So/CP
 "<бы>"
 	"бы" Pcle
 "<ветлыны>"
@@ -646,8 +636,6 @@
 	"," CLB
 "<вот>"
 	"вот" Adv Parenthetic
-	"вот" N Sg Nom
-	"вотны" V Imprt Sg2
 "<,>"
 	"," CLB
 "<ӧні>"
@@ -659,31 +647,23 @@
 "<ветлыны>"
 	"ветлыны" V Inf
 "<эське>"
-	"эськӧ" Adv
 	"эськӧ" Adv Err/Orth
 "<корке>"
 	"коркӧ" Adv Indef Sem/Time Der/кӧ
-	"коркӧ" Adv Sem/Time
 "<.>"
 	"." CLB
-"<Оо>"
-	"оо" Interj
-"<,>"
-	"," CLB
-"<эні>"
-	"ӧні" Adv Err/Dial
-"<ме>"
-	"ме" Pron Pers Sg1 Nom
-"<кӧсъя>"
-	"кӧсйыны" V Ind Prs Sg1
-"<мунны>"
-	"мунны" V Inf
-"<аспирантураа>"
-	"аспирантура" N Sg Err/Dial Ill
-"<велэдчыны>"
-	"велӧдчыны" V Err/Dial Refl Inf
-"<.>"
-	"." CLB
+
+# sent_id = kpv_izva20150705-02-b.074+kpv_izva20150705-02-b.075+kpv_izva20150705-02-b.076+kpv_izva20150705-02-b.079b
+# text = Оо, эні ме кӧсъя мунны аспирантураа велэдчыны.
+1	Оо	оо	Interj	_	_	5	discourse	_	_
+2	,	,	CLB	_	_	1	punct	_	_
+3	эні	ӧні	Adv	_	Err/Dial	5	advmod:tmod	_	_
+4	ме	ме	Pron	_	Pers|Sg1|Nom	5	nsubj	_	_
+5	кӧсъя	кӧсйыны	V	_	Ind|Prs|Sg1	0	root	_	_
+6	мунны	мунны	V	_	Inf	5	xcomp	_	_
+7	аспирантураа	аспирантура	N	_	Sg|Err/Dial|Ill	6	obl:lmod	_	_
+8	велэдчыны	велӧдчыны	V	_	Err/Dial|Refl|Inf	6	xcomp	_	_
+9	.	.	CLB	_	_	5	punct	_	_
 
 # sent_id = kpv_izva20150705-02-b.078
 # text = Водзе вылэ кутшем планъяс? Ӧні тэ помалін университет, мыен водзе кӧсъян занимайтчыны?
