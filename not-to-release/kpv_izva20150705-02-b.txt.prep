@@ -788,128 +788,64 @@
 
 # sent_id = kpv_izva20150705-02-b.106+kpv_izva20150705-02-b.108+kpv_izva20150705-02-b.110+kpv_izva20150705-02-b.111+kpv_izva20150705-02-b.117a
 # text = Куимсэ ӧттшӧтш, мыйла ная ӧткойдэсь, но абу правоясас равнэйэсь.
-"<Куимсэ>"
-	"куим" Num Card Sg Nom Clt/сӧ Err/Dial
-"<ӧттшӧтш>"
-	"ӧттшӧтш" Adv
-"<,>"
-	"," PUNCT
-"<мыйла>"
-	"мыйла" CS
-"<ная>"
-	"ная" Pron Dem Pl Nom Err/Dial
-"<ӧткойдэсь>"
-	"ӧткодь" A Cop Pl
-"<,>"
-	"," PUNCT
-"<но>"
-	"но" CC
-"<абу>"
-	"абу" Pcle Aux Neg
-	"абу" V Neg Cop Ind Sg
-"<правоясас>"
-	"право" N Pl Ill PxSg3 So/CP
-	"право" N Pl Ine PxSg3 So/CP
-"<равнэйэсь>"
-	"равнэй" A Cop Pl
-"<.>"
-	"." PUNCT
+# comment = Check
+1	Куимсэ	куим	Num	_	Card|Sg|Nom|Clt/сӧ|Err/Dial	_	_	_	_
+2	ӧттшӧтш	ӧттшӧтш	Adv	_	_	_	_	_	_
+3	,	,	PUNCT	_	_	_	_	_	_
+4	мыйла	мыйла	CS	_	_	6	_	_	_
+5	ная	ная	Pron	_	Dem|Pl|Nom|Err/Dial	6	nsubj	_	_
+6	ӧткойдэсь	ӧткодь	A	_	Cop|Pl|Err/Dial	_	_	_	_
+7	,	,	PUNCT	_	_	11	punct	_	_
+8	но	но	CC	_	_	11	cc	_	_
+9	абу	абу	Pcle	_	Aux|Neg	11	aux:neg	_	_
+10	правоясас	право	N	_	Pl|Ine|PxSg3|So/CP	11	obl:lmod	_	_
+11	равнэйэсь	равнэй	A	_	Cop|Pl	_	_	_	_
+12	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = kpv_izva20150705-02-b.106+kpv_izva20150705-02-b.108+kpv_izva20150705-02-b.110+kpv_izva20150705-02-b.111+kpv_izva20150705-02-b.117b
-# text = Да. И заводиті сіес, вошйи, мыля ачум коми-изьватас и менэ сыа интересуйтэ.
-"<Да>"
-	"да" Adv Parenthetic
-"<.>"
-	"." PUNCT
-"<И>"
-	"и" Adv
-	"и" CC
-"<заводиті>"
-	"заводитны" V Ind Prt1 Err/Dial Sg3
-"<сіес>"
-	"сійӧ" Pron Pers Sg3 Acc Err/Dial
-"<,>"
-	"," PUNCT
-"<вошйи>"
-	"вошйыны" V Ind Prt1 Err/Dial Sg3
-"<,>"
-	"," PUNCT
-"<мыля>"
-	"мыйла" Err/Dial CS
-	"мыйла" Err/Dial Qnt
-"<ачум>"
-	"ас" Pron Refl Sg1 Err/Dial Nom
-"<коми-изьватас>"
-	"изьватас" N Sg Nom
-		"коми" N Cmp
-"<и>"
-	"и" Adv
-	"и" CC
-"<менэ>"
-	"ме" Pron Pers Sg1 Err/Dial Acc
-"<сыа>"
-	"сійӧ" Pron Err/Dial Dem
-"<интересуйтэ>"
-	"интересуйтны" V Ind Prs Err/Dial Sg3
-"<.>"
-	"." PUNCT
+# text = И заводиті сіес, вошйи, мыля ачум коми-изьватас и менэ сыа интересуйтэ.
+1	И	и	CC	_	_	2	cc	_	_
+2	заводиті	заводитны	V	_	Ind|Prt1|Err/Dial|Sg3	0	root	_	_
+3	сіес	сійӧ	Pron	_	Pers|Sg3|Acc|Err/Dial	2	obj	_	_
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	вошйи	вошйыны	V	_	Ind|Prt1|Err/Dial|Sg3	2	conj	_	_
+6	,	,	PUNCT	_	_	9	punct	_	_
+7	мыля	мыйла	SCONJ	_	CS	9	mark	_	_
+8	ачум	ас	Pron	_	Refl|Sg1|Err/Dial|Nom	9	nsubj:cop	_	_
+9	коми-изьватас	коми-изьватас	N	_	Sg|Nom	5	ccomp	_	_
+10	и	и	CC	_	_	13	cc	_	_
+11	менэ	ме	Pron	_	Pers|Sg1|Err/Dial|Acc	13	obj	_	_
+12	сыа	сійӧ	Pron	_	Err/Dial|Dem	13	nsubj	_	_
+13	интересуйтэ	интересуйтны	V	_	Ind|Prs|Err/Dial|Sg3	2	conj	_	_
+14	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = kpv_izva20150705-02-b.106+kpv_izva20150705-02-b.108+kpv_izva20150705-02-b.110+kpv_izva20150705-02-b.111+kpv_izva20150705-02-b.117c
-# text = Ме кӧсъя, мед менам, гашке, трудъясэ, рӧбетаяссэ
-"<Ме>"
-	"ме" Pron Pers Sg1 Nom
-"<кӧсъя>"
-	"кӧсйыны" V Ind Prs Sg1
-"<,>"
-	"," PUNCT
-"<мед>"
-	"мед" Adv
-	"мед" CS
-	"мед" N Sg Nom
-"<менам>"
-	"ме" Pron Pers Sg1 Gen
-	"менам" N Sg Nom
-"<,>"
-	"," PUNCT
-"<гашке>"
-	"гашкӧ" Adv
-	"гашкӧ" Adv Err/Orth
-"<,>"
-	"," PUNCT
-"<трудъясэ>"
-	"труд" N Pl Err/Dial Ill
-	"труд" N Pl Nom PxSg1 Err/Dial
-"<,>"
-	"," PUNCT
-"<рӧбетаяссэ>"
-	"рӧбета" N Err/Dial Pl Acc PxSg3 Err/Dial
-"<кудзке>"
-	"кыдзкӧ" Adv Indef Manner Err/Dial Der/кӧ
-"<ортсаласны>"
-	"отсавны" V Err/Dial Ind Fut Pl3
-"<миянлы>"
-	"ме" Pron Pers Pl1 Dat
-"<босьны>"
-	"босьтны" V Inf
-"<сіе>"
-	"сійӧ" Pron Pers Sg3 Nom Err/Dial
-"<статуссэ>"
-	"статус" N Sg Acc PxSg3 Err/Dial
-"<.>"
-	"." PUNCT
-"<Ыхы>"
-	"ага" Interj Err/Dial
-"<.>"
-	"." PUNCT
+# text = Ме кӧсъя, мед менам, гашке, трудъясэ, рӧбетаяссэ кудзке ортсаласны миянлы босьны сіе статуссэ.
+# comment = Check
+1	Ме	ме	Pron	_	Pers|Sg1|Nom	2	nsubj	_	_
+2	кӧсъя	кӧсйыны	V	_	Ind|Prs|Sg1	_	_	_	_
+3	,	,	PUNCT	_	_	13	punct	_	_
+4	мед	мед	SCONJ	_	_	13	mark	_	_
+5	менам	ме	Pron	_	Pers|Sg1|Gen	9	nmod	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	гашке	гашкӧ	Adv	_	Err/Orth	5	advmod:mmod	_	_
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	трудъясэ	труд	N	_	Pl|Err/Dial|Ill	13	nsubj	_	_
+10	,	,	PUNCT	_	_	13	punct	_	_
+11	рӧбетаяссэ	рӧбета	N	_	Err/Dial|Pl|Acc|PxSg3|Err/Dial	13	obj	_	_
+12	кудзке	кыдзкӧ	Adv	_	Indef|Manner|Err/Dial|Der/кӧ	13	advmod	_	_
+13	ортсаласны	отсавны	V	_	Err/Dial|Ind|Fut|Pl3	2	ccomp	_	_
+14	миянлы	ме	Pron	_	Pers|Pl1|Dat	13	obl	_	_
+15	босьны	босьтны	V	_	Inf	13	xcomp	_	_
+16	сіе	сійӧ	Pron	_	Pers|Sg3|Nom|Err/Dial	17	det	_	_
+17	статуссэ	статус	N	_	Sg|Acc|PxSg3|Err/Dial	15	obj	_	_
+18	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = kpv_izva20150705-02-b.107
 # text = Сравнитны кудзке?
-"<Сравнитны>"
-	"сравнитны" V Inf
-"<кудзке>"
-	"кыдзкӧ" Adv Indef Manner Err/Dial Der/кӧ
-"<?>"
-	"?" PUNCT
+1	Сравнитны	сравнитны	V	_	Inf	0	root	_	_
+2	кудзке	кыдзкӧ	Adv	_	Indef|Manner|Err/Dial|Der/кӧ	1	advmod	_	_
+3	?	?	PUNCT	_	_	1	punct	_	_
 
 # sent_id = kpv_izva20150705-02-b.114+kpv_izva20150705-02-b.147
 # text = Интереснэ. Нико, тэнад, гашке. Тэ серти.
