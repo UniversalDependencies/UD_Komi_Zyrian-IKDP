@@ -1,8 +1,7 @@
 # sent_id = 13756_2bz.002
 # text = Оліс-выліс нёль вок.
+# text_en = Once upon a time, there lived four brothers.
 "<Оліс-выліс>"
-	"вывны" V Ind Prt1 Sg3
-		"овны" V IV Ind Prt1 Sg3 Cmp/Serial Cmp
 	"овны-вывны" V Ind Prt1 Sg3
 "<нёль>"
 	"нёль" Num Card Sg Nom
@@ -13,6 +12,7 @@
 
 # sent_id = 13756_2bz.003
 # text = Нёль вок, нёль вок мунэныс, вӧрзеныс.
+# text_en = Four brothers wandered and migrated.
 "<Нёль>"
 	"нёль" Num Card Sg Nom
 "<вок>"
@@ -34,14 +34,10 @@
 
 # sent_id = 13756_2bz.004+13756_2bz.005
 # text = А нылэн вӧлі, нёль воклэн ӧтік небыд юрси чой, небыд юрси чойныс.
+# text_en = And they had, the four brothers, a sister, Soft Hair, their sister was Soft Hair.
 "<А>"
-	"а" Adv
 	"а" CC
-	"а" Interj
 "<нылэн>"
-	"ны" N Sg Err/Dial Gen
-	"ныв" N Sg Err/Dial Ins
-	"нія" Pron Dem Pl Gen Err/Dial
 	"сійӧ" Pron Pers Pl3 Gen Err/Dial
 "<вӧлі>"
 	"вӧвны" V Ind Prt1 Sg3
@@ -72,10 +68,9 @@
 
 # sent_id = 13756_2bz.006+13756_2bz.007
 # text = А меддёля вокныс сыа кӧр вӧтлэ, а вокъясыс, видед, водьын мунэныс аргышен.
+# text_en = The youngest brother was driving the herd and the [other three] brothers, you see, led the sledge train ahead.
 "<А>"
-	"а" Adv
 	"а" CC
-	"а" Interj
 "<меддёля>"
 	"дзоля" A Superl Err/Dial Sg Nom
 "<вокныс>"
@@ -109,19 +104,21 @@
 
 # sent_id = 13756_2bz.008
 # text = Кӧр вӧтлэ.
+# text_en = He [the youngest one] drove the reindeer herd.
 "<Кӧр>"
 	"кӧр" N Sg Nom
-	"кӧрны" V Imprt Sg2
 "<вӧтлэ>"
 	"вӧтлыны" V Ind Prs Err/Dial Sg3
 "<.>"
 	"." PUNCT
 
 # sent_id = 13756_2bz.020
-# text = Харей-юр выытіыс чеччис да кокыс на из сидзоолы.
-"<Харей-юр>"
+# text = Харей юр выытіыс чеччис да кокыс на из сидзоолы.
+# text_en = He jumped over the tip of the goad and his feet didn't touch it.
+"<Харей>"
+	"харей" N Sg Nom
+"<юр>"
 	"юр" N Sg Nom
-		"харей" N Cmp Cmp
 "<выытіыс>"
 	"выв" N Relat Sg Err/Dial Tra PxSg3 So/CP
 "<чеччис>"
@@ -131,55 +128,52 @@
 "<кокыс>"
 	"кок" N Sg Nom PxSg3
 "<на>"
-	"на" Adv
 	"на" Adv Sem/Time
 "<из>"
-	"изны" V Imprt Sg2
+	"изны" V Neg Ind Prt1 Sg3
 "<сидзоолы>"
-	"сидзоолы" ?
+	"сидзооны" ConNeg
 "<.>"
 	"." PUNCT
 
 # sent_id = 13756_2bz.030
-# text = А бӧрас бергеччис: а куйим даддя локтэ.
+# text = А бӧрас бергеччис: а куим даддя локтэ.
+# text_en = And as he looked back: [he could see] three sledges approaching.
 "<А>"
-	"а" Adv
 	"а" CC
-	"а" Interj
 "<бӧрас>"
 	"бӧр" N Relat Sg Ill PxSg3 So/CP
-	"бӧр" N Relat Sg Ine PxSg3 So/CP
-"<бергеччис>"
-	"бергеччис" ?
+"<бергедчис>"
+	"бергӧдчыны" V Ind Prt1 Sg3
 "<:>"
 	":" PUNCT
 "<а>"
-	"а" Adv
 	"а" CC
-	"а" Interj
-"<куйим>"
-	"куйим" ?
+"<куим>"
+	"куим" Num Card Sg Nom
 "<даддя>"
 	"даддя" A Sg Nom
 "<локтэ>"
-	"лок" N Sg Acc PxSg2 Err/Dial
+	"локны" V Ind Prs Sg3
 "<.>"
 	"." PUNCT
 
 # sent_id = 13756_2bz.031
 # text = Куим даддя локтэ.
+# text_en = Three sledges nearing.
 "<Куим>"
 	"Куим" N Prop Sem/Plc Sem/Plc Sg Nom
 	"куим" Num Card Sg Nom
 "<даддя>"
 	"даддя" A Sg Nom
 "<локтэ>"
-	"лок" N Sg Acc PxSg2 Err/Dial
+	"локны" V Ind Prs Sg3
 "<.>"
 	"." PUNCT
 
 # sent_id = 13756_2bz.042
 # text = Какен чеччаліс, куимнансэ ордедіс.
+# text_en = He leapt up flying and beat all the three of them.
 "<Какен>"
 	"как" N Err/Dial Sg Err/Dial Ins
 "<чеччаліс>"
@@ -195,6 +189,7 @@
 
 # sent_id = 13756_2bz.047+13756_2bz.048
 # text = Ӧтікес сетіс му бердас да нырсьыс и вомсьыс вир xывнитіс.
+# text_en = He knocked one down to the ground so that [the fellow] had blood gushing out of his nose and mouth.
 "<Ӧтікес>"
 	"ӧти" Num Err/Dial Card Sg Acc PxSg1
 "<сетіс>"
@@ -203,8 +198,6 @@
 	"му" N Sg Nom
 "<бердас>"
 	"берд" N Relat Sg Ill PxSg3 So/CP
-	"берд" N Relat Sg Ine PxSg3 So/CP
-	"бердны" V Ind Fut Sg3
 "<да>"
 	"да" CC
 "<нырсьыс>"
@@ -216,19 +209,19 @@
 "<вир>"
 	"вир" Adv Deg
 "<xывнитіс>"
-	"xывнитіс" ?
+	"xывнитны" V Ind Prt1 Sg3
 "<.>"
 	"." PUNCT
 
 # sent_id = 13756_2bz.049
 # text = Мӧдэс сетіс да нырсьыс и вомсьыс вир xывнитіс.
+# text_en = Then he fixed the second who bled at the nose and mouth.
 "<Мӧдэс>"
 	"мӧд" Num Ord Sg Acc PxSg1 Err/Dial
 "<сетіс>"
 	"сетны" V Ind Prt1 Sg3
 "<да>"
 	"да" CC
-	"да" CS
 "<нырсьыс>"
 	"ныр" N Sg Ela PxSg3 So/CP
 "<и>"
@@ -238,21 +231,20 @@
 "<вир>"
 	"вир" Adv Deg
 "<xывнитіс>"
-	"xывнитіс" ?
+	"xывнитны" V Ind Prt1 Sg3
 "<.>"
 	"." PUNCT
 
 # sent_id = 13756_2bz.049
 # text = Коймедсэ сетіс да бара же сідз.
+# text_en = He fixed the third one and it was the same again.
 "<Коймедсэ>"
 	"коймӧд" Num Err/Dial Ord Sg Nom Clt/сӧ Err/Dial
 "<сетіс>"
 	"сетны" V Ind Prt1 Sg3
 "<да>"
 	"да" CC
-	"да" CS
 "<бара>"
-	"бара" Adv
 	"бара" Adv Parenthetic
 "<же>"
 	"жӧ" Pcle Err/Dial
@@ -263,6 +255,7 @@
 
 # sent_id = 13756_2bz.051
 # text = Даддяяс тай дадюуныссэ тшапкисныс да бӧр ӧдде воедісныс: "медум" висьталэ "казьоолан корке!"
+# text_en = Then the sledge drivers grabbed their trace reindeer and headed back in hurry: – You will be – he says – sorry for this some day!
 "<Даддяяс>"
 	"даддя" A Pl Nom
 "<тай>"
@@ -275,7 +268,6 @@
 	"да" CC
 "<бӧр>"
 	"бӧр" Adv
-	"бӧр" N Relat Sg Nom
 "<ӧдде>"
 	"ӧдйӧ" Adv Err/Dial
 "<воедісныс>"
@@ -293,10 +285,9 @@
 "<">"
 	""" PUNCT
 "<казьоолан>"
-	"казьоолан" ?
+	"казявлыны" V Ind Prs Sg2
 "<корке>"
 	"коркӧ" Adv Indef Sem/Time Der/кӧ
-	"коркӧ" Adv Sem/Time
 "<!>"
 	"!" PUNCT
 
@@ -305,11 +296,11 @@
 
 # sent_id = 13756_2bz.052
 # text = Даддяяс бӧр воедісныс.
+# text_en = Those in sledges faded away.
 "<Даддяяс>"
 	"даддя" A Pl Nom
 "<бӧр>"
 	"бӧр" Adv
-	"бӧр" N Relat Sg Nom
 "<воедісныс>"
 	"войӧдны" V Err/Dial Err/Dial Ind Prt1 Pl3
 "<.>"
@@ -317,9 +308,8 @@
 
 # sent_id = 13756_2bz.053+13756_2bz.054
 # text = Неуна муныштіс, дадьсэ тшапкис да воедіс, а ва-ош туй мунэма морелаздоре.
+# text_en = He went on for a while, took his sledge and drove off, and lo, there was a polar bear's track leading down the sea coast.
 "<Неуна>"
-	"неуна" Adv
-	"неуна" Adv Qnt
 	"неуна" Adv Qnt Sg Nom
 "<муныштіс>"
 	"муныштны" V Ind Prt1 Sg3
@@ -345,12 +335,13 @@
 "<мунэма>"
 	"мунны" V Err/Dial Ind Prt2 Sg3
 "<морелаздоре>"
-	"морелаздоре" ?
+	"морелаздор" N Sg Ill
 "<.>"
 	"." PUNCT
 
 # sent_id = 13756_2bz.055+13756_2bz.056
 # text = Дадьсэ тай тшапкис да воедіс, воедіс да небыд юрси чойсэ и вӧжжиедыс упритіс: "Чое, нӧревитлы", висьталэ, "ва-ош туй мунэма да ме ва-ош туй бӧрсяньыс вӧтэдча".
+# text_en = He took his sledge and rode on and on, and then halted his sister Soft Hair with the reins: – Wait a minute, sister – he says – there's a track of a polar bear and I am going to pursue the polar bear.
 "<Дадьсэ>"
 	"дадь" N Sg Acc PxSg3 Err/Dial
 "<тай>"
@@ -376,20 +367,19 @@
 "<и>"
 	"и" Adv
 "<вӧжжиедыс>"
-	"вӧжжиедыс" ?
+	"вӧжжи" N Sg Prl PxSg3
 "<упритіс>"
-	"упритіс" ?
+	"упритны" V Ind Prt1 Sg3
 "<:>"
 	":" PUNCT
 "<">"
 	""" PUNCT
 "<Чое>"
-	"чой" N Sg Err/Dial Ill
 	"чой" N Sg Nom PxSg1 Err/Dial
 "<,>"
 	"," PUNCT
 "<нӧревитлы>"
-	"нӧревитлы" ?
+	"нӧревитлыны" V Imprt Sg2
 "<">"
 	""" PUNCT
 "<,>"
@@ -419,7 +409,7 @@
 "<бӧрсяньыс>"
 	"бӧр" N Relat Sg Egr PxSg3 So/CP
 "<вӧтэдча>"
-	"вӧтэдча" ?
+	"вӧтэдчыны" V Ind Prs Sg1
 "<">"
 	""" PUNCT
 "<.>"
@@ -427,10 +417,11 @@
 
 # sent_id = 13756_2bz.064
 # text = Ырген няртласэ чойыс разис, сетіс.
+# text_en = The sister fetched the copper lasso and handed it over.
 "<Ырген>"
 	"Ырген" N Prop Sg Nom
 "<няртласэ>"
-	"няртлыны" V Ind Prs Sg1 Clt/сӧ Err/Dial
+	"няртла" N Sg Nom Clt Clt/сӧ
 "<чойыс>"
 	"чой" N Sg Nom PxSg3
 "<разис>"
@@ -444,6 +435,7 @@
 
 # sent_id = 13756_2bz.072
 # text = Муніс, муніс, мен висьтооны ӧдде, код тӧдас, сыа мый дыра море кузяыд муніс.
+# text_en = He went on and on, it's quick to me to tell but who knows how long he had to go along the seaside.
 "<Муніс>"
 	"мунны" V Ind Prt1 Sg3
 "<,>"
@@ -461,12 +453,9 @@
 "<,>"
 	"," PUNCT
 "<код>"
-	"коді" Pron Interr Sg Nom
-	"коді" Pron Rel
 	"коді" Pron Rel Sg Nom
 "<тӧдас>"
-	"тӧд" N Sg Ill PxSg3 So/CP
-	"тӧд" N Sg Ine PxSg3 So/CP
+	"тӧдны" V Ind Fut Sg3
 "<,>"
 	"," PUNCT
 "<сыа>"
@@ -478,19 +467,31 @@
 "<море>"
 	"море" N Sg Nom
 "<кузяыд>"
-	"кузя" Adp Po PxSg2
+	"кузя" N Sg Nom PxSg2
 "<муніс>"
 	"мунны" V Ind Prt1 Sg3
 "<.>"
 	"." PUNCT
 
-# sent_id = 13756_2bz.076
-# text = Няртла пасьта ваяс дадюуяс чечченыс, пыр мунэ.
-"<Няртла>"
-	"няртлыны" V Ind Prs Sg1
+# sent_id = 13756_2bz.075+13756_2bz.076
+# text = Вӧжжи кузя ваяс дадьууяс чечченыс, няртла пасьта ваяс дадюуяс чечченыс, пыр мунэ.
+# text_en = The trace reindeer sprang across the waters as long as reins, the trace reindeer sprang across the waters as wide as a lasso.
+"<Вӧжжи>"
+	"вӧжжи" N Sg Nom
+"<кузя>"
+	кузя N Sg Nom
+"<ваяс>"
+	"ва" N Pl Nom
+"<дадюуяс>"
+	"дадюв" N Err/Orth Dial/л Pl Nom
+"<чечченыс>"
+	"чеччыны" V Ind Prs Err/Dial Pl3 Err/Dial
+"<,>"
+	"," PUNCT
+"<няртла>"
+	"няртла" N Sg Nom
 "<пасьта>"
 	"пасьта" A Sg Nom
-	"пасьта" N Sg Nom
 "<ваяс>"
 	"ва" N Pl Nom
 "<дадюуяс>"
@@ -508,8 +509,9 @@
 
 # sent_id = 13756_2bz.155
 # text = Шыдъяйлы оз кыскоо.
+# text_en = She wouldn't bring in soup meat.
 "<Шыдъяйлы>"
-	"Шыдъяйлы" ?
+	"шыдъяй" N Sg Nom
 "<оз>"
 	"оз" Aux Neg Ind Prs Sg3
 "<кыскоо>"
@@ -519,6 +521,7 @@
 
 # sent_id = 13756_2bz.161
 # text = Сэсся кыскаліс, вердіс.
+# text_en = He picked it up and ate it up.
 "<Сэсся>"
 	"сэсся" Adv
 "<кыскаліс>"
@@ -532,6 +535,7 @@
 
 # sent_id = 13756_2bz.201
 # text = Сыа тай чеччис да сэчче и эштэдіс.
+# text_end = He then lept out and did away with him.
 "<Сыа>"
 	"сійӧ" Pron Err/Dial Dem
 "<тай>"
@@ -544,7 +548,6 @@
 	"сэтчӧ" Adv Err/Dial Ill
 "<и>"
 	"и" Adv
-	"и" CC
 "<эштэдіс>"
 	"эштӧдны" Err/Dial V Ind Prt1 Sg3
 "<.>"
@@ -552,20 +555,20 @@
 
 # sent_id = 13756_2bz.233
 # text = Нёль кынь-рожа видзысь вед пыр на лооя, ветлалэ!
+# text_en = The shepherd with the face of four polar foxes is still alive and has come!
 "<Нёль>"
 	"нёль" Num Card Sg Nom
 "<кынь-рожа>"
 	"рожа" N Sg Nom
 		"кынь" N Cmp Cmp
 "<видзысь>"
-	"видз" N Sg Ela
 	"видзысь" N Sg Nom
 "<вед>"
 	"вед" Adv Parenthetic
 "<пыр на>"
 	"пыр на" Adv
 "<лооя>"
-	"лооя" ?
+	"ловъя" N Sg Nom
 "<,>"
 	"," PUNCT
 "<ветлалэ>"
@@ -575,11 +578,11 @@
 
 # sent_id = 13756_2bz.236
 # text = Меддзоля вокыдлэн, нёль кынь-рожа видзысьлэн вед гӧлэсыс!
+# text_en = This is the voice of your youngest brother, the shepherd with the face of four polar foxes!
 "<Меддзоля>"
 	"меддзоля" A Sg Nom
 "<вокыдлэн>"
 	"вок" N Sg Err/Dial Gen PxSg2 So/PC
-	"вокыд" N Sg Err/Dial Gen
 "<,>"
 	"," PUNCT
 "<нёль>"
@@ -592,23 +595,21 @@
 "<вед>"
 	"вед" Adv Parenthetic
 "<гӧлэсыс>"
-	"гӧлэсыс" ?
+	"гӧлӧс" N Sg PxSg3 Nom
 "<!>"
 	"!" PUNCT
 
 # sent_id = 13756_2bz.245
 # text = Да кӧрныссэ бура сибедісныс да.
+# text_en = And they rounded up their reindeer herd, too.
 "<Да>"
 	"да" CC
-	"да" CS
 "<кӧрныссэ>"
 	"кӧр" N Sg Nom PxPl3 Clt/сӧ Err/Dial
-	"кӧрны" V Inf Px3 Clt/сӧ Err/Dial
 "<бура>"
 	"бура" Adv
-	"бура" N Sg Nom
 "<сибедісныс>"
-	"сибедісныс" ?
+	"сибедны" V Ind Prt1 Pl3
 "<да>"
 	"да" CS
 "<.>"
