@@ -162,7 +162,6 @@
 # text = Куим даддя локтэ.
 # text_en = Three sledges nearing.
 "<Куим>"
-	"Куим" N Prop Sem/Plc Sem/Plc Sg Nom
 	"куим" Num Card Sg Nom
 "<даддя>"
 	"даддя" A Sg Nom
