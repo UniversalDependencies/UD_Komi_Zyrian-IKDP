@@ -109,8 +109,8 @@
 # text_rus =
 1	Рӧдитчи	рӧдитчыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	OrigLang=ru
 2	ме	ме	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
-3	шейсят	шейсят	NUM	Num	Case=Nom|Number=Sing|NumType=Card	4	nummod	_	Lang=ru
-4	четвёртэй	четвёртэй	NUM	Num	Case=Nom|Number=Sing|NumType=Ord	5	nummod	_	Lang=ru
+3	шейсят	шейсят	NUM	Num	Case=Nom|Number=Sing|NumType=Card	4	nummod	_	OrigLang=ru
+4	четвёртэй	четвёртэй	NUM	Num	Case=Nom|Number=Sing|NumType=Ord	5	nummod	_	OrigLang=ru
 5	годын	год	NOUN	N	Case=Ine|Number=Sing	1	obl	_	OrigLang=ru
 6	октяб	октяб	NOUN	N	Case=Nom|Number=Sing	7	nmod	_	OrigLang=ru
 7	тӧлысе	тӧлысь	NOUN	N	Case=Ill|Number=Sing	1	obl	_	_
@@ -131,7 +131,7 @@
 # sent_id = kpv_izva20140325-2-a-007+kpv_izva20140325-2-a-007+kpv_izva20140325-2-a-009
 # text = Десятой класс закончитэм бӧрын, гожемъяснас, правда, быд гожем ветлі родительяс доре тундраа, десятой класс закончитэм бӧрын куим во служиті подводнэй лодка вылын, флотын.
 # text_rus =
-1	Десятой	десятой	NUM	Num	NumType=Card	2	nummod	_	Lang=ru
+1	Десятой	десятой	NUM	Num	NumType=Card	2	nummod	_	OrigLang=ru
 2	класс	класс	NOUN	N	Case=Nom|Number=Sing	3	obl	_	OrigLang=ru
 3	закончитэм	закончитны	VERB	V	Case=Nom|Number=Sing|Tense=Past|VerbForm=Vnoun	12	advcl	_	OrigLang=ru
 4	бӧрын	бӧр	ADP	Po	Case=Ine|Number=Sing	3	case	_	SpaceAfter=No
@@ -147,7 +147,7 @@
 14	доре	дор	ADP	Po	Case=Ill	13	case	_	_
 15	тундраа	тундра	NOUN	N	Case=Ill|Number=Sing	12	obl	_	OrigLang=ru|SpaceAfter=No
 16	,	,	PUNCT	CLB	_	19	punct	_	_
-17	десятой	десятой	NUM	Num	NumType=Card	18	nummod	_	Lang=ru
+17	десятой	десятой	NUM	Num	NumType=Card	18	nummod	_	OrigLang=ru
 18	класс	класс	NOUN	N	Case=Nom|Number=Sing	19	nmod	_	OrigLang=ru
 19	закончитэм	закончитэм	VERB	V	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	23	advcl	_	OrigLang=ru|Note=Check
 20	бӧрын	бӧр	ADP	Po	Case=Ine|Number=Sing	19	case	_	_
@@ -520,7 +520,7 @@
 9	,	,	PUNCT	CLB	_	10	punct	_	_
 10	сыа	сыа	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	_
 11	сорок	сорок	NUM	Num	NumType=Card	12	nummod	_	Lang=ru
-12	первей	первей	NUM	Num	Case=Nom|Number=Sing	13	nummod	_	Lang=ru
+12	первей	первей	NUM	Num	Case=Nom|Number=Sing	13	nummod	_	OrigLang=ru
 13	год	год	NOUN	N	Case=Nom|Number=Sing	2	conj	_	OrigLang=ru
 14	вылэ	вылын	ADP	Po	Case=Ill|Number=Sing	13	case	_	SpaceAfter=No
 15	,	,	PUNCT	CLB	_	16	punct	_	_
@@ -721,7 +721,7 @@
 3	и	и	PART	Pcle	_	4	advmod	_	OrigLang=ru
 4	ме	ме	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
 5	сэн	сэн	ADV	Adv	_	8	advmod:lmod	_	_
-6	самей	сам	ADV	Adv	_	8	advmod:deg	_	Lang=ru
+6	самей	сам	ADV	Adv	_	8	advmod:deg	_	OrigLang=ru
 7	и	и	PART	Pcle	_	6	advmod	_	OrigLang=ru
 8	рӧдитти	рӧдиттьыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	OrigLang=ru|SpaceAfter=No
 9	.	.	PUNCT	CLB	_	8	punct	_	_
@@ -1094,7 +1094,7 @@
 7	без	без	ADP	Pr	_	8	case	_	Lang=ru
 8	репетитора	репетитор	NOUN	N	Case=Gen|Number=Sing	10	obl	_	Lang=ru
 9	сыа	сыа	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
-10	невозможнэ	невозможнӧ	ADV	Adv	Polarity=Neg	5	acl	_	Lang=ru|SpaceAfter=No
+10	невозможнэ	невозможнӧ	ADV	Adv	Polarity=Neg	5	acl	_	OrigLang=ru|SpaceAfter=No
 11	.	.	PUNCT	CLB	_	2	punct	_	_
 
 # sent_id = kpv_izva20140325-2-a-005
@@ -1134,8 +1134,8 @@
 1	Менам	ме	PRON	Pron	Case=Gen|Number=Sing|Person=1|PronType=Prs	2	nmod	_	_
 2	ае	ай	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	3	nsubj	_	_
 3	пырема	пырны	VERB	V	Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
-4	тридцеть	тридцать	NUM	Num	Case=Nom|NumType=Card	5	nummod	_	Lang=ru
-5	седьмой	седьмой	ADJ	A	Case=Nom|Number=Sing	6	amod	_	Lang=ru
+4	тридцеть	тридцать	NUM	Num	Case=Nom|NumType=Card	5	nummod	_	OrigLang=ru
+5	седьмой	седьмой	ADJ	A	Case=Nom|Number=Sing	6	amod	_	OrigLang=ru
 6	годын	год	NOUN	N	Case=Ine|Number=Sing	3	obl	_	OrigLang=ru
 7	в	в	ADP	Pr	_	9	case	_	Lang=ru
 8	Ненецкий	ненецкӧй	ADJ	A	Case=Nom|Number=Sing	9	amod	_	Lang=ru
@@ -1169,7 +1169,7 @@
 12	,	,	PUNCT	CLB	_	11	punct	_	_
 13	для	для	ADP	Pr	_	15	case	_	Lang=ru
 14	оформления	оформление	NOUN	N	Case=Gen|Number=Sing	16	obl	_	Lang=ru
-15	спектаклей	спектакль	NOUN	N	Case=Gen|Number=Plur	14	nmod	_	Lang=ru
+15	спектаклей	спектакль	NOUN	N	Case=Gen|Number=Plur	14	nmod	_	OrigLang=ru
 16	колэныс	ковны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres	11	parataxis	_	_
 17	коми	коми	NOUN	N	Case=Nom|Number=Sing	18	nmod	_	_
 18	песняяс	песня	NOUN	N	Case=Nom|Number=Plur	16	nsubj	_	OrigLang=ru|SpaceAfter=No
@@ -1178,7 +1178,7 @@
 # sent_id = kpv_izva20140329-1-b-438
 # text = Именнэ для девушек вӧлі ачыс сарафан.
 # text_rus =
-1	Именнэ	именно	ADV	Adv	_	3	advmod	_	Lang=ru
+1	Именнэ	именно	ADV	Adv	_	3	advmod	_	OrigLang=ru
 2	для	для	ADP	Pr	_	3	case	_	Lang=ru
 3	девушек	дешувка	NOUN	N	Case=Gen|Number=Plur	6	nmod	_	Lang=ru
 4	вӧлі	вӧвны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	6	cop	_	_
@@ -1206,9 +1206,9 @@
 2	ае	ай	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	4	nsubj	_	_
 3	тоже	тожӧ	PART	Pcle	_	4	advmod	_	_
 4	рӧбитіс	рӧбитны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
-5	столярын	столяр	NOUN	N	Case=Ine|Number=Sing	4	obl	_	Lang=ru
+5	столярын	столяр	NOUN	N	Case=Ine|Number=Sing	4	obl	_	OrigLang=ru
 6	ли	ли	PART	Pcle	_	5	advmod	_	OrigLang=ru
-7	слесарьын	слесарь	NOUN	N	Case=Ine|Number=Sing	5	appos	_	Lang=ru
+7	слесарьын	слесарь	NOUN	N	Case=Ine|Number=Sing	5	appos	_	OrigLang=ru
 8	ли	ли	PART	Pcle	_	7	advmod	_	OrigLang=ru|SpaceAfter=No
 9	,	,	PUNCT	CLB	_	8	punct	_	_
 10	но	но	CCONJ	CC	_	15	cc	_	OrigLang=ru|SpaceAfter=No
@@ -1228,7 +1228,7 @@
 4	через	через	ADP	Pr	_	5	case	_	Lang=ru
 5	плечо	плечо	NOUN	N	Case=Acc|Number=Sing	8	obl	_	Lang=ru
 6	дӧраысь	дӧра	NOUN	N	Case=Ela|Number=Sing	7	nmod	_	_
-7	сумка	сумка	NOUN	N	Case=Nom|Number=Sing	8	obj	_	Lang=ru
+7	сумка	сумка	NOUN	N	Case=Nom|Number=Sing	8	obj	_	OrigLang=ru
 8	вурема	вурны	VERB	V	Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	CLB	_	8	punct	_	_
 
