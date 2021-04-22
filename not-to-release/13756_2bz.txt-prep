@@ -1,418 +1,251 @@
 # sent_id = 13756_2bz.002
 # text = Оліс-выліс нёль вок.
 # text_en = Once upon a time, there lived four brothers.
-"<Оліс-выліс>"
-	"овны-вывны" V Ind Prt1 Sg3
-"<нёль>"
-	"нёль" Num Card Sg Nom
-"<вок>"
-	"вок" N Sg Nom
-"<.>"
-	"." PUNCT
+1	Оліс-выліс	овны-вывны	V	_	Ind|Prt1|Sg3	0	root	_	_
+2	нёль	нёль	Num	_	Card|Sg|Nom	3	nummod	_	_
+3	вок	вок	N	_	Sg|Nom	1	nsubj	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 13756_2bz.003
 # text = Нёль вок, нёль вок мунэныс, вӧрзеныс.
 # text_en = Four brothers wandered and migrated.
-"<Нёль>"
-	"нёль" Num Card Sg Nom
-"<вок>"
-	"вок" N Sg Nom
-"<,>"
-	"," PUNCT
-"<нёль>"
-	"нёль" Num Card Sg Nom
-"<вок>"
-	"вок" N Sg Nom
-"<мунэныс>"
-	"мунны" V Ind Prs Err/Dial Pl3 Err/Dial
-"<,>"
-	"," PUNCT
-"<вӧрзеныс>"
-	"вӧрзьыны" V Ind Prs Err/Dial Pl3 Err/Dial
-"<.>"
-	"." PUNCT
+1	Нёль	нёль	Num	_	Card|Sg|Nom	2	nummod	_	_
+2	вок	вок	N	_	Sg|Nom	6	nsubj	_	_
+3	,	,	PUNCT	_	_	5	punct	_	_
+4	нёль	нёль	Num	_	Card|Sg|Nom	5	nummod	_	_
+5	вок	вок	N	_	Sg|Nom	2	conj	_	_
+6	мунэныс	мунны	V	_	Ind|Prs|Err/Dial|Pl3|Err/Dial	0	root	_	_
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	вӧрзеныс	вӧрзьыны	V	_	Ind|Prs|Err/Dial|Pl3|Err/Dial	6	conj	_	_
+9	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 13756_2bz.004+13756_2bz.005
 # text = А нылэн вӧлі, нёль воклэн ӧтік небыд юрси чой, небыд юрси чойныс.
 # text_en = And they had, the four brothers, a sister, Soft Hair, their sister was Soft Hair.
-"<А>"
-	"а" CC
-"<нылэн>"
-	"сійӧ" Pron Pers Pl3 Gen Err/Dial
-"<вӧлі>"
-	"вӧвны" V Ind Prt1 Sg3
-"<,>"
-	"," PUNCT
-"<нёль>"
-	"нёль" Num Card Sg Nom
-"<воклэн>"
-	"вок" N Sg Err/Dial Gen
-"<ӧтік>"
-	"ӧти" Num Err/Dial Card Sg Nom
-"<небыд>"
-	"небыд" A Sg Nom
-"<юрси>"
-	"юрси" N Sg Nom
-"<чой>"
-	"чой" N Sg Nom
-"<,>"
-	"," PUNCT
-"<небыд>"
-	"небыд" A Sg Nom
-"<юрси>"
-	"юрси" N Sg Nom
-"<чойныс>"
-	"чой" N Sg Nom PxPl3
-"<.>"
-	"." PUNCT
+1	А	а	CC	_	_	2	cc	_	_
+2	нылэн	сійӧ	Pron	_	Pers|Pl3|Gen|Err/Dial	6	reparandum	_	_
+3	вӧлі	вӧвны	AUX	_	Ind|Prt1|Sg3	2	cop	_	_
+4	,	,	PUNCT	_	_	6	punct	_	_
+5	нёль	нёль	Num	_	Card|Sg|Nom	6	nummod	_	_
+6	воклэн	вок	N	_	Sg|Err/Dial|Gen	0	root	_	_
+7	ӧтік	ӧти	Num	_	Err/Dial|Card|Sg|Nom	10	nummod	_	_
+8	небыд	небыд	A	_	Sg|Nom	9	amod	_	_
+9	юрси	юрси	N	_	Sg|Nom	10	nmod	_	_
+10	чой	чой	N	_	Sg|Nom	6	nsubj:cop	_	_
+11	,	,	PUNCT	_	_	14	punct	_	_
+12	небыд	небыд	A	_	Sg|Nom	13	amod	_	_
+13	юрси	юрси	N	_	Sg|Nom	14	nmod	_	_
+14	чойныс	чой	N	_	Sg|Nom|PxPl3	10	conj	_	_
+15	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 13756_2bz.006+13756_2bz.007
 # text = А меддёля вокныс сыа кӧр вӧтлэ, а вокъясыс, видед, водьын мунэныс аргышен.
 # text_en = The youngest brother was driving the herd and the [other three] brothers, you see, led the sledge train ahead.
-"<А>"
-	"а" CC
-"<меддёля>"
-	"дзоля" A Superl Err/Dial Sg Nom
-"<вокныс>"
-	"вок" N Sg Nom PxPl3
-"<сыа>"
-	"сійӧ" Pron Err/Dial Dem
-"<кӧр>"
-	"кӧр" N Sg Nom
-"<вӧтлэ>"
-	"вӧтлыны" V Ind Prs Err/Dial Sg3
-"<,>"
-	"," PUNCT
-"<а>"
-	"а" CC
-"<вокъясыс>"
-	"вок" N Pl Nom PxSg3
-"<,>"
-	"," PUNCT
-"<видед>"
-	"видзӧдны" V Err/Dial Imprt Sg2
-"<,>"
-	"," PUNCT
-"<водьын>"
-	"водь" N Sg Ine
-"<мунэныс>"
-	"мунны" V Ind Prs Err/Dial Pl3 Err/Dial
-"<аргышен>"
-	"аргыш" N Sg Err/Dial Ins
-"<.>"
-	"." PUNCT
+1	А	а	CC	_	_	6	cc	_	_
+2	меддёля	дзоля	A	_	Superl|Err/Dial|Sg|Nom	3	amod	_	_
+3	вокныс	вок	N	_	Sg|Nom|PxPl3	4	nmod	_	_
+4	сыа	сійӧ	Pron	_	Err/Dial|Dem	6	nsubj	_	_
+5	кӧр	кӧр	N	_	Sg|Nom	6	obj	_	_
+6	вӧтлэ	вӧтлыны	V	_	Ind|Prs|Err/Dial|Sg3	0	root	_	_
+7	,	,	PUNCT	_	_	14	punct	_	_
+8	а	а	CC	_	_	14	cc	_	_
+9	вокъясыс	вок	N	_	Pl|Nom|PxSg3	14	nsubj	_	_
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	видед	видзӧдны	V	_	Err/Dial|Imprt|Sg2	14	advcl:eval	_	_
+12	,	,	PUNCT	_	_	11	punct	_	_
+13	водьын	водь	N	_	Sg|Ine	14	obl:tmod	_	_
+14	мунэныс	мунны	V	_	Ind|Prs|Err/Dial|Pl3|Err/Dial	6	conj	_	_
+15	аргышен	аргыш	N	_	Sg|Err/Dial|Ins	14	obl	_	_
+16	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 13756_2bz.008
 # text = Кӧр вӧтлэ.
 # text_en = He [the youngest one] drove the reindeer herd.
-"<Кӧр>"
-	"кӧр" N Sg Nom
-"<вӧтлэ>"
-	"вӧтлыны" V Ind Prs Err/Dial Sg3
-"<.>"
-	"." PUNCT
+1	Кӧр	кӧр	N	_	Sg|Nom	2	obj	_	_
+2	вӧтлэ	вӧтлыны	V	_	Ind|Prs|Err/Dial|Sg3	0	root	_	_
+3	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 13756_2bz.020
 # text = Харей юр выытіыс чеччис да кокыс на из сидзоолы.
 # text_en = He jumped over the tip of the goad and his feet didn't touch it.
-"<Харей>"
-	"харей" N Sg Nom
-"<юр>"
-	"юр" N Sg Nom
-"<выытіыс>"
-	"выв" N Relat Sg Err/Dial Tra PxSg3 So/CP
-"<чеччис>"
-	"чеччыны" V Ind Prt1 Sg3
-"<да>"
-	"да" CC
-"<кокыс>"
-	"кок" N Sg Nom PxSg3
-"<на>"
-	"на" Adv Sem/Time
-"<из>"
-	"изны" V Neg Ind Prt1 Sg3
-"<сидзоолы>"
-	"сидзооны" ConNeg
-"<.>"
-	"." PUNCT
+1	Харей	харей	N	_	Sg|Nom	4	nsubj	_	_
+2	юр	юр	N	_	Sg|Nom	3	nmod	_	_
+3	выытіыс	выв	N	_	Relat|Sg|Err/Dial|Tra|PxSg3|So/CP	4	obl:lmod	_	_
+4	чеччис	чеччыны	V	_	Ind|Prt1|Sg3	0	root	_	_
+5	да	да	CC	_	_	9	cc	_	_
+6	кокыс	кок	N	_	Sg|Nom|PxSg3	9	nsubj	_	_
+7	на	на	Adv	_	Sem/Time	9	advmod:tmod	_	_
+8	из	изны	V	_	Neg|Ind|Prt1|Sg3	9	aux:neg	_	_
+9	сидзоолы	сидзооны	V	_	ConNeg	4	conj	_	_
+10	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 13756_2bz.030
 # text = А бӧрас бергеччис: а куим даддя локтэ.
 # text_en = And as he looked back: [he could see] three sledges approaching.
-"<А>"
-	"а" CC
-"<бӧрас>"
-	"бӧр" N Relat Sg Ill PxSg3 So/CP
-"<бергедчис>"
-	"бергӧдчыны" V Ind Prt1 Sg3
-"<:>"
-	":" PUNCT
-"<а>"
-	"а" CC
-"<куим>"
-	"куим" Num Card Sg Nom
-"<даддя>"
-	"даддя" A Sg Nom
-"<локтэ>"
-	"локны" V Ind Prs Sg3
-"<.>"
-	"." PUNCT
+1	А	а	CC	_	_	3	cc	_	_
+2	бӧрас	бӧр	N	_	Relat|Sg|Ill|PxSg3|So/CP	3	obl:lmod	_	_
+3	бергедчис	бергӧдчыны	V	_	Ind|Prt1|Sg3	0	root	_	_
+4	:	:	PUNCT	_	_	8	punct	_	_
+5	а	а	CC	_	_	8	cc	_	_
+6	куим	куим	Num	_	Card|Sg|Nom	7	nummod	_	_
+7	даддя	дадь	N	_	Sg|Prp	8	xcomp	_	_
+8	локтэ	локны	V	_	Ind|Prs|Sg3	3	conj	_	_
+9	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 13756_2bz.031
 # text = Куим даддя локтэ.
 # text_en = Three sledges nearing.
-"<Куим>"
-	"куим" Num Card Sg Nom
-"<даддя>"
-	"даддя" A Sg Nom
-"<локтэ>"
-	"локны" V Ind Prs Sg3
-"<.>"
-	"." PUNCT
+1	Куим	куим	Num	_	Card|Sg|Nom	2	nummod	_	_
+2	даддя	дадь	NOUN	_	Sg|Prp	3	xcomp	_	_
+3	локтэ	локны	V	_	Ind|Prs|Sg3	0	root	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 13756_2bz.042
 # text = Какен чеччаліс, куимнансэ ордедіс.
-# text_en = He leapt up flying and beat all the three of them.
-"<Какен>"
-	"как" N Err/Dial Sg Err/Dial Ins
-"<чеччаліс>"
-	"чеччавны" V Ind Prt1 Sg3
-"<,>"
-	"," PUNCT
-"<куимнансэ>"
-	"куимнан" Pron AssocColl Sg Nom Clt/сӧ Err/Dial
-"<ордедіс>"
-	"ордйӧдны" Err/Dial V Ind Prt1 Sg3
-"<.>"
-	"." PUNCT
+# text_en = He leapt up flying and beat all three of them.
+1	Какен	как	N	_	Err/Dial|Sg|Err/Dial|Ins	2	obl	_	_
+2	чеччаліс	чеччавны	V	_	Ind|Prt1|Sg3	0	root	_	_
+3	,	,	PUNCT	_	_	5	punct	_	_
+4	куимнансэ	куимнан	Pron	_	AssocColl|Sg|Nom|Clt/сӧ|Err/Dial	5	obj	_	_
+5	ордедіс	ордйӧдны	VERB	_	Err/Dial|Ind|Prt1|Sg3	2	conj	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 13756_2bz.047+13756_2bz.048
 # text = Ӧтікес сетіс му бердас да нырсьыс и вомсьыс вир xывнитіс.
 # text_en = He knocked one down to the ground so that [the fellow] had blood gushing out of his nose and mouth.
-"<Ӧтікес>"
-	"ӧти" Num Err/Dial Card Sg Acc PxSg1
-"<сетіс>"
-	"сетны" V Ind Prt1 Sg3
-"<му>"
-	"му" N Sg Nom
-"<бердас>"
-	"берд" N Relat Sg Ill PxSg3 So/CP
-"<да>"
-	"да" CC
-"<нырсьыс>"
-	"ныр" N Sg Ela PxSg3 So/CP
-"<и>"
-	"и" CC
-"<вомсьыс>"
-	"вом" N Sg Ela PxSg3 So/CP
-"<вир>"
-	"вир" Adv Deg
-"<xывнитіс>"
-	"xывнитны" V Ind Prt1 Sg3
-"<.>"
-	"." PUNCT
+1	Ӧтікес	ӧти	Num	_	Err/Dial|Card|Sg|Acc|PxSg1	2	obj	_	_
+2	сетіс	сетны	V	_	Ind|Prt1|Sg3	0	root	_	_
+3	му	му	N	_	Sg|Nom	4	nmod	_	_
+4	бердас	берд	N	_	Relat|Sg|Ill|PxSg3|So/CP	2	obl:lmod	_	_
+5	да	да	CC	_	_	10	cc	_	_
+6	нырсьыс	ныр	N	_	Sg|Ela|PxSg3|So/CP	10	obl:lmod	_	_
+7	и	и	CC	_	_	8	cc	_	_
+8	вомсьыс	вом	N	_	Sg|Ela|PxSg3|So/CP	6	conj	_	_
+9	вир	вир	NOUN	_	Deg	10	obj	_	_
+10	xывнитіс	xывнитны	V	_	Ind|Prt1|Sg3	2	conj	_	_
+11	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 13756_2bz.049
 # text = Мӧдэс сетіс да нырсьыс и вомсьыс вир xывнитіс.
 # text_en = Then he fixed the second who bled at the nose and mouth.
-"<Мӧдэс>"
-	"мӧд" Num Ord Sg Acc PxSg1 Err/Dial
-"<сетіс>"
-	"сетны" V Ind Prt1 Sg3
-"<да>"
-	"да" CC
-"<нырсьыс>"
-	"ныр" N Sg Ela PxSg3 So/CP
-"<и>"
-	"и" CC
-"<вомсьыс>"
-	"вом" N Sg Ela PxSg3 So/CP
-"<вир>"
-	"вир" Adv Deg
-"<xывнитіс>"
-	"xывнитны" V Ind Prt1 Sg3
-"<.>"
-	"." PUNCT
+1	Мӧдэс	мӧд	Num	_	Ord|Sg|Acc|PxSg1|Err/Dial	2	obj	_	_
+2	сетіс	сетны	V	_	Ind|Prt1|Sg3	0	root	_	_
+3	да	да	CC	_	_	8	cc	_	_
+4	нырсьыс	ныр	N	_	Sg|Ela|PxSg3|So/CP	8	obl:lmod	_	_
+5	и	и	CC	_	_	6	cc	_	_
+6	вомсьыс	вом	N	_	Sg|Ela|PxSg3|So/CP	4	conj	_	_
+7	вир	вир	NOUN	_	Deg	8	obj	_	_
+8	xывнитіс	xывнитны	V	_	Ind|Prt1|Sg3	2	conj	_	_
+9	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 13756_2bz.049
 # text = Коймедсэ сетіс да бара же сідз.
 # text_en = He fixed the third one and it was the same again.
-"<Коймедсэ>"
-	"коймӧд" Num Err/Dial Ord Sg Nom Clt/сӧ Err/Dial
-"<сетіс>"
-	"сетны" V Ind Prt1 Sg3
-"<да>"
-	"да" CC
-"<бара>"
-	"бара" Adv Parenthetic
-"<же>"
-	"жӧ" Pcle Err/Dial
-"<сідз>"
-	"сідзи" Adv Manner
-"<.>"
-	"." PUNCT
+1	Коймедсэ	коймӧд	ADJ	_	Err/Dial|Ord|Sg|Acc|PxSg3	2	obj	_	_
+2	сетіс	сетны	V	_	Ind|Prt1|Sg3	0	root	_	_
+3	да	да	CCONJ	_	_	6	cc	_	_
+4	бара	бара	Adv	_	Parenthetic	6	advmod	_	_
+5	же	жӧ	Pcle	_	Err/Dial	6	advmod:eval	_	_
+6	сідз	сідзи	Adv	_	Manner	2	conj	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 13756_2bz.051
 # text = Даддяяс тай дадюуныссэ тшапкисныс да бӧр ӧдде воедісныс: "медум" висьталэ "казьоолан корке!"
-# text_en = Then the sledge drivers grabbed their trace reindeer and headed back in hurry: – You will be – he says – sorry for this some day!
-"<Даддяяс>"
-	"даддя" A Pl Nom
-"<тай>"
-	"тай" Adv
-"<дадюуныссэ>"
-	"дадюв" N Sg Err/Dial Nom PxPl3 Clt/сӧ Err/Dial
-"<тшапкисныс>"
-	"тшапкыны" V Err/Dial Ind Prt1 Pl3
-"<да>"
-	"да" CC
-"<бӧр>"
-	"бӧр" Adv
-"<ӧдде>"
-	"ӧдйӧ" Adv Err/Dial
-"<воедісныс>"
-	"войӧдны" V Err/Dial Err/Dial Ind Prt1 Pl3
-"<:>"
-	":" PUNCT
-"<">"
-	""" PUNCT
-"<медум>"
-	"медым" CS Err/Dial
-"<">"
-	""" PUNCT
-"<висьталэ>"
-	"висьтавны" V Ind Prs Err/Dial Sg3
-"<">"
-	""" PUNCT
-"<казьоолан>"
-	"казявлыны" V Ind Prs Sg2
-"<корке>"
-	"коркӧ" Adv Indef Sem/Time Der/кӧ
-"<!>"
-	"!" PUNCT
-
-"<">"
-	""" PUNCT
+# text_en = Then the sledge drivers grabbed their trace reindeer and headed back in a hurry: – You – he says – will be sorry for this some day!
+1	Даддяяс	даддя	A	_	Pl|Nom	4	nsubj	_	_
+2	тай	тай	Adv	_	_	4	advmod	_	_
+3	дадюуныссэ	дадюв	N	_	Sg|Err/Dial|Nom|PxPl3|Clt/сӧ|Err/Dial	4	obl	_	_
+4	тшапкисныс	тшапкыны	V	_	Err/Dial|Ind|Prt1|Pl3	0	root	_	_
+5	да	да	CCONJ	_	_	8	cc	_	_
+6	бӧр	бӧр	Adv	_	_	8	advmod:lmod	_	_
+7	ӧдде	ӧдйӧ	Adv	_	Err/Dial	8	advmod:mmod	_	_
+8	воедісныс	войӧдны	V	_	Err/Dial|Ind|Prt1|Pl3	4	conj	_	_
+9	:	:	PUNCT	_	_	15	punct	_	_
+10	"	_	PUNCT	_	_	15	punct	_	_
+11	медум	медым	SCONJ	_	Err/Dial	15	mark	_	_
+12	"	_	PUNCT	_	_	13	punct	_	_
+13	висьталэ	висьтавны	V	_	Ind|Prs|Err/Dial|Sg3	15	parataxis	_	_
+14	"	_	PUNCT	_	_	13	punct	_	_
+15	казьоолан	казявлыны	V	_	Ind|Prs|Sg2	8	ccomp	_	_
+16	корке	коркӧ	Adv	_	Indef|Sem/Time|Der/кӧ	15	advmod:tmod	_	_
+17	!	!	PUNCT	_	_	15	punct	_	_
+18	"	_	PUNCT	_	_	15	punct	_	_
 
 # sent_id = 13756_2bz.052
 # text = Даддяяс бӧр воедісныс.
 # text_en = Those in sledges faded away.
-"<Даддяяс>"
-	"даддя" A Pl Nom
-"<бӧр>"
-	"бӧр" Adv
-"<воедісныс>"
-	"войӧдны" V Err/Dial Err/Dial Ind Prt1 Pl3
-"<.>"
-	"." PUNCT
+1-2	Даддяяс	_	_	_	_	_	_	_	_
+1	Даддя	даддя	N	_	Sg|Prp	2	nmod:prp	_	_
+2	яс	ыс	PRON	_	Pl|Nom	4	nsubj	_	_
+3	бӧр	бӧр	Adv	_	_	4	advmod:lmod	_	_
+4	воедісныс	войӧдны	V	_	Err/Dial|Ind|Prt1|Pl3	0	root	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 13756_2bz.053+13756_2bz.054
 # text = Неуна муныштіс, дадьсэ тшапкис да воедіс, а ва-ош туй мунэма морелаздоре.
 # text_en = He went on for a while, took his sledge and drove off, and lo, there was a polar bear's track leading down the sea coast.
-"<Неуна>"
-	"неуна" Adv Qnt Sg Nom
-"<муныштіс>"
-	"муныштны" V Ind Prt1 Sg3
-"<,>"
-	"," PUNCT
-"<дадьсэ>"
-	"дадь" N Sg Acc PxSg3 Err/Dial
-"<тшапкис>"
-	"тшапкыны" V Ind Prt1 Sg3
-"<да>"
-	"да" CC
-"<воедіс>"
-	"войӧдны" V Err/Dial Ind Prt1 Sg3
-"<,>"
-	"," PUNCT
-"<а>"
-	"а" CC
-"<ва-ош>"
-	"ош" N Sg Nom
-		"ва" N Cmp
-"<туй>"
-	"туй" N Sg Nom
-"<мунэма>"
-	"мунны" V Err/Dial Ind Prt2 Sg3
-"<морелаздоре>"
-	"морелаздор" N Sg Ill
-"<.>"
-	"." PUNCT
+1	Неуна	неуна	Adv	_	Qnt|Sg|Nom	2	advmod	_	_
+2	муныштіс	муныштны	V	_	Ind|Prt1|Sg3	0	root	_	_
+3	,	,	PUNCT	_	_	5	punct	_	_
+4	дадьсэ	дадь	N	_	Sg|Acc|PxSg3|Err/Dial	5	obj	_	_
+5	тшапкис	тшапкыны	V	_	Ind|Prt1|Sg3	2	conj	_	_
+6	да	да	CCONJ	_	_	7	cc	_	_
+7	воедіс	войӧдны	V	_	Err/Dial|Ind|Prt1|Sg3	2	conj	_	_
+8	,	,	PUNCT	_	_	14	punct	_	_
+9	а	а	CCONJ	_	_	14	cc	_	_
+10-12	ва-ош	_	_	_	_	_	_	_	_
+10	ва	ва	N	_	Sg|Nom	13	nmod	_	_
+11	-	-	PUNCT	_	_	12	punct	_	_
+12	ош	ош	N	_	Sg|Nom	10	conj	_	_
+13	туй	туй	N	_	Sg|Nom	14	nsubj	_	_
+14	мунэма	мунны	V	_	Err/Dial|Ind|Prt2|Sg3	2	conj	_	_
+15	морелаздоре	морелаздор	N	_	Sg|Ill	14	obl:lmod	_	_
+16	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 13756_2bz.055+13756_2bz.056
 # text = Дадьсэ тай тшапкис да воедіс, воедіс да небыд юрси чойсэ и вӧжжиедыс упритіс: "Чое, нӧревитлы", висьталэ, "ва-ош туй мунэма да ме ва-ош туй бӧрсяньыс вӧтэдча".
 # text_en = He took his sledge and rode on and on, and then halted his sister Soft Hair with the reins: – Wait a minute, sister – he says – there's a track of a polar bear and I am going to pursue the polar bear.
-"<Дадьсэ>"
-	"дадь" N Sg Acc PxSg3 Err/Dial
-"<тай>"
-	"тай" Adv
-"<тшапкис>"
-	"тшапкыны" V Ind Prt1 Sg3
-"<да>"
-	"да" CC
-"<воедіс>"
-	"войӧдны" V Err/Dial Ind Prt1 Sg3
-"<,>"
-	"," PUNCT
-"<воедіс>"
-	"войӧдны" V Err/Dial Ind Prt1 Sg3
-"<да>"
-	"да" CC
-"<небыд>"
-	"небыд" A Sg Nom
-"<юрси>"
-	"юрси" N Sg Nom
-"<чойсэ>"
-	"чой" N Sg Acc PxSg3 Err/Dial
-"<и>"
-	"и" Adv
-"<вӧжжиедыс>"
-	"вӧжжи" N Sg Prl PxSg3
-"<упритіс>"
-	"упритны" V Ind Prt1 Sg3
-"<:>"
-	":" PUNCT
-"<">"
-	""" PUNCT
-"<Чое>"
-	"чой" N Sg Nom PxSg1 Err/Dial
-"<,>"
-	"," PUNCT
-"<нӧревитлы>"
-	"нӧревитлыны" V Imprt Sg2
-"<">"
-	""" PUNCT
-"<,>"
-	"," PUNCT
-"<висьталэ>"
-	"висьтавны" V Ind Prs Err/Dial Sg3
-"<,>"
-	"," PUNCT
-"<">"
-	""" PUNCT
-"<ва-ош>"
-	"ош" N Sg Nom
-		"ва" N Cmp
-"<туй>"
-	"туй" N Sg Nom
-"<мунэма>"
-	"мунны" V Err/Dial Ind Prt2 Sg3
-"<да>"
-	"да" CC
-"<ме>"
-	"ме" Pron Pers Sg1 Nom
-"<ва-ош>"
-	"ош" N Sg Nom
-		"ва" N Cmp
-"<туй>"
-	"туй" N Sg Nom
-"<бӧрсяньыс>"
-	"бӧр" N Relat Sg Egr PxSg3 So/CP
-"<вӧтэдча>"
-	"вӧтэдчыны" V Ind Prs Sg1
-"<">"
-	""" PUNCT
-"<.>"
-	"." PUNCT
+1	Дадьсэ	дадь	N	_	Sg|Acc|PxSg3|Err/Dial	3	obj	_	_
+2	тай	тай	Adv	_	_	3	advmod:eval	_	_
+3	тшапкис	тшапкыны	V	_	Ind|Prt1|Sg3	0	root	_	_
+4	да	да	CCONJ	_	_	5	cc	_	_
+5	воедіс	войӧдны	V	_	Err/Dial|Ind|Prt1|Sg3	3	conj	_	_
+6	,	,	PUNCT	_	_	_	_	_	_
+7	воедіс	войӧдны	V	_	Err/Dial|Ind|Prt1|Sg3	_	_	_	_
+8	да	да	CCONJ	_	_	_	_	_	_
+9	небыд	небыд	A	_	Sg|Nom	10	_	_	_
+10	юрси	юрси	N	_	Sg|Nom	_	_	_	_
+11	чойсэ	чой	N	_	Sg|Acc|PxSg3|Err/Dial	_	_	_	_
+12	и	и	Adv	_	_	_	_	_	_
+13	вӧжжиедыс	вӧжжи	N	_	Sg|Prl|PxSg3	_	_	_	_
+14	упритіс	упритны	V	_	Ind|Prt1|Sg3	_	_	_	_
+15	:	:	PUNCT	_	_	_	_	_	_
+16	"	_	PUNCT	_	_	17	punct	_	_
+17	Чое	чой	N	_	Sg|Nom|PxSg1|Err/Dial	19	vocative	_	_
+18	,	,	PUNCT	_	_	17	punct	_	_
+19	нӧревитлы	нӧревитлыны	V	_	Imprt|Sg2	_	_	_	_
+20	"	_	PUNCT	_	_	_	_	_	_
+21	,	,	PUNCT	_	_	_	_	_	_
+22	висьталэ	висьтавны	V	_	Ind|Prs|Err/Dial|Sg3	_	_	_	_
+23	,	,	PUNCT	_	_	_	_	_	_
+24	"	_	PUNCT	_	_	_	_	_	_
+25-27	ва-ош	_	_	_	_	_	_	_	_
+25	ва	ва	N	_	Cmp	28	compound	_	_
+26	-	-	PUNCT	_	_	28	punct	_	_
+27	ош	ош	N	_	Sg|Nom	_	_	_	_
+28	туй	туй	N	_	Sg|Nom	_	_	_	_
+29	мунэма	мунны	V	_	Err/Dial|Ind|Prt2|Sg3	_	_	_	_
+30	да	да	CCONJ	_	_	_	_	_	_
+31	ме	ме	Pron	_	Pers|Sg1|Nom	_	_	_	_
+32-34	ва-ош	_	_	_	_	_	_	_	_
+32	ва	ва	N	_	Cmp	_	_	_	_
+33	-	_	_	_	_	_	_	_	_
+34	ош	ош	N	_	Sg|Nom	_	_	_	_
+35	туй	туй	N	_	Sg|Nom	_	_	_	_
+36	бӧрсяньыс	бӧр	N	_	Relat|Sg|Egr|PxSg3|So/CP	_	_	_	_
+37	вӧтэдча	вӧтэдчыны	V	_	Ind|Prs|Sg1	_	_	_	_
+38	"	_	PUNCT	_	_	_	_	_	_
+39	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 13756_2bz.064
 # text = Ырген няртласэ чойыс разис, сетіс.
@@ -420,7 +253,7 @@
 "<Ырген>"
 	"Ырген" N Prop Sg Nom
 "<няртласэ>"
-	"няртла" N Sg Nom Clt Clt/сӧ
+	"няртала" N Sg Nom Clt Clt/сӧ
 "<чойыс>"
 	"чой" N Sg Nom PxSg3
 "<разис>"
@@ -474,49 +307,30 @@
 
 # sent_id = 13756_2bz.075+13756_2bz.076
 # text = Вӧжжи кузя ваяс дадьууяс чечченыс, няртла пасьта ваяс дадюуяс чечченыс, пыр мунэ.
-# text_en = The trace reindeer sprang across the waters as long as reins, the trace reindeer sprang across the waters as wide as a lasso.
-"<Вӧжжи>"
-	"вӧжжи" N Sg Nom
-"<кузя>"
-	кузя N Sg Nom
-"<ваяс>"
-	"ва" N Pl Nom
-"<дадюуяс>"
-	"дадюв" N Err/Orth Dial/л Pl Nom
-"<чечченыс>"
-	"чеччыны" V Ind Prs Err/Dial Pl3 Err/Dial
-"<,>"
-	"," PUNCT
-"<няртла>"
-	"няртла" N Sg Nom
-"<пасьта>"
-	"пасьта" A Sg Nom
-"<ваяс>"
-	"ва" N Pl Nom
-"<дадюуяс>"
-	"дадюв" N Err/Orth Dial/л Pl Nom
-"<чечченыс>"
-	"чеччыны" V Ind Prs Err/Dial Pl3 Err/Dial
-"<,>"
-	"," PUNCT
-"<пыр>"
-	"пыр" Adv
-"<мунэ>"
-	"мунны" V Ind Prs Err/Dial Sg3
-"<.>"
-	"." PUNCT
+# text_en = The trace reindeer jump over the waters as long as reins, the trace reindeer jump over waters as wide as a lasso, it goes on.
+1	Вӧжжи	вӧжжи	N	_	Sg|Nom	2	nmod	_	_
+2	кузя	кузя	A	_	_	3	amod	_	_
+3	ваяс	ва	N	_	Pl|Nom	5	obj	_	_
+4	дадюуяс	дадюв	N	_	Err/Orth|Dial/л|Pl|Nom	5	nsubj	_	_
+5	чечченыс	чеччыны	V	_	Ind|Prs|Err/Dial|Pl3|Err/Dial	0	root	_	_
+6	,	,	PUNCT	_	_	11	punct	_	_
+7	няртла	няртала	N	_	Sg|Nom	8	nmod	_	_
+8	пасьта	пасьта	A	_	Sg|Nom	9	amod	_	_
+9	ваяс	ва	N	_	Pl|Nom	11	obj	_	_
+10	дадюуяс	дадюв	N	_	Err/Orth|Dial/л|Pl|Nom	11	nsubj	_	_
+11	чечченыс	чеччыны	V	_	Ind|Prs|Err/Dial|Pl3|Err/Dial	5	conj	_	_
+12	,	,	PUNCT	_	_	14	punct	_	_
+13	пыр	пыр	Adv	_	_	14	advmod	_	_
+14	мунэ	мунны	V	_	Ind|Prs|Err/Dial|Sg3	5	conj	_	_
+15	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 13756_2bz.155
 # text = Шыдъяйлы оз кыскоо.
 # text_en = She wouldn't bring in soup meat.
-"<Шыдъяйлы>"
-	"шыдъяй" N Sg Nom
-"<оз>"
-	"оз" Aux Neg Ind Prs Sg3
-"<кыскоо>"
-	"кыскавны" V Err/Dial ConNeg
-"<.>"
-	"." PUNCT
+1	Шыдъяйлы	шыдъяй	N	_	Sg|Nom	3	obl	_	_
+2	оз	оз	Aux	_	Neg|Ind|Prs|Sg3	3	aux:neg	_	_
+3	кыскоо	кыскавны	V	_	Err/Dial|ConNeg	0	root	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 13756_2bz.161
 # text = Сэсся кыскаліс, вердіс.
@@ -542,13 +356,13 @@
 "<чеччис>"
 	"чеччыны" V Ind Prt1 Sg3
 "<да>"
-	"да" CC
+	"да" CCONJ
 "<сэчче>"
 	"сэтчӧ" Adv Err/Dial Ill
 "<и>"
 	"и" Adv
 "<эштэдіс>"
-	"эштӧдны" Err/Dial V Ind Prt1 Sg3
+	"эштӧдны" V Err/Dial Ind Prt1 Sg3
 "<.>"
 	"." PUNCT
 
@@ -558,8 +372,8 @@
 "<Нёль>"
 	"нёль" Num Card Sg Nom
 "<кынь-рожа>"
-	"рожа" N Sg Nom
-		"кынь" N Cmp Cmp
+	"кынь" N Cmp Cmp
+		"рожа" N Sg Nom
 "<видзысь>"
 	"видзысь" N Sg Nom
 "<вед>"
@@ -587,8 +401,8 @@
 "<нёль>"
 	"нёль" Num Card Sg Nom
 "<кынь-рожа>"
-	"рожа" N Sg Nom
-		"кынь" N Cmp Cmp
+	"кынь" N Cmp Cmp
+		"рожа" N Sg Nom
 "<видзысьлэн>"
 	"видзысь" N Sg Err/Dial Gen
 "<вед>"
@@ -602,15 +416,15 @@
 # text = Да кӧрныссэ бура сибедісныс да.
 # text_en = And they rounded up their reindeer herd, too.
 "<Да>"
-	"да" CC
+	"да" CCONJ
 "<кӧрныссэ>"
 	"кӧр" N Sg Nom PxPl3 Clt/сӧ Err/Dial
 "<бура>"
 	"бура" Adv
 "<сибедісныс>"
-	"сибедны" V Ind Prt1 Pl3
+	"сибӧдны" V Ind Prt1 Pl3
 "<да>"
-	"да" CS
+	"да" SCONJ
 "<.>"
 	"." PUNCT
 
