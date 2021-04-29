@@ -2283,15 +2283,15 @@
 
 # sent_id = kpv_izva20150705-02-b.007+kpv_izva20150705-02-b.010+kpv_izva20150705-02-b.011a
 # text = А, шестого сентября, девяносто второй годын.
-1	А	а	INTJ	Interj	_	_	_	_	SpaceAfter=No
+1	А	а	CCONJ	CC	_	4	cc	_	SpaceAfter=No
 2	,	,	PUNCT	PUNCT	_	_	_	_	_
-3	шестого	шестого	ADJ	A	_	_	_	_	_
-4	сентября	сентябрь	NOUN	N	Case=Nom|Number=Sing	_	_	_	GTtags=Src/F,Sg,Der,Der/ProprietiveMod,A,Sg,Nom|Lang=ru|SpaceAfter=No
-5	,	,	PUNCT	PUNCT	_	_	x	_	_
+3	шестого	шестого	ADJ	A	_	4	amod	_	_
+4	сентября	сентябрь	NOUN	N	Case=Nom|Number=Sing	0	root	_	GTtags=Src/F,Sg,Der,Der/ProprietiveMod,A,Sg,Nom|Lang=ru|SpaceAfter=No
+5	,	,	PUNCT	PUNCT	_	8	punct	_	_
 6	девяносто	девяносто	NUM	Num	_	8	amod	_	_
 7	второй	второй	ADJ	A	_	6	fixed	_	_
-8	годын	год	NOUN	N	Case=Ine|Number=Sing	_	_	_	GTtags=Sg,Ine|SpaceAfter=No
-9	.	.	PUNCT	PUNCT	_	_	_	_	_
+8	годын	год	NOUN	N	Case=Ine|Number=Sing	4	conj	_	GTtags=Sg,Ine|SpaceAfter=No
+9	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
 # sent_id = kpv_izva20150705-02-b.007+kpv_izva20150705-02-b.010+kpv_izva20150705-02-b.011b
 # text = Но, Ижмаыслэн ю кузяыс сиктъяс дорас, ӧӧ, берегыс изъя.
