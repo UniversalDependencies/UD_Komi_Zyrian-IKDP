@@ -3064,7 +3064,7 @@
 10	и	и	CCONJ	CC	_	13	cc	_	_
 11	менэ	ме	PRON	Pron	Case=Acc|Number=Sing|Person=1|PronType=Prs	13	obj	_	GTtags=Pers,Sg1,Err/Dial,Acc
 12	сыа	сійӧ	PRON	Pron	PronType=Dem	13	nsubj	_	GTtags=Err/Dial,Dem
-13	интересуйтэ	интересуйтны	VERB	V	Number=Sing|Person=3|Tense=Pres|Mood=Ind	2	conj	_	GTtags=Ind,Prs,Err/Dial,Sg3|SpaceAfter=No
+13	интересуйтэ	интересуйтны	VERB	V	Number=Sing|Mood=Ind|Person=3|Tense=Pres	2	conj	_	GTtags=Ind,Prs,Err/Dial,Sg3|SpaceAfter=No
 14	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
 # sent_id = kpv_izva20150705-02-b.106+kpv_izva20150705-02-b.108+kpv_izva20150705-02-b.110+kpv_izva20150705-02-b.111+kpv_izva20150705-02-b.117c
