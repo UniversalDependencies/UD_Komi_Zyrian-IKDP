@@ -2683,7 +2683,7 @@
 15	но	но·и	CCONJ	CC	_	17	cc	_	_
 16	и	_	CCONJ	CC	_	15	fixed	_	_
 17	ӧніяторъясыс	ӧніятор	NOUN	N	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	9	conj	_	GTtags=Pl,Nom,PxSg3|SpaceAfter=No
-18	-	-	PUNCT	PUNCT	_	19	punct	_	SpaceAfter=No
+18	-	-	PUNCT	PUNCT	_	19	punct	_	_
 19	кино	кино	NOUN	N	Case=Nom|Number=Sing	17	appos	_	GTtags=Sg,Nom
 20	да	да	CCONJ	CC	_	22	cc	_	_
 21	мыйке	мыйкӧ	PRON	Pron	Case=Nom|Derivation=Ko|Number=Sing|PronType=Ind	22	det	_	GTtags=Indef,Der/кӧ,Sg,Nom
