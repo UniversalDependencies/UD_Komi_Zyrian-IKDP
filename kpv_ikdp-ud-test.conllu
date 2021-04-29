@@ -2392,7 +2392,7 @@
 7	хах	хах	INTJ	Interj	_	9	discourse	_	SpaceAfter=No
 8	,	,	PUNCT	PUNCT	_	7	punct	_	_
 9	вонас	во	NOUN	N	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	12	obl	_	GTtags=Sg,Ins,PxSg3,So/CP
-10	олэмад	овны	VERB	V	Case=Ine|Number=Sing|Person[psor]=2|Number[psor]=Sing|VerbForm=Vnoun	12	advcl:lmod	_	GTtags=Err/Dial,Der,Der/ӧм,Der/NomAct,N,Sg,Ine|PxSg2
+10	олэмад	овны	VERB	V	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=2|VerbForm=Vnoun	12	advcl	_	GTtags=Err/Dial,Der,Der/ӧм,Der/NomAct,N,Sg,Ine|PxSg2
 11	мый	мый	PRON	Pron	Case=Nom|Number=Sing|PronType=Int	12	nsubj	_	GTtags=Interr,Sg,Nom
 12	лоис	лоны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Sg3|SpaceAfter=No
 13	?	?	PUNCT	PUNCT	_	12	punct	_	_
@@ -2554,7 +2554,7 @@
 # sent_id = kpv_izva20150705-02-b.049a
 # text = А кудз велэдін, вот тэ висьталін, бура тӧдан английскейсэ, кудз велэдін?
 1	А	а	CCONJ	CC	_	3	cc	_	_
-2	кудз	кудз	ADV	Adv	AdvType=Man|Interr|PronType=Int	3	advmod	_	GTtags=Interr,Manner,Err/Orth,Interr
+2	кудз	кудз	ADV	Adv	AdvType=Man|PronType=Int	3	advmod	_	GTtags=Interr,Manner,Err/Orth,Interr
 3	велэдін	велӧдны	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past	0	root	_	GTtags=Err/Dial,Ind,Prt1,Sg2|SpaceAfter=No
 4	,	,	PUNCT	PUNCT	_	7	punct	_	_
 5	вот	вот	ADV	Adv	_	7	advmod	_	GTtags=Parenthetic
