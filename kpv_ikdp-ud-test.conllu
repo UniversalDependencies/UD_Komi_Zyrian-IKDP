@@ -2962,7 +2962,7 @@
 3	сыа	сійӧ	PRON	Pron	PronType=Dem	6	nsubj	_	GTtags=Err/Dial,Dem
 4	сэтысь	сэтысь	ADV	Adv	Case=Ela	6	advmod:lfrom	_	GTtags=Ela
 5	и	и	ADV	Adv	_	6	advmod	_	_
-6	петіс	петны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	_	x	_	GTtags=Ind,Prt1,Sg3|SpaceAfter=No
+6	петіс	петны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Sg3|SpaceAfter=No
 7	,	,	PUNCT	PUNCT	_	13	punct	_	_
 8	мый	мый	SCONJ	CS	_	13	mark	_	_
 9	ми	ме	PRON	Pron	Case=Nom|Number=Plur|Person=1|PronType=Prs	13	nsubj	_	GTtags=Pers,Pl1,Nom|SpaceAfter=No
