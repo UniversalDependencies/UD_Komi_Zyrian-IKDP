@@ -2698,7 +2698,7 @@
 
 # sent_id = kpv_izva20150705-02-b.062
 # text = А велэдчемысь ӧтдор вот, мый, мыен тэ ещё занимайтчан?
-1	А	а	CCONJ	CC	_	11	punct	_	_
+1	А	а	CCONJ	CC	_	11	cc	_	_
 2	велэдчемысь	велӧдчыны	VERB	V	Case=Ela|Derivation=Vnoun|Number=Sing	11	advcl	_	GTtags=Err/Dial,Refl,Err/Dial,Der,Der/ӧм,Der/NomAct,N|Sg|Ela
 3	ӧтдор	ӧтдор	ADV	Adv	_	2	advmod	_	_
 4	вот	вот	ADV	Adv	Parenthetic	11	discourse	_	GTtags=Parenthetic|SpaceAfter=No
@@ -2782,7 +2782,7 @@
 2	кыы	кыв	NOUN	N	Case=Nom|Number=Sing	3	obj	_	GTtags=Err/Dial,Sg,Err/Dial,Nom
 3	тӧдэмъяссэ	тӧдны	VERB	V	Case=Acc|Derivation=Vnoun|Number=Plur|Number[psor]=Sing|Person[psor]=3	5	obj	_	GTtags=Err/Dial,Der,Der/ӧм,Der/NomAct,N,Pl,Acc|PxSg3|Err/Dial
 4	вылэджык	выв	NOUN	N	Case=Ill|Degree=Cmp|NounType=Relat|Number=Sing	5	obl:lmod	_	GTtags=Relat,Sg,Err/Dial,Ill,Comp
-5	кыпедны	кыпӧдны	VERB	V	VerbForm=Inf	_	_	_	GTtags=Inf|SpaceAfter=No
+5	кыпедны	кыпӧдны	VERB	V	VerbForm=Inf	0	root	_	GTtags=Inf|SpaceAfter=No
 6	,	,	PUNCT	PUNCT	_	10	punct	_	_
 7	медум	медым	SCONJ	CS	_	10	mark	_	_
 8	унджык	уна	DET	Det	Case=Nom|Degree=Cmp|Number=Sing	9	det	_	GTtags=Comp,Sg,Nom
@@ -2800,7 +2800,7 @@
 20	кутшем	кутшӧм	ADJ	A	_	21	amod	_	GTtags=Err/Dial
 21	кыыяс	кыв	NOUN	N	Case=Nom|Number=Plur	23	obj	_	GTtags=Err/Dial,Pl,Nom
 22	ме	ме	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	23	nsubj	_	GTtags=Pers,Sg1,Nom
-23	велэда	велӧдны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	_	GTtags=Err/Dial,Ind,Prs,Sg1
+23	велэда	велӧдны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	14	conj	_	GTtags=Err/Dial,Ind,Prs,Sg1
 24	и	и	CCONJ	CC	_	25	cc	_	_
 25	тӧда	тӧдны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	23	conj	_	GTtags=Ind,Prs,Sg1|SpaceAfter=No
 26	,	,	PUNCT	PUNCT	_	30	punct	_	_
@@ -2812,12 +2812,12 @@
 32	вот	вот	ADV	Adv	Parenthetic	35	discourse	_	GTtags=Parenthetic|SpaceAfter=No
 33	,	,	PUNCT	PUNCT	_	32	punct	_	_
 34	ӧні	ӧні	ADV	Adv	_	35	obl:tmod	_	_
-35	кӧсъя	кӧсйыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	30	_	_	GTtags=Ind,Prs,Sg1
+35	кӧсъя	кӧсйыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	30	parataxis	_	GTtags=Ind,Prs,Sg1
 36	Корея	Корея	NOUN	N	Case=Nom|Number=Sing	37	obl:lmod	_	GTtags=Prop,Sem/Plc,Sg,Nom
 37	ветлыны	ветлыны	VERB	V	VerbForm=Inf	_	_	_	GTtags=Inf
 38	эське	эськӧ	ADV	Adv	_	35	aux:cnd	_	GTtags=Err/Orth
 39	корке	коркӧ	ADV	Adv	AdvType=Tim|Definite=Ind|Derivation=Ko	37	advmod:tmod	_	GTtags=Indef,Sem/Time,Der/кӧ|SpaceAfter=No
-40	.	.	PUNCT	PUNCT	_	_	_	_	_
+40	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
 # sent_id = kpv_izva20150705-02-b.074+kpv_izva20150705-02-b.075+kpv_izva20150705-02-b.076+kpv_izva20150705-02-b.079b
 # text = Оо, эні ме кӧсъя мунны аспирантураа велэдчыны.
