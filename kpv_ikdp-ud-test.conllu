@@ -2947,7 +2947,7 @@
 5	да	да	CCONJ	CC	_	6	cc	_	_
 6	саамъяслысь	саам	NOUN	N	Case=Abl|Number=Plur	4	conj	_	GTtags=Pl,Abl
 7	тшӧтш	тшӧтш	ADV	Adv	_	4	advmod	_	_
-8	мыйкесэ	мыйкӧ	PRON	Pron	Clitic=So|Case=Nom|Derivation=Ko|Number=Sing|PronType=Ind	9	obj	_	GTtags=Indef,Sg,Nom,Der/кӧ,Clt/сӧ,Err/Dial
+8	мыйкесэ	мыйкӧ	PRON	Pron	Case=Nom|Clitic=So|Derivation=Ko|Number=Sing|PronType=Ind	9	obj	_	GTtags=Indef,Sg,Nom,Der/кӧ,Clt/сӧ,Err/Dial
 9	изучайтны	изучайтны	VERB	V	VerbForm=Inf	2	acl	_	GTtags=Inf|SpaceAfter=No
 10	,	,	PUNCT	PUNCT	_	12	punct	_	_
 11	ладнэ	ладнӧ	ADV	Adv	_	12	advmod	_	GTtags=Err/Dial
@@ -2975,8 +2975,8 @@
 16	"	_	PUNCT	PUNCT	_	17	punct	_	SpaceAfter=No
 17	коренного	коренного	ADJ	A	F	15	appos	_	GTtags=F
 18	малочисленного	малочисленного	ADJ	A	F	17	flat:foreign	_	GTtags=F
-19	народа	народ	NOUN	N	Sg|Case=Nom|Derivation=ProprietiveMod|Number=Sing	17	flat:foreign	_	GTtags=Sg,Der,Der/ProprietiveMod,A,Sg,Nom
-20	Севера	Север	NOUN	N	Case=Nom|Derivation=ProprietiveMod|Number=Sing|Sg	17	flat:foreign	_	GTtags=Prop,Sg,Der,Der/ProprietiveMod,A,Sg,Nom|SpaceAfter=No
+19	народа	народ	NOUN	N	Case=Nom|Derivation=ProprietiveMod|Number=Sing	17	flat:foreign	_	GTtags=Sg,Der,Der/ProprietiveMod,A,Sg,Nom
+20	Севера	Север	NOUN	N	Case=Nom|Derivation=ProprietiveMod|Number=Sing	17	flat:foreign	_	GTtags=Prop,Sg,Der,Der/ProprietiveMod,A,Sg,Nom|SpaceAfter=No
 21	"	_	PUNCT	PUNCT	_	17	punct	_	SpaceAfter=No
 22	.	.	PUNCT	PUNCT	_	6	punct	_	_
 
@@ -3058,7 +3058,7 @@
 4	,	,	PUNCT	PUNCT	_	5	punct	_	_
 5	вошйи	вошйыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	GTtags=Ind,Prt1,Err/Dial,Sg3|SpaceAfter=No
 6	,	,	PUNCT	PUNCT	_	9	punct	_	_
-7	мыля	мыйла	SCONJ	CS	CS	9	mark	_	GTtags=CS
+7	мыля	мыйла	SCONJ	CS	_	9	mark	_	GTtags=CS
 8	ачум	ас	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	9	nsubj:cop	_	GTtags=Refl,Sg1,Err/Dial,Nom
 9	коми-изьватас	коми-изьватас	NOUN	N	Case=Nom|Number=Sing	5	ccomp	_	GTtags=Sg,Nom
 10	и	и	CCONJ	CC	_	13	cc	_	_
