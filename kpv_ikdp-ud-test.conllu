@@ -1979,7 +1979,7 @@
 5	да	да	CCONJ	CC	_	9	cc	_	_
 6	кокыс	кок	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	9	nsubj	_	GTtags=Sg,Nom,PxSg3
 7	на	на	ADV	Adv	AdvType=Tim	9	advmod:tmod	_	GTtags=Sem/Time
-8	из	изны	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	9	aux:neg	_	GTtags=Neg,Ind,Prt1,Sg3
+8	из	оз	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	9	aux:neg	_	GTtags=Neg,Ind,Prt1,Sg3
 9	сидзоолы	сидзооны	VERB	V	Connegative=Yes	4	conj	_	GTtags=ConNeg|SpaceAfter=No
 10	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
@@ -2029,7 +2029,7 @@
 10	xывнитіс	xывнитны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	GTtags=Ind,Prt1,Sg3|SpaceAfter=No
 11	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
-# sent_id = 13756_2bz.049
+# sent_id = 13756_2bz.049a
 # text = Мӧдэс сетіс да нырсьыс и вомсьыс вир xывнитіс.
 # text_en = Then he fixed the second who bled at the nose and mouth.
 1	Мӧдэс	мӧд	NUM	Num	Case=Acc|Number=Sing|Number[psor]=Sing|NumType=Ord|Person[psor]=1	2	obj	_	GTtags=Ord,Sg,Acc,PxSg1,Err/Dial
@@ -2042,7 +2042,7 @@
 8	xывнитіс	xывнитны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	GTtags=Ind,Prt1,Sg3|SpaceAfter=No
 9	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
-# sent_id = 13756_2bz.049
+# sent_id = 13756_2bz.049b
 # text = Коймедсэ сетіс да бара же сідз.
 # text_en = He fixed the third one and it was the same again.
 1	Коймедсэ	коймӧд	ADJ	A	Case=Acc|Number=Sing|Number[psor]=Sing|NumType=Ord|Person[psor]=3	2	obj	_	GTtags=Err/Dial,Ord,Sg,Acc,PxSg3
@@ -2058,7 +2058,7 @@
 # text_en = Then the sledge drivers grabbed their trace reindeer and headed back in a hurry: – You – he says – will be sorry for this some day!
 1	Даддяяс	даддя	ADJ	A	Case=Nom|Number=Plur	4	nsubj	_	GTtags=Pl,Nom
 2	тай	тай	ADV	Adv	_	4	advmod	_	_
-3	дадюуныссэ	дадюв	NOUN	N	Clitic=So|Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=3	4	obl	_	GTtags=Sg,Err/Dial,Nom,PxPl3,Clt/сӧ,Err/Dial
+3	дадюуныссэ	дадюв	NOUN	N	Case=Nom|Clitic=So|Number=Sing|Number[psor]=Plur|Person[psor]=3	4	obl	_	GTtags=Sg,Err/Dial,Nom,PxPl3,Clt/сӧ,Err/Dial
 4	тшапкисныс	тшапкыны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	GTtags=Err/Dial,Ind,Prt1,Pl3
 5	да	да	CCONJ	CC	_	8	cc	_	_
 6	бӧр	бӧр	ADV	Adv	_	8	advmod:lmod	_	_
@@ -2164,13 +2164,13 @@
 1	Вӧжжи	вӧжжи	NOUN	N	Case=Nom|Number=Sing	2	nmod	_	GTtags=Sg,Nom
 2	кузя	кузя	ADJ	A	_	3	amod	_	_
 3	ваяс	ва	NOUN	N	Case=Nom|Number=Plur	5	obj	_	GTtags=Pl,Nom
-4	дадюуяс	дадюв	NOUN	N	Case=Nom|Dial/л|Number=Plur	5	nsubj	_	GTtags=Err/Orth,Dial/л,Pl,Nom
+4	дадюуяс	дадюв	NOUN	N	Case=Nom|Number=Plur	5	nsubj	_	GTtags=Err/Orth,Dial/л,Pl,Nom
 5	чечченыс	чеччыны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Err/Dial,Pl3,Err/Dial|SpaceAfter=No
 6	,	,	PUNCT	PUNCT	_	11	punct	_	_
 7	няртла	няртала	NOUN	N	Case=Nom|Number=Sing	8	nmod	_	GTtags=Sg,Nom
 8	пасьта	пасьта	ADJ	A	Case=Nom|Number=Sing	9	amod	_	GTtags=Sg,Nom
 9	ваяс	ва	NOUN	N	Case=Nom|Number=Plur	11	obj	_	GTtags=Pl,Nom
-10	дадюуяс	дадюв	NOUN	N	Case=Nom|Dial/л|Number=Plur	11	nsubj	_	GTtags=Err/Orth,Dial/л,Pl,Nom
+10	дадюуяс	дадюв	NOUN	N	Case=Nom|Number=Plur	11	nsubj	_	GTtags=Err/Orth,Dial/л,Pl,Nom
 11	чечченыс	чеччыны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres	5	conj	_	GTtags=Ind,Prs,Err/Dial,Pl3,Err/Dial|SpaceAfter=No
 12	,	,	PUNCT	PUNCT	_	14	punct	_	_
 13	пыр	пыр	ADV	Adv	_	14	advmod	_	_
@@ -2183,13 +2183,13 @@
 1	Вӧжжи	вӧжжи	NOUN	N	Case=Nom|Number=Sing	2	nmod	_	GTtags=Sg,Nom
 2	кузя	кузя	ADJ	A	_	3	amod	_	_
 3	ваяс	ва	NOUN	N	Case=Nom|Number=Plur	5	obj	_	GTtags=Pl,Nom
-4	дадюуяс	дадюв	NOUN	N	Case=Nom|Dial/л|Number=Plur	5	nsubj	_	GTtags=Err/Orth,Dial/л,Pl,Nom
+4	дадюуяс	дадюв	NOUN	N	Case=Nom|Number=Plur	5	nsubj	_	GTtags=Err/Orth,Dial/л,Pl,Nom
 5	чечченыс	чеччыны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Err/Dial,Pl3,Err/Dial|SpaceAfter=No
 6	,	,	PUNCT	PUNCT	_	11	punct	_	_
 7	няртла	няртала	NOUN	N	Case=Nom|Number=Sing	8	nmod	_	GTtags=Sg,Nom
 8	пасьта	пасьта	ADJ	A	Case=Nom|Number=Sing	9	amod	_	GTtags=Sg,Nom
 9	ваяс	ва	NOUN	N	Case=Nom|Number=Plur	11	obj	_	GTtags=Pl,Nom
-10	дадюуяс	дадюв	NOUN	N	Case=Nom|Dial/л|Number=Plur	11	nsubj	_	GTtags=Err/Orth,Dial/л,Pl,Nom
+10	дадюуяс	дадюв	NOUN	N	Case=Nom|Number=Plur	11	nsubj	_	GTtags=Err/Orth,Dial/л,Pl,Nom
 11	чечченыс	чеччыны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres	5	conj	_	GTtags=Ind,Prs,Err/Dial,Pl3,Err/Dial|SpaceAfter=No
 12	,	,	PUNCT	PUNCT	_	14	punct	_	_
 13	пыр	пыр	ADV	Adv	_	14	advmod	_	_
