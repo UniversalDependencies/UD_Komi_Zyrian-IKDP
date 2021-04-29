@@ -2025,7 +2025,7 @@
 6	нырсьыс	ныр	NOUN	N	Case=Ela|Number=Sing|Number[psor]=Sing|Person[psor]=3	10	obl:lmod	_	GTtags=Sg,Ela,PxSg3,So/CP
 7	и	и	CCONJ	CC	_	8	cc	_	_
 8	вомсьыс	вом	NOUN	N	Case=Ela|Number=Sing|Number[psor]=Sing|Person[psor]=3	6	conj	_	GTtags=Sg,Ela,PxSg3,So/CP
-9	вир	вир	NOUN	N	Deg	10	obj	_	GTtags=Deg
+9	вир	вир	NOUN	N	Case=Nom|Number=Sing	10	obj	_	GTtags=Deg
 10	xывнитіс	xывнитны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	GTtags=Ind,Prt1,Sg3|SpaceAfter=No
 11	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
@@ -2038,7 +2038,7 @@
 4	нырсьыс	ныр	NOUN	N	Case=Ela|Number=Sing|Number[psor]=Sing|Person[psor]=3	8	obl:lmod	_	GTtags=Sg,Ela,PxSg3,So/CP
 5	и	и	CCONJ	CC	_	6	cc	_	_
 6	вомсьыс	вом	NOUN	N	Case=Ela|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	conj	_	GTtags=Sg,Ela,PxSg3,So/CP
-7	вир	вир	NOUN	N	Deg	8	obj	_	GTtags=Deg
+7	вир	вир	NOUN	N	Case=Nom|Number=Sing	8	obj	_	GTtags=Deg
 8	xывнитіс	xывнитны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	GTtags=Ind,Prt1,Sg3|SpaceAfter=No
 9	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
