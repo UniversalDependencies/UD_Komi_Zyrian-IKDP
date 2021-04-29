@@ -3019,7 +3019,7 @@
 4	статус	статус	NOUN	N	Case=Nom|Number=Sing	2	nsubj:cop	_	GTtags=Sg,Nom|SpaceAfter=No
 5	,	,	PUNCT	PUNCT	_	6	punct	_	_
 6	миян	ме	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	2	conj	_	GTtags=Pers,Pl1,Gen
-7	абу	абу	AUX	V	Cop|Mood=Ind|Number=Sing|Polarity=Neg	6	cop	_	GTtags=Neg,Cop,Ind,Sg|SpaceAfter=No
+7	абу	абу	AUX	V	Polarity=Neg	6	aux:neg	_	GTtags=Neg,Cop,Ind,Sg|SpaceAfter=No
 8	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
 # sent_id = kpv_izva20150705-02-b.104+kpv_izva20150705-02-b.105b
@@ -3071,7 +3071,7 @@
 # text = Ме кӧсъя, мед менам, гашке, трудъясэ, рӧбетаяссэ кудзке ортсаласны миянлы босьны сіе статуссэ.
 # comment = Check
 1	Ме	ме	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	GTtags=Pers,Sg1,Nom
-2	кӧсъя	кӧсйыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	_	GTtags=Ind,Prs,Sg1|SpaceAfter=No
+2	кӧсъя	кӧсйыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg1|SpaceAfter=No
 3	,	,	PUNCT	PUNCT	_	13	punct	_	_
 4	мед	мед	SCONJ	CS	_	13	mark	_	_
 5	менам	ме	PRON	Pron	Case=Gen|Number=Sing|Person=1|PronType=Prs	9	nmod	_	GTtags=Pers,Sg1,Gen|SpaceAfter=No
