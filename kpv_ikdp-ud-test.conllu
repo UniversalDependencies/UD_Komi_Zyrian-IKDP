@@ -2159,7 +2159,7 @@
 7	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
 # sent_id = 13756_2bz.075+13756_2bz.076
-# text = Вӧжжи кузя ваяс дадьууяс чечченыс, няртла пасьта ваяс дадюуяс чечченыс, пыр мунэ.
+# text = Вӧжжи кузя ваяс дадюуяс чечченыс, няртла пасьта ваяс дадюуяс чечченыс, пыр мунэ.
 # text_en = The trace reindeer jump over the waters as long as reins, the trace reindeer jump over waters as wide as a lasso, it goes on.
 1	Вӧжжи	вӧжжи	NOUN	N	Case=Nom|Number=Sing	2	nmod	_	GTtags=Sg,Nom
 2	кузя	кузя	ADJ	A	_	3	amod	_	_
@@ -2225,7 +2225,7 @@
 # text = Меддзоля вокыдлэн, нёль кынь рожа видзысьлэн вед гӧлэсыс!
 # text_en = This is the voice of your youngest brother, the shepherd with the face of four polar foxes!
 1	Меддзоля	меддзоля	ADJ	A	Case=Nom|Number=Sing	2	amod	_	GTtags=Sg,Nom
-2	вокыдлэн	вок	NOUN	N	Case=Gen|Person[psor]=2|Number=Sing|Number[psor]=Sing	9	nmod	_	GTtags=Sg,Err/Dial,Gen,PxSg2,So/PC|SpaceAfter=No
+2	вокыдлэн	вок	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=2	9	nmod	_	GTtags=Sg,Err/Dial,Gen,PxSg2,So/PC|SpaceAfter=No
 3	,	,	PUNCT	PUNCT	_	7	punct	_	_
 4	нёль	нёль	NUM	Num	Case=Nom|Number=Sing|NumType=Card	6	nummod	_	GTtags=Card,Sg,Nom
 5	кынь	кынь	NOUN	N	Case=Nom|Number=Sing	6	nmod	_	GTtags=Sg,Nom
@@ -2273,7 +2273,7 @@
 
 # sent_id = kpv_izva20150705-02-b.006
 # text = Рӧдитчи Пустыня грездын, Краснобор сикт.
-1	Рӧдитчи	рӧдитчыны	VERB	V	|Mood=Ind|Number=Sing|Person=3|PronType=Prs|Reflex=Yes|Tense=Past	0	root	_	GTtags=Refl,Ind,Prt1,Err/Dial,Sg3
+1	Рӧдитчи	рӧдитчыны	VERB	V	Mood=Ind|Number=Sing|Person=3|PronType=Prs|Reflex=Yes|Tense=Past	0	root	_	GTtags=Refl,Ind,Prt1,Err/Dial,Sg3
 2	Пустыня	Пустыня	NOUN	N	Case=Nom|Number=Sing	3	nmod:appos	_	GTtags=Prop,Sem/Plc,Sem/Plc,Sg,Nom
 3	грездын	грезд	NOUN	N	Case=Ine|Number=Sing	1	obl:lmod	_	GTtags=Sg,Ine|SpaceAfter=No
 4	,	,	PUNCT	PUNCT	_	6	punct	_	_
@@ -2311,7 +2311,7 @@
 
 # sent_id = kpv_izva20150705-02-b.009
 # text = Мыля Пустыня шусе?
-1	Мыля	мыйла	ADV	Adv	Sem/Cau	3	advmod	_	GTtags=Sem/Cau
+1	Мыля	мыйла	ADV	Adv	_	3	advmod	_	GTtags=Sem/Cau
 2	Пустыня	Пустыня	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	GTtags=Prop,Sem/Plc,Sg,Nom
 3	шусе	шусьыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	GTtags=Refl,Ind,Prs,Err/Dial,Sg3|SpaceAfter=No
 4	?	?	PUNCT	PUNCT	_	3	punct	_	_
@@ -2561,7 +2561,7 @@
 6	тэ	тэ	PRON	Pron	Case=Nom|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	GTtags=Pers,Sg2,Nom
 7	висьталін	висьтавны	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past	3	conj	_	GTtags=Ind,Prt1,Sg2|SpaceAfter=No
 8	,	,	PUNCT	PUNCT	_	10	punct	_	_
-9	бура	бура	NOUN	N	Case=Nom|Number=Sing	10	advmod	_	GTtags=Sg,Nom
+9	бура	бура	ADV	Adv	Case=Nom|Number=Sing	10	advmod	_	GTtags=Sg,Nom
 10	тӧдан	тӧдны	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres	7	ccomp	_	GTtags=Ind,Prs,Sg2
 11	английскейсэ	английскӧй	ADJ	A	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	10	obj	_	GTtags=Err/Dial,Sg,Acc,PxSg3,Err/Dial|SpaceAfter=No
 12	,	,	PUNCT	PUNCT	_	14	punct	_	_
@@ -2682,7 +2682,7 @@
 14	,	,	PUNCT	PUNCT	_	17	punct	_	_
 15	но	но·и	CCONJ	CC	_	17	cc	_	_
 16	и	_	CCONJ	CC	_	15	fixed	_	_
-17	ӧніяторъясыс	ӧніятор	NOUN	N	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	9	conj	_	GTtags=Pl,Nom,PxSg3|SpaceAfter=No
+17	ӧніяторъясыс	ӧніятор	NOUN	N	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	9	conj	_	GTtags=Pl,Nom,PxSg3
 18	-	-	PUNCT	PUNCT	_	19	punct	_	_
 19	кино	кино	NOUN	N	Case=Nom|Number=Sing	17	appos	_	GTtags=Sg,Nom
 20	да	да	CCONJ	CC	_	22	cc	_	_
@@ -2815,7 +2815,7 @@
 35	кӧсъя	кӧсйыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	30	parataxis	_	GTtags=Ind,Prs,Sg1
 36	Корея	Корея	NOUN	N	Case=Nom|Number=Sing	37	obl:lmod	_	GTtags=Prop,Sem/Plc,Sg,Nom
 37	ветлыны	ветлыны	VERB	V	VerbForm=Inf	35	xcomp	_	GTtags=Inf
-38	эське	эськӧ	ADV	Adv	_	35	aux:cnd	_	GTtags=Err/Orth
+38	эське	эськӧ	AUX	Adv	_	35	aux:cnd	_	GTtags=Err/Orth
 39	корке	коркӧ	ADV	Adv	AdvType=Tim|Definite=Ind|Derivation=Ko	37	advmod:tmod	_	GTtags=Indef,Sem/Time,Der/кӧ|SpaceAfter=No
 40	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
@@ -2861,10 +2861,10 @@
 4	,	,	PUNCT	PUNCT	_	5	punct	_	_
 5	велэдны	велӧдны	VERB	V	VerbForm=Inf	1	conj	_	GTtags=Err/Dial,Inf
 6	куча	кутны	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	5	aux:inch	_	GTtags=Err/Dial,Ind,Prs,Sg1
-7-9	коми-изьватаслысь	_	_	_	_	_	_	_	_
+7-9	коми-изьватаслысь	_	_	_	_	_	_	_	SpaceAfter=No
 7	коми	коми	NOUN	N	Case=Nom|Number=Sing	9	compound	_	GTtags=Sg,Nom
 8	-	-	PUNCT	_	_	9	punct	_	_
-9	изьватаслысь	изьватас	NOUN	N	Case=Abl|Number=Sing	15	nmod	_	GTtags=Sg,Abl|SpaceAfter=No
+9	изьватаслысь	изьватас	NOUN	N	Case=Abl|Number=Sing	15	nmod	_	GTtags=Sg,Abl
 10	,	,	PUNCT	PUNCT	_	11	punct	_	_
 11	ненечьяс	ненеч	NOUN	N	Case=Nom|Number=Plur	9	conj	_	GTtags=Pl,Nom
 12	да	да	CCONJ	CC	_	14	cc	_	_
