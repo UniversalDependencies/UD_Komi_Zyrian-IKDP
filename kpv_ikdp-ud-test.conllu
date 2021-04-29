@@ -3014,7 +3014,7 @@
 1	Но	но	CCONJ	CC	_	2	cc	_	_
 2	мӧдъясыслэн	мӧд	PRON	Pron	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	0	root	_	GTtags=Pl,Gen,PxSg3,Err/Dial
 3	сыа	сійӧ	PRON	Pron	PronType=Dem	2	nsubj:cop	_	GTtags=Err/Dial,Dem
-4	выйым	эм	AUX	_	Mood=Ind|Number=Sing|Person=3|WORK|Tense=Pres	2	cop	_	GTtags=Ind,Prs,Sg3,WORK|SpaceAfter=No
+4	выйым	эм	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	cop	_	GTtags=Ind,Prs,Sg3,WORK|SpaceAfter=No
 5	,	,	PUNCT	PUNCT	_	7	punct	_	_
 6	но	но	CCONJ	CC	_	7	cc	_	_
 7	сідз	сідзи	ADV	Adv	AdvType=Man	2	conj	_	GTtags=Manner
