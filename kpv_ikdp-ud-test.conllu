@@ -1902,3 +1902,364 @@
 6	юныс	юны	VERB	V	Connegative=Yes|Number=Plur	0	root	_	GTtags=V,TV,ConNeg|SpaceAfter=No
 7	.	.	PUNCT	CLB	_	6	punct	_	GTtags=CLB
 
+# sent_id = 13756_2bz.002
+# text = Оліс-выліс нёль вок.
+# text_en = Once upon a time, there lived four brothers.
+1	Оліс-выліс	овны-вывны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Sg3
+2	нёль	нёль	NUM	Num	Case=Nom|Number=Sing|NumType=Card	3	nummod	_	GTtags=Card,Sg,Nom
+3	вок	вок	NOUN	N	Case=Nom|Number=Sing	1	nsubj	_	GTtags=Sg,Nom|SpaceAfter=No
+4	.	.	PUNCT	PUNCT	_	1	punct	_	_
+
+# sent_id = 13756_2bz.003
+# text = Нёль вок, нёль вок мунэныс, вӧрзеныс.
+# text_en = Four brothers wandered and migrated.
+1	Нёль	нёль	NUM	Num	Case=Nom|Number=Sing|NumType=Card	2	nummod	_	GTtags=Card,Sg,Nom
+2	вок	вок	NOUN	N	Case=Nom|Number=Sing	6	nsubj	_	GTtags=Sg,Nom|SpaceAfter=No
+3	,	,	PUNCT	PUNCT	_	5	punct	_	_
+4	нёль	нёль	NUM	Num	Case=Nom|Number=Sing|NumType=Card	5	nummod	_	GTtags=Card,Sg,Nom
+5	вок	вок	NOUN	N	Case=Nom|Number=Sing	2	conj	_	GTtags=Sg,Nom
+6	мунэныс	мунны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Err/Dial,Pl3,Err/Dial|SpaceAfter=No
+7	,	,	PUNCT	PUNCT	_	8	punct	_	_
+8	вӧрзеныс	вӧрзьыны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres	6	conj	_	GTtags=Ind,Prs,Err/Dial,Pl3,Err/Dial|SpaceAfter=No
+9	.	.	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = 13756_2bz.004+13756_2bz.005
+# text = А нылэн вӧлі, нёль воклэн ӧтік небыд юрси чой, небыд юрси чойныс.
+# text_en = And they had, the four brothers, a sister, Soft Hair, their sister was Soft Hair.
+1	А	а	CCONJ	CC	_	2	cc	_	_
+2	нылэн	сійӧ	PRON	Pron	Case=Gen|Number=Plur|Person=3|PronType=Prs	6	reparandum	_	GTtags=Pers,Pl3,Gen,Err/Dial
+3	вӧлі	вӧвны	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	cop	_	GTtags=Ind,Prt1,Sg3|SpaceAfter=No
+4	,	,	PUNCT	PUNCT	_	6	punct	_	_
+5	нёль	нёль	NUM	Num	Case=Nom|Number=Sing|NumType=Card	6	nummod	_	GTtags=Card,Sg,Nom
+6	воклэн	вок	NOUN	N	Case=Gen|Number=Sing	0	root	_	GTtags=Sg,Err/Dial,Gen
+7	ӧтік	ӧти	NUM	Num	Case=Nom|Number=Sing|NumType=Card	10	nummod	_	GTtags=Err/Dial,Card,Sg,Nom
+8	небыд	небыд	ADJ	A	Case=Nom|Number=Sing	9	amod	_	GTtags=Sg,Nom
+9	юрси	юрси	NOUN	N	Case=Nom|Number=Sing	10	nmod	_	GTtags=Sg,Nom
+10	чой	чой	NOUN	N	Case=Nom|Number=Sing	6	nsubj:cop	_	GTtags=Sg,Nom|SpaceAfter=No
+11	,	,	PUNCT	PUNCT	_	14	punct	_	_
+12	небыд	небыд	ADJ	A	Case=Nom|Number=Sing	13	amod	_	GTtags=Sg,Nom
+13	юрси	юрси	NOUN	N	Case=Nom|Number=Sing	14	nmod	_	GTtags=Sg,Nom
+14	чойныс	чой	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=3	10	conj	_	GTtags=Sg,Nom,PxPl3|SpaceAfter=No
+15	.	.	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = 13756_2bz.006+13756_2bz.007
+# text = А меддёля вокныс сыа кӧр вӧтлэ, а вокъясыс, видед, водьын мунэныс аргышен.
+# text_en = The youngest brother was driving the herd and the [other three] brothers, you see, led the sledge train ahead.
+1	А	а	CCONJ	CC	_	6	cc	_	_
+2	меддёля	дзоля	ADJ	A	Case=Nom|Degree=Sup|Number=Sing	3	amod	_	GTtags=Superl,Err/Dial,Sg,Nom
+3	вокныс	вок	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=3	4	nmod	_	GTtags=Sg,Nom,PxPl3
+4	сыа	сійӧ	PRON	Pron	PronType=Dem	6	nsubj	_	GTtags=Err/Dial,Dem
+5	кӧр	кӧр	NOUN	N	Case=Nom|Number=Sing	6	obj	_	GTtags=Sg,Nom
+6	вӧтлэ	вӧтлыны	VERB	V	Tense=Pres|Mood=Ind|Number=Sing|Person=3	0	root	_	GTtags=Ind,Prs,Err/Dial,Sg3|SpaceAfter=No
+7	,	,	PUNCT	PUNCT	_	14	punct	_	_
+8	а	а	CCONJ	CC	_	14	cc	_	_
+9	вокъясыс	вок	NOUN	N	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	14	nsubj	_	GTtags=Pl,Nom,PxSg3|SpaceAfter=No
+10	,	,	PUNCT	PUNCT	_	11	punct	_	_
+11	видед	видзӧдны	VERB	V	Mood=Imp|Number=Sing|Person=2	14	advcl:eval	_	GTtags=Err/Dial,Imprt,Sg2|SpaceAfter=No
+12	,	,	PUNCT	PUNCT	_	11	punct	_	_
+13	водьын	водь	NOUN	N	Case=Ine|Number=Sing	14	obl:tmod	_	GTtags=Sg,Ine
+14	мунэныс	мунны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres	6	conj	_	GTtags=Ind,Prs,Err/Dial,Pl3,Err/Dial
+15	аргышен	аргыш	NOUN	N	Case=Ins|Number=Sing	14	obl	_	GTtags=Sg,Err/Dial,Ins|SpaceAfter=No
+16	.	.	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = 13756_2bz.008
+# text = Кӧр вӧтлэ.
+# text_en = He [the youngest one] drove the reindeer herd.
+1	Кӧр	кӧр	NOUN	N	Case=Nom|Number=Sing	2	obj	_	GTtags=Sg,Nom
+2	вӧтлэ	вӧтлыны	VERB	V	Tense=Pres|Mood=Ind|Number=Sing|Person=3	0	root	_	GTtags=Ind,Prs,Err/Dial,Sg3|SpaceAfter=No
+3	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = 13756_2bz.020
+# text = Харей юр выытіыс чеччис да кокыс на из сидзоолы.
+# text_en = He jumped over the tip of the goad and his feet didn't touch it.
+1	Харей	харей	NOUN	N	Case=Nom|Number=Sing	4	nsubj	_	GTtags=Sg,Nom
+2	юр	юр	NOUN	N	Case=Nom|Number=Sing	3	nmod	_	GTtags=Sg,Nom
+3	выытіыс	выв	NOUN	N	Relat|Case=Tra|Person[psor]=3|So/CP|Number=Sing|Number[psor]=Sing	4	obl:lmod	_	GTtags=Relat,Sg,Err/Dial,Tra,PxSg3,So/CP
+4	чеччис	чеччыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Sg3
+5	да	да	CCONJ	CC	_	9	cc	_	_
+6	кокыс	кок	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	9	nsubj	_	GTtags=Sg,Nom,PxSg3
+7	на	на	ADV	Adv	AdvType=Tim	9	advmod:tmod	_	GTtags=Sem/Time
+8	из	изны	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	9	aux:neg	_	GTtags=Neg,Ind,Prt1,Sg3
+9	сидзоолы	сидзооны	VERB	V	Connegative=Yes	4	conj	_	GTtags=ConNeg|SpaceAfter=No
+10	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = 13756_2bz.030
+# text = А бӧрас бергеччис: а куим даддя локтэ.
+# text_en = And as he looked back: [he could see] three sledges approaching.
+1	А	а	CCONJ	CC	_	3	cc	_	_
+2	бӧрас	бӧр	NOUN	N	Relat|Case=Ill|Number=Sing|Person[psor]=3|So/CP|Number[psor]=Sing	3	obl:lmod	_	GTtags=Relat,Sg,Ill,PxSg3,So/CP
+3	бергедчис	бергӧдчыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Sg3|SpaceAfter=No
+4	:	:	PUNCT	PUNCT	_	8	punct	_	_
+5	а	а	CCONJ	CC	_	8	cc	_	_
+6	куим	куим	NUM	Num	Case=Nom|Number=Sing|NumType=Card	7	nummod	_	GTtags=Card,Sg,Nom
+7	даддя	дадь	NOUN	N	Number=Sing|Prp	8	xcomp	_	GTtags=Sg,Prp
+8	локтэ	локны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	conj	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
+9	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = 13756_2bz.031
+# text = Куим даддя локтэ.
+# text_en = Three sledges nearing.
+1	Куим	куим	NUM	Num	Case=Nom|Number=Sing|NumType=Card	2	nummod	_	GTtags=Card,Sg,Nom
+2	даддя	дадь	NOUN	N	Number=Sing|Prp	3	xcomp	_	GTtags=Sg,Prp
+3	локтэ	локны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
+4	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = 13756_2bz.042
+# text = Какен чеччаліс, куимнансэ ордедіс.
+# text_en = He leapt up flying and beat all three of them.
+1	Какен	как	NOUN	N	Case=Ins|Number=Sing	2	obl	_	GTtags=Err/Dial,Sg,Err/Dial,Ins
+2	чеччаліс	чеччавны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Sg3|SpaceAfter=No
+3	,	,	PUNCT	PUNCT	_	5	punct	_	_
+4	куимнансэ	куимнан	PRON	Pron	AssocColl|Clitic=So|Case=Nom|Number=Sing	5	obj	_	GTtags=AssocColl,Sg,Nom,Clt/сӧ,Err/Dial
+5	ордедіс	ордйӧдны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	GTtags=Err/Dial,Ind,Prt1,Sg3|SpaceAfter=No
+6	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = 13756_2bz.047+13756_2bz.048
+# text = Ӧтікес сетіс му бердас да нырсьыс и вомсьыс вир xывнитіс.
+# text_en = He knocked one down to the ground so that [the fellow] had blood gushing out of his nose and mouth.
+1	Ӧтікес	ӧти	NUM	Num	Case=Acc|Number=Sing|Number[psor]=Sing|NumType=Card|Person[psor]=1	2	obj	_	GTtags=Err/Dial,Card,Sg,Acc,PxSg1
+2	сетіс	сетны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Sg3
+3	му	му	NOUN	N	Case=Nom|Number=Sing	4	nmod	_	GTtags=Sg,Nom
+4	бердас	берд	NOUN	N	Relat|Case=Ill|Number=Sing|Person[psor]=3|So/CP|Number[psor]=Sing	2	obl:lmod	_	GTtags=Relat,Sg,Ill,PxSg3,So/CP
+5	да	да	CCONJ	CC	_	10	cc	_	_
+6	нырсьыс	ныр	NOUN	N	Case=Ela|Number=Sing|Person[psor]=3|So/CP|Number[psor]=Sing	10	obl:lmod	_	GTtags=Sg,Ela,PxSg3,So/CP
+7	и	и	CCONJ	CC	_	8	cc	_	_
+8	вомсьыс	вом	NOUN	N	Case=Ela|Number=Sing|Person[psor]=3|So/CP|Number[psor]=Sing	6	conj	_	GTtags=Sg,Ela,PxSg3,So/CP
+9	вир	вир	NOUN	N	Deg	10	obj	_	GTtags=Deg
+10	xывнитіс	xывнитны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	GTtags=Ind,Prt1,Sg3|SpaceAfter=No
+11	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = 13756_2bz.049
+# text = Мӧдэс сетіс да нырсьыс и вомсьыс вир xывнитіс.
+# text_en = Then he fixed the second who bled at the nose and mouth.
+1	Мӧдэс	мӧд	NUM	Num	Case=Acc|Number=Sing|Number[psor]=Sing|NumType=Ord|Person[psor]=1	2	obj	_	GTtags=Ord,Sg,Acc,PxSg1,Err/Dial
+2	сетіс	сетны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Sg3
+3	да	да	CCONJ	CC	_	8	cc	_	_
+4	нырсьыс	ныр	NOUN	N	Case=Ela|Number=Sing|Person[psor]=3|So/CP|Number[psor]=Sing	8	obl:lmod	_	GTtags=Sg,Ela,PxSg3,So/CP
+5	и	и	CCONJ	CC	_	6	cc	_	_
+6	вомсьыс	вом	NOUN	N	Case=Ela|Number=Sing|Person[psor]=3|So/CP|Number[psor]=Sing	4	conj	_	GTtags=Sg,Ela,PxSg3,So/CP
+7	вир	вир	NOUN	N	Deg	8	obj	_	GTtags=Deg
+8	xывнитіс	xывнитны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	GTtags=Ind,Prt1,Sg3|SpaceAfter=No
+9	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = 13756_2bz.049
+# text = Коймедсэ сетіс да бара же сідз.
+# text_en = He fixed the third one and it was the same again.
+1	Коймедсэ	коймӧд	ADJ	A	Case=Acc|Number=Sing|Number[psor]=Sing|NumType=Ord|Person[psor]=3	2	obj	_	GTtags=Err/Dial,Ord,Sg,Acc,PxSg3
+2	сетіс	сетны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Sg3
+3	да	да	CCONJ	CC	_	6	cc	_	_
+4	бара	бара	ADV	Adv	Parenthetic	6	advmod	_	GTtags=Parenthetic
+5	же	жӧ	PART	Pcle	_	6	advmod:eval	_	GTtags=Err/Dial
+6	сідз	сідзи	ADV	Adv	AdvType=Man	2	conj	_	GTtags=Manner|SpaceAfter=No
+7	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = 13756_2bz.051
+# text = Даддяяс тай дадюуныссэ тшапкисныс да бӧр ӧдде воедісныс: "медум" висьталэ "казьоолан корке!"
+# text_en = Then the sledge drivers grabbed their trace reindeer and headed back in a hurry: – You – he says – will be sorry for this some day!
+1	Даддяяс	даддя	ADJ	A	Case=Nom|Number=Plur	4	nsubj	_	GTtags=Pl,Nom
+2	тай	тай	ADV	Adv	_	4	advmod	_	_
+3	дадюуныссэ	дадюв	NOUN	N	Clitic=So|Case=Nom|_|Number=Sing|Number[psor]=Plur|Person[psor]=3	4	obl	_	GTtags=Sg,Err/Dial,Nom,PxPl3,Clt/сӧ,Err/Dial
+4	тшапкисныс	тшапкыны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	GTtags=Err/Dial,Ind,Prt1,Pl3
+5	да	да	CCONJ	CC	_	8	cc	_	_
+6	бӧр	бӧр	ADV	Adv	_	8	advmod:lmod	_	_
+7	ӧдде	ӧдйӧ	ADV	Adv	_	8	advmod:mmod	_	GTtags=Err/Dial
+8	воедісныс	войӧдны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past	4	conj	_	GTtags=Err/Dial,Ind,Prt1,Pl3|SpaceAfter=No
+9	:	:	PUNCT	PUNCT	_	15	punct	_	_
+10	"	_	PUNCT	PUNCT	_	15	punct	_	_
+11	медум	медым	SCONJ	CS	_	15	mark	_	GTtags=Err/Dial
+12	"	_	PUNCT	PUNCT	_	13	punct	_	_
+13	висьталэ	висьтавны	VERB	V	Tense=Pres|Mood=Ind|Number=Sing|Person=3	15	parataxis	_	GTtags=Ind,Prs,Err/Dial,Sg3
+14	"	_	PUNCT	PUNCT	_	13	punct	_	_
+15	казьоолан	казявлыны	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres	8	ccomp	_	GTtags=Ind,Prs,Sg2
+16	корке	коркӧ	ADV	Adv	AdvType=Tim|Definite=Ind|Derivation=Ko	15	advmod:tmod	_	GTtags=Indef,Sem/Time,Der/кӧ|SpaceAfter=No
+17	!	!	PUNCT	PUNCT	_	15	punct	_	_
+18	"	_	PUNCT	PUNCT	_	15	punct	_	_
+
+# sent_id = 13756_2bz.052
+# text = Даддяяс бӧр воедісныс.
+# text_en = Those in sledges faded away.
+1-2	Даддяяс	_	_	_	_	_	_	_	_
+1	Даддя	даддя	NOUN	N	Number=Sing|Prp	2	nmod:prp	_	GTtags=Sg,Prp
+2	яс	ыс	PRON	Pron	Case=Nom|Number=Plur	4	nsubj	_	GTtags=Pl,Nom
+3	бӧр	бӧр	ADV	Adv	_	4	advmod:lmod	_	_
+4	воедісныс	войӧдны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	GTtags=Err/Dial,Ind,Prt1,Pl3|SpaceAfter=No
+5	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = 13756_2bz.053+13756_2bz.054
+# text = Неуна муныштіс, дадьсэ тшапкис да воедіс, а ва-ош туй мунэма морелаздоре.
+# text_en = He went on for a while, took his sledge and drove off, and lo, there was a polar bear's track leading down the sea coast.
+1	Неуна	неуна	ADV	Adv	Case=Nom|Number=Sing	2	advmod	_	GTtags=Qnt,Sg,Nom
+2	муныштіс	муныштны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Sg3|SpaceAfter=No
+3	,	,	PUNCT	PUNCT	_	5	punct	_	_
+4	дадьсэ	дадь	NOUN	N	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	5	obj	_	GTtags=Sg,Acc,PxSg3,Err/Dial
+5	тшапкис	тшапкыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	GTtags=Ind,Prt1,Sg3
+6	да	да	CCONJ	CC	_	7	cc	_	_
+7	воедіс	войӧдны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	GTtags=Err/Dial,Ind,Prt1,Sg3|SpaceAfter=No
+8	,	,	PUNCT	PUNCT	_	14	punct	_	_
+9	а	а	CCONJ	CC	_	14	cc	_	_
+10-12	ва-ош	_	_	_	_	_	_	_	_
+10	ва	ва	NOUN	N	Case=Nom|Number=Sing	13	nmod	_	GTtags=Sg,Nom|SpaceAfter=No
+11	-	-	PUNCT	PUNCT	_	12	punct	_	SpaceAfter=No
+12	ош	ош	NOUN	N	Case=Nom|Number=Sing	10	conj	_	GTtags=Sg,Nom
+13	туй	туй	NOUN	N	Case=Nom|Number=Sing	14	nsubj	_	GTtags=Sg,Nom
+14	мунэма	мунны	VERB	V	Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	GTtags=Err/Dial,Ind,Prt2,Sg3
+15	морелаздоре	морелаздор	NOUN	N	Case=Ill|Number=Sing	14	obl:lmod	_	GTtags=Sg,Ill|SpaceAfter=No
+16	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = 13756_2bz.055+13756_2bz.056
+# text = Дадьсэ тай тшапкис да воедіс, воедіс да небыд юрси чойсэ и вӧжжиедыс упритіс: "Чое, нӧревитлы", висьталэ, "ва ош туй мунэма да ме ва ош туй бӧрсяньыс вӧтэдча".
+# text_en = He took his sledge and rode on and on, and then halted his sister Soft Hair with the reins: – Wait a minute, sister – he says – there's a track of a polar bear and I am going to pursue the polar bear.
+1	Дадьсэ	дадь	NOUN	N	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	obj	_	GTtags=Sg,Acc,PxSg3,Err/Dial
+2	тай	тай	ADV	Adv	_	3	advmod:eval	_	_
+3	тшапкис	тшапкыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Sg3
+4	да	да	CCONJ	CC	_	5	cc	_	_
+5	воедіс	войӧдны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	3	conj	_	GTtags=Err/Dial,Ind,Prt1,Sg3|SpaceAfter=No
+6	,	,	PUNCT	PUNCT	_	7	punct	_	_
+7	воедіс	войӧдны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	conj	_	GTtags=Err/Dial,Ind,Prt1,Sg3
+8	да	да	CCONJ	CC	_	14	cc	_	_
+9	небыд	небыд	ADJ	A	Case=Nom|Number=Sing	10	amod	_	GTtags=Sg,Nom
+10	юрси	юрси	NOUN	N	Case=Nom|Number=Sing	11	nmod	_	GTtags=Sg,Nom
+11	чойсэ	чой	NOUN	N	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	14	obj	_	GTtags=Sg,Acc,PxSg3,Err/Dial
+12	и	и	ADV	Adv	_	14	advmod	_	_
+13	вӧжжиедыс	вӧжжи	NOUN	N	Case=Prl|Number=Sing|Number[psor]=Sing|Person[psor]=3	14	obl	_	GTtags=Sg,Prl,PxSg3
+14	упритіс	упритны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	7	conj	_	GTtags=Ind,Prt1,Sg3|SpaceAfter=No
+15	:	:	PUNCT	PUNCT	_	17	punct	_	_
+16	"	_	PUNCT	PUNCT	_	17	punct	_	_
+17	Чое	чой	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	19	vocative	_	GTtags=Sg,Nom,PxSg1,Err/Dial|SpaceAfter=No
+18	,	,	PUNCT	PUNCT	_	17	punct	_	_
+19	нӧревитлы	нӧревитлыны	VERB	V	Mood=Imp|Number=Sing|Person=2	22	parataxis	_	GTtags=Imprt,Sg2
+20	"	_	PUNCT	PUNCT	_	22	punct	_	SpaceAfter=No
+21	,	,	PUNCT	PUNCT	_	22	punct	_	_
+22	висьталэ	висьтавны	VERB	V	Tense=Pres|Mood=Ind|Number=Sing|Person=3	14	parataxis	_	GTtags=Ind,Prs,Err/Dial,Sg3|SpaceAfter=No
+23	,	,	PUNCT	PUNCT	_	28	punct	_	_
+24	"	_	PUNCT	PUNCT	_	28	punct	_	_
+25	ва	ва	NOUN	N	_	26	compound	_	GTtags=Cmp
+26	ош	ош	NOUN	N	Case=Nom|Number=Sing	27	nmod	_	GTtags=Sg,Nom
+27	туй	туй	NOUN	N	Case=Nom|Number=Sing	28	nsubj	_	GTtags=Sg,Nom
+28	мунэма	мунны	VERB	V	Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past	22	parataxis	_	GTtags=Err/Dial,Ind,Prt2,Sg3
+29	да	да	CCONJ	CC	_	35	cc	_	_
+30	ме	ме	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	35	nsubj	_	GTtags=Pers,Sg1,Nom
+31	ва	ва	NOUN	N	Case=Nom|Number=Sing	32	compound	_	GTtags=Sg,Nom
+32	ош	ош	NOUN	N	Case=Nom|Number=Sing	33	nmod	_	GTtags=Sg,Nom
+33	туй	туй	NOUN	N	Case=Nom|Number=Sing	35	obl	_	GTtags=Sg,Nom
+34	бӧрсяньыс	бӧр	NOUN	N	Relat|Case=Egr|Number=Sing|Person[psor]=3|So/CP|Number[psor]=Sing	35	obl	_	GTtags=Relat,Sg,Egr,PxSg3,So/CP
+35	вӧтэдча	вӧтэдчыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	28	conj	_	GTtags=Ind,Prs,Sg1
+36	"	_	PUNCT	PUNCT	_	35	punct	_	SpaceAfter=No
+37	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = 13756_2bz.064
+# text = Ырген няртласэ чойыс разис, сетіс.
+# text_en = The sister fetched the copper lasso and handed it over.
+1	Ырген	Ырген	NOUN	N	Case=Nom|Number=Sing	2	nmod	_	GTtags=Prop,Sg,Nom
+2	няртласэ	няртала	NOUN	N	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	obj	_	GTtags=Sg,PxSg3,Acc
+3	чойыс	чой	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	nsubj	_	GTtags=Sg,Nom,PxSg3
+4	разис	разьны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Sg3|SpaceAfter=No
+5	,	,	PUNCT	PUNCT	_	6	punct	_	_
+6	сетіс	сетны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	4	conj	_	GTtags=Ind,Prt1,Sg3|SpaceAfter=No
+7	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = 13756_2bz.075+13756_2bz.076
+# text = Вӧжжи кузя ваяс дадьууяс чечченыс, няртла пасьта ваяс дадюуяс чечченыс, пыр мунэ.
+# text_en = The trace reindeer jump over the waters as long as reins, the trace reindeer jump over waters as wide as a lasso, it goes on.
+1	Вӧжжи	вӧжжи	NOUN	N	Case=Nom|Number=Sing	2	nmod	_	GTtags=Sg,Nom
+2	кузя	кузя	ADJ	A	_	3	amod	_	_
+3	ваяс	ва	NOUN	N	Case=Nom|Number=Plur	5	obj	_	GTtags=Pl,Nom
+4	дадюуяс	дадюв	NOUN	N	Case=Nom|Dial/л|Number=Plur	5	nsubj	_	GTtags=Err/Orth,Dial/л,Pl,Nom
+5	чечченыс	чеччыны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Err/Dial,Pl3,Err/Dial|SpaceAfter=No
+6	,	,	PUNCT	PUNCT	_	11	punct	_	_
+7	няртла	няртала	NOUN	N	Case=Nom|Number=Sing	8	nmod	_	GTtags=Sg,Nom
+8	пасьта	пасьта	ADJ	A	Case=Nom|Number=Sing	9	amod	_	GTtags=Sg,Nom
+9	ваяс	ва	NOUN	N	Case=Nom|Number=Plur	11	obj	_	GTtags=Pl,Nom
+10	дадюуяс	дадюв	NOUN	N	Case=Nom|Dial/л|Number=Plur	11	nsubj	_	GTtags=Err/Orth,Dial/л,Pl,Nom
+11	чечченыс	чеччыны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres	5	conj	_	GTtags=Ind,Prs,Err/Dial,Pl3,Err/Dial|SpaceAfter=No
+12	,	,	PUNCT	PUNCT	_	14	punct	_	_
+13	пыр	пыр	ADV	Adv	_	14	advmod	_	_
+14	мунэ	мунны	VERB	V	Tense=Pres|Mood=Ind|Number=Sing|Person=3	5	conj	_	GTtags=Ind,Prs,Err/Dial,Sg3|SpaceAfter=No
+15	.	.	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = 13756_2bz.075+13756_2bz.076
+# text = Вӧжжи кузя ваяс дадьууяс чечченыс, няртла пасьта ваяс дадюуяс чечченыс, пыр мунэ.
+# text_en = The trace reindeer jump over the waters as long as reins, the trace reindeer jump over waters as wide as a lasso, it goes on.
+1	Вӧжжи	вӧжжи	NOUN	N	Case=Nom|Number=Sing	2	nmod	_	GTtags=Sg,Nom
+2	кузя	кузя	ADJ	A	_	3	amod	_	_
+3	ваяс	ва	NOUN	N	Case=Nom|Number=Plur	5	obj	_	GTtags=Pl,Nom
+4	дадюуяс	дадюв	NOUN	N	Case=Nom|Dial/л|Number=Plur	5	nsubj	_	GTtags=Err/Orth,Dial/л,Pl,Nom
+5	чечченыс	чеччыны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Err/Dial,Pl3,Err/Dial|SpaceAfter=No
+6	,	,	PUNCT	PUNCT	_	11	punct	_	_
+7	няртла	няртала	NOUN	N	Case=Nom|Number=Sing	8	nmod	_	GTtags=Sg,Nom
+8	пасьта	пасьта	ADJ	A	Case=Nom|Number=Sing	9	amod	_	GTtags=Sg,Nom
+9	ваяс	ва	NOUN	N	Case=Nom|Number=Plur	11	obj	_	GTtags=Pl,Nom
+10	дадюуяс	дадюв	NOUN	N	Case=Nom|Dial/л|Number=Plur	11	nsubj	_	GTtags=Err/Orth,Dial/л,Pl,Nom
+11	чечченыс	чеччыны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres	5	conj	_	GTtags=Ind,Prs,Err/Dial,Pl3,Err/Dial|SpaceAfter=No
+12	,	,	PUNCT	PUNCT	_	14	punct	_	_
+13	пыр	пыр	ADV	Adv	_	14	advmod	_	_
+14	мунэ	мунны	VERB	V	Tense=Pres|Mood=Ind|Number=Sing|Person=3	5	conj	_	GTtags=Ind,Prs,Err/Dial,Sg3|SpaceAfter=No
+15	.	.	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = 13756_2bz.155
+# text = Шыдъяйлы оз кыскоо.
+# text_en = She wouldn't bring in soup meat.
+1	Шыдъяйлы	шыдъяй	NOUN	N	Case=Nom|Number=Sing	3	obl	_	GTtags=Sg,Nom
+2	оз	оз	AUX	Aux	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	3	aux:neg	_	GTtags=Neg,Ind,Prs,Sg3
+3	кыскоо	кыскавны	VERB	V	Connegative=Yes	0	root	_	GTtags=Err/Dial,ConNeg|SpaceAfter=No
+4	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = 13756_2bz.161
+# text = Сэсся кыскаліс, вердіс.
+# text_en = He picked it up and ate it up.
+1	Сэсся	сэсся	ADV	Adv	_	2	advcl	_	_
+2	кыскаліс	кыскавны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Sg3|SpaceAfter=No
+3	,	,	PUNCT	PUNCT	_	4	punct	_	_
+4	вердіс	вердны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	GTtags=Ind,Prt1,Sg3|SpaceAfter=No
+5	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = 13756_2bz.201
+# text = Сыа тай чеччис да сэчче и эштэдіс.
+# text_end = He then lept out and did away with him.
+1	Сыа	сійӧ	PRON	Pron	PronType=Dem	3	nsubj	_	GTtags=Err/Dial,Dem
+2	тай	тай	ADV	Adv	_	3	advmod	_	_
+3	чеччис	чеччыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Sg3
+4	да	да	CCONJ	CC	_	7	cc	_	_
+5	сэчче	сэтчӧ	ADV	Adv	Case=Ill	7	advmod	_	GTtags=Err/Dial,Ill
+6	и	и	ADV	Adv	_	7	advmod	_	_
+7	эштэдіс	эштӧдны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	3	conj	_	GTtags=Err/Dial,Ind,Prt1,Sg3|SpaceAfter=No
+8	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = 13756_2bz.233
+# text = Нёль кынь рожа видзысь вед пыр на лооя, ветлалэ!
+# text_en = The shepherd with the face of four polar foxes is still alive and has come!
+1	Нёль	нёль	NUM	Num	Case=Nom|Number=Sing|NumType=Card	3	nummod	_	GTtags=Card,Sg,Nom
+2	кынь	кынь	NOUN	N	Case=Nom|Number=Sing	3	nmod	_	GTtags=Sg,Nom
+3	рожа	рожа	NOUN	N	Case=Nom|Number=Sing	4	nmod	_	GTtags=Sg,Nom
+4	видзысь	видзысь	NOUN	N	Case=Nom|Number=Sing	8	nsubj	_	GTtags=Sg,Nom
+5	вед	вед	ADV	Adv	Parenthetic	8	advmod	_	GTtags=Parenthetic
+6	пыр	пыр	ADV	Adv	_	8	advmod	_	_
+7	на	на	ADV	Adv	_	8	advmod	_	_
+8	лооя	ловъя	NOUN	N	Case=Nom|Number=Sing	0	root	_	GTtags=Sg,Nom|SpaceAfter=No
+9	,	,	PUNCT	PUNCT	_	10	punct	_	_
+10	ветлалэ	ветлыны	VERB	V	Derivation=ал|Tense=Pres|Mood=Ind|Number=Sing|Person=3	8	conj	_	GTtags=Der/ал,Ind,Prs,Err/Dial,Sg3|SpaceAfter=No
+11	!	!	PUNCT	PUNCT	_	8	punct	_	_
+
+# sent_id = 13756_2bz.236
+# text = Меддзоля вокыдлэн, нёль кынь рожа видзысьлэн вед гӧлэсыс!
+# text_en = This is the voice of your youngest brother, the shepherd with the face of four polar foxes!
+1	Меддзоля	меддзоля	ADJ	A	Case=Nom|Number=Sing	2	amod	_	GTtags=Sg,Nom
+2	вокыдлэн	вок	NOUN	N	Case=Gen|Person[psor]=2|So/PC|Number=Sing|Number[psor]=Sing	9	nmod	_	GTtags=Sg,Err/Dial,Gen,PxSg2,So/PC|SpaceAfter=No
+3	,	,	PUNCT	PUNCT	_	7	punct	_	_
+4	нёль	нёль	NUM	Num	Case=Nom|Number=Sing|NumType=Card	6	nummod	_	GTtags=Card,Sg,Nom
+5	кынь	кынь	NOUN	N	Case=Nom|Number=Sing	6	nmod	_	GTtags=Sg,Nom
+6	рожа	рожа	NOUN	N	Case=Nom|Number=Sing	7	nmod	_	GTtags=Sg,Nom
+7	видзысьлэн	видзысь	NOUN	N	Case=Gen|Number=Sing	2	conj	_	GTtags=Sg,Err/Dial,Gen
+8	вед	вед	ADV	Adv	Parenthetic	9	advmod	_	GTtags=Parenthetic
+9	гӧлэсыс	гӧлӧс	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	0	root	_	GTtags=Sg,PxSg3,Nom|SpaceAfter=No
+10	!	!	PUNCT	PUNCT	_	9	punct	_	_
+
+# sent_id = 13756_2bz.245
+# text = Да кӧрныссэ бура сибедісныс да.
+# text_en = And they rounded up their reindeer herd, too.
+1	Да	да	CCONJ	CC	_	4	cc	_	_
+2	кӧрныссэ	кӧр	NOUN	N	Clitic=So|Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=3	4	obj	_	GTtags=Sg,Nom,PxPl3,Clt/сӧ,Err/Dial
+3	бура	бура	ADV	Adv	_	4	advcl	_	_
+4	сибедісныс	сибӧдны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Pl3
+5	да	да	PART	Pcle	_	4	advmod	_	SpaceAfter=No
+6	.	.	PUNCT	PUNCT	_	4	punct	_	_
