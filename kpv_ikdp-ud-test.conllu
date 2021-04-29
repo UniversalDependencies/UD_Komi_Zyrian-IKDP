@@ -2874,36 +2874,37 @@
 # sent_id = kpv_izva20150705-02-b.080+kpv_izva20150705-02-b.081+kpv_izva20150705-02-b.083+kpv_izva20150705-02-b.084+kpv_izva20150705-02-b.085+kpv_izva20150705-02-b.086
 # text = Велэдны кута университетын, велэдны куча коми-изьватаслысь, ненечьяс да саами войтырлысь правояссэ да, но, ммм, политическей ног вӧсни, но, наес велэдны.
 # comment = Check discourse and extras at mid-sentence
-1	Велэдны	велӧдны	VERB	V	VerbForm=Inf	_	_	_	GTtags=Err/Dial,Inf
+1	Велэдны	велӧдны	VERB	V	VerbForm=Inf	0	root	_	GTtags=Err/Dial,Inf
 2	кута	кутны	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	1	aux:inch	_	GTtags=Ind,Prs,Sg1
 3	университетын	университет	NOUN	N	Case=Ine|Number=Sing	1	obl:lmod	_	GTtags=Sg,Ine|SpaceAfter=No
 4	,	,	PUNCT	PUNCT	_	5	punct	_	_
 5	велэдны	велӧдны	VERB	V	VerbForm=Inf	1	conj	_	GTtags=Err/Dial,Inf
 6	куча	кутны	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	5	aux:inch	_	GTtags=Err/Dial,Ind,Prs,Sg1
-7-8	коми-изьватаслысь	_	_	_	_	_	_	_	_
-7	коми-	коми	NOUN	N	Case=Nom|Number=Sing	14	nmod	_	GTtags=Sg,Nom
-8	изьватаслысь	изьватас	NOUN	N	Case=Abl|Number=Sing	_	_	_	GTtags=Sg,Abl|SpaceAfter=No
-9	,	,	PUNCT	PUNCT	_	10	punct	_	_
-10	ненечьяс	ненеч	NOUN	N	Case=Nom|Number=Plur	7	conj	_	GTtags=Pl,Nom
-11	да	да	CCONJ	CC	_	13	cc	_	_
-12	саами	саами	NOUN	N	Case=Nom|Number=Sing	13	nmod	_	GTtags=Sg,Nom
-13	войтырлысь	войтыр	NOUN	N	Case=Abl|Number=Sing	7	conj	_	GTtags=Sg,Abl
-14	правояссэ	право	NOUN	N	Case=Acc|Number=Plur|Number[psor]=Sing|Person[psor]=3	5	obj	_	GTtags=Pl,Acc,PxSg3,Err/Dial
-15	да	да	ADV	Adv	Parenthetic	14	advmod	_	GTtags=Parenthetic|SpaceAfter=No
-16	,	,	PUNCT	PUNCT	_	17	punct	_	_
-17	но	но	CCONJ	CC	_	28	cc	_	SpaceAfter=No
-18	,	,	PUNCT	PUNCT	_	19	punct	_	_
-19	ммм	м-м	INTJ	Interj	_	28	discourse	_	GTtags=Err/Dial|SpaceAfter=No
-20	,	,	PUNCT	PUNCT	_	19	punct	_	_
-21	политическей	политическӧй	ADJ	A	Case=Nom|Number=Sing	22	amod	_	GTtags=Sg,Nom
-22	ног	ног	NOUN	N	Case=Nom|Number=Sing	23	nmod	_	GTtags=Sg,Nom
-23	вӧсни	вӧсни	ADJ	A	Case=Nom|Number=Sing	28	amod	_	GTtags=Sg,Nom|SpaceAfter=No
-24	,	,	PUNCT	PUNCT	_	25	punct	_	_
-25	но	но	CCONJ	CC	_	28	cc	_	SpaceAfter=No
-26	,	,	PUNCT	PUNCT	_	25	punct	_	_
-27	наес	сійӧ	PRON	Pron	Case=Acc|Number=Plur|Person=3|PronType=Prs	28	obj	_	GTtags=Pers,Pl3,Acc,Err/Dial
-28	велэдны	велӧдны	VERB	V	VerbForm=Inf	5	conj	_	GTtags=Err/Dial,Inf|SpaceAfter=No
-29	.	.	PUNCT	PUNCT	_	1	punct	_	_
+7-9	коми-изьватаслысь	_	_	_	_	_	_	_	_
+7	коми	коми	NOUN	N	Case=Nom|Number=Sing	9	compound	_	GTtags=Sg,Nom
+8	-	-	PUNCT	_	_	9	punct	_	_
+9	изьватаслысь	изьватас	NOUN	N	Case=Abl|Number=Sing	15	nmod	_	GTtags=Sg,Abl|SpaceAfter=No
+10	,	,	PUNCT	PUNCT	_	11	punct	_	_
+11	ненечьяс	ненеч	NOUN	N	Case=Nom|Number=Plur	9	conj	_	GTtags=Pl,Nom
+12	да	да	CCONJ	CC	_	14	cc	_	_
+13	саами	саами	NOUN	N	Case=Nom|Number=Sing	14	nmod	_	GTtags=Sg,Nom
+14	войтырлысь	войтыр	NOUN	N	Case=Abl|Number=Sing	9	conj	_	GTtags=Sg,Abl
+15	правояссэ	право	NOUN	N	Case=Acc|Number=Plur|Number[psor]=Sing|Person[psor]=3	5	obj	_	GTtags=Pl,Acc,PxSg3,Err/Dial
+16	да	да	ADV	Adv	Parenthetic	15	advmod	_	GTtags=Parenthetic|SpaceAfter=No
+17	,	,	PUNCT	PUNCT	_	18	punct	_	_
+18	но	но	CCONJ	CC	_	29	cc	_	SpaceAfter=No
+19	,	,	PUNCT	PUNCT	_	20	punct	_	_
+20	ммм	м-м	INTJ	Interj	_	29	discourse	_	GTtags=Err/Dial|SpaceAfter=No
+21	,	,	PUNCT	PUNCT	_	20	punct	_	_
+22	политическей	политическӧй	ADJ	A	Case=Nom|Number=Sing	23	amod	_	GTtags=Sg,Nom
+23	ног	ног	NOUN	N	Case=Nom|Number=Sing	24	nmod	_	GTtags=Sg,Nom
+24	вӧсни	вӧсни	ADJ	A	Case=Nom|Number=Sing	29	amod	_	GTtags=Sg,Nom|SpaceAfter=No
+25	,	,	PUNCT	PUNCT	_	26	punct	_	_
+26	но	но	CCONJ	CC	_	29	cc	_	SpaceAfter=No
+27	,	,	PUNCT	PUNCT	_	29	punct	_	_
+28	наес	сійӧ	PRON	Pron	Case=Acc|Number=Plur|Person=3|PronType=Prs	29	obj	_	GTtags=Pers,Pl3,Acc,Err/Dial
+29	велэдны	велӧдны	VERB	V	VerbForm=Inf	5	conj	_	GTtags=Err/Dial,Inf|SpaceAfter=No
+30	.	.	PUNCT	PUNCT	_	1	punct	_	_
 
 # sent_id = kpv_izva20150705-02-b.082
 # text = Университетын, да?
