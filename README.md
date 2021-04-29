@@ -8,7 +8,7 @@ The materials have been collected within the Iźva Komi Documentation Project, f
 
 The corpus contains portions of recordings made between 1959 and 2016. The parts that have been published earlier by Erik Vászolyi in the Specimina Sibirica series are reproduced here with written permission. One portion of the corpus comes from Syrjänische Texte Bd. III published by Finno-Ugrian Society, and originally processed
 
-The IKDP corpus uses the treebank as one of its annotation schemes. During the summer of 2019, the entire audio-visual language documentation corpus will be transferred from TLA into a new repository in the [Language Bank of Finland](https://www.kielipankki.fi/language-bank/). In this process, the actual linking of the treebank to the multimedia files will be revisited and clear conventions for doing this will be developed and documented. This work will be completed by release 2.5.
+The IKDP corpus uses the treebank as one of its annotation schemes. During the summer of 2019, the entire audio-visual language documentation corpus will be transferred from TLA into a new repository in the [Language Bank of Finland](https://www.kielipankki.fi/language-bank/). In this process, the actual linking of the treebank to the multimedia files will be revisited and clear conventions for doing this will be developed and documented. 
 
 # Acknowledgments
 
@@ -26,8 +26,20 @@ If you use this treebank in your work, please cite:
 
 - Uotila, T.E., Kokkonen, Paula (Ed.) 1989: *Syrjänische Texte. Bd III. Komi-Syrjänisch: Luza-Letka-, Ober-Sysola-, Mittel-Sysola-, Prisyktyvkar-, Unter-Vychegda- und Udora-Dialekte.* Suomalais-Ugrilaisen Seuran Toimituksia — Mémoires de la Société Finno-Ougrienne 202. [Download PDF.](https://www.sgr.fi/sust/st/st3.pdf)
 
+Recording of Eric Vászolyi that has been used in this treebank has been described in article:
+
+- Blokland, Rogier; Partanen, Niko; Rießler, Michael 2021: This is thy brother’s voice – Documentary and metadocumentary linguistic work with a folklore recording from the Nenets-Komi contact area. In: Hämäläinen, Mika; Partanen, Niko & Alnajjar, Khalid (Eds.): Multilingual Facilitation. RootRoo Ltd. [Download PDF.](https://helda.helsinki.fi/bitstream/handle/10138/327798/20_Blokland_Multilingual_Facilitation.pdf?sequence=2&isAllowed=y)
+
+The transcription is also published in Zenodo:
+
+- Rogier Blokland, Niko Partanen, & Michael Rießler. (2021, March 10). langdoc/spoken-komi-corpus-vaszolyi: Spoken Komi Corpus: Erik Vászolyi (Version v0.2). Zenodo. http://doi.org/10.5281/zenodo.4593789
+
 # Changelog
 
+- 2021-04-29
+  - New sentences added from Erik Vászolyi's recordings
+  - New sentences included from IKDP corpus.
+  - Language tags systematized.
 - 2020-11-06
   - Annotations of the auxiliaries were improved
 - 2020-05-15
