@@ -2815,7 +2815,7 @@
 35	кӧсъя	кӧсйыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	30	parataxis	_	GTtags=Ind,Prs,Sg1
 36	Корея	Корея	NOUN	N	Case=Nom|Number=Sing	37	obl:lmod	_	GTtags=Prop,Sem/Plc,Sg,Nom
 37	ветлыны	ветлыны	VERB	V	VerbForm=Inf	35	xcomp	_	GTtags=Inf
-38	эське	эськӧ	AUX	Adv	_	35	aux:cnd	_	GTtags=Err/Orth
+38	эське	эськӧ	ADV	Adv	_	35	advmod:eval	_	GTtags=Err/Orth
 39	корке	коркӧ	ADV	Adv	AdvType=Tim|Definite=Ind|Derivation=Ko	37	advmod:tmod	_	GTtags=Indef,Sem/Time,Der/кӧ|SpaceAfter=No
 40	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
