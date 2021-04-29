@@ -2177,25 +2177,6 @@
 14	мунэ	мунны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	conj	_	GTtags=Ind,Prs,Err/Dial,Sg3|SpaceAfter=No
 15	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
-# sent_id = 13756_2bz.075+13756_2bz.076
-# text = Вӧжжи кузя ваяс дадьууяс чечченыс, няртла пасьта ваяс дадюуяс чечченыс, пыр мунэ.
-# text_en = The trace reindeer jump over the waters as long as reins, the trace reindeer jump over waters as wide as a lasso, it goes on.
-1	Вӧжжи	вӧжжи	NOUN	N	Case=Nom|Number=Sing	2	nmod	_	GTtags=Sg,Nom
-2	кузя	кузя	ADJ	A	_	3	amod	_	_
-3	ваяс	ва	NOUN	N	Case=Nom|Number=Plur	5	obj	_	GTtags=Pl,Nom
-4	дадюуяс	дадюв	NOUN	N	Case=Nom|Number=Plur	5	nsubj	_	GTtags=Err/Orth,Dial/л,Pl,Nom
-5	чечченыс	чеччыны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Err/Dial,Pl3,Err/Dial|SpaceAfter=No
-6	,	,	PUNCT	PUNCT	_	11	punct	_	_
-7	няртла	няртала	NOUN	N	Case=Nom|Number=Sing	8	nmod	_	GTtags=Sg,Nom
-8	пасьта	пасьта	ADJ	A	Case=Nom|Number=Sing	9	amod	_	GTtags=Sg,Nom
-9	ваяс	ва	NOUN	N	Case=Nom|Number=Plur	11	obj	_	GTtags=Pl,Nom
-10	дадюуяс	дадюв	NOUN	N	Case=Nom|Number=Plur	11	nsubj	_	GTtags=Err/Orth,Dial/л,Pl,Nom
-11	чечченыс	чеччыны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres	5	conj	_	GTtags=Ind,Prs,Err/Dial,Pl3,Err/Dial|SpaceAfter=No
-12	,	,	PUNCT	PUNCT	_	14	punct	_	_
-13	пыр	пыр	ADV	Adv	_	14	advmod	_	_
-14	мунэ	мунны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	conj	_	GTtags=Ind,Prs,Err/Dial,Sg3|SpaceAfter=No
-15	.	.	PUNCT	PUNCT	_	5	punct	_	_
-
 # sent_id = 13756_2bz.155
 # text = Шыдъяйлы оз кыскоо.
 # text_en = She wouldn't bring in soup meat.
