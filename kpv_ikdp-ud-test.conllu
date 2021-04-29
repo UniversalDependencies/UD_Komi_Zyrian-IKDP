@@ -2972,11 +2972,11 @@
 13	кӧсъям	кӧсйыны	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres	6	dislocated	_	GTtags=Ind,Prs,Pl1
 14	босьны	босьтны	VERB	V	VerbForm=Inf	13	xcomp	_	GTtags=Inf
 15	статус	статус	NOUN	N	Case=Nom|Number=Sing	14	obj	_	GTtags=Sg,Nom
-16	"	_	PUNCT	PUNCT	_	17	punct	_	_
+16	"	_	PUNCT	PUNCT	_	17	punct	_	SpaceAfter=No
 17	коренного	коренного	ADJ	A	F	15	appos	_	GTtags=F
 18	малочисленного	малочисленного	ADJ	A	F	17	flat:foreign	_	GTtags=F
 19	народа	народ	NOUN	N	Sg|Case=Nom|Derivation=ProprietiveMod|Number=Sing	17	flat:foreign	_	GTtags=Sg,Der,Der/ProprietiveMod,A,Sg,Nom
-20	Севера	Север	NOUN	N	Case=Nom|Derivation=ProprietiveMod|Number=Sing|Sg	17	flat:foreign	_	GTtags=Prop,Sg,Der,Der/ProprietiveMod,A,Sg,Nom
+20	Севера	Север	NOUN	N	Case=Nom|Derivation=ProprietiveMod|Number=Sing|Sg	17	flat:foreign	_	GTtags=Prop,Sg,Der,Der/ProprietiveMod,A,Sg,Nom|SpaceAfter=No
 21	"	_	PUNCT	PUNCT	_	17	punct	_	SpaceAfter=No
 22	.	.	PUNCT	PUNCT	_	6	punct	_	_
 
@@ -3053,10 +3053,10 @@
 # sent_id = kpv_izva20150705-02-b.106+kpv_izva20150705-02-b.108+kpv_izva20150705-02-b.110+kpv_izva20150705-02-b.111+kpv_izva20150705-02-b.117b
 # text = И заводиті сіес, вошйи, мыля ачум коми-изьватас и менэ сыа интересуйтэ.
 1	И	и	CCONJ	CC	_	2	cc	_	_
-2	заводиті	заводитны	VERB	V	Tense=Past|Mood=Ind|Number=Sing|Person=3	0	root	_	GTtags=Ind,Prt1,Err/Dial,Sg3
+2	заводиті	заводитны	VERB	V	Number=Sing|Mood=Ind|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Err/Dial,Sg3
 3	сіес	сійӧ	PRON	Pron	Case=Acc|Number=Sing|Person=3|PronType=Prs	2	obj	_	GTtags=Pers,Sg3,Acc,Err/Dial|SpaceAfter=No
 4	,	,	PUNCT	PUNCT	_	5	punct	_	_
-5	вошйи	вошйыны	VERB	V	Tense=Past|Mood=Ind|Number=Sing|Person=3	2	conj	_	GTtags=Ind,Prt1,Err/Dial,Sg3|SpaceAfter=No
+5	вошйи	вошйыны	VERB	V	Number=Sing|Mood=Ind|Person=3|Tense=Past	2	conj	_	GTtags=Ind,Prt1,Err/Dial,Sg3|SpaceAfter=No
 6	,	,	PUNCT	PUNCT	_	9	punct	_	_
 7	мыля	мыйла	SCONJ	CS	CS	9	mark	_	GTtags=CS
 8	ачум	ас	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	9	nsubj:cop	_	GTtags=Refl,Sg1,Err/Dial,Nom
@@ -3064,7 +3064,7 @@
 10	и	и	CCONJ	CC	_	13	cc	_	_
 11	менэ	ме	PRON	Pron	Case=Acc|Number=Sing|Person=1|PronType=Prs	13	obj	_	GTtags=Pers,Sg1,Err/Dial,Acc
 12	сыа	сійӧ	PRON	Pron	PronType=Dem	13	nsubj	_	GTtags=Err/Dial,Dem
-13	интересуйтэ	интересуйтны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	conj	_	GTtags=Ind,Prs,Err/Dial,Sg3|SpaceAfter=No
+13	интересуйтэ	интересуйтны	VERB	V	Number=Sing|Person=3|Tense=Pres|Mood=Ind	2	conj	_	GTtags=Ind,Prs,Err/Dial,Sg3|SpaceAfter=No
 14	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
 # sent_id = kpv_izva20150705-02-b.106+kpv_izva20150705-02-b.108+kpv_izva20150705-02-b.110+kpv_izva20150705-02-b.111+kpv_izva20150705-02-b.117c
