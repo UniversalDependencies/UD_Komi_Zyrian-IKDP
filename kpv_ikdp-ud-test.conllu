@@ -2058,21 +2058,21 @@
 # text_en = Then the sledge drivers grabbed their trace reindeer and headed back in a hurry: – You – he says – will be sorry for this some day!
 1	Даддяяс	даддя	ADJ	A	Case=Nom|Number=Plur	4	nsubj	_	GTtags=Pl,Nom
 2	тай	тай	ADV	Adv	_	4	advmod	_	_
-3	дадюуныссэ	дадюв	NOUN	N	Clitic=So|Case=Nom|_|Number=Sing|Number[psor]=Plur|Person[psor]=3	4	obl	_	GTtags=Sg,Err/Dial,Nom,PxPl3,Clt/сӧ,Err/Dial
+3	дадюуныссэ	дадюв	NOUN	N	Clitic=So|Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=3	4	obl	_	GTtags=Sg,Err/Dial,Nom,PxPl3,Clt/сӧ,Err/Dial
 4	тшапкисныс	тшапкыны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	GTtags=Err/Dial,Ind,Prt1,Pl3
 5	да	да	CCONJ	CC	_	8	cc	_	_
 6	бӧр	бӧр	ADV	Adv	_	8	advmod:lmod	_	_
 7	ӧдде	ӧдйӧ	ADV	Adv	_	8	advmod:mmod	_	GTtags=Err/Dial
 8	воедісныс	войӧдны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past	4	conj	_	GTtags=Err/Dial,Ind,Prt1,Pl3|SpaceAfter=No
 9	:	:	PUNCT	PUNCT	_	15	punct	_	_
-10	"	_	PUNCT	PUNCT	_	15	punct	_	_
-11	медум	медым	SCONJ	CS	_	15	mark	_	GTtags=Err/Dial
+10	"	_	PUNCT	PUNCT	_	15	punct	_	SpaceAfter=No
+11	медум	медым	SCONJ	CS	_	15	mark	_	GTtags=Err/Dial|SpaceAfter=No
 12	"	_	PUNCT	PUNCT	_	13	punct	_	_
 13	висьталэ	висьтавны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	15	parataxis	_	GTtags=Ind,Prs,Err/Dial,Sg3
-14	"	_	PUNCT	PUNCT	_	13	punct	_	_
+14	"	_	PUNCT	PUNCT	_	13	punct	_	SpaceAfter=No
 15	казьоолан	казявлыны	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres	8	ccomp	_	GTtags=Ind,Prs,Sg2
 16	корке	коркӧ	ADV	Adv	AdvType=Tim|Definite=Ind|Derivation=Ko	15	advmod:tmod	_	GTtags=Indef,Sem/Time,Der/кӧ|SpaceAfter=No
-17	!	!	PUNCT	PUNCT	_	15	punct	_	_
+17	!	!	PUNCT	PUNCT	_	15	punct	_	SpaceAfter=No
 18	"	_	PUNCT	PUNCT	_	15	punct	_	_
 
 # sent_id = 13756_2bz.052
@@ -2098,8 +2098,8 @@
 8	,	,	PUNCT	PUNCT	_	14	punct	_	_
 9	а	а	CCONJ	CC	_	14	cc	_	_
 10-12	ва-ош	_	_	_	_	_	_	_	_
-10	ва	ва	NOUN	N	Case=Nom|Number=Sing	13	nmod	_	GTtags=Sg,Nom|SpaceAfter=No
-11	-	-	PUNCT	PUNCT	_	12	punct	_	SpaceAfter=No
+10	ва	ва	NOUN	N	Case=Nom|Number=Sing	13	nmod	_	GTtags=Sg,Nom
+11	-	-	PUNCT	PUNCT	_	12	punct	_	_
 12	ош	ош	NOUN	N	Case=Nom|Number=Sing	10	conj	_	GTtags=Sg,Nom
 13	туй	туй	NOUN	N	Case=Nom|Number=Sing	14	nsubj	_	GTtags=Sg,Nom
 14	мунэма	мунны	VERB	V	Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	GTtags=Err/Dial,Ind,Prt2,Sg3
@@ -2124,15 +2124,15 @@
 13	вӧжжиедыс	вӧжжи	NOUN	N	Case=Prl|Number=Sing|Number[psor]=Sing|Person[psor]=3	14	obl	_	GTtags=Sg,Prl,PxSg3
 14	упритіс	упритны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	7	conj	_	GTtags=Ind,Prt1,Sg3|SpaceAfter=No
 15	:	:	PUNCT	PUNCT	_	17	punct	_	_
-16	"	_	PUNCT	PUNCT	_	17	punct	_	_
+16	"	_	PUNCT	PUNCT	_	17	punct	_	SpaceAfter=No
 17	Чое	чой	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	19	vocative	_	GTtags=Sg,Nom,PxSg1,Err/Dial|SpaceAfter=No
 18	,	,	PUNCT	PUNCT	_	17	punct	_	_
-19	нӧревитлы	нӧревитлыны	VERB	V	Mood=Imp|Number=Sing|Person=2	22	parataxis	_	GTtags=Imprt,Sg2
+19	нӧревитлы	нӧревитлыны	VERB	V	Mood=Imp|Number=Sing|Person=2	22	parataxis	_	GTtags=Imprt,Sg2|SpaceAfter=No
 20	"	_	PUNCT	PUNCT	_	22	punct	_	SpaceAfter=No
 21	,	,	PUNCT	PUNCT	_	22	punct	_	_
 22	висьталэ	висьтавны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	14	parataxis	_	GTtags=Ind,Prs,Err/Dial,Sg3|SpaceAfter=No
 23	,	,	PUNCT	PUNCT	_	28	punct	_	_
-24	"	_	PUNCT	PUNCT	_	28	punct	_	_
+24	"	_	PUNCT	PUNCT	_	28	punct	_	SpaceAfter=No
 25	ва	ва	NOUN	N	_	26	compound	_	GTtags=Cmp
 26	ош	ош	NOUN	N	Case=Nom|Number=Sing	27	nmod	_	GTtags=Sg,Nom
 27	туй	туй	NOUN	N	Case=Nom|Number=Sing	28	nsubj	_	GTtags=Sg,Nom
@@ -2143,7 +2143,7 @@
 32	ош	ош	NOUN	N	Case=Nom|Number=Sing	33	nmod	_	GTtags=Sg,Nom
 33	туй	туй	NOUN	N	Case=Nom|Number=Sing	35	obl	_	GTtags=Sg,Nom
 34	бӧрсяньыс	бӧр	NOUN	N	Case=Egr|NounType=Relat|Number=Sing|Number[psor]=Sing|Person[psor]=3	35	obl	_	GTtags=Relat,Sg,Egr,PxSg3,So/CP
-35	вӧтэдча	вӧтэдчыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	28	conj	_	GTtags=Ind,Prs,Sg1
+35	вӧтэдча	вӧтэдчыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	28	conj	_	GTtags=Ind,Prs,Sg1|SpaceAfter=No
 36	"	_	PUNCT	PUNCT	_	35	punct	_	SpaceAfter=No
 37	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
