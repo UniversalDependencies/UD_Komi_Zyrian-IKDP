@@ -2856,11 +2856,11 @@
 # text = Велэдны кута университетын, велэдны куча коми-изьватаслысь, ненечьяс да саами войтырлысь правояссэ да, но, ммм, политическей ног вӧсни, но, наес велэдны.
 # comment = Check discourse and extras at mid-sentence
 1	Велэдны	велӧдны	VERB	V	VerbForm=Inf	0	root	_	GTtags=Err/Dial,Inf
-2	кута	кутны	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	1	aux:inch	_	GTtags=Ind,Prs,Sg1
+2	кута	кутны	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	1	aux:aspect	_	GTtags=Ind,Prs,Sg1
 3	университетын	университет	NOUN	N	Case=Ine|Number=Sing	1	obl:lmod	_	GTtags=Sg,Ine|SpaceAfter=No
 4	,	,	PUNCT	PUNCT	_	5	punct	_	_
 5	велэдны	велӧдны	VERB	V	VerbForm=Inf	1	conj	_	GTtags=Err/Dial,Inf
-6	куча	кутны	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	5	aux:inch	_	GTtags=Err/Dial,Ind,Prs,Sg1
+6	куча	кутны	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	5	aux:aspect	_	GTtags=Err/Dial,Ind,Prs,Sg1
 7-9	коми-изьватаслысь	_	_	_	_	_	_	_	SpaceAfter=No
 7	коми	коми	NOUN	N	Case=Nom|Number=Sing	9	compound	_	GTtags=Sg,Nom
 8	-	-	PUNCT	_	_	9	punct	_	_
