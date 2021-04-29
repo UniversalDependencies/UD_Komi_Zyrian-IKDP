@@ -2208,7 +2208,7 @@
 
 # sent_id = 13756_2bz.233
 # text = Нёль кынь рожа видзысь вед пыр на лооя, ветлалэ!
-# text_en = The shepherd with the face of four polar foxes is still alive and has come!
+# text_en = The reindeer herder with the face of four polar foxes is still alive and he comes around!
 1	Нёль	нёль	NUM	Num	Case=Nom|Number=Sing|NumType=Card	3	nummod	_	GTtags=Card,Sg,Nom
 2	кынь	кынь	NOUN	N	Case=Nom|Number=Sing	3	nmod	_	GTtags=Sg,Nom
 3	рожа	рожа	NOUN	N	Case=Nom|Number=Sing	4	nmod	_	GTtags=Sg,Nom
@@ -2218,7 +2218,7 @@
 7	на	на	ADV	Adv	_	8	advmod	_	_
 8	лооя	ловъя	NOUN	N	Case=Nom|Number=Sing	0	root	_	GTtags=Sg,Nom|SpaceAfter=No
 9	,	,	PUNCT	PUNCT	_	10	punct	_	_
-10	ветлалэ	ветлыны	VERB	V	Derivation=ал|Mood=Ind|Number=Sing|Person=3|Tense=Pres	8	conj	_	GTtags=Der/ал,Ind,Prs,Err/Dial,Sg3|SpaceAfter=No
+10	ветлалэ	ветлыны	VERB	V	Derivation=Al|Mood=Ind|Number=Sing|Person=3|Tense=Pres	8	conj	_	GTtags=Der/ал,Ind,Prs,Err/Dial,Sg3|SpaceAfter=No
 11	!	!	PUNCT	PUNCT	_	8	punct	_	_
 
 # sent_id = 13756_2bz.236
@@ -2239,7 +2239,7 @@
 # text = Да кӧрныссэ бура сибедісныс да.
 # text_en = And they rounded up their reindeer herd, too.
 1	Да	да	CCONJ	CC	_	4	cc	_	_
-2	кӧрныссэ	кӧр	NOUN	N	Clitic=So|Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=3	4	obj	_	GTtags=Sg,Nom,PxPl3,Clt/сӧ,Err/Dial
+2	кӧрныссэ	кӧр	NOUN	N	Case=Nom|Clitic=So|Number=Sing|Number[psor]=Plur|Person[psor]=3	4	obj	_	GTtags=Sg,Nom,PxPl3,Clt/сӧ,Err/Dial
 3	бура	бура	ADV	Adv	_	4	advcl	_	_
 4	сибедісныс	сибӧдны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Pl3
 5	да	да	PART	Pcle	_	4	advmod	_	SpaceAfter=No
@@ -2363,7 +2363,7 @@
 6	,	,	PUNCT	PUNCT	_	5	punct	_	_
 7	вот	вот	ADV	Adv	_	3	discourse	_	GTtags=Parenthetic|SpaceAfter=No
 8	,	,	PUNCT	PUNCT	_	7	punct	_	_
-9	аслад	ас	PRON	Pron	Number=Sing|Person=2|Poss	3	conj	_	GTtags=Poss,Sg2|SpaceAfter=No
+9	аслад	ас	PRON	Pron	Number=Sing|Person=2|PronType=Prs|Reflex=Yes	3	conj	_	GTtags=Poss,Sg2|SpaceAfter=No
 10	,	,	PUNCT	PUNCT	_	11	punct	_	_
 11	но	но	CCONJ	CC	_	9	discourse	_	SpaceAfter=No
 12	,	,	PUNCT	PUNCT	_	11	punct	_	_
@@ -2455,7 +2455,7 @@
 # sent_id = kpv_izva20150705-02-b.034
 # text = А мыля именнэ сэтшем специальносьтсэ кӧсйин босьны?
 1	А	а	CCONJ	CC	_	6	cc	_	_
-2	мыля	мыйла	ADV	Adv	Cau	6	advmod	_	GTtags=Err/Dial,Cau
+2	мыля	мыйла	ADV	Adv	_	6	advmod	_	GTtags=Err/Dial,Cau
 3	именнэ	именнэ	ADV	Adv	_	6	advmod	_	GTtags=Err/Dial
 4	сэтшем	сэтшӧм	ADJ	A	Case=Nom|Number=Sing|PronType=Dem	5	amod	_	GTtags=Err/Dial,Det,Dem,Sg,Nom
 5	специальносьтсэ	специальносьт	NOUN	N	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	7	obj	_	GTtags=Sg,Acc,PxSg3,Err/Dial
@@ -2505,7 +2505,7 @@
 2	уна	уна	DET	Det	Case=Nom|Number=Sing	3	dep	_	GTtags=Sg,Nom
 3	кыыяс	кыв	NOUN	N	Case=Nom|Number=Plur	6	reparandum	_	GTtags=Err/Dial,Pl,Err/Dial,Nom|SpaceAfter=No
 4	,	,	PUNCT	PUNCT	_	3	punct	_	_
-5	кымын	кымын	DET	Det	PronType=Rel	6	det	_	GTtags=Rel
+5	кымын	кымын	DET	Det	PronType=Int	6	det	_	GTtags=Rel
 6	кыы	кыв	NOUN	N	Case=Nom|Number=Sing	7	obj	_	GTtags=Err/Dial,Sg,Nom
 7	тӧдан	тӧдны	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg2|SpaceAfter=No
 8	?	?	PUNCT	PUNCT	_	7	punct	_	_
@@ -3045,7 +3045,7 @@
 6	ӧткойдэсь	ӧткодь	ADJ	A	Number[subj]=Plur	1	advcl	_	GTtags=Cop,Pl,Err/Dial|SpaceAfter=No
 7	,	,	PUNCT	PUNCT	_	11	punct	_	_
 8	но	но	CCONJ	CC	_	11	cc	_	_
-9	абу	абу	AUX	Pcle	Polarity=Neg|VerbType=Aux	11	aux:neg	_	GTtags=Aux,Neg
+9	абу	абу	AUX	Pcle	Polarity=Neg	11	aux:neg	_	GTtags=Aux,Neg
 10	правоясас	право	NOUN	N	Case=Ine|Number=Plur|Number[psor]=Sing|Person[psor]=3	11	obl:lmod	_	GTtags=Pl,Ine,PxSg3,So/CP
 11	равнэйэсь	равнэй	ADJ	A	Number[subj]=Plur	6	conj	_	GTtags=Cop,Pl|SpaceAfter=No
 12	.	.	PUNCT	PUNCT	_	1	punct	_	_
