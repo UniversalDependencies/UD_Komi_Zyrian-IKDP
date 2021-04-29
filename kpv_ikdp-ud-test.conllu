@@ -1988,7 +1988,7 @@
 # text_en = And as he looked back: [he could see] three sledges approaching.
 1	А	а	CCONJ	CC	_	3	cc	_	_
 2	бӧрас	бӧр	NOUN	N	Case=Ill|NounType=Relat|Number=Sing|Person[psor]=3|So/CP|Number[psor]=Sing	3	obl:lmod	_	GTtags=Relat,Sg,Ill,PxSg3,So/CP
-3	бергедчис	бергӧдчыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Sg3|SpaceAfter=No
+3	бергеччис	бергӧдчыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Sg3|SpaceAfter=No
 4	:	:	PUNCT	PUNCT	_	8	punct	_	_
 5	а	а	CCONJ	CC	_	8	cc	_	_
 6	куим	куим	NUM	Num	Case=Nom|Number=Sing|NumType=Card	7	nummod	_	GTtags=Card,Sg,Nom
@@ -2825,7 +2825,7 @@
 26	,	,	PUNCT	PUNCT	_	30	punct	_	_
 27	сыа	сійӧ	PRON	Pron	PronType=Dem	28	det	_	GTtags=Err/Dial,Dem
 28	местаясас	места	NOUN	N	Case=Ill|Number=Plur|Person[psor]=3|So/CP|Number[psor]=Sing	30	obl:lmod	_	GTtags=Pl,Ill,PxSg3,So/CP
-29	бы	бы	AUX	_	_	30	aux:cnj	_	_
+29	бы	бы	AUX	_	_	30	aux:cnd	_	_
 30	ветлыны	ветлыны	VERB	V	VerbForm=Inf	23	conj	_	GTtags=Inf|SpaceAfter=No
 31	,	,	PUNCT	PUNCT	_	32	punct	_	_
 32	вот	вот	ADV	Adv	Parenthetic	35	discourse	_	GTtags=Parenthetic|SpaceAfter=No
@@ -2834,7 +2834,7 @@
 35	кӧсъя	кӧсйыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	30	_	_	GTtags=Ind,Prs,Sg1
 36	Корея	Корея	NOUN	N	Case=Nom|Number=Sing	37	obl:lmod	_	GTtags=Prop,Sem/Plc,Sg,Nom
 37	ветлыны	ветлыны	VERB	V	VerbForm=Inf	_	_	_	GTtags=Inf
-38	эське	эськӧ	ADV	Adv	_	35	aux:cnj	_	GTtags=Err/Orth
+38	эське	эськӧ	ADV	Adv	_	35	aux:cnd	_	GTtags=Err/Orth
 39	корке	коркӧ	ADV	Adv	AdvType=Tim|Definite=Ind|Derivation=Ko	37	advmod:tmod	_	GTtags=Indef,Sem/Time,Der/кӧ|SpaceAfter=No
 40	.	.	PUNCT	PUNCT	_	_	_	_	_
 
