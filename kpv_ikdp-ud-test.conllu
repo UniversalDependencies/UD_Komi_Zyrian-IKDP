@@ -2593,7 +2593,7 @@
 12	,	,	PUNCT	PUNCT	_	11	punct	_	_
 13	сыа	сійӧ	PRON	Pron	PronType=Dem	16	reparandum	_	GTtags=Err/Dial,Dem
 14	менэ	ме	PRON	Pron	Case=Acc|Number=Sing|Person=1|PronType=Prs	13	orphan	_	GTtags=Pers,Sg1,Err/Dial,Acc|SpaceAfter=No
-15	...	...	PUNCT	PUNCT	_	13	punct	_	SpaceAfter=No
+15	...	...	PUNCT	PUNCT	_	13	punct	_	_
 16	сетіс	сетны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	conj	_	GTtags=Ind,Prt1,Sg3
 17	вынсэ	вын	NOUN	N	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	16	obj	_	GTtags=Sg,Acc,PxSg3,Err/Dial|SpaceAfter=No
 18	,	,	PUNCT	PUNCT	_	19	punct	_	_
