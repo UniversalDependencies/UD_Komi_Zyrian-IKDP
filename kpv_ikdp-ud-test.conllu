@@ -2293,10 +2293,10 @@
 # sent_id = kpv_izva20150705-02-b.006
 # text = Рӧдитчи Пустыня грездын, Краснобор сикт.
 1	Рӧдитчи	рӧдитчыны	VERB	V	Tense=Past|Person=3|PronType=Ref|Mood=Ind|Number=Sing	0	root	_	GTtags=Refl,Ind,Prt1,Err/Dial,Sg3
-2	Пустыня	Пустыня	NOUN	N	Case=Nom|Number=Sing	3	compound:nn	_	GTtags=Prop,Sem/Plc,Sem/Plc,Sg,Nom
+2	Пустыня	Пустыня	NOUN	N	Case=Nom|Number=Sing	3	nmod:appos	_	GTtags=Prop,Sem/Plc,Sem/Plc,Sg,Nom
 3	грездын	грезд	NOUN	N	Case=Ine|Number=Sing	1	obl:lmod	_	GTtags=Sg,Ine|SpaceAfter=No
 4	,	,	PUNCT	PUNCT	_	6	punct	_	_
-5	Краснобор	Краснобор	NOUN	N	Case=Nom|Number=Sing	6	compound:nn	_	GTtags=Prop,Sem/Plc,Sem/Plc,Sg,Nom
+5	Краснобор	Краснобор	NOUN	N	Case=Nom|Number=Sing	6	nmod:appos	_	GTtags=Prop,Sem/Plc,Sem/Plc,Sg,Nom
 6	сикт	сикт	NOUN	N	Case=Nom|Number=Sing	3	appos	_	GTtags=Sg,Nom|SpaceAfter=No
 7	.	.	PUNCT	PUNCT	_	1	punct	_	_
 
@@ -2305,7 +2305,7 @@
 1	А	а	INTJ	Interj	_	_	_	_	SpaceAfter=No
 2	,	,	PUNCT	PUNCT	_	_	_	_	_
 3	шестого	шестого	ADJ	A	_	_	_	_	_
-4	сентября	сентябрь	NOUN	N	Src/F|Sg|Case=Nom|Derivation=ProprietiveMod|Number=Sing	_	_	_	GTtags=Src/F,Sg,Der,Der/ProprietiveMod,A,Sg,Nom|SpaceAfter=No
+4	сентября	сентябрь	NOUN	N	Case=Nom|Number=Sing	_	_	_	GTtags=Src/F,Sg,Der,Der/ProprietiveMod,A,Sg,Nom|SpaceAfter=No
 5	,	,	PUNCT	PUNCT	_	_	x	_	_
 6	девяносто	девяносто	NUM	Num	_	8	amod	_	_
 7	второй	второй	ADJ	A	_	6	fixed	_	_
@@ -2655,7 +2655,7 @@
 1	А	а	CCONJ	CC	_	8	cc	_	_
 2	корейскей	корейскӧй	ADJ	A	Case=Nom|Number=Sing	5	reparandum	_	GTtags=Sg,Nom|SpaceAfter=No
 3	,	,	PUNCT	PUNCT	_	2	punct	_	_
-4	корея	корея	NOUN	N	Case=Nom|Number=Sing	5	compound:nn	_	GTtags=Sg,Nom
+4	корея	корея	NOUN	N	Case=Nom|Number=Sing	5	nmod:appos	_	GTtags=Sg,Nom
 5	кывсэ	кыв	NOUN	N	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	8	obj	_	GTtags=Err/Dial,Sg,Acc,PxSg3,Err/Dial
 6	ме	ме	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	GTtags=Pers,Sg1,Nom
 7	куті	кутны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	GTtags=Ind,Prt,Sg1
