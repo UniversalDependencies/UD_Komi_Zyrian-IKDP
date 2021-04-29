@@ -2266,9 +2266,9 @@
 2	,	,	PUNCT	PUNCT	_	1	punct	_	_
 3	менэ	ме	PRON	Pron	Case=Acc|Number=Sing|Person=1|PronType=Prs	4	obj	_	GTtags=Pers,Sg1,Err/Dial,Acc
 4	шуэны	шуны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Err/Dial,Pl3
-5	Терентьев	Терентьев	NOUN	N	Case=Nom|Number=Sing|Sem/Sur-Mal	4	xcomp	_	GTtags=Prop,Sem/Sur-Mal,Sg,Nom
+5	Терентьев	Терентьев	NOUN	N	Case=Nom|Number=Sing	4	xcomp	_	GTtags=Prop,Sem/Sur-Mal,Sg,Nom
 6	Александр	Александр	NOUN	N	Case=Nom|Number=Sing	5	flat:name	_	GTtags=Prop,Sg,Nom
-7	Юрьевич	Юрьевич	NOUN	N	Case=Nom|Number=Sing|Sem/Patr-Mal	5	flat:name	_	GTtags=Prop,Sem/Patr-Mal,Sg,Nom|SpaceAfter=No
+7	Юрьевич	Юрьевич	NOUN	N	Case=Nom|Number=Sing	5	flat:name	_	GTtags=Prop,Sem/Patr-Mal,Sg,Nom|SpaceAfter=No
 8	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
 # sent_id = kpv_izva20150705-02-b.006
@@ -2357,7 +2357,7 @@
 # text = Саша, расскажит, пӧжалуста, вот, аслад, но, тэн кызь куим ар, да?
 1	Саша	Саша	NOUN	N	Case=Nom|Number=Sing	3	vocative	_	GTtags=Prop,Sg,Nom|SpaceAfter=No
 2	,	,	PUNCT	PUNCT	_	1	punct	_	_
-3	расскажит	расскажитны	VERB	V	Mood=Imp|Number=Sing|Person=2	_	_	_	GTtags=Imprt,Sg2|SpaceAfter=No
+3	расскажит	расскажитны	VERB	V	Mood=Imp|Number=Sing|Person=2	0	root	_	GTtags=Imprt,Sg2|SpaceAfter=No
 4	,	,	PUNCT	PUNCT	_	5	punct	_	_
 5	пӧжалуста	пӧжалуста	INTJ	Interj	_	3	discourse	_	SpaceAfter=No
 6	,	,	PUNCT	PUNCT	_	5	punct	_	_
@@ -2445,9 +2445,9 @@
 15	канму	канму	NOUN	N	Case=Nom|Number=Sing	16	compound	_	GTtags=Sg,Nom
 16	университет	университет	NOUN	N	Case=Nom|Number=Sing	13	obj	_	GTtags=Sg,Nom|SpaceAfter=No
 17	,	,	PUNCT	PUNCT	_	19	punct	_	_
-18	"	_	PUNCT	PUNCT	_	19	punct	_	_
+18	"	_	PUNCT	PUNCT	_	19	punct	_	|SpaceAfter=No
 19	международные	международные	X	_	_	22	nmod:appos	_	_
-20	отношения	отношения	X	_	_	19	flat:foreign	_	_
+20	отношения	отношения	X	_	_	19	flat:foreign	_	SpaceAfter=No
 21	"	_	PUNCT	PUNCT	_	19	punct	_	_
 22	специальность	специальность	NOUN	N	Case=Nom|Number=Sing	16	appos	_	GTtags=Sg,Nom|SpaceAfter=No
 23	.	.	PUNCT	PUNCT	_	1	punct	_	_
@@ -2777,7 +2777,7 @@
 4	.	.	PUNCT	PUNCT	_	1	punct	_	_
 
 # sent_id = kpv_izva20150705-02-b.074+kpv_izva20150705-02-b.075+kpv_izva20150705-02-b.076+kpv_izva20150705-02-b.079a
-# text = Ассюм кыы тӧдэмъяссэ вылэджык кыпедны, медум унджык кыы тӧдны, ныес бурджыка велэдны и бурджыка сёрнитны, и кутшем кыыяс ме велэда и тӧда, сыа местаясас бы ветлыны, вот, ӧні кӧсъя Корея ветлыны эське корке. Оо, эні ме кӧсъя мунны аспирантураа велэдчыны.
+# text = Ассюм кыы тӧдэмъяссэ вылэджык кыпедны, медум унджык кыы тӧдны, ныес бурджыка велэдны и бурджыка сёрнитны, и кутшем кыыяс ме велэда и тӧда, сыа местаясас бы ветлыны, вот, ӧні кӧсъя Корея ветлыны эське корке.
 1	Ассюм	Ассюм	PRON	Pron	Case=Ela|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	3	nmod:poss	_	GTtags=Refl,Sg1,Ela
 2	кыы	кыв	NOUN	N	Case=Nom|Number=Sing	3	obj	_	GTtags=Err/Dial,Sg,Err/Dial,Nom
 3	тӧдэмъяссэ	тӧдны	VERB	V	Case=Acc|Derivation=Vnoun|Number=Plur|Number[psor]=Sing|Person[psor]=3	5	obj	_	GTtags=Err/Dial,Der,Der/ӧм,Der/NomAct,N,Pl,Acc|PxSg3|Err/Dial
@@ -2814,7 +2814,7 @@
 34	ӧні	ӧні	ADV	Adv	_	35	obl:tmod	_	_
 35	кӧсъя	кӧсйыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	30	parataxis	_	GTtags=Ind,Prs,Sg1
 36	Корея	Корея	NOUN	N	Case=Nom|Number=Sing	37	obl:lmod	_	GTtags=Prop,Sem/Plc,Sg,Nom
-37	ветлыны	ветлыны	VERB	V	VerbForm=Inf	_	_	_	GTtags=Inf
+37	ветлыны	ветлыны	VERB	V	VerbForm=Inf	35	xcomp	_	GTtags=Inf
 38	эське	эськӧ	ADV	Adv	_	35	aux:cnd	_	GTtags=Err/Orth
 39	корке	коркӧ	ADV	Adv	AdvType=Tim|Definite=Ind|Derivation=Ko	37	advmod:tmod	_	GTtags=Indef,Sem/Time,Der/кӧ|SpaceAfter=No
 40	.	.	PUNCT	PUNCT	_	5	punct	_	_
