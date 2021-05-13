@@ -1,0 +1,361 @@
+# sent_id = 13756_2bz.002
+# text = Оліс-выліс нёль вок.
+# text_en = Once upon a time, there lived four brothers.
+1	Оліс-выліс	овны-вывны	V	_	Ind|Prt1|Sg3	0	root	_	_
+2	нёль	нёль	Num	_	Card|Sg|Nom	3	nummod	_	_
+3	вок	вок	N	_	Sg|Nom	1	nsubj	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 13756_2bz.003
+# text = Нёль вок, нёль вок мунэныс, вӧрзеныс.
+# text_en = Four brothers wandered and migrated.
+1	Нёль	нёль	Num	_	Card|Sg|Nom	2	nummod	_	_
+2	вок	вок	N	_	Sg|Nom	6	nsubj	_	_
+3	,	,	PUNCT	_	_	5	punct	_	_
+4	нёль	нёль	Num	_	Card|Sg|Nom	5	nummod	_	_
+5	вок	вок	N	_	Sg|Nom	2	conj	_	_
+6	мунэныс	мунны	V	_	Ind|Prs|Err/Dial|Pl3|Err/Dial	0	root	_	_
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	вӧрзеныс	вӧрзьыны	V	_	Ind|Prs|Err/Dial|Pl3|Err/Dial	6	conj	_	_
+9	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 13756_2bz.004+13756_2bz.005
+# text = А нылэн вӧлі, нёль воклэн ӧтік небыд юрси чой, небыд юрси чойныс.
+# text_en = And they had, the four brothers, a sister, Soft Hair, their sister was Soft Hair.
+1	А	а	CC	_	_	2	cc	_	_
+2	нылэн	сійӧ	Pron	_	Pers|Pl3|Gen|Err/Dial	6	reparandum	_	_
+3	вӧлі	вӧвны	AUX	_	Ind|Prt1|Sg3	2	cop	_	_
+4	,	,	PUNCT	_	_	6	punct	_	_
+5	нёль	нёль	Num	_	Card|Sg|Nom	6	nummod	_	_
+6	воклэн	вок	N	_	Sg|Err/Dial|Gen	0	root	_	_
+7	ӧтік	ӧти	Num	_	Err/Dial|Card|Sg|Nom	10	nummod	_	_
+8	небыд	небыд	A	_	Sg|Nom	9	amod	_	_
+9	юрси	юрси	N	_	Sg|Nom	10	nmod	_	_
+10	чой	чой	N	_	Sg|Nom	6	nsubj:cop	_	_
+11	,	,	PUNCT	_	_	14	punct	_	_
+12	небыд	небыд	A	_	Sg|Nom	13	amod	_	_
+13	юрси	юрси	N	_	Sg|Nom	14	nmod	_	_
+14	чойныс	чой	N	_	Sg|Nom|PxPl3	10	conj	_	_
+15	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 13756_2bz.006+13756_2bz.007
+# text = А меддёля вокныс сыа кӧр вӧтлэ, а вокъясыс, видед, водьын мунэныс аргышен.
+# text_en = The youngest brother was driving the herd and the [other three] brothers, you see, led the sledge train ahead.
+1	А	а	CC	_	_	6	cc	_	_
+2	меддёля	дзоля	A	_	Superl|Err/Dial|Sg|Nom	3	amod	_	_
+3	вокныс	вок	N	_	Sg|Nom|PxPl3	4	nmod	_	_
+4	сыа	сійӧ	Pron	_	Err/Dial|Dem	6	nsubj	_	_
+5	кӧр	кӧр	N	_	Sg|Nom	6	obj	_	_
+6	вӧтлэ	вӧтлыны	V	_	Ind|Prs|Err/Dial|Sg3	0	root	_	_
+7	,	,	PUNCT	_	_	14	punct	_	_
+8	а	а	CC	_	_	14	cc	_	_
+9	вокъясыс	вок	N	_	Pl|Nom|PxSg3	14	nsubj	_	_
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	видед	видзӧдны	V	_	Err/Dial|Imprt|Sg2	14	advcl:eval	_	_
+12	,	,	PUNCT	_	_	11	punct	_	_
+13	водьын	водь	N	_	Sg|Ine	14	obl:tmod	_	_
+14	мунэныс	мунны	V	_	Ind|Prs|Err/Dial|Pl3|Err/Dial	6	conj	_	_
+15	аргышен	аргыш	N	_	Sg|Err/Dial|Ins	14	obl	_	_
+16	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 13756_2bz.008
+# text = Кӧр вӧтлэ.
+# text_en = He [the youngest one] drove the reindeer herd.
+1	Кӧр	кӧр	N	_	Sg|Nom	2	obj	_	_
+2	вӧтлэ	вӧтлыны	V	_	Ind|Prs|Err/Dial|Sg3	0	root	_	_
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 13756_2bz.020
+# text = Харей юр выытіыс чеччис да кокыс на из сидзоолы.
+# text_en = He jumped over the tip of the goad and his feet didn't touch it.
+1	Харей	харей	N	_	Sg|Nom	4	nsubj	_	_
+2	юр	юр	N	_	Sg|Nom	3	nmod	_	_
+3	выытіыс	выв	N	_	Relat|Sg|Err/Dial|Tra|PxSg3|So/CP	4	obl:lmod	_	_
+4	чеччис	чеччыны	V	_	Ind|Prt1|Sg3	0	root	_	_
+5	да	да	CC	_	_	9	cc	_	_
+6	кокыс	кок	N	_	Sg|Nom|PxSg3	9	nsubj	_	_
+7	на	на	Adv	_	Sem/Time	9	advmod:tmod	_	_
+8	из	изны	V	_	Neg|Ind|Prt1|Sg3	9	aux:neg	_	_
+9	сидзоолы	сидзооны	V	_	ConNeg	4	conj	_	_
+10	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 13756_2bz.030
+# text = А бӧрас бергеччис: а куим даддя локтэ.
+# text_en = And as he looked back: [he could see] three sledges approaching.
+1	А	а	CC	_	_	3	cc	_	_
+2	бӧрас	бӧр	N	_	Relat|Sg|Ill|PxSg3|So/CP	3	obl:lmod	_	_
+3	бергедчис	бергӧдчыны	V	_	Ind|Prt1|Sg3	0	root	_	_
+4	:	:	PUNCT	_	_	8	punct	_	_
+5	а	а	CC	_	_	8	cc	_	_
+6	куим	куим	Num	_	Card|Sg|Nom	7	nummod	_	_
+7	даддя	дадь	N	_	Sg|Prp	8	xcomp	_	_
+8	локтэ	локны	V	_	Ind|Prs|Sg3	3	conj	_	_
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 13756_2bz.031
+# text = Куим даддя локтэ.
+# text_en = Three sledges nearing.
+1	Куим	куим	Num	_	Card|Sg|Nom	2	nummod	_	_
+2	даддя	дадь	NOUN	_	Sg|Prp	3	xcomp	_	_
+3	локтэ	локны	V	_	Ind|Prs|Sg3	0	root	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 13756_2bz.042
+# text = Какен чеччаліс, куимнансэ ордедіс.
+# text_en = He leapt up flying and beat all three of them.
+1	Какен	как	N	_	Err/Dial|Sg|Err/Dial|Ins	2	obl	_	_
+2	чеччаліс	чеччавны	V	_	Ind|Prt1|Sg3	0	root	_	_
+3	,	,	PUNCT	_	_	5	punct	_	_
+4	куимнансэ	куимнан	Pron	_	AssocColl|Sg|Nom|Clt/сӧ|Err/Dial	5	obj	_	_
+5	ордедіс	ордйӧдны	VERB	_	Err/Dial|Ind|Prt1|Sg3	2	conj	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 13756_2bz.047+13756_2bz.048
+# text = Ӧтікес сетіс му бердас да нырсьыс и вомсьыс вир xывнитіс.
+# text_en = He knocked one down to the ground so that [the fellow] had blood gushing out of his nose and mouth.
+1	Ӧтікес	ӧти	Num	_	Err/Dial|Card|Sg|Acc|PxSg1	2	obj	_	_
+2	сетіс	сетны	V	_	Ind|Prt1|Sg3	0	root	_	_
+3	му	му	N	_	Sg|Nom	4	nmod	_	_
+4	бердас	берд	N	_	Relat|Sg|Ill|PxSg3|So/CP	2	obl:lmod	_	_
+5	да	да	CC	_	_	10	cc	_	_
+6	нырсьыс	ныр	N	_	Sg|Ela|PxSg3|So/CP	10	obl:lmod	_	_
+7	и	и	CC	_	_	8	cc	_	_
+8	вомсьыс	вом	N	_	Sg|Ela|PxSg3|So/CP	6	conj	_	_
+9	вир	вир	NOUN	_	Deg	10	obj	_	_
+10	xывнитіс	xывнитны	V	_	Ind|Prt1|Sg3	2	conj	_	_
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 13756_2bz.049
+# text = Мӧдэс сетіс да нырсьыс и вомсьыс вир xывнитіс.
+# text_en = Then he fixed the second who bled at the nose and mouth.
+1	Мӧдэс	мӧд	Num	_	Ord|Sg|Acc|PxSg1|Err/Dial	2	obj	_	_
+2	сетіс	сетны	V	_	Ind|Prt1|Sg3	0	root	_	_
+3	да	да	CC	_	_	8	cc	_	_
+4	нырсьыс	ныр	N	_	Sg|Ela|PxSg3|So/CP	8	obl:lmod	_	_
+5	и	и	CC	_	_	6	cc	_	_
+6	вомсьыс	вом	N	_	Sg|Ela|PxSg3|So/CP	4	conj	_	_
+7	вир	вир	NOUN	_	Deg	8	obj	_	_
+8	xывнитіс	xывнитны	V	_	Ind|Prt1|Sg3	2	conj	_	_
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 13756_2bz.049
+# text = Коймедсэ сетіс да бара же сідз.
+# text_en = He fixed the third one and it was the same again.
+1	Коймедсэ	коймӧд	ADJ	_	Err/Dial|Ord|Sg|Acc|PxSg3	2	obj	_	_
+2	сетіс	сетны	V	_	Ind|Prt1|Sg3	0	root	_	_
+3	да	да	CCONJ	_	_	6	cc	_	_
+4	бара	бара	Adv	_	Parenthetic	6	advmod	_	_
+5	же	жӧ	Pcle	_	Err/Dial	6	advmod:eval	_	_
+6	сідз	сідзи	Adv	_	Manner	2	conj	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 13756_2bz.051
+# text = Даддяяс тай дадюуныссэ тшапкисныс да бӧр ӧдде воедісныс: "медум" висьталэ "казьоолан корке!"
+# text_en = Then the sledge drivers grabbed their trace reindeer and headed back in a hurry: – You – he says – will be sorry for this some day!
+1	Даддяяс	даддя	A	_	Pl|Nom	4	nsubj	_	_
+2	тай	тай	Adv	_	_	4	advmod	_	_
+3	дадюуныссэ	дадюв	N	_	Sg|Err/Dial|Nom|PxPl3|Clt/сӧ|Err/Dial	4	obl	_	_
+4	тшапкисныс	тшапкыны	V	_	Err/Dial|Ind|Prt1|Pl3	0	root	_	_
+5	да	да	CCONJ	_	_	8	cc	_	_
+6	бӧр	бӧр	Adv	_	_	8	advmod:lmod	_	_
+7	ӧдде	ӧдйӧ	Adv	_	Err/Dial	8	advmod:mmod	_	_
+8	воедісныс	войӧдны	V	_	Err/Dial|Ind|Prt1|Pl3	4	conj	_	_
+9	:	:	PUNCT	_	_	15	punct	_	_
+10	"	_	PUNCT	_	_	15	punct	_	_
+11	медум	медым	SCONJ	_	Err/Dial	15	mark	_	_
+12	"	_	PUNCT	_	_	13	punct	_	_
+13	висьталэ	висьтавны	V	_	Ind|Prs|Err/Dial|Sg3	15	parataxis	_	_
+14	"	_	PUNCT	_	_	13	punct	_	_
+15	казьоолан	казявлыны	V	_	Ind|Prs|Sg2	8	ccomp	_	_
+16	корке	коркӧ	Adv	_	Indef|Sem/Time|Der/кӧ	15	advmod:tmod	_	_
+17	!	!	PUNCT	_	_	15	punct	_	_
+18	"	_	PUNCT	_	_	15	punct	_	_
+
+# sent_id = 13756_2bz.052
+# text = Даддяяс бӧр воедісныс.
+# text_en = Those in sledges faded away.
+1-2	Даддяяс	_	_	_	_	_	_	_	_
+1	Даддя	даддя	N	_	Sg|Prp	2	nmod:prp	_	_
+2	яс	ыс	PRON	_	Pl|Nom	4	nsubj	_	_
+3	бӧр	бӧр	Adv	_	_	4	advmod:lmod	_	_
+4	воедісныс	войӧдны	V	_	Err/Dial|Ind|Prt1|Pl3	0	root	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 13756_2bz.053+13756_2bz.054
+# text = Неуна муныштіс, дадьсэ тшапкис да воедіс, а ва-ош туй мунэма морелаздоре.
+# text_en = He went on for a while, took his sledge and drove off, and lo, there was a polar bear's track leading down the sea coast.
+1	Неуна	неуна	Adv	_	Qnt|Sg|Nom	2	advmod	_	_
+2	муныштіс	муныштны	V	_	Ind|Prt1|Sg3	0	root	_	_
+3	,	,	PUNCT	_	_	5	punct	_	_
+4	дадьсэ	дадь	N	_	Sg|Acc|PxSg3|Err/Dial	5	obj	_	_
+5	тшапкис	тшапкыны	V	_	Ind|Prt1|Sg3	2	conj	_	_
+6	да	да	CCONJ	_	_	7	cc	_	_
+7	воедіс	войӧдны	V	_	Err/Dial|Ind|Prt1|Sg3	2	conj	_	_
+8	,	,	PUNCT	_	_	14	punct	_	_
+9	а	а	CCONJ	_	_	14	cc	_	_
+10-12	ва-ош	_	_	_	_	_	_	_	_
+10	ва	ва	N	_	Sg|Nom	13	nmod	_	_
+11	-	-	PUNCT	_	_	12	punct	_	_
+12	ош	ош	N	_	Sg|Nom	10	conj	_	_
+13	туй	туй	N	_	Sg|Nom	14	nsubj	_	_
+14	мунэма	мунны	V	_	Err/Dial|Ind|Prt2|Sg3	2	conj	_	_
+15	морелаздоре	морелаздор	N	_	Sg|Ill	14	obl:lmod	_	_
+16	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 13756_2bz.055+13756_2bz.056
+# text = Дадьсэ тай тшапкис да воедіс, воедіс да небыд юрси чойсэ и вӧжжиедыс упритіс: "Чое, нӧревитлы", висьталэ, "ва ош туй мунэма да ме ва ош туй бӧрсяньыс вӧтэдча".
+# text_en = He took his sledge and rode on and on, and then halted his sister Soft Hair with the reins: – Wait a minute, sister – he says – there's a track of a polar bear and I am going to pursue the polar bear.
+1	Дадьсэ	дадь	N	_	Sg|Acc|PxSg3|Err/Dial	3	obj	_	_
+2	тай	тай	Adv	_	_	3	advmod:eval	_	_
+3	тшапкис	тшапкыны	V	_	Ind|Prt1|Sg3	0	root	_	_
+4	да	да	CCONJ	_	_	5	cc	_	_
+5	воедіс	войӧдны	V	_	Err/Dial|Ind|Prt1|Sg3	3	conj	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	воедіс	войӧдны	V	_	Err/Dial|Ind|Prt1|Sg3	5	conj	_	_
+8	да	да	CCONJ	_	_	14	cc	_	_
+9	небыд	небыд	A	_	Sg|Nom	10	amod	_	_
+10	юрси	юрси	N	_	Sg|Nom	11	nmod	_	_
+11	чойсэ	чой	N	_	Sg|Acc|PxSg3|Err/Dial	14	obj	_	_
+12	и	и	Adv	_	_	14	advmod	_	_
+13	вӧжжиедыс	вӧжжи	N	_	Sg|Prl|PxSg3	14	obl	_	_
+14	упритіс	упритны	V	_	Ind|Prt1|Sg3	7	conj	_	_
+15	:	:	PUNCT	_	_	17	punct	_	_
+16	"	_	PUNCT	_	_	17	punct	_	_
+17	Чое	чой	N	_	Sg|Nom|PxSg1|Err/Dial	19	vocative	_	_
+18	,	,	PUNCT	_	_	17	punct	_	_
+19	нӧревитлы	нӧревитлыны	V	_	Imprt|Sg2	22	parataxis	_	_
+20	"	_	PUNCT	_	_	22	punct	_	_
+21	,	,	PUNCT	_	_	22	punct	_	_
+22	висьталэ	висьтавны	V	_	Ind|Prs|Err/Dial|Sg3	14	parataxis	_	_
+23	,	,	PUNCT	_	_	28	punct	_	_
+24	"	_	PUNCT	_	_	28	punct	_	_
+25	ва	ва	N	_	Cmp	26	compound	_	_
+26	ош	ош	N	_	Sg|Nom	27	nmod	_	_
+27	туй	туй	N	_	Sg|Nom	28	nsubj	_	_
+28	мунэма	мунны	V	_	Err/Dial|Ind|Prt2|Sg3	22	parataxis	_	_
+29	да	да	CCONJ	_	_	35	cc	_	_
+30	ме	ме	Pron	_	Pers|Sg1|Nom	35	nsubj	_	_
+31	ва	ва	N	_	Sg|Nom	32	compound	_	_
+32	ош	ош	N	_	Sg|Nom	33	nmod	_	_
+33	туй	туй	N	_	Sg|Nom	35	obl	_	_
+34	бӧрсяньыс	бӧр	N	_	Relat|Sg|Egr|PxSg3|So/CP	35	obl	_	_
+35	вӧтэдча	вӧтэдчыны	V	_	Ind|Prs|Sg1	28	conj	_	_
+36	"	_	PUNCT	_	_	35	punct	_	_
+37	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 13756_2bz.064
+# text = Ырген няртласэ чойыс разис, сетіс.
+# text_en = The sister fetched the copper lasso and handed it over.
+1	Ырген	Ырген	N	_	Prop|Sg|Nom	2	nmod	_	_
+2	няртласэ	няртала	N	_	Sg|PxSg3|Acc	4	obj	_	_
+3	чойыс	чой	N	_	Sg|Nom|PxSg3	4	nsubj	_	_
+4	разис	разьны	V	_	Ind|Prt1|Sg3	0	root	_	_
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	сетіс	сетны	V	_	Ind|Prt1|Sg3	4	conj	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 13756_2bz.075+13756_2bz.076
+# text = Вӧжжи кузя ваяс дадьууяс чечченыс, няртла пасьта ваяс дадюуяс чечченыс, пыр мунэ.
+# text_en = The trace reindeer jump over the waters as long as reins, the trace reindeer jump over waters as wide as a lasso, it goes on.
+1	Вӧжжи	вӧжжи	N	_	Sg|Nom	2	nmod	_	_
+2	кузя	кузя	A	_	_	3	amod	_	_
+3	ваяс	ва	N	_	Pl|Nom	5	obj	_	_
+4	дадюуяс	дадюв	N	_	Err/Orth|Dial/л|Pl|Nom	5	nsubj	_	_
+5	чечченыс	чеччыны	V	_	Ind|Prs|Err/Dial|Pl3|Err/Dial	0	root	_	_
+6	,	,	PUNCT	_	_	11	punct	_	_
+7	няртла	няртала	N	_	Sg|Nom	8	nmod	_	_
+8	пасьта	пасьта	A	_	Sg|Nom	9	amod	_	_
+9	ваяс	ва	N	_	Pl|Nom	11	obj	_	_
+10	дадюуяс	дадюв	N	_	Err/Orth|Dial/л|Pl|Nom	11	nsubj	_	_
+11	чечченыс	чеччыны	V	_	Ind|Prs|Err/Dial|Pl3|Err/Dial	5	conj	_	_
+12	,	,	PUNCT	_	_	14	punct	_	_
+13	пыр	пыр	Adv	_	_	14	advmod	_	_
+14	мунэ	мунны	V	_	Ind|Prs|Err/Dial|Sg3	5	conj	_	_
+15	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 13756_2bz.075+13756_2bz.076
+# text = Вӧжжи кузя ваяс дадьууяс чечченыс, няртла пасьта ваяс дадюуяс чечченыс, пыр мунэ.
+# text_en = The trace reindeer jump over the waters as long as reins, the trace reindeer jump over waters as wide as a lasso, it goes on.
+1	Вӧжжи	вӧжжи	N	_	Sg|Nom	2	nmod	_	_
+2	кузя	кузя	A	_	_	3	amod	_	_
+3	ваяс	ва	N	_	Pl|Nom	5	obj	_	_
+4	дадюуяс	дадюв	N	_	Err/Orth|Dial/л|Pl|Nom	5	nsubj	_	_
+5	чечченыс	чеччыны	V	_	Ind|Prs|Err/Dial|Pl3|Err/Dial	0	root	_	_
+6	,	,	PUNCT	_	_	11	punct	_	_
+7	няртла	няртала	N	_	Sg|Nom	8	nmod	_	_
+8	пасьта	пасьта	A	_	Sg|Nom	9	amod	_	_
+9	ваяс	ва	N	_	Pl|Nom	11	obj	_	_
+10	дадюуяс	дадюв	N	_	Err/Orth|Dial/л|Pl|Nom	11	nsubj	_	_
+11	чечченыс	чеччыны	V	_	Ind|Prs|Err/Dial|Pl3|Err/Dial	5	conj	_	_
+12	,	,	PUNCT	_	_	14	punct	_	_
+13	пыр	пыр	Adv	_	_	14	advmod	_	_
+14	мунэ	мунны	V	_	Ind|Prs|Err/Dial|Sg3	5	conj	_	_
+15	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 13756_2bz.155
+# text = Шыдъяйлы оз кыскоо.
+# text_en = She wouldn't bring in soup meat.
+1	Шыдъяйлы	шыдъяй	N	_	Sg|Nom	3	obl	_	_
+2	оз	оз	Aux	_	Neg|Ind|Prs|Sg3	3	aux:neg	_	_
+3	кыскоо	кыскавны	V	_	Err/Dial|ConNeg	0	root	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 13756_2bz.161
+# text = Сэсся кыскаліс, вердіс.
+# text_en = He picked it up and ate it up.
+1	Сэсся	сэсся	Adv	_	_	2	advcl	_	_
+2	кыскаліс	кыскавны	V	_	Ind|Prt1|Sg3	0	root	_	_
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	вердіс	вердны	V	_	Ind|Prt1|Sg3	2	conj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 13756_2bz.201
+# text = Сыа тай чеччис да сэчче и эштэдіс.
+# text_end = He then lept out and did away with him.
+1	Сыа	сійӧ	Pron	_	Err/Dial|Dem	3	nsubj	_	_
+2	тай	тай	Adv	_	_	3	advmod	_	_
+3	чеччис	чеччыны	V	_	Ind|Prt1|Sg3	0	root	_	_
+4	да	да	CCONJ	_	_	7	cc	_	_
+5	сэчче	сэтчӧ	Adv	_	Err/Dial|Ill	7	advmod	_	_
+6	и	и	Adv	_	_	7	advmod	_	_
+7	эштэдіс	эштӧдны	V	_	Err/Dial|Ind|Prt1|Sg3	3	conj	_	_
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 13756_2bz.233
+# text = Нёль кынь рожа видзысь вед пыр на лооя, ветлалэ!
+# text_en = The shepherd with the face of four polar foxes is still alive and has come!
+1	Нёль	нёль	Num	_	Card|Sg|Nom	3	nummod	_	_
+2	кынь	кынь	N	_	Sg|Nom	3	nmod	_	_
+3	рожа	рожа	N	_	Sg|Nom	4	nmod	_	_
+4	видзысь	видзысь	N	_	Sg|Nom	8	nsubj	_	_
+5	вед	вед	Adv	_	Parenthetic	8	advmod	_	_
+6	пыр	пыр	Adv	_	_	8	advmod	_	_
+7	на	на	Adv	_	_	8	advmod	_	_
+8	лооя	ловъя	N	_	Sg|Nom	0	root	_	_
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	ветлалэ	ветлыны	V	_	Der/ал|Ind|Prs|Err/Dial|Sg3	8	conj	_	_
+11	!	!	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 13756_2bz.236
+# text = Меддзоля вокыдлэн, нёль кынь рожа видзысьлэн вед гӧлэсыс!
+# text_en = This is the voice of your youngest brother, the shepherd with the face of four polar foxes!
+1	Меддзоля	меддзоля	A	_	Sg|Nom	2	amod	_	_
+2	вокыдлэн	вок	N	_	Sg|Err/Dial|Gen|PxSg2|So/PC	9	nmod	_	_
+3	,	,	PUNCT	_	_	7	punct	_	_
+4	нёль	нёль	Num	_	Card|Sg|Nom	6	nummod	_	_
+5	кынь	кынь	N	_	Sg|Nom	6	nmod	_	_
+6	рожа	рожа	N	_	Sg|Nom	7	nmod	_	_
+7	видзысьлэн	видзысь	N	_	Sg|Err/Dial|Gen	2	conj	_	_
+8	вед	вед	Adv	_	Parenthetic	9	advmod	_	_
+9	гӧлэсыс	гӧлӧс	N	_	Sg|PxSg3|Nom	0	root	_	_
+10	!	!	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 13756_2bz.245
+# text = Да кӧрныссэ бура сибедісныс да.
+# text_en = And they rounded up their reindeer herd, too.
+1	Да	да	CCONJ	_	_	4	cc	_	_
+2	кӧрныссэ	кӧр	N	_	Sg|Nom|PxPl3|Clt/сӧ|Err/Dial	4	obj	_	_
+3	бура	бура	Adv	_	_	4	advcl	_	_
+4	сибедісныс	сибӧдны	V	_	Ind|Prt1|Pl3	0	root	_	_
+5	да	да	Pcle	_	_	4	advmod	_	_
+6	.	.	PUNCT	_	_	4	punct	_	_
