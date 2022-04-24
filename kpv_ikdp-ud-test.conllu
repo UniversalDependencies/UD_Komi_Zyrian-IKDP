@@ -648,7 +648,7 @@
 1	И	и	CCONJ	CC	_	5	cc	_	OrigLang=ru
 2	ӧні	ӧні	ADV	Adv	_	5	advmod:tmod	_	_
 3	бара	бара	ADV	Adv	_	5	advmod:tmod	_	_
-4	же	жӧ	PART	Pcle	_	3	goeswith	_	OrigLang=ru
+4	же	жӧ	ADV	Adv	_	3	advmod:eval	_	OrigLang=ru
 5	мӧдісныс	мӧдны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	_
 6	вӧрзёоны	вӧрзьыны	VERB	V	VerbForm=Inf	5	xcomp	_	SpaceAfter=No
 7	.	.	PUNCT	CLB	_	5	punct	_	_
@@ -670,7 +670,7 @@
 11	,	,	PUNCT	CLB	_	12	punct	_	_
 12	вӧрзям	вӧрзьыны	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres	8	ccomp	_	_
 13	да	да	PART	Pcle	_	12	advmod	_	OrigLang=ru
-14	и	и	PART	Pcle	_	13	goeswith	_	OrigLang=ru|SpaceAfter=No
+14	и	и	PART	Pcle	_	13	fixed	_	OrigLang=ru|SpaceAfter=No
 15	,	,	PUNCT	CLB	_	16	punct	_	_
 16	ничего	ничего	ADV	Adv	Polarity=Neg	12	conj	_	Lang=ru|SpaceAfter=No
 17	,	,	PUNCT	CLB	_	19	punct	_	_
@@ -800,7 +800,7 @@
 4	ветлала	ветлыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	CLB	_	6	punct	_	_
 6	потому	потому	SCONJ	CS	_	11	mark	_	Lang=ru
-7	что	что	SCONJ	CS	_	6	goeswith	_	Lang=ru
+7	что	что	SCONJ	CS	_	6	fixed	_	Lang=ru
 8	мӧд	мӧд	DET	Det	Case=Nom|Number=Sing|NumType=Ord	10	reparandum	_	SpaceAfter=No
 9	,	,	PUNCT	CLB	_	10	punct	_	_
 10	мӧдэд	мӧдӧд	ADJ	A	Case=Nom|NumType=Ord	11	amod	_	_
@@ -920,7 +920,7 @@
 9	,	,	PUNCT	CLB	_	13	punct	_	_
 10	не	не	PART	Pcle	Polarity=Neg	11	advmod	_	OrigLang=ru
 11	то	то	PART	Pcle	_	13	advmod	_	OrigLang=ru
-12	что	что	PRON	Pron	_	11	goeswith	_	Lang=ru
+12	что	что	PRON	Pron	_	11	fixed	_	Lang=ru
 13	лёк-а	лёк	ADJ	A	Case=Nom|Number=Sing	4	conj	_	SpaceAfter=No
 14	.	.	PUNCT	CLB	_	4	punct	_	_
 
