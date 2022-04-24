@@ -1658,7 +1658,7 @@
 4	верс	верс	NOUN	N	Case=Nom|Number=Sing	2	obl	_	GTtags=Sg,Nom
 5	вит	вит	NUM	Num	Case=Nom|Number=Sing|NumType=Card	6	nummod	_	GTtags=Card,Sg,Nom
 6	лун	лун	NOUN	N	Case=Nom|Number=Sing	2	obl	_	GTtags=Sg,Nom
-7	няньтӧг	нянь	NOUN	N	Case=Abe|Number=Sing	2	obl	_	GTtags=Sg,Abe|SpaceAfter=No
+7	няньтӧг	нянь	NOUN	N	Case=Abe|Number=Sing|Variant=Vclause	2	obl	_	GTtags=Sg,Abe|SpaceAfter=No
 8	.	.	PUNCT	CLB	_	2	punct	_	_
 
 # sent_id = kpv_udo19420000SFOuVanejevMN-186.024
