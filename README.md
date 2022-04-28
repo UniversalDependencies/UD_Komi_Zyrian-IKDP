@@ -36,6 +36,10 @@ The transcription is also published in Zenodo:
 
 # Changelog
 
+- 2022-04-29
+  - Feature development
+  - Deprel correction and documentation
+  - Trouble shooting in dependencies
 - 2021-04-29
   - New sentences added from Erik Vászolyi's recordings
   - New sentences included from IKDP corpus.
