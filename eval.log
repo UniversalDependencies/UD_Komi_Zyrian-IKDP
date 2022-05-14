@@ -1,10 +1,10 @@
 Running the following version of UD tools:
-commit 3478a99bb195eb8749c367af4f7b3fd357a12a4c
-Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue Nov 2 22:17:19 2021 +0100
+commit ba6fbf413cb14afa25145b931c79fb60ef9456e2
+Author: www-data (nschneid) <nschneid@github.com>
+Date:   Wed May 11 05:10:30 2022 +0200
 Evaluating the following revision of UD_Komi_Zyrian-IKDP:
-commit 45ab37597c294e48da2b137bc7a7bfe353fea369
-Merge: 826c6e1 b7cdfd0
+commit ebf3b1ded4a67b6c53284b5d51d4653ceaa03a2d
+Merge: 5c14a0f 0e245fc
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Size: counted 2309 of 2309 words (nodes).
 Size: min(0, log((N/1000)**2)) = 1.67362906074472.
@@ -17,7 +17,7 @@ Universal POS tags: 16 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.9.
 Features: 1358 out of 2309 total words have one or more features.
 Features: source of annotation (from README) factor is 0.5.
-Universal relations: 34 out of 37 found in the corpus.
+Universal relations: 33 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Udapi:
                TOTAL        323
@@ -34,7 +34,7 @@ Validity: 1
 (weight=0.0512820512820513) * (score{split}=0.01) = 0.000512820512820513
 (weight=0.0769230769230769) * (score{tags}=0.847058823529412) = 0.065158371040724
 (weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
-(weight=0.0769230769230769) * (score{udeprels}=0.918918918918919) = 0.0706860706860707
-(TOTAL score=0.251944023725749) * (availability=1) * (validity=1) = 0.251944023725749
-STARS = 1.5
-UD_Komi_Zyrian-IKDP	0.251944023725749	1.5
+(weight=0.0769230769230769) * (score{udeprels}=0.891891891891892) = 0.0686070686070686
+(TOTAL score=0.249865021646747) * (availability=1) * (validity=1) = 0.249865021646747
+STARS = 1
+UD_Komi_Zyrian-IKDP	0.249865021646747	1
