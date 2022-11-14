@@ -2519,7 +2519,7 @@
 5	,	,	PUNCT	PUNCT	_	12	punct	_	_
 6	мый	мый	SCONJ	CS	_	12	mark	_	_
 7	ме	ме	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	GTtags=Pers,Sg1,Nom
-8	комиысь	коми	NOUN	N	Case=Ela|Number=Sing	13	obl:comp	_	GTtags=Sg,Ela
+8	комиысь	коми	NOUN	N	Case=Ela|Number=Sing	13	obl:cmp	_	GTtags=Sg,Ela
 9	да	да	CCONJ	CC	_	10	cc	_	_
 10	рочысь	роч	NOUN	N	Case=Ela|Number=Sing	8	conj	_	GTtags=Sg,Ela
 11	ӧтдор	ӧтдор	ADV	Adv	_	8	advmod	_	_

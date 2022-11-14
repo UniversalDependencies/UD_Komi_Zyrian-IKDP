@@ -154,7 +154,7 @@
     <dep name="obj">94</dep>
     <dep name="obl">158</dep>
     <dep name="obl:cau">1</dep>
-    <dep name="obl:comp">1</dep>
+    <dep name="obl:cmp">1</dep>
     <dep name="obl:lmod">21</dep>
     <dep name="obl:lmp">1</dep>
     <dep name="obl:lto">1</dep>
