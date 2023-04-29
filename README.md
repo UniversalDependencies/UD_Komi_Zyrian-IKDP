@@ -36,6 +36,8 @@ The transcription is also published in Zenodo:
 
 # Changelog
 
+* 2023-04-29
+  * Work with Valency
 - 2022-04-29
   - Feature development
   - Deprel correction and documentation
