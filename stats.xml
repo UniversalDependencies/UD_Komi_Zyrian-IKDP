@@ -33,7 +33,7 @@
     <tag name="X">2</tag><!-- международные, отношения -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="72">
+  <feats unique="71">
     <feat name="AdpType" value="Post" upos="ADP">7</feat><!-- кузяыс, кузя, вӧсна, йылысь -->
     <feat name="AdvType" value="Man" upos="ADV">10</feat><!-- сідз, кудз, кудзке, тадз -->
     <feat name="AdvType" value="Tim" upos="ADV">9</feat><!-- на, кор, корке, нин, таво -->
@@ -99,7 +99,6 @@
     <feat name="Tense" value="Fut" upos="VERB">5</feat><!-- лоас, мӧдасы, ортсаласны, сетасныс -->
     <feat name="Tense" value="Past" upos="AUX,VERB">198</feat><!-- вӧлі, из, сетіс, вӧліс, рӧдитчи, босьтіс, вежсис, ветлі, воедіс, мунэма -->
     <feat name="Tense" value="Pres" upos="AUX,VERB">90</feat><!-- кӧсъя, оз, любита, ог, велэда, висьталэ, выйым, вӧтлэ, интересуйтэ, кажитче -->
-    <feat name="Valency" value="2" upos="VERB">1</feat><!-- вуджедтэг -->
     <feat name="Variant" value="Vclause" upos="NOUN">1</feat><!-- няньтӧг -->
     <feat name="VerbForm" value="Conv" upos="VERB">4</feat><!-- велӧдчигӧныс, вӧрзялыгдырйи, локтігӧныс, мунігӧныс -->
     <feat name="VerbForm" value="Inf" upos="VERB">59</feat><!-- велэдны, ветлыны, мунны, босьны, висьтооны, велэдчыны, ветлооны, Сравнитны, бериччыны, велэднысэ -->
