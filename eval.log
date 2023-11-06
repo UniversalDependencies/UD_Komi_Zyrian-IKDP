@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 04abe686385f14a9a6f68784bd723a6b60ded594
+commit e9726a6a7d6913193d90edb45a4cb549235c5b16
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 9 00:14:39 2023 +0200
+Date:   Sat Nov 4 17:10:55 2023 +0100
 Evaluating the following revision of UD_Komi_Zyrian-IKDP:
-commit 619a314322a7c2ed807eeb6ace59cff9525d1df2
-Merge: a9d8512 b37ca7e
+commit aa2df7ee2f56ea4e7971c112121c2d788cd7a496
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Tue May 9 11:18:13 2023 +0200
 Size: counted 2309 of 2309 words (nodes).
 Size: min(0, log((N/1000)**2)) = 1.67362906074472.
 Size: maximum value 13.815511 is for 1000000 words or more.
