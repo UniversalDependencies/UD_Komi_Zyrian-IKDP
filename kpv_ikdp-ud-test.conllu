@@ -2010,7 +2010,7 @@
 1	Какен	как	NOUN	N	Case=Ins|Number=Sing	2	obl	_	GTtags=Err/Dial,Sg,Err/Dial,Ins
 2	чеччаліс	чеччавны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Sg3|SpaceAfter=No
 3	,	,	PUNCT	PUNCT	_	5	punct	_	_
-4	куимнансэ	куимнан	PRON	Pron	Case=Acc|Number[psor]=Sing|Person[psor]=3	5	obj	_	GTtags=AssocColl,Sg,Nom,Clt/сӧ,Err/Dial
+4	куимнансэ	куимнан	PRON	Pron	Case=Acc|Number=Sing|NumType=Sets|Person=3|PronType=Tot	5	obj	_	GTtags=AssocColl,Sg,Nom,Clt/сӧ,Err/Dial
 5	ордедіс	ордйӧдны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	GTtags=Err/Dial,Ind,Prt1,Sg3|SpaceAfter=No
 6	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
@@ -3003,7 +3003,7 @@
 9	тадз	тадзи	ADV	Adv	AdvType=Man	7	conj	_	GTtags=Manner|SpaceAfter=No
 10	,	,	PUNCT	PUNCT	_	12	punct	_	_
 11	мый	мый	SCONJ	CS	_	12	mark	_	_
-12	куимнан	куимнан	PRON	Pron	Case=Nom|Number=Sing	2	conj	_	GTtags=AssocColl,Sg,Nom
+12	куимнан	куимнан	PRON	Pron	Case=Nom|Number=Sing|NumType=Sets	2	conj	_	GTtags=AssocColl,Sg,Nom
 13	войтырыс	войтыр	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	12	nsubj	_	GTtags=Sg,Nom,PxSg3|SpaceAfter=No
 14	,	,	PUNCT	PUNCT	_	15	punct	_	_
 15	ӧ	ӧ	INTJ	Interj	_	17	discourse	_	SpaceAfter=No
