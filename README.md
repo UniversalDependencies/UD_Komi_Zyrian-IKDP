@@ -36,6 +36,8 @@ The transcription is also published in Zenodo:
 
 # Changelog
 
+* 2024-04-29
+  * Add compound:nn
 * 2023-04-29
   * Work with Valency
 - 2022-04-29
