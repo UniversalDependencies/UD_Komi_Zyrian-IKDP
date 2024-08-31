@@ -254,10 +254,10 @@
 5	но	но	CCONJ	CC	_	9	cc	_	OrigLang=ru
 6	из	оз	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	8	reparandum	_	SpaceAfter=No
 7	,	,	PUNCT	CLB	_	8	punct	_	_
-8	абу	абу	AUX	Pcle	Polarity=Neg	9	aux:neg	_	_
+8	абу	абу	AUX	Pcle	Polarity=Neg	9	aux	_	_
 9	понравитчема	понравитчыны	VERB	V	Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past	3	acl	_	OrigLang=ru|SpaceAfter=No|Note=Check
 10	,	,	PUNCT	CLB	_	12	punct	_	_
-11	оз	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres	12	aux:neg	_	_
+11	оз	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres	12	aux	_	_
 12	вермы	вермыны	VERB	V	Connegative=Yes	9	conj	_	_
 13	сыа	сійӧ	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
 14	сэтшем	сэтшӧм	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	15	det	_	_
@@ -317,7 +317,7 @@
 7	висены	висьны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
 8	кокъясэ	кок	NOUN	N	Case=Ill|Number=Plur	7	obl	_	_
 9	и	и	CCONJ	CC	_	11	cc	_	OrigLang=ru
-10	ог	оз	AUX	V	Mood=Ind|Person=1|Polarity=Neg|Tense=Pres	11	aux:neg	_	_
+10	ог	оз	AUX	V	Mood=Ind|Person=1|Polarity=Neg|Tense=Pres	11	aux	_	_
 11	вермы	вермыны	VERB	V	Connegative=Yes	7	conj	_	_
 12	ветлыны	ветлыны	VERB	V	VerbForm=Inf	11	xcomp	_	SpaceAfter=No
 13	,	,	PUNCT	CLB	_	17	punct	_	_
@@ -762,12 +762,12 @@
 7	рӧдиттьыны	рӧдиттьыны	VERB	V	VerbForm=Inf	8	xcomp	_	OrigLang=ru
 8	мӧдэма	мӧдны	VERB	V	Evident=Nfh|Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	SpaceAfter=No
 9	,	,	PUNCT	CLB	_	10	punct	_	_
-10	абу	абу	AUX	Pcle	Polarity=Neg	11	aux:neg	_	_
+10	абу	абу	AUX	Pcle	Polarity=Neg	11	aux	_	_
 11	мӧдэма	мӧдны	VERB	V	Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past	8	conj	_	SpaceAfter=No
 12	,	,	PUNCT	CLB	_	13	punct	_	_
 13	оз	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres	16	reparandum	_	SpaceAfter=No
 14	,	,	PUNCT	CLB	_	15	punct	_	_
-15	абу	абу	AUX	Pcle	Polarity=Neg	16	aux:neg	_	_
+15	абу	абу	AUX	Pcle	Polarity=Neg	16	aux	_	_
 16	мӧдэма	мӧдны	VERB	V	Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past	8	conj	_	_
 17	тытэн	тытэн	ADV	Adv	_	16	obl	_	SpaceAfter=No
 18	,	,	PUNCT	CLB	_	19	punct	_	_
@@ -786,7 +786,7 @@
 4	никучем	никутшӧм	ADV	Adv	Polarity=Neg	5	advmod	_	_
 5	иностраннэй	иностраннӧй	ADJ	A	Case=Nom|Number=Sing	6	amod	_	OrigLang=ru
 6	местаясэ	места	NOUN	N	Case=Ill|Number=Plur	8	obl	_	OrigLang=ru
-7	ог	оз	AUX	V	Mood=Ind|Person=1|Polarity=Neg|Tense=Pres	8	aux:neg	_	_
+7	ог	оз	AUX	V	Mood=Ind|Person=1|Polarity=Neg|Tense=Pres	8	aux	_	_
 8	ветлоо	ветлыны	VERB	V	Connegative=Yes	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	CLB	_	8	punct	_	_
 
@@ -911,7 +911,7 @@
 # text_en =
 1	Пока	пока	ADV	Adv	_	4	advmod	_	_
 2	лёк	лёк	ADJ	A	Case=Nom|Number=Sing	4	nsubj	_	_
-3	из	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg	4	aux:neg	_	_
+3	из	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg	4	aux	_	_
 4	ло	лоны	VERB	V	Connegative=Yes	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	CLB	_	6	punct	_	_
 6	но	но	CCONJ	CC	_	13	cc	_	OrigLang=ru|SpaceAfter=No
@@ -929,7 +929,7 @@
 # text_ru = Пока не стала мочь, пока могла.
 # text_en =
 1	Пока	пока	ADV	Adv	_	3	advmod	_	OrigLang=ru
-2	из	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg	3	aux:neg	_	_
+2	из	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg	3	aux	_	_
 3	вермы	вермыны	VERB	V	Connegative=Yes	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	CLB	_	5	punct	_	_
 5	пока	пока	ADV	Adv	_	6	advmod	_	OrigLang=ru
@@ -1029,7 +1029,7 @@
 21	Юго-Восточной	юго-восточной	ADJ	A	Case=Nom|Number=Sing	22	amod	_	Lang=ru
 22	Азии	Азия	PROPN	N	Case=Gen|Number=Sing	20	nmod	_	Lang=ru
 23	зэй	зэй	ADV	Adv	_	25	advmod:deg	_	_
-24	из	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg	25	aux:neg	_	_
+24	из	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg	25	aux	_	_
 25	привлекайтныс	привлекайтны	VERB	V	Connegative=Yes|Number=Plur	10	advcl	_	OrigLang=ru|SpaceAfter=No
 26	.	.	PUNCT	CLB	_	10	punct	_	_
 
@@ -1041,7 +1041,7 @@
 2	,	,	PUNCT	CLB	_	3	punct	_	_
 3	гашке	гашкӧ	PART	Pcle	_	6	advmod:mmod	_	SpaceAfter=No
 4	,	,	PUNCT	CLB	_	5	punct	_	_
-5	оз	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres	6	aux:neg	_	_
+5	оз	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres	6	aux	_	_
 6	бросайтчы	бросайтчыны	VERB	V	Connegative=Yes	0	root	_	OrigLang=ru
 7	в	в	ADP	Pr	_	8	case	_	Lang=ru
 8	глаза	глаз	NOUN	N	Case=Nom|Number=Plur	6	obl	_	Lang=ru|SpaceAfter=No
@@ -1085,7 +1085,7 @@
 # text = Ог тӧд, мен кажитче, без репетитора сыа невозможнэ.
 # text_ru =
 # corpus_version = f0d4b02b2cdba3ddf9e5bd1c5cd875167b4e97fc
-1	Ог	оз	AUX	V	Mood=Ind|Person=1|Polarity=Neg|Tense=Pres	2	aux:neg	_	_
+1	Ог	оз	AUX	V	Mood=Ind|Person=1|Polarity=Neg|Tense=Pres	2	aux	_	_
 2	тӧд	тӧдны	VERB	V	Connegative=Yes	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	CLB	_	4	punct	_	_
 4	мен	ме	PRON	Pron	Case=Dat|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
@@ -1237,7 +1237,7 @@
 # text_ru =
 1	Он	оз	AUX	V	Mood=Ind|Person=2|Polarity=Neg|Tense=Pres	3	reparandum	_	SpaceAfter=No
 2	,	,	PUNCT	CLB	_	1	punct	_	_
-3	он	оз	AUX	V	Mood=Ind|Person=2|Polarity=Neg|Tense=Pres	5	aux:neg	_	_
+3	он	оз	AUX	V	Mood=Ind|Person=2|Polarity=Neg|Tense=Pres	5	aux	_	_
 4	живносьсэ	живнось	NOUN	N	Case=Acc|Number=Sing	5	obj	_	OrigLang=ru
 5	сдайт	сдайтны	VERB	V	Connegative=Yes	0	root	_	OrigLang=ru|SpaceAfter=No
 6	,	,	PUNCT	CLB	_	5	punct	_	_
@@ -1377,7 +1377,7 @@
 13	а	а	CCONJ	CC	_	17	cc	_	OrigLang=ru
 14	ме	ме	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	17	nsubj	_	_
 15	никодэс	некод	PRON	Pron	Case=Acc|Number=Sing|Polarity=Neg	17	obj	_	_
-16	ог	оз	AUX	V	Mood=Ind|Person=1|Polarity=Neg|Tense=Pres	17	aux:neg	_	_
+16	ог	оз	AUX	V	Mood=Ind|Person=1|Polarity=Neg|Tense=Pres	17	aux	_	_
 17	тӧд	тӧдны	VERB	V	Connegative=Yes	9	acl	_	SpaceAfter=No
 18	.	.	PUNCT	CLB	_	9	punct	_	_
 
@@ -1609,7 +1609,7 @@
 1	Но	но	CCONJ	CC	_	2	cc	_	OrigLang=ru
 2	тятеис	тятей	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	0	root	_	GTtags=Sg,Nom,PxSg3
 3	потанас	потан	NOUN	N	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	obl	_	GTtags=Sg,Ine,PxSg3
-4	из	оз	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	2	aux:neg	_	GTtags=Neg,Ind,Prt1,Sg3
+4	из	оз	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	2	aux	_	GTtags=Neg,Ind,Prt1,Sg3
 5	вӧв	вӧвны	AUX	V	Connegative=Yes	2	aux	_	GTtags=IV,ConNeg|SpaceAfter=No
 6	.	.	PUNCT	CLB	_	2	punct	_	_
 
@@ -1632,7 +1632,7 @@
 3	крукӧн	крук	NOUN	N	Case=Ins|Number=Sing	2	obl	_	GTtags=Sg,Ins
 4	бӧрӧ	бӧрӧ	ADV	Adv	Case=Ill|Number=Sing	2	advmod	_	GTtags=Sg,Ill
 5	и	и	CCONJ	CC	_	7	cc	_	OrigLang=ru
-6	из	оз	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	7	aux:neg	_	GTtags=Neg,Ind,Prt1,Sg3
+6	из	оз	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	7	aux	_	GTtags=Neg,Ind,Prt1,Sg3
 7	удит	удитны	VERB	V	Connegative=Yes	2	conj	_	OrigLang=ru|GTtags=IV,ConNeg
 8	тятеис	тятей	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	7	nsubj	_	GTtags=Sg,Nom,PxSg3
 9	сотчыны	сотчыны	VERB	V	VerbForm=Inf	7	xcomp	_	GTtags=Refl,Inf|SpaceAfter=No
@@ -1686,7 +1686,7 @@
 10	сылӧн	сійӧ	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Prs	11	nmod	_	GTtags=Pers,Sg3,Gen
 11	сітан-улас	сітан-ув	NOUN	N	Case=Ill|Number=Sing|Number[psor]=Sing|Person[psor]=3	15	obl	_	GTtags=Relat,Sg,Ill,PxSg3
 12	нинӧм	нинӧм	PRON	Pron	Case=Nom|Number=Sing|Polarity=Neg	15	obj	_	GTtags=Neg,Sg,Nom
-13	из	оз	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	15	aux:neg	_	GTtags=Neg,Ind,Prt1,Sg3
+13	из	оз	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	15	aux	_	GTtags=Neg,Ind,Prt1,Sg3
 14	вӧв	вӧвны	AUX	V	Connegative=Yes	15	aux	_	GTtags=IV,ConNeg
 15	пуктӧма	пуктыны	VERB	V	Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past	4	conj	_	GTtags=TV,Ind,Prt2,Sg3|SpaceAfter=No
 16	.	.	PUNCT	CLB	_	4	punct	_	_
@@ -1724,7 +1724,7 @@
 1	И	и	CCONJ	CC	_	5	cc	_	OrigLang=ru
 2	сія	сія	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	GTtags=Pers,Sg3,Nom
 3	бӧрӧ	бӧрӧ	ADV	Adv	Case=Ill|Number=Sing	5	advmod	_	GTtags=Sg,Ill
-4	из	оз	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	5	aux:neg	_	GTtags=Neg,Ind,Prt1,Sg3
+4	из	оз	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	5	aux	_	GTtags=Neg,Ind,Prt1,Sg3
 5	во	во	VERB	V	Connegative=Yes	0	root	_	GTtags=IV,ConNeg
 6	гортэдзыс	горт	NOUN	Hom1	Case=Ter|Number=Sing|Number[psor]=Sing|Person[psor]=3	5	obl	_	GTtags=N,Sg,Err/Dial,Ter,PxSg3
 7	куим	куим	NUM	Num	Case=Nom|Number=Sing|NumType=Card	8	nummod	_	GTtags=Card,Sg,Nom
@@ -1898,7 +1898,7 @@
 2	важен	важ	ADJ	A	Case=Ins|Number=Sing	6	obl	_	GTtags=A,Sg,Ins
 3	вед	вед	ADV	Adv	_	6	advmod:eval	_	GTtags=Adv,Parenthetic|OrigLang=ru
 4	вина	вина	NOUN	N	Case=Nom|Number=Sing	6	obj	_	GTtags=N,Sg,Nom|OrigLang=ru
-5	из	оз	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	6	aux:neg	_	GTtags=V,Neg,Ind,Prt1,Sg3
+5	из	оз	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	6	aux	_	GTtags=V,Neg,Ind,Prt1,Sg3
 6	юныс	юны	VERB	V	Connegative=Yes|Number=Plur	0	root	_	GTtags=V,TV,ConNeg|SpaceAfter=No
 7	.	.	PUNCT	CLB	_	6	punct	_	GTtags=CLB
 
@@ -1979,7 +1979,7 @@
 5	да	да	CCONJ	CC	_	9	cc	_	_
 6	кокыс	кок	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	9	nsubj	_	GTtags=Sg,Nom,PxSg3
 7	на	на	ADV	Adv	AdvType=Tim	9	advmod:tmod	_	GTtags=Sem/Time
-8	из	оз	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	9	aux:neg	_	GTtags=Neg,Ind,Prt1,Sg3
+8	из	оз	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	9	aux	_	GTtags=Neg,Ind,Prt1,Sg3
 9	сидзоолы	сидзооны	VERB	V	Connegative=Yes	4	conj	_	GTtags=ConNeg|SpaceAfter=No
 10	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
@@ -2181,7 +2181,7 @@
 # text = Шыдъяйлы оз кыскоо.
 # text_en = She wouldn't bring in soup meat.
 1	Шыдъяйлы	шыдъяй	NOUN	N	Case=Nom|Number=Sing	3	obl	_	GTtags=Sg,Nom
-2	оз	оз	AUX	Aux	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	3	aux:neg	_	GTtags=Neg,Ind,Prs,Sg3
+2	оз	оз	AUX	Aux	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	3	aux	_	GTtags=Neg,Ind,Prs,Sg3
 3	кыскоо	кыскавны	VERB	V	Connegative=Yes	0	root	_	GTtags=Err/Dial,ConNeg|SpaceAfter=No
 4	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
@@ -2985,7 +2985,7 @@
 # comment = Check status of Миян
 1	Миян	ме	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	4	obl	_	GTtags=Pers,Pl1,Gen
 2	сіе	сійӧ	PRON	Pron	PronType=Dem	4	nsubj	_	GTtags=Err/Dial,Dem
-3	оз	оз	AUX	Aux	Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres	4	aux:neg	_	GTtags=Neg,Ind,Prs,Pl3
+3	оз	оз	AUX	Aux	Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres	4	aux	_	GTtags=Neg,Ind,Prs,Pl3
 4	сетны	сетны	VERB	V	Connegative=Yes|Number=Plur|Person=3	0	root	_	GTtags=ConNeg,Pl3|SpaceAfter=No
 5	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
