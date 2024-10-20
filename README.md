@@ -36,6 +36,8 @@ The transcription is also published in Zenodo:
 
 # Changelog
 
+* 2024-10-29
+  * Add use of Foreign feature
 * 2024-04-29
   * Add compound:nn
 * 2023-04-29
