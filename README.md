@@ -38,6 +38,7 @@ The transcription is also published in Zenodo:
 
 * 2024-11-01
   * Add use of Foreign feature
+  * reflexive separated from antecedent with VERB correction
 * 2024-04-29
   * Add compound:nn
 * 2023-04-29
