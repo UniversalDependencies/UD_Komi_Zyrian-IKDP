@@ -15,14 +15,14 @@
   <fusions unique="3" /><!-- Даддяяс, ва-ош, коми-изьватаслысь -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="16">
-    <tag name="ADJ">100</tag><!-- ас, бур, второй, дзоля, небыд, английскӧй, бия, важ, дик, корейскӧй -->
+    <tag name="ADJ">98</tag><!-- ас, бур, второй, дзоля, небыд, английскӧй, бия, важ, дик, корейскӧй -->
     <tag name="ADP">64</tag><!-- вылын, кузя, в, сайын, у, бӧр, бӧрын, дорын, с, вывті -->
     <tag name="ADV">208</tag><!-- сэн, ӧні, вот, и, нин, зэв, вӧдзӧ, зэй, кудз, кор -->
     <tag name="AUX">58</tag><!-- оз, вӧвны, абу, эм, быть, кутны, бы -->
     <tag name="CCONJ">123</tag><!-- и, а, да, но, или, _, али, но·и -->
     <tag name="DET">10</tag><!-- уна, став, весь, какой, кымын, мӧд, такой -->
     <tag name="INTJ">17</tag><!-- оо, ӧ, а, но, Ооо, м-м, ой, пӧжалуста, хах, этайӧ -->
-    <tag name="NOUN">477</tag><!-- во, вок, кыв, мам, чой, год, кӧр, ай, керка, коми -->
+    <tag name="NOUN">475</tag><!-- во, вок, кыв, мам, чой, год, кӧр, ай, керка, коми -->
     <tag name="NUM">65</tag><!-- куим, нёль, кык, сизим, дас, вит, десятой, кызь, сорок, ӧти -->
     <tag name="PART">65</tag><!-- да, и, вот, значит, жӧ, гашкӧ, но, ну, то, тожӧ -->
     <tag name="PRON">186</tag><!-- ме, сійӧ, ми, сыа, ас, мый, сія, тэ, мыйкӧ, мӧд -->
@@ -30,7 +30,7 @@
     <tag name="PUNCT">529</tag><!-- ,, ., ?, _, -, :, !, ..., «, » -->
     <tag name="SCONJ">27</tag><!-- мый, да, как, потому, что, мед, медым, мыйла, дак, ке -->
     <tag name="VERB">347</tag><!-- ветлыны, велӧдны, мунны, велӧдчыны, висьтавны, кӧсйыны, тӧдны, босьтны, мӧдны, сетны -->
-    <tag name="X">2</tag><!-- международные, отношения -->
+    <tag name="X">6</tag><!-- Севера, коренного, малочисленного, международные, народа, отношения -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="72">
@@ -50,7 +50,7 @@
     <feat name="Case" value="Ine" upos="ADJ,ADP,ADV,NOUN,PROPN,VERB">64</feat><!-- вылын, бӧрын, сайын, университетын, годын, тундраын, кытэнке, Гожемъясын, Ляпинын, Медбӧрын -->
     <feat name="Case" value="Ins" upos="ADJ,ADV,NOUN,PRON,PROPN">32</feat><!-- сіен, йӧйӧн, кылэн, луннас, мыен, удовольствием, Какен, Семӧв-Егырӧн, авкоясэн, английскеен -->
     <feat name="Case" value="Loc" upos="NOUN">1</feat><!-- шоке -->
-    <feat name="Case" value="Nom" upos="ADJ,ADV,DET,NOUN,NUM,PRON,PROPN,VERB">543</feat><!-- ме, сыа, во, нёль, Иван, куим, кык, ае, вок, мыйке -->
+    <feat name="Case" value="Nom" upos="ADJ,ADV,DET,NOUN,NUM,PRON,PROPN,VERB">541</feat><!-- ме, сыа, во, нёль, Иван, куим, кык, ае, вок, мыйке -->
     <feat name="Case" value="Prl" upos="NOUN">1</feat><!-- вӧжжиедыс -->
     <feat name="Case" value="Prp" upos="NOUN">3</feat><!-- даддя -->
     <feat name="Case" value="Ter" upos="ADV,NOUN">2</feat><!-- гортэдзыс, дзикедз -->
@@ -66,15 +66,15 @@
     <feat name="Derivation" value="Igmoz" upos="VERB">1</feat><!-- велэдчыгмоз -->
     <feat name="Derivation" value="Ko" upos="ADJ,ADV,PRON">11</feat><!-- мыйке, корке, кудзке, кытэнке, кутшемке, мыйкесэ -->
     <feat name="Derivation" value="La" upos="NOUN">1</feat><!-- быдлааті -->
-    <feat name="Derivation" value="NomAg" upos="NOUN,VERB">2</feat><!-- велэдысьыс, ветлысь -->
-    <feat name="Derivation" value="ProprietiveMod" upos="NOUN">2</feat><!-- Севера, народа -->
     <feat name="Derivation" value="VAbe" upos="VERB">1</feat><!-- вуджедтэг -->
     <feat name="Evident" value="Nfh" upos="VERB">25</feat><!-- мунэма, мӧдэма, висьталэма, Пургамема, бергедчема, волэма, воома, воссема, вурема, вӧрземаась -->
+    <feat name="Foreign" value="Yes" upos="X">6</feat><!-- Севера, коренного, малочисленного, международные, народа, отношения -->
     <feat name="Mood" value="Imp" upos="VERB">7</feat><!-- висьтоо, Считай, видед, нӧревитлы, расскажит -->
     <feat name="Mood" value="Ind" upos="AUX,VERB">293</feat><!-- вӧлі, из, кӧсъя, оз, сетіс, вӧліс, любита, ог, рӧдитчи, босьтіс -->
+    <feat name="Nomzr" value="Ag" upos="NOUN,VERB">2</feat><!-- велэдысьыс, ветлысь -->
     <feat name="NounType" value="Relat" upos="ADP,NOUN">14</feat><!-- сайын, Водзе, бердас, бӧрас, бӧрсяньыс, вылын, вылэ, вылэджык, выытіыс, дорас -->
     <feat name="Number" value="Plur" upos="ADJ,AUX,NOUN,PRON,VERB">152</feat><!-- миян, ми, кыыяс, были, ваяс, воедісныс, дадюуяс, кокъясэ, колэныс, курсъяс -->
-    <feat name="Number" value="Sing" upos="ADJ,ADP,ADV,AUX,DET,INTJ,NOUN,NUM,PRON,PROPN,VERB">1000</feat><!-- ме, сыа, во, вӧлі, из, нёль, Иван, вылын, куим, кык -->
+    <feat name="Number" value="Sing" upos="ADJ,ADP,ADV,AUX,DET,INTJ,NOUN,NUM,PRON,PROPN,VERB">998</feat><!-- ме, сыа, во, вӧлі, из, нёль, Иван, вылын, куим, кык -->
     <feat name="Number[psor]" value="Plur" upos="NOUN">8</feat><!-- вокныс, дадюуныссэ, душаныс, кыыныс, кӧрныссэ, музыканыс, семьяанум, чойныс -->
     <feat name="Number[psor]" value="Sing" upos="ADJ,ADP,DET,NOUN,NUM,PRON,PROPN,VERB">137</feat><!-- ае, кузяыс, маме, мамыс, ставыс, тятеис, английскейсэ, бӧрас, вомсьыс, гортас -->
     <feat name="Number[subj]" value="Plur" upos="ADJ,ADV">3</feat><!-- квайтэнэсь, равнэйэсь, ӧткойдэсь -->
@@ -122,10 +122,10 @@
     <dep name="advmod:tmod">44</dep>
     <dep name="amod">67</dep>
     <dep name="appos">25</dep>
-    <dep name="aux">6</dep>
+    <dep name="aux">27</dep>
     <dep name="aux:aspect">2</dep>
     <dep name="aux:cnd">1</dep>
-    <dep name="aux:neg">25</dep>
+    <dep name="aux:neg">4</dep>
     <dep name="case">62</dep>
     <dep name="cc">118</dep>
     <dep name="ccomp">12</dep>
@@ -135,7 +135,7 @@
     <dep name="cop">21</dep>
     <dep name="csubj">2</dep>
     <dep name="dep">1</dep>
-    <dep name="det">28</dep>
+    <dep name="det">27</dep>
     <dep name="discourse">27</dep>
     <dep name="dislocated">4</dep>
     <dep name="fixed">15</dep>
@@ -150,7 +150,7 @@
     <dep name="nsubj:cop">6</dep>
     <dep name="nummod">53</dep>
     <dep name="obj">94</dep>
-    <dep name="obl">158</dep>
+    <dep name="obl">159</dep>
     <dep name="obl:cau">1</dep>
     <dep name="obl:cmp">1</dep>
     <dep name="obl:lmod">22</dep>
