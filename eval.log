@@ -1,10 +1,10 @@
 Running the following version of UD tools:
-commit 78ce4b21495c6e4c17a7b07925bec1267d833d14
+commit c1984d97df0ecdcc1b50fbeaa8c96419c6321432
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun May 5 09:21:16 2024 +0200
+Date:   Sun Nov 10 10:33:45 2024 +0100
 Evaluating the following revision of UD_Komi_Zyrian-IKDP:
-commit b67bfd4f13db0dbda6cb324bc530bddaf4272908
-Merge: 11bf07d e04bde9
+commit 03ca371a0a649d04b059b1c1790a007cbb636f46
+Merge: 39ea036 5663184
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Size: counted 2309 of 2309 words (nodes).
 Size: min(0, log((N/1000)**2)) = 1.67362906074472.
@@ -15,7 +15,7 @@ Split: Did not find at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 0.5.
 Universal POS tags: 16 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.9.
-Features: 1358 out of 2309 total words have one or more features.
+Features: 1362 out of 2309 total words have one or more features.
 Features: source of annotation (from README) factor is 0.5.
 Universal relations: 33 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
@@ -25,15 +25,6 @@ Udapi: found 322 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 2309 words.
 Genres: found 1 out of 17 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang kpv --max-err=10 UD_Komi_Zyrian-IKDP/kpv_ikdp-ud-test.conllu
-[Line 2450 Sent kpv_izva20150705-02-b.028+kpv_izva20150705-02-b.030+kpv_izva20150705-02-b.032 Node 20]: [L3 Warning flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 2449 Sent kpv_izva20150705-02-b.028+kpv_izva20150705-02-b.030+kpv_izva20150705-02-b.032 Node 19]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 2977 Sent kpv_izva20150705-02-b.097+kpv_izva20150705-02-b.098 Node 18]: [L3 Warning flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 2976 Sent kpv_izva20150705-02-b.097+kpv_izva20150705-02-b.098 Node 17]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 2978 Sent kpv_izva20150705-02-b.097+kpv_izva20150705-02-b.098 Node 19]: [L3 Warning flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 2976 Sent kpv_izva20150705-02-b.097+kpv_izva20150705-02-b.098 Node 17]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 2979 Sent kpv_izva20150705-02-b.097+kpv_izva20150705-02-b.098 Node 20]: [L3 Warning flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 2976 Sent kpv_izva20150705-02-b.097+kpv_izva20150705-02-b.098 Node 17]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-Warnings: 8
 *** PASSED ***
 Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.5) = 0.0384615384615385
