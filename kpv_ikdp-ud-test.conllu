@@ -659,7 +659,7 @@
 # text_en =
 1	Но	но	CCONJ	CC	_	2	cc	_	OrigLang=ru
 2	маме	мам	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	5	nsubj	_	_
-3	как	как	SCONJ	CS	_	5	advmod	_	Lang=ru
+3	как	как	SCONJ	CS	ExtPos=ADV	5	advmod	_	Lang=ru
 4	раз	раз	NOUN	N	Case=Nom|Number=Sing	3	fixed	_	Lang=ru
 5	тыра	тыр	ADV	Adv	_	8	advcl	_	_
 6	вӧліс	вӧвны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	cop	_	SpaceAfter=No
@@ -1763,7 +1763,7 @@
 4	посни	посни	ADJ	A	Case=Nom|Number=Sing	5	amod	_	GTtags=A,Sg,Nom
 5	кӧрыс	кӧр	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	6	nsubj	_	GTtags=N,Sg,Nom,PxSg3
 6	пиялэ	пиявны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	conj	_	GTtags=V,IV,Ind,Prs,Sg3
-7	как	как	SCONJ	CS	_	6	advmod	_	GTtags=CS|OrigLang=ru
+7	как	как	SCONJ	CS	ExtPos=ADV	6	advmod	_	GTtags=CS|OrigLang=ru
 8	раз	раз	NOUN	N	Case=Nom|Number=Sing	7	fixed	_	GTtags=N,Sg,Nom|OrigLang=ru|SpaceAfter=No
 9	.	.	PUNCT	CLB	_	6	punct	_	GTtags=CLB
 
@@ -1811,7 +1811,7 @@
 
 # sent_id = kpv_izva20140325-2-a-188
 # text = Как раз вежсис ставыс олэмыс, деньгаыс вежсис, и ставыс вежсис.
-1	Как	Как	SCONJ	CS	_	3	advmod	_	GTtags=CS|OrigLang=ru
+1	Как	Как	SCONJ	CS	ExtPos=ADV	3	advmod	_	GTtags=CS|OrigLang=ru
 2	раз	раз	NOUN	N	Case=Nom|Number=Sing	1	fixed	_	GTtags=N,Sg,Nom|OrigLang=ru
 3	вежсис	вежсьыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=V,Refl,Ind,Prt1,Sg3
 4	ставыс	став	PRON	Pron	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	5	det	_	GTtags=Pron,Sg,Nom,PxSg3
