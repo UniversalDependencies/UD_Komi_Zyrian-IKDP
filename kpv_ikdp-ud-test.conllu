@@ -1410,7 +1410,7 @@
 # text_ru =
 1	Ребята	ребята	NOUN	N	Case=Nom|Number=Plur	2	nsubj	_	Lang=ru
 2	ыдзыдэсь	ыджыд	ADJ	A	Case=Nom|Number=Plur	0	root	_	SpaceAfter=No
-3	,	_	PUNCT	CLB	_	2	punct	_	_
+3	,	,	PUNCT	CLB	_	2	punct	_	_
 4	ребята	ребята	NOUN	N	Case=Nom|Number=Plur	9	nsubj	_	Lang=ru|SpaceAfter=No
 5	-	-	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No
 6	то	то	PART	Pcle	_	4	discourse	_	Lang=ru
@@ -2065,15 +2065,15 @@
 7	ӧдде	ӧдйӧ	ADV	Adv	_	8	advmod:mmod	_	GTtags=Err/Dial
 8	воедісныс	войӧдны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past	4	conj	_	GTtags=Err/Dial,Ind,Prt1,Pl3|SpaceAfter=No
 9	:	:	PUNCT	PUNCT	_	15	punct	_	_
-10	«	_	PUNCT	PUNCT	_	15	punct	_	SpaceAfter=No
+10	«	«	PUNCT	PUNCT	_	15	punct	_	SpaceAfter=No
 11	медум	медым	SCONJ	CS	_	15	mark	_	GTtags=Err/Dial|SpaceAfter=No
-12	»	_	PUNCT	PUNCT	_	13	punct	_	_
+12	»	»	PUNCT	PUNCT	_	13	punct	_	_
 13	висьталэ	висьтавны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	15	parataxis	_	GTtags=Ind,Prs,Err/Dial,Sg3
-14	«	_	PUNCT	PUNCT	_	13	punct	_	SpaceAfter=No
+14	«	«	PUNCT	PUNCT	_	13	punct	_	SpaceAfter=No
 15	казьоолан	казявлыны	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres	8	ccomp	_	GTtags=Ind,Prs,Sg2
 16	корке	коркӧ	ADV	Adv	AdvType=Tim|Definite=Ind|Derivation=Ko	15	advmod:tmod	_	GTtags=Indef,Sem/Time,Der/кӧ|SpaceAfter=No
 17	!	!	PUNCT	PUNCT	_	15	punct	_	SpaceAfter=No
-18	»	_	PUNCT	PUNCT	_	15	punct	_	_
+18	»	»	PUNCT	PUNCT	_	15	punct	_	_
 
 # sent_id = 13756_2bz.052
 # text = Даддяяс бӧр воедісныс.
@@ -2124,15 +2124,15 @@
 13	вӧжжиедыс	вӧжжи	NOUN	N	Case=Prl|Number=Sing|Number[psor]=Sing|Person[psor]=3	14	obl	_	GTtags=Sg,Prl,PxSg3
 14	упритіс	упритны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	7	conj	_	GTtags=Ind,Prt1,Sg3|SpaceAfter=No
 15	:	:	PUNCT	PUNCT	_	17	punct	_	_
-16	«	_	PUNCT	PUNCT	_	17	punct	_	SpaceAfter=No
+16	«	«	PUNCT	PUNCT	_	17	punct	_	SpaceAfter=No
 17	Чое	чой	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	19	vocative	_	GTtags=Sg,Nom,PxSg1,Err/Dial|SpaceAfter=No
 18	,	,	PUNCT	PUNCT	_	17	punct	_	_
 19	нӧревитлы	нӧревитлыны	VERB	V	Mood=Imp|Number=Sing|Person=2	22	parataxis	_	GTtags=Imprt,Sg2|SpaceAfter=No
-20	»	_	PUNCT	PUNCT	_	22	punct	_	SpaceAfter=No
+20	»	»	PUNCT	PUNCT	_	22	punct	_	SpaceAfter=No
 21	,	,	PUNCT	PUNCT	_	22	punct	_	_
 22	висьталэ	висьтавны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	14	parataxis	_	GTtags=Ind,Prs,Err/Dial,Sg3|SpaceAfter=No
 23	,	,	PUNCT	PUNCT	_	28	punct	_	_
-24	«	_	PUNCT	PUNCT	_	28	punct	_	SpaceAfter=No
+24	«	«	PUNCT	PUNCT	_	28	punct	_	SpaceAfter=No
 25	ва	ва	NOUN	N	_	26	compound	_	GTtags=Cmp
 26	ош	ош	NOUN	N	Case=Nom|Number=Sing	27	nmod	_	GTtags=Sg,Nom
 27	туй	туй	NOUN	N	Case=Nom|Number=Sing	28	nsubj	_	GTtags=Sg,Nom
@@ -2144,7 +2144,7 @@
 33	туй	туй	NOUN	N	Case=Nom|Number=Sing	35	obl	_	GTtags=Sg,Nom
 34	бӧрсяньыс	бӧр	NOUN	N	Case=Egr|NounType=Relat|Number=Sing|Number[psor]=Sing|Person[psor]=3	35	obl	_	GTtags=Relat,Sg,Egr,PxSg3,So/CP
 35	вӧтэдча	вӧтэдчыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	28	conj	_	GTtags=Ind,Prs,Sg1|SpaceAfter=No
-36	»	_	PUNCT	PUNCT	_	35	punct	_	SpaceAfter=No
+36	»	»	PUNCT	PUNCT	_	35	punct	_	SpaceAfter=No
 37	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
 # sent_id = 13756_2bz.064
@@ -2445,10 +2445,10 @@
 15	канму	канму	NOUN	N	Case=Nom|Number=Sing	16	compound	_	GTtags=Sg,Nom
 16	университет	университет	NOUN	N	Case=Nom|Number=Sing	13	obj	_	GTtags=Sg,Nom|SpaceAfter=No
 17	,	,	PUNCT	PUNCT	_	19	punct	_	_
-18	«	_	PUNCT	PUNCT	_	19	punct	_	SpaceAfter=No
+18	«	«	PUNCT	PUNCT	_	19	punct	_	SpaceAfter=No
 19	международные	международные	X	_	Foreign=Yes	22	compound:nn	_	_
 20	отношения	отношения	X	_	Foreign=Yes	19	flat:foreign	_	SpaceAfter=No
-21	»	_	PUNCT	PUNCT	_	19	punct	_	_
+21	»	»	PUNCT	PUNCT	_	19	punct	_	_
 22	специальность	специальность	NOUN	N	Case=Nom|Number=Sing	16	appos	_	GTtags=Sg,Nom|SpaceAfter=No
 23	.	.	PUNCT	PUNCT	_	1	punct	_	_
 
@@ -2680,8 +2680,8 @@
 12	,	,	PUNCT	PUNCT	_	13	punct	_	_
 13	музыканыс	музыка	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=3	9	conj	_	GTtags=Sg,Nom,PxPl3|SpaceAfter=No
 14	,	,	PUNCT	PUNCT	_	17	punct	_	_
-15	но	но·и	CCONJ	CC	_	17	cc	_	_
-16	и	_	CCONJ	CC	_	15	fixed	_	_
+15	но	но	CCONJ	CC	_	17	cc	_	_
+16	и	и	CCONJ	CC	_	15	fixed	_	_
 17	ӧніяторъясыс	ӧніятор	NOUN	N	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	9	conj	_	GTtags=Pl,Nom,PxSg3
 18	-	-	PUNCT	PUNCT	_	19	punct	_	_
 19	кино	кино	NOUN	N	Case=Nom|Number=Sing	17	appos	_	GTtags=Sg,Nom
@@ -2972,12 +2972,12 @@
 13	кӧсъям	кӧсйыны	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres	6	dislocated	_	GTtags=Ind,Prs,Pl1
 14	босьны	босьтны	VERB	V	VerbForm=Inf	13	xcomp	_	GTtags=Inf
 15	статус	статус	NOUN	N	Case=Nom|Number=Sing	14	obj	_	GTtags=Sg,Nom
-16	«	_	PUNCT	PUNCT	_	17	punct	_	SpaceAfter=No
+16	«	«	PUNCT	PUNCT	_	17	punct	_	SpaceAfter=No
 17	коренного	коренного	X	A	Foreign=Yes	15	appos	_	GTtags=F
 18	малочисленного	малочисленного	X	A	Foreign=Yes	17	flat:foreign	_	GTtags=F
 19	народа	народа	X	N	Foreign=Yes	17	flat:foreign	_	GTtags=Sg,Der,Der/ProprietiveMod,A,Sg,Nom
 20	Севера	Севера	X	N	Foreign=Yes	17	flat:foreign	_	GTtags=Prop,Sg,Der,Der/ProprietiveMod,A,Sg,Nom|SpaceAfter=No
-21	»	_	PUNCT	PUNCT	_	17	punct	_	SpaceAfter=No
+21	»	»	PUNCT	PUNCT	_	17	punct	_	SpaceAfter=No
 22	.	.	PUNCT	PUNCT	_	6	punct	_	_
 
 # sent_id = kpv_izva20150705-02-b.099
@@ -3094,4 +3094,3 @@
 1	Сравнитны	сравнитны	VERB	V	VerbForm=Inf	0	root	_	GTtags=Inf
 2	кудзке	кыдзкӧ	ADV	Adv	AdvType=Man|Definite=Ind|Derivation=Ko	1	advmod	_	GTtags=Indef,Manner,Err/Dial,Der/кӧ|SpaceAfter=No
 3	?	?	PUNCT	PUNCT	_	1	punct	_	_
-
