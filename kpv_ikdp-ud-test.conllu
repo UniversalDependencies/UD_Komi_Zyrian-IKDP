@@ -669,7 +669,7 @@
 10	гашке	гашкӧ	PART	Pcle	_	12	advmod:mmod	_	SpaceAfter=No
 11	,	,	PUNCT	CLB	_	12	punct	_	_
 12	вӧрзям	вӧрзьыны	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres	8	ccomp	_	_
-13	да	да	PART	Pcle	_	12	advmod	_	OrigLang=ru
+13	да	да	PART	Pcle	ExtPos=ADV	12	advmod	_	OrigLang=ru
 14	и	и	PART	Pcle	_	13	fixed	_	OrigLang=ru|SpaceAfter=No
 15	,	,	PUNCT	CLB	_	16	punct	_	_
 16	ничего	ничего	ADV	Adv	Polarity=Neg	12	conj	_	Lang=ru|SpaceAfter=No
@@ -780,7 +780,7 @@
 # text = Так что, никучем иностраннэй местаясэ ог ветлоо.
 # text_ru = Так что, в никакие иностранные места не езжу.
 # text_en =
-1	Так	так	PART	Pcle	_	8	mark	_	Lang=ru
+1	Так	так	PART	Pcle	ExtPos=SCONJ	8	mark	_	Lang=ru
 2	что	что	PRON	Pron	_	1	fixed	_	Lang=ru|SpaceAfter=No
 3	,	,	PUNCT	CLB	_	2	punct	_	_
 4	никучем	никутшӧм	ADV	Adv	Polarity=Neg	5	advmod	_	_
@@ -799,7 +799,7 @@
 3	токо	токо	ADV	Adv	_	4	advmod	_	OrigLang=ru
 4	ветлала	ветлыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	CLB	_	6	punct	_	_
-6	потому	потому	SCONJ	CS	_	11	mark	_	Lang=ru
+6	потому	потому	SCONJ	CS	ExtPos=CSONJ	11	mark	_	Lang=ru
 7	что	что	SCONJ	CS	_	6	fixed	_	Lang=ru
 8	мӧд	мӧд	DET	Det	Case=Nom|Number=Sing|NumType=Ord	10	reparandum	_	SpaceAfter=No
 9	,	,	PUNCT	CLB	_	10	punct	_	_
@@ -853,7 +853,7 @@
 2	сайын	сайын	ADP	Po	Case=Ine|Number=Sing	1	case	_	_
 3	сыа	сыа	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	SpaceAfter=No
 4	,	,	PUNCT	CLB	_	3	punct	_	_
-5	так	так	SCONJ	CS	_	10	mark	_	Lang=ru
+5	так	так	SCONJ	CS	ExtPos=SCONJ	10	mark	_	Lang=ru
 6	что	что	ADP	Po	_	5	fixed	_	Lang=ru|SpaceAfter=No
 7	,	,	PUNCT	CLB	_	6	punct	_	_
 8	меам	ме	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	9	nmod	_	_
@@ -919,7 +919,7 @@
 8	пока	пока	ADV	Adv	_	13	advmod	_	OrigLang=ru|SpaceAfter=No
 9	,	,	PUNCT	CLB	_	13	punct	_	_
 10	не	не	PART	Pcle	Polarity=Neg	11	advmod	_	OrigLang=ru
-11	то	то	PART	Pcle	_	13	advmod	_	OrigLang=ru
+11	то	то	PART	Pcle	ExtPos=ADV	13	advmod	_	OrigLang=ru
 12	что	что	PRON	Pron	_	11	fixed	_	Lang=ru
 13	лёк-а	лёк	ADJ	A	Case=Nom|Number=Sing	4	conj	_	SpaceAfter=No
 14	.	.	PUNCT	CLB	_	4	punct	_	_
@@ -1019,7 +1019,7 @@
 11	от	от	ADP	Pr	_	12	case	_	Lang=ru
 12	Тайланда	Тайланд	PROPN	N	Case=Gen|Number=Sing	10	obl	_	Lang=ru|SpaceAfter=No
 13	,	,	PUNCT	CLB	_	14	punct	_	_
-14	потому	потому	SCONJ	CS	_	25	mark	_	Lang=ru
+14	потому	потому	SCONJ	CS	ExtPos=SCONJ	25	mark	_	Lang=ru
 15	что	что	SCONJ	CS	_	14	fixed	_	Lang=ru|SpaceAfter=No
 16	,	,	PUNCT	CLB	_	17	punct	_	_
 17	но	но	PART	Pcle	_	25	advmod	_	OrigLang=ru|SpaceAfter=No
@@ -1046,7 +1046,7 @@
 7	в	в	ADP	Pr	_	8	case	_	Lang=ru
 8	глаза	глаз	NOUN	N	Case=Nom|Number=Plur	6	obl	_	Lang=ru|SpaceAfter=No
 9	,	,	PUNCT	CLB	_	10	punct	_	_
-10	потому	потому	SCONJ	CS	_	13	mark	_	Lang=ru
+10	потому	потому	SCONJ	CS	ExtPos=CSONJ	13	mark	_	Lang=ru
 11	что	что	SCONJ	CS	_	10	fixed	_	Lang=ru
 12	уна	уна	ADV	Adv	_	13	advmod	_	_
 13	йӧз	йӧз	NOUN	N	Case=Nom|Number=Sing	6	advcl	_	SpaceAfter=No
@@ -1521,7 +1521,7 @@
 # sent_id = kpv_udo19420000SFOuVanejevMN-186.011
 # text = Сы бӧрын вӧччисны гортас.
 1	Сы	сійӧ	PRON	Pron	Case=Adp|Number=Sing|Person=3|PronType=Prs	3	obl	_	GTtags=Pers,Sg3,Cmpl
-2	бӧрын	бӧрын	ADP	Po	Case=Ine|Number=Sing	1	fixed	_	GTtags=Sg,Ine
+2	бӧрын	бӧрын	ADP	Po	Case=Ine|Number=Sing	1	case	_	GTtags=Sg,Ine
 3	вӧччисны	вӧччыны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	GTtags=Refl,Ind,Prt1,Pl3
 4	гортас	горт	NOUN	N	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	obl	_	GTtags=N,Sg,Ine,PxSg3|SpaceAfter=No
 5	.	.	PUNCT	CLB	_	3	punct	_	_
@@ -2288,8 +2288,8 @@
 3	шестого	шестого	ADJ	A	_	4	amod	_	_
 4	сентября	сентябрь	NOUN	N	Case=Nom|Number=Sing	0	root	_	GTtags=Src/F,Sg,Der,Der/ProprietiveMod,A,Sg,Nom|Lang=ru|SpaceAfter=No
 5	,	,	PUNCT	PUNCT	_	8	punct	_	_
-6	девяносто	девяносто	NUM	Num	_	8	amod	_	_
-7	второй	второй	ADJ	A	_	6	fixed	_	_
+6	девяносто	девяносто	NUM	Num	_	7	compound	_	_
+7	второй	второй	ADJ	A	_	8	amod	_	_
 8	годын	год	NOUN	N	Case=Ine|Number=Sing	4	conj	_	GTtags=Sg,Ine|SpaceAfter=No
 9	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
@@ -2368,8 +2368,8 @@
 11	но	но	CCONJ	CC	_	9	discourse	_	SpaceAfter=No
 12	,	,	PUNCT	PUNCT	_	11	punct	_	_
 13	тэн	тэ	PRON	Pron	Case=Dat|Number=Sing|Person=2|PronType=Prs	9	appos	_	GTtags=Pers,Sg2,Dat
-14	кызь	кызь	NUM	Num	Case=Nom|Number=Sing|NumType=Card	16	nummod	_	GTtags=Card,Sg,Nom
-15	куим	куим	NUM	Num	Case=Nom|Number=Sing|NumType=Card	14	fixed	_	GTtags=Card,Sg,Nom
+14	кызь	кызь	NUM	Num	Case=Nom|Number=Sing|NumType=Card	15	compound	_	GTtags=Card,Sg,Nom
+15	куим	куим	NUM	Num	Case=Nom|Number=Sing|NumType=Card	16	nummod	_	GTtags=Card,Sg,Nom
 16	ар	ар	NOUN	N	Case=Nom|Number=Sing	9	nsubj	_	GTtags=Sg,Nom|SpaceAfter=No
 17	,	,	PUNCT	PUNCT	_	18	punct	_	_
 18	да	да	SCONJ	CS	_	9	parataxis	_	SpaceAfter=No
@@ -2386,8 +2386,8 @@
 1	Тае	тайӧ	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	9	det	_	GTtags=Dem,Sg,Nom,Err/Dial
 2	вот	вот	ADV	Adv	_	9	discourse	_	GTtags=Parenthetic|SpaceAfter=No
 3	,	,	PUNCT	PUNCT	_	2	punct	_	_
-4	кызь	кызь	NUM	Num	Case=Nom|Number=Sing|NumType=Card	9	nummod	_	GTtags=Card,Sg,Nom
-5	кык	кык	NUM	Num	Case=Nom|Number=Sing|NumType=Card	4	fixed	_	GTtags=Card,Sg,Nom|SpaceAfter=No
+4	кызь	кызь	NUM	Num	Case=Nom|Number=Sing|NumType=Card	5	compound	_	GTtags=Card,Sg,Nom
+5	кык	кык	NUM	Num	Case=Nom|Number=Sing|NumType=Card	9	nummod	_	GTtags=Card,Sg,Nom|SpaceAfter=No
 6	,	,	PUNCT	PUNCT	_	7	punct	_	_
 7	хах	хах	INTJ	Interj	_	9	discourse	_	SpaceAfter=No
 8	,	,	PUNCT	PUNCT	_	7	punct	_	_
@@ -2680,7 +2680,7 @@
 12	,	,	PUNCT	PUNCT	_	13	punct	_	_
 13	музыканыс	музыка	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=3	9	conj	_	GTtags=Sg,Nom,PxPl3|SpaceAfter=No
 14	,	,	PUNCT	PUNCT	_	17	punct	_	_
-15	но	но	CCONJ	CC	_	17	cc	_	_
+15	но	но	CCONJ	CC	ExtPos=CCONJ	17	cc	_	_
 16	и	и	CCONJ	CC	_	15	fixed	_	_
 17	ӧніяторъясыс	ӧніятор	NOUN	N	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	9	conj	_	GTtags=Pl,Nom,PxSg3
 18	-	-	PUNCT	PUNCT	_	19	punct	_	_
