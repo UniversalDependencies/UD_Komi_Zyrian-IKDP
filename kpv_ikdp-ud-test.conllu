@@ -799,7 +799,7 @@
 3	токо	токо	ADV	Adv	_	4	advmod	_	OrigLang=ru
 4	ветлала	ветлыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	CLB	_	6	punct	_	_
-6	потому	потому	SCONJ	CS	ExtPos=CSONJ	11	mark	_	Lang=ru
+6	потому	потому	SCONJ	CS	ExtPos=SCONJ	11	mark	_	Lang=ru
 7	что	что	SCONJ	CS	_	6	fixed	_	Lang=ru
 8	мӧд	мӧд	DET	Det	Case=Nom|Number=Sing|NumType=Ord	10	reparandum	_	SpaceAfter=No
 9	,	,	PUNCT	CLB	_	10	punct	_	_
@@ -1046,7 +1046,7 @@
 7	в	в	ADP	Pr	_	8	case	_	Lang=ru
 8	глаза	глаз	NOUN	N	Case=Nom|Number=Plur	6	obl	_	Lang=ru|SpaceAfter=No
 9	,	,	PUNCT	CLB	_	10	punct	_	_
-10	потому	потому	SCONJ	CS	ExtPos=CSONJ	13	mark	_	Lang=ru
+10	потому	потому	SCONJ	CS	ExtPos=SCONJ	13	mark	_	Lang=ru
 11	что	что	SCONJ	CS	_	10	fixed	_	Lang=ru
 12	уна	уна	ADV	Adv	_	13	advmod	_	_
 13	йӧз	йӧз	NOUN	N	Case=Nom|Number=Sing	6	advcl	_	SpaceAfter=No
