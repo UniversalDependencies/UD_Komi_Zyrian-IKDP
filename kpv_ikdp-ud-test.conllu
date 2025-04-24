@@ -497,7 +497,7 @@
 13	сизим	сизим	NUM	Num	Case=Nom|Number=Sing|NumType=Card	17	nummod	_	SpaceAfter=No
 14	,	,	PUNCT	CLB	_	15	punct	_	_
 15	дас	дас	NUM	Num	Case=Nom|Number=Sing|NumType=Card	16	nummod	_	_
-16	кӧкъямыс	кӧкъямыс	NUM	Num	Case=Nom|Number=Sing|NumType=Card,Ord	13	conj	_	_
+16	кӧкъямыс	кӧкъямыс	NUM	Num	Case=Nom|Number=Sing|NumType=Card	13	conj	_	_
 17	аресэн	арес	NOUN	N	Case=Ins|Number=Sing	21	obl	_	_
 18	только	только	ADV	Adv	_	21	advmod	_	OrigLang=ru|SpaceAfter=No
 19	,	,	PUNCT	CLB	_	20	punct	_	_
