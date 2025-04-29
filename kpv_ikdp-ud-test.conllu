@@ -648,7 +648,7 @@
 1	И	и	CCONJ	CC	_	5	cc	_	OrigLang=ru
 2	ӧні	ӧні	ADV	Adv	AdvType=Tim	5	advmod	_	_
 3	бара	бара	ADV	Adv	_	5	advmod	_	_
-4	же	жӧ	ADV	Adv	_	3	advmod:eval	_	OrigLang=ru
+4	же	жӧ	ADV	Adv	_	3	advmod	_	OrigLang=ru
 5	мӧдісныс	мӧдны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	_
 6	вӧрзёоны	вӧрзьыны	VERB	V	VerbForm=Inf	5	xcomp	_	SpaceAfter=No
 7	.	.	PUNCT	CLB	_	5	punct	_	_
@@ -1896,7 +1896,7 @@
 # text = А важен вед вина из юныс.
 1	А	а	CCONJ	CC	_	6	cc	_	GTtags=CC
 2	важен	важ	ADJ	A	Case=Ins|Number=Sing	6	obl	_	GTtags=A,Sg,Ins
-3	вед	вед	ADV	Adv	_	6	advmod:eval	_	GTtags=Adv,Parenthetic|OrigLang=ru
+3	вед	вед	ADV	Adv	_	6	advmod	_	GTtags=Adv,Parenthetic|OrigLang=ru
 4	вина	вина	NOUN	N	Case=Nom|Number=Sing	6	obj	_	GTtags=N,Sg,Nom|OrigLang=ru
 5	из	оз	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	6	aux	_	GTtags=V,Neg,Ind,Prt1,Sg3
 6	юныс	юны	VERB	V	Connegative=Yes|Number=Plur	0	root	_	GTtags=V,TV,ConNeg|SpaceAfter=No
@@ -1955,7 +1955,7 @@
 8	а	а	CCONJ	CC	_	14	cc	_	_
 9	вокъясыс	вок	NOUN	N	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	14	nsubj	_	GTtags=Pl,Nom,PxSg3|SpaceAfter=No
 10	,	,	PUNCT	PUNCT	_	11	punct	_	_
-11	видед	видзӧдны	VERB	V	Mood=Imp|Number=Sing|Person=2	14	advcl:eval	_	GTtags=Err/Dial,Imprt,Sg2|SpaceAfter=No
+11	видед	видзӧдны	VERB	V	Mood=Imp|Number=Sing|Person=2	14	advcl	_	GTtags=Err/Dial,Imprt,Sg2|SpaceAfter=No
 12	,	,	PUNCT	PUNCT	_	11	punct	_	_
 13	водьын	водь	NOUN	N	Case=Ine|Number=Sing	14	obl	_	GTtags=Sg,Ine
 14	мунэныс	мунны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres	6	conj	_	GTtags=Ind,Prs,Err/Dial,Pl3,Err/Dial
@@ -2048,8 +2048,8 @@
 1	Коймедсэ	коймӧд	ADJ	A	Case=Acc|Number=Sing|Number[psor]=Sing|NumType=Ord|Person[psor]=3	2	obj	_	GTtags=Err/Dial,Ord,Sg,Acc,PxSg3
 2	сетіс	сетны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Sg3
 3	да	да	CCONJ	CC	_	6	cc	_	_
-4	бара	бара	ADV	Adv	_	6	advmod:eval	_	GTtags=Parenthetic
-5	же	жӧ	PART	Pcle	_	6	advmod:eval	_	GTtags=Err/Dial
+4	бара	бара	ADV	Adv	_	6	advmod	_	GTtags=Parenthetic
+5	же	жӧ	PART	Pcle	_	6	advmod	_	GTtags=Err/Dial
 6	сідз	сідзи	ADV	Adv	AdvType=Man	2	conj	_	GTtags=Manner|SpaceAfter=No
 7	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
@@ -2110,7 +2110,7 @@
 # text = Дадьсэ тай тшапкис да воедіс, воедіс да небыд юрси чойсэ и вӧжжиедыс упритіс: «Чое, нӧревитлы», висьталэ, «ва ош туй мунэма да ме ва ош туй бӧрсяньыс вӧтэдча».
 # text_en = He took his sledge and rode on and on, and then halted his sister Soft Hair with the reins: – Wait a minute, sister – he says – there's a track of a polar bear and I am going to pursue the polar bear.
 1	Дадьсэ	дадь	NOUN	N	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	obj	_	GTtags=Sg,Acc,PxSg3,Err/Dial
-2	тай	тай	ADV	Adv	_	3	advmod:eval	_	_
+2	тай	тай	ADV	Adv	_	3	advmod	_	_
 3	тшапкис	тшапкыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Sg3
 4	да	да	CCONJ	CC	_	5	cc	_	_
 5	воедіс	войӧдны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	3	conj	_	GTtags=Err/Dial,Ind,Prt1,Sg3|SpaceAfter=No
@@ -2213,7 +2213,7 @@
 2	кынь	кынь	NOUN	N	Case=Nom|Number=Sing	3	nmod	_	GTtags=Sg,Nom
 3	рожа	рожа	NOUN	N	Case=Nom|Number=Sing	4	nmod	_	GTtags=Sg,Nom
 4	видзысь	видзысь	NOUN	N	Case=Nom|Number=Sing	8	nsubj	_	GTtags=Sg,Nom
-5	вед	вед	ADV	Adv	_	8	advmod:eval	_	GTtags=Parenthetic
+5	вед	вед	ADV	Adv	_	8	advmod	_	GTtags=Parenthetic
 6	пыр	пыр	ADV	Adv	_	8	advmod	_	_
 7	на	на	ADV	Adv	_	8	advmod	_	_
 8	лооя	ловъя	NOUN	N	Case=Nom|Number=Sing	0	root	_	GTtags=Sg,Nom|SpaceAfter=No
@@ -2231,7 +2231,7 @@
 5	кынь	кынь	NOUN	N	Case=Nom|Number=Sing	6	nmod	_	GTtags=Sg,Nom
 6	рожа	рожа	NOUN	N	Case=Nom|Number=Sing	7	nmod	_	GTtags=Sg,Nom
 7	видзысьлэн	видзысь	NOUN	N	Case=Gen|Number=Sing	2	conj	_	GTtags=Sg,Err/Dial,Gen
-8	вед	вед	ADV	Adv	_	9	advmod:eval	_	GTtags=Parenthetic
+8	вед	вед	ADV	Adv	_	9	advmod	_	GTtags=Parenthetic
 9	гӧлэсыс	гӧлӧс	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	0	root	_	GTtags=Sg,PxSg3,Nom|SpaceAfter=No
 10	!	!	PUNCT	PUNCT	_	9	punct	_	_
 
@@ -2815,7 +2815,7 @@
 35	кӧсъя	кӧсйыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	30	parataxis	_	GTtags=Ind,Prs,Sg1
 36	Корея	Корея	NOUN	N	Case=Nom|Number=Sing	37	obl	_	GTtags=Prop,Sem/Plc,Sg,Nom
 37	ветлыны	ветлыны	VERB	V	VerbForm=Inf	35	xcomp	_	GTtags=Inf
-38	эське	эськӧ	ADV	Adv	_	35	advmod:eval	_	GTtags=Err/Orth
+38	эське	эськӧ	ADV	Adv	_	35	advmod	_	GTtags=Err/Orth
 39	корке	коркӧ	ADV	Adv	AdvType=Tim|Definite=Ind|Derivation=Ko	37	advmod	_	GTtags=Indef,Sem/Time,Der/кӧ|SpaceAfter=No
 40	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
