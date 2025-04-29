@@ -2856,11 +2856,11 @@
 # text = Велэдны кута университетын, велэдны куча коми-изьватаслысь, ненечьяс да саами войтырлысь правояссэ да, но, ммм, политическей ног вӧсни, но, наес велэдны.
 # comment = Check discourse and extras at mid-sentence
 1	Велэдны	велӧдны	VERB	V	VerbForm=Inf	0	root	_	GTtags=Err/Dial,Inf
-2	кута	кутны	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	1	aux:aspect	_	GTtags=Ind,Prs,Sg1
+2	кута	кутны	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	1	aux	_	GTtags=Ind,Prs,Sg1
 3	университетын	университет	NOUN	N	Case=Ine|Number=Sing	1	obl	_	GTtags=Sg,Ine|SpaceAfter=No
 4	,	,	PUNCT	PUNCT	_	5	punct	_	_
 5	велэдны	велӧдны	VERB	V	VerbForm=Inf	1	conj	_	GTtags=Err/Dial,Inf
-6	куча	кутны	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	5	aux:aspect	_	GTtags=Err/Dial,Ind,Prs,Sg1
+6	куча	кутны	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	5	aux	_	GTtags=Err/Dial,Ind,Prs,Sg1
 7-9	коми-изьватаслысь	_	_	_	_	_	_	_	SpaceAfter=No
 7	коми	коми	NOUN	N	Case=Nom|Number=Sing	9	compound	_	GTtags=Sg,Nom
 8	-	-	PUNCT	_	_	9	punct	_	_
@@ -3029,7 +3029,7 @@
 3	кӧсъя	кӧсйыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg1
 4	сіе	сійӧ	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	obj	_	GTtags=Pers,Sg3,Nom,Err/Dial
 5	видлооны	видлавны	VERB	V	VerbForm=Inf	3	xcomp	_	GTtags=Err/Dial,Inf
-6	сы	сійӧ	PRON	Pron	Case=Adp|Number=Sing|Person=3|PronType=Prs	3	obl:cau	_	GTtags=Pers,Sg3,Cmpl
+6	сы	сійӧ	PRON	Pron	Case=Adp|Number=Sing|Person=3|PronType=Prs	3	obl	_	GTtags=Pers,Sg3,Cmpl
 7	вӧсна	вӧсна	ADP	Adp	AdpType=Post	6	case	_	GTtags=Po
 8	вот	вот	ADV	Adv	_	6	advmod	_	GTtags=Parenthetic|SpaceAfter=No
 9	.	.	PUNCT	PUNCT	_	3	punct	_	_

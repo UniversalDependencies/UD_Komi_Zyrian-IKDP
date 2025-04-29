@@ -38,7 +38,7 @@ The transcription is also published in Zenodo:
 
 * 2025-04-30
   * Add ExtPos
-  * remove :lto, :lmod, :lfrom, :mmod, :tmod ; add AdvType=Loc
+  * remove :lto, :lmod, :lfrom, :mmod, :tmod, :cau ; add AdvType=Loc
 * 2024-11-01
   * Add use of Foreign feature
   * reflexive separated from antecedent with VERB correction
