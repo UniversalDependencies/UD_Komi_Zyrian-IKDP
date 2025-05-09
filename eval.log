@@ -1,10 +1,10 @@
 Running the following version of UD tools:
-commit c1984d97df0ecdcc1b50fbeaa8c96419c6321432
+commit ecbbdff44b15c9b6de4a691e3499c1286459ab2e
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun Nov 10 10:33:45 2024 +0100
+Date:   Fri May 9 21:07:42 2025 +0200
 Evaluating the following revision of UD_Komi_Zyrian-IKDP:
-commit 03ca371a0a649d04b059b1c1790a007cbb636f46
-Merge: 39ea036 5663184
+commit 40bcc292c093398e3d25f636ebeac232b54fda23
+Merge: e414e77 2228bde
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Size: counted 2309 of 2309 words (nodes).
 Size: min(0, log((N/1000)**2)) = 1.67362906074472.
@@ -15,26 +15,26 @@ Split: Did not find at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 0.5.
 Universal POS tags: 16 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.9.
-Features: 1362 out of 2309 total words have one or more features.
+Features: 1401 out of 2309 total words have one or more features.
 Features: source of annotation (from README) factor is 0.5.
 Universal relations: 33 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Udapi:
-               TOTAL        322
-Udapi: found 322 bugs.
+               TOTAL        315
+Udapi: found 315 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 2309 words.
-Genres: found 1 out of 17 known.
+Genres: found 1 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang kpv --max-err=10 UD_Komi_Zyrian-IKDP/kpv_ikdp-ud-test.conllu
 *** PASSED ***
 Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.5) = 0.0384615384615385
-(weight=0.0769230769230769) * (score{genres}=0.0588235294117647) = 0.00452488687782805
+(weight=0.0769230769230769) * (score{genres}=0.0555555555555556) = 0.00427350427350427
 (weight=0.0769230769230769) * (score{lemmas}=0.5) = 0.0384615384615385
 (weight=0.256410256410256) * (score{size}=0.121141310972392) = 0.0310618746083057
 (weight=0.0512820512820513) * (score{split}=0.01) = 0.000512820512820513
 (weight=0.0769230769230769) * (score{tags}=0.847058823529412) = 0.065158371040724
 (weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
 (weight=0.0769230769230769) * (score{udeprels}=0.891891891891892) = 0.0686070686070686
-(TOTAL score=0.249865021646747) * (availability=1) * (validity=1) = 0.249865021646747
+(TOTAL score=0.249613639042423) * (availability=1) * (validity=1) = 0.249613639042423
 STARS = 1
-UD_Komi_Zyrian-IKDP	0.249865021646747	1
+UD_Komi_Zyrian-IKDP	0.249613639042423	1
