@@ -36,6 +36,9 @@ The transcription is also published in Zenodo:
 
 # Changelog
 
+* 2025-10-30
+  * Add VerbForm=Fin where Mood feature is present
+  * Add PronType feature with values for DET and PRON
 * 2025-04-30
   * Add ExtPos
   * remove :lto, :lmod, :lfrom, :mmod, :tmod, :cau, :eval ; add AdvType=Loc
@@ -73,6 +76,7 @@ The transcription is also published in Zenodo:
 Data available since: UD v2.2
 License: CC BY-SA 4.0
 Includes text: yes
+Parallel: no
 Genre: spoken
 Lemmas: automatic with corrections
 UPOS: converted with corrections
