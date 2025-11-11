@@ -33,7 +33,7 @@
     <tag name="X">6</tag><!-- Севера, коренного, малочисленного, международные, народа, отношения -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="76">
+  <feats unique="77">
     <feat name="AdpType" value="Post" upos="ADP">7</feat><!-- кузяыс, кузя, вӧсна, йылысь -->
     <feat name="AdvType" value="Loc" upos="ADV">23</feat><!-- сэн, сэтэн, бӧр, кычеге, Кытэн, быдлаті, водзе, кытэнке, кӧн, мӧдлаын -->
     <feat name="AdvType" value="Man" upos="ADV">10</feat><!-- сідз, кудз, кудзке, тадз -->
@@ -95,17 +95,18 @@
     <feat name="Person[psor]" value="3" upos="ADJ,ADP,DET,NOUN,PRON,PROPN,VERB">122</feat><!-- кузяыс, мамыс, ставыс, тятеис, английскейсэ, бӧрас, вомсьыс, гортас, дадьсэ, дорас -->
     <feat name="Polarity" value="Neg" upos="ADV,AUX,PART,PRON">37</feat><!-- из, абу, оз, ог, не, он, невозможнэ, никод, никодэс, никучем -->
     <feat name="PronType" value="Dem" upos="ADJ,INTJ,PRON">27</feat><!-- сыа, сы, мӧд, сэтшем, Та, Тае, налэн, ная, сіе, татшӧм -->
-    <feat name="PronType" value="Ind" upos="PRON">9</feat><!-- мыйке, кодке, мыйкесэ -->
+    <feat name="PronType" value="Ind" upos="DET,PRON">16</feat><!-- мыйке, кодке, уна, мукедъясыс, мыйкесэ, никод, никодэс, нинӧм, унджык -->
     <feat name="PronType" value="Int" upos="ADV,DET,PRON">12</feat><!-- кудз, мый, мыен, Кытысь, кымын -->
     <feat name="PronType" value="Prs" upos="ADJ,PRON">125</feat><!-- ме, миян, сыа, сы, сія, ми, ас, менам, менэ, сіе -->
     <feat name="PronType" value="Rel" upos="ADV">3</feat><!-- кор, кытысь -->
-    <feat name="PronType" value="Tot" upos="PRON">5</feat><!-- быд, быдӧнӧс, куимнансэ -->
+    <feat name="PronType" value="Tot" upos="DET,PRON">9</feat><!-- быд, ставыс, Став, быдӧнӧс, куимнансэ -->
     <feat name="Reflex" value="Yes" upos="PRON">11</feat><!-- ачум, ачыс, Ассюм, аслад, асланум, аслас, аслум, ассьыд -->
     <feat name="Tense" value="Fut" upos="VERB">5</feat><!-- лоас, мӧдасы, ортсаласны, сетасныс -->
     <feat name="Tense" value="Past" upos="AUX,VERB">198</feat><!-- вӧлі, из, сетіс, вӧліс, рӧдитчи, босьтіс, вежсис, ветлі, воедіс, мунэма -->
     <feat name="Tense" value="Pres" upos="AUX,VERB">90</feat><!-- кӧсъя, оз, любита, ог, велэда, висьталэ, выйым, вӧтлэ, интересуйтэ, кажитче -->
     <feat name="Variant" value="Vclause" upos="NOUN">1</feat><!-- няньтӧг -->
     <feat name="VerbForm" value="Conv" upos="VERB">4</feat><!-- велӧдчигӧныс, вӧрзялыгдырйи, локтігӧныс, мунігӧныс -->
+    <feat name="VerbForm" value="Fin" upos="AUX,VERB">297</feat><!-- вӧлі, из, кӧсъя, оз, сетіс, вӧліс, любита, ог, рӧдитчи, босьтіс -->
     <feat name="VerbForm" value="Inf" upos="VERB">59</feat><!-- велэдны, ветлыны, мунны, босьны, висьтооны, велэдчыны, ветлооны, Сравнитны, бериччыны, велэднысэ -->
     <feat name="VerbForm" value="Part" upos="VERB">1</feat><!-- закончитэм -->
     <feat name="VerbForm" value="Vnoun" upos="VERB">6</feat><!-- Велэдчем, босьтӧм, велэдчемысь, закончитэм, олэмад, тӧдэмъяссэ -->
