@@ -2540,7 +2540,7 @@
 1	Но	но	CCONJ	CC	_	5	cc	_	_
 2	финскейсэ	финскӧй	ADJ	A	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	5	obj	_	GTtags=Err/Dial,Sg,Acc,PxSg3,Err/Dial
 3	зэй	зэв	ADV	Adv	_	4	advmod:deg	_	GTtags=Err/Dial
-4	этша	этша	PRON	Det	Case=Nom|Number=Sing	5	obl	_	GTtags=Sg,Der,Der/ProprietiveMod,A,Sg,Nom
+4	этша	этша	PRON	Det	Case=Nom|Number=Sing|PronType=Ind	5	obl	_	GTtags=Sg,Der,Der/ProprietiveMod,A,Sg,Nom
 5	тӧда	тӧдны	VERB	N	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	GTtags=Sg,Der,Der/ProprietiveMod,A,Sg,Nom|SpaceAfter=No
 6	,	,	PUNCT	PUNCT	_	8	punct	_	_
 7	кор	кор	ADV	Adv	AdvType=Tim|PronType=Rel	8	mark	_	GTtags=Rel,Sem/Time
@@ -2738,7 +2738,7 @@
 13	йылысь	йыв	ADP	Adp	Case=Ela|NounType=Relat|Number=Sing	12	case	_	GTtags=Relat,Sg,Ela|SpaceAfter=No
 14	,	,	PUNCT	PUNCT	_	15	punct	_	_
 15	кытысь	кытысь	ADV	Adv	Case=Ela|PronType=Rel	12	acl	_	GTtags=Rel,Ela
-16	ныа	ныа	PRON	Pron	Case=Nom|Number=Sing	15	nsubj	_	GTtags=Sg,Nom|SpaceAfter=No
+16	ныа	ныа	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	15	nsubj	_	GTtags=Sg,Nom|SpaceAfter=No
 17	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
 # sent_id = kpv_izva20150705-02-b.069
@@ -3003,7 +3003,7 @@
 9	тадз	тадзи	ADV	Adv	AdvType=Man	7	conj	_	GTtags=Manner|SpaceAfter=No
 10	,	,	PUNCT	PUNCT	_	12	punct	_	_
 11	мый	мый	SCONJ	CS	_	12	mark	_	_
-12	куимнан	куимнан	PRON	Pron	Case=Nom|Number=Sing|NumType=Sets	2	conj	_	GTtags=AssocColl,Sg,Nom
+12	куимнан	куимнан	PRON	Pron	Case=Nom|Number=Sing|NumType=Sets|PronType=Tot	2	conj	_	GTtags=AssocColl,Sg,Nom
 13	войтырыс	войтыр	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	12	nsubj	_	GTtags=Sg,Nom,PxSg3|SpaceAfter=No
 14	,	,	PUNCT	PUNCT	_	15	punct	_	_
 15	ӧ	ӧ	INTJ	Interj	_	17	discourse	_	SpaceAfter=No
