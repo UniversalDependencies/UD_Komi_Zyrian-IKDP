@@ -1395,7 +1395,7 @@
 9	знали	знать	VERB	V	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	0	root	_	Lang=ru|SpaceAfter=No
 10	,	,	PUNCT	CLB	_	9	punct	_	_
 11	у	у	ADP	Pr	_	12	case	_	Lang=ru
-12	нас	я	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	13	obl	_	Lang=ru
+12	нас	я	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	13	nmod	_	Lang=ru
 13	бабушка	бабушка	NOUN	N	Case=Nom|Number=Sing	14	nmod	_	Lang=ru
 14	Елена	Елена	PROPN	N	Case=Nom|Number=Sing	19	nsubj	_	_
 15	вӧлі	вӧвны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	cop	_	_
@@ -1580,7 +1580,7 @@
 1	Иван	Иван	PROPN	N	Case=Nom|Number=Sing	2	nsubj	_	GTtags=Prop,Sg,Nom
 2	босьтіс	босьтны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	GTtags=TV,Ind,Prt1,Sg3
 3	тятейсӧ	тятей	NOUN	N	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	obj	_	GTtags=Sg,Acc,PxSg3
-4	рот	рот	NOUN	N	Case=Nom|Number=Sing	3	obl	_	GTtags=Sg,Nom
+4	рот	рот	NOUN	N	Case=Nom|Number=Sing	2	obl	_	GTtags=Sg,Nom
 5	нынніыс	нынні	ADP	Po	Number[psor]=Sing|Person[psor]=3	4	case	_	GTtags=PxSg3
 6	и	и	CCONJ	CC	_	7	cc	_	_
 7	лэбӧдіс	лэбӧдны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	GTtags=TV,Ind,Prt1,Sg3
