@@ -36,6 +36,9 @@ The transcription is also published in Zenodo:
 
 # Changelog
 
+* 2026-04-30
+  * Add PronType feature with values for DET and PRON
+  * Validate
 * 2025-10-30
   * Add VerbForm=Fin where Mood feature is present
   * Add PronType feature with values for DET and PRON

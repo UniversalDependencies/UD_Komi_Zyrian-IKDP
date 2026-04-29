@@ -46,7 +46,7 @@
 # text = Миян выйым асланум, керка, мӧс, ыж, кукань.
 1	Миян	ми	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	5	nmod	_	_
 2	выйым	эм	AUX	V	Number=Sing	5	cop	_	_
-3	асланум	ас	PRON	Pron	Case=Gen|Person=1|Reflex=Yes	5	nmod	_	SpaceAfter=No
+3	асланум	ас	PRON	Pron	Case=Gen|Person=1|PronType=Prs|Reflex=Yes	5	nmod	_	SpaceAfter=No
 4	,	,	PUNCT	CLB	_	5	punct	_	_
 5	керка	керка	NOUN	N	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
 6	,	,	PUNCT	CLB	_	7	punct	_	_
@@ -95,13 +95,13 @@
 # text = А ӧні ачум велӧдча.
 1	А	а	CCONJ	CC	_	4	cc	_	OrigLang=ru
 2	ӧні	ӧні	ADV	Adv	AdvType=Tim	4	advmod	_	_
-3	ачум	ас	PRON	_	Case=Nom|Person=1|Reflex=Yes	4	nmod	_	_
+3	ачум	ас	PRON	_	Case=Nom|Person=1|PronType=Prs|Reflex=Yes	4	nmod	_	_
 4	велӧдча	велӧдчыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	CLB	_	4	punct	_	_
 
 # sent_id = kpv_izva19591100-05582_1az-17
 # text = Всё.
-1	Всё	Всё	PRON	Pron	Number=Sing	0	root	_	OrigLang=ru|SpaceAfter=No
+1	Всё	Всё	PRON	Pron	Number=Sing|PronType=Tot	0	root	_	OrigLang=ru|SpaceAfter=No
 2	.	.	PUNCT	CLB	_	1	punct	_	_
 
 # sent_id = kpv_izva20140325-2-a-004
@@ -632,7 +632,7 @@
 # text_ru = И это, у нас всегда каслали за Урал.
 # text_en =
 1	И	и	CCONJ	CC	_	2	cc	_	OrigLang=ru
-2	этія	этія	PRON	Pron	_	6	discourse	_	SpaceAfter=No
+2	этія	этія	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	6	discourse	_	SpaceAfter=No
 3	,	,	PUNCT	CLB	_	4	punct	_	_
 4	миян	ми	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	_
 5	ӧттӧрйи	ӧттӧрйи	ADV	Adv	_	6	advmod	_	_
@@ -781,7 +781,7 @@
 # text_ru = Так что, в никакие иностранные места не езжу.
 # text_en =
 1	Так	так	PART	Pcle	ExtPos=SCONJ	8	mark	_	Lang=ru
-2	что	что	PRON	Pron	_	1	fixed	_	Lang=ru|SpaceAfter=No
+2	что	что	PRON	Pron	PronType=Ind	1	fixed	_	Lang=ru|SpaceAfter=No
 3	,	,	PUNCT	CLB	_	2	punct	_	_
 4	никучем	никутшӧм	ADV	Adv	Polarity=Neg	5	advmod	_	_
 5	иностраннэй	иностраннӧй	ADJ	A	Case=Nom|Number=Sing	6	amod	_	OrigLang=ru
@@ -801,7 +801,7 @@
 5	,	,	PUNCT	CLB	_	6	punct	_	_
 6	потому	потому	SCONJ	CS	ExtPos=SCONJ	11	mark	_	Lang=ru
 7	что	что	SCONJ	CS	_	6	fixed	_	Lang=ru
-8	мӧд	мӧд	DET	Det	Case=Nom|Number=Sing|NumType=Ord	10	reparandum	_	SpaceAfter=No
+8	мӧд	мӧд	DET	Det	Case=Nom|Number=Sing|NumType=Ord|PronType=Ind	10	reparandum	_	SpaceAfter=No
 9	,	,	PUNCT	CLB	_	10	punct	_	_
 10	мӧдэд	мӧдӧд	ADJ	A	Case=Nom|NumType=Ord	11	amod	_	_
 11	луныс	лун	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	advcl	_	SpaceAfter=No
@@ -920,7 +920,7 @@
 9	,	,	PUNCT	CLB	_	13	punct	_	_
 10	не	не	PART	Pcle	Polarity=Neg	11	advmod	_	OrigLang=ru
 11	то	то	PART	Pcle	ExtPos=ADV	13	advmod	_	OrigLang=ru
-12	что	что	PRON	Pron	_	11	fixed	_	Lang=ru
+12	что	что	PRON	Pron	PronType=Ind	11	fixed	_	Lang=ru
 13	лёк-а	лёк	ADJ	A	Case=Nom|Number=Sing	4	conj	_	SpaceAfter=No
 14	.	.	PUNCT	CLB	_	4	punct	_	_
 
@@ -958,7 +958,7 @@
 # text_en =
 1	И	и	CCONJ	CC	_	4	cc	_	OrigLang=ru
 2	сыа	сыа	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
-3	ачыс	ас	PRON	Pron	Case=Nom|Person=3|Reflex=Yes	4	nmod	_	_
+3	ачыс	ас	PRON	Pron	Case=Nom|Person=3|PronType=Prs|Reflex=Yes	4	nmod	_	_
 4	ветліс	ветлыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	CLB	_	6	punct	_	_
 6	эта	этайӧ	INTJ	Interj	Number=Sing|PronType=Dem	4	discourse	_	OrigLang=ru|SpaceAfter=No
@@ -1124,7 +1124,7 @@
 11	сідз	сідз	ADV	Adv	_	13	mark	_	_
 12	и	и	PART	Pcle	_	13	advmod	_	OrigLang=ru
 13	смыло	смыть	VERB	V	Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	9	conj	_	Lang=ru
-14	всю	весь	DET	Det	Case=Acc|Number=Sing	15	det	_	Lang=ru
+14	всю	весь	DET	Det	Case=Acc|Number=Sing|PronType=Tot	15	det	_	Lang=ru
 15	деревню	деревня	NOUN	N	Case=Acc|Number=Sing	13	obj	_	Lang=ru|SpaceAfter=No
 16	.	.	PUNCT	CLB	_	15	punct	_	_
 
@@ -1182,7 +1182,7 @@
 2	для	для	ADP	Pr	_	3	case	_	Lang=ru
 3	девушек	дешувка	NOUN	N	Case=Gen|Number=Plur	6	nmod	_	Lang=ru
 4	вӧлі	вӧвны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	_
-5	ачыс	ас	PRON	Pron	Case=Nom|Person=3|Reflex=Yes	6	det	_	_
+5	ачыс	ас	PRON	Pron	Case=Nom|Person=3|PronType=Prs|Reflex=Yes	6	det	_	_
 6	сарафан	сарапан	NOUN	N	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	CLB	_	6	punct	_	_
 
@@ -1242,7 +1242,7 @@
 5	сдайт	сдайтны	VERB	V	Connegative=Yes	0	root	_	OrigLang=ru|SpaceAfter=No
 6	,	,	PUNCT	CLB	_	5	punct	_	_
 7	но	но	CCONJ	CC	_	11	cc	_	OrigLang=ru
-8	какой	какой	DET	Det	_	11	amod	_	Lang=ru|SpaceAfter=No
+8	какой	какой	DET	Det	Case=Nom|Number=Sing|PronType=Ind	11	amod	_	Lang=ru|SpaceAfter=No
 9	-	-	PUNCT	PUNCT	_	8	punct	_	SpaceAfter=No
 10	то	то	ADV	Adv	_	8	advmod	_	Lang=ru
 11	процент	процент	NOUN	N	Case=Nom|Number=Sing	5	acl	_	Lang=ru
@@ -1347,12 +1347,12 @@
 # text_ru =
 1	Только	только	ADV	Adv	_	4	advmod	_	Lang=ru
 2	вот	вот	PART	Pcle	_	4	advmod	_	Lang=ru
-3	сы	сійӧ	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nmod	_	_
+3	сы	сійӧ	PRON	Pron	Case=Adp|Number=Sing|Person=3|PronType=Prs	4	nmod	_	_
 4	мында	мында	NOUN	N	Case=Nom|Number=Sing	9	advcl	_	_
 5	и	и	CCONJ	CC	_	4	cc	_	OrigLang=ru
 6	мыйке	мыйкӧ	PRON	Pron	Case=Nom|PronType=Ind	4	appos	_	SpaceAfter=No
 7	,	,	PUNCT	CLB	_	6	punct	_	_
-8	такое	такой	DET	Det	Case=Nom|Number=Sing	9	det	_	Lang=ru
+8	такое	такой	ADJ	A	Case=Nom|Number=Sing	9	amod	_	Lang=ru
 9	детство	детство	NOUN	N	Case=Nom|Number=Sing	0	root	_	Lang=ru
 10	у	у	ADP	Pr	_	11	case	_	Lang=ru
 11	нас	мы	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	9	obl	_	Lang=ru
@@ -1665,7 +1665,7 @@
 # text = Сэки вӧлі сы туй кузя турун кыскалӧны.
 1	Сэки	сэки	ADV	Adv	_	7	advmod	_	_
 2	вӧлі	вӧвны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux	_	GTtags=Ind,Prt1,Sg3
-3	сы	сійӧ	PRON	Pron	PronType=Dem	4	det	_	GTtags=Dem
+3	сы	сійӧ	PRON	Pron	Case=Adp|PronType=Dem	4	det	_	GTtags=Dem
 4	туй	туй	NOUN	N	Case=Nom|Number=Sing	7	obl	_	GTtags=Sg,Nom
 5	кузя	кузя	ADP	Po	_	4	case	_	_
 6	турун	турун	NOUN	N	Case=Nom|Number=Sing	7	obj	_	GTtags=Sg,Acc
@@ -1869,7 +1869,7 @@
 3	,	,	PUNCT	CLB	_	4	punct	_	GTtags=CLB
 4	мый	мый	SCONJ	CS	_	7	mark	_	GTtags=CS
 5	ме	ме	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	GTtags=Pron,Pers,Sg1,Nom
-6	мӧдджык	мӧдджык	PRON	Pron	Degree=Cmp|Number=Sing	7	det	_	GTtags=Pron,Dem,Comp
+6	мӧдджык	мӧд	PRON	Pron	Degree=Cmp|Number=Sing|PronType=Ind	7	det	_	GTtags=Pron,Dem,Comp
 7	коми	коми	NOUN	N	Case=Nom|Number=Sing	2	advcl	_	GTtags=N,Sg,Nom
 8	-	-	PUNCT	PUNCT	_	9	punct	_	GTtags=PUNCT
 9	изьватас	изьватас	NOUN	N	Case=Nom|Number=Sing	7	appos	_	GTtags=N,Sg,Nom|SpaceAfter=No
@@ -2077,10 +2077,10 @@
 
 # sent_id = 13756_2bz.052
 # text = Даддяяс бӧр воедісныс.
-# text_en = Those in sledges faded away.
+# text_en = Those with sledges faded away.
 1-2	Даддяяс	_	_	_	_	_	_	_	_
 1	Даддя	даддя	NOUN	N	Case=Prp|Number=Sing	2	nmod:prp	_	GTtags=Sg,Prp
-2	яс	ыс	PRON	Pron	Case=Nom|Number=Plur	4	nsubj	_	GTtags=Pl,Nom
+2	яс	ыс	PRON	Pron	Case=Nom|Number=Plur|PronType=Ind	4	nsubj	_	GTtags=Pl,Nom
 3	бӧр	бӧр	ADV	Adv	AdvType=Loc	4	advmod	_	_
 4	воедісныс	войӧдны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	GTtags=Err/Dial,Ind,Prt1,Pl3|SpaceAfter=No
 5	.	.	PUNCT	PUNCT	_	4	punct	_	_
@@ -2789,7 +2789,7 @@
 9	кыы	кыв	NOUN	N	Case=Nom|Number=Sing	10	obj	_	GTtags=Err/Dial,Sg,Err/Dial,Nom
 10	тӧдны	тӧдны	VERB	V	VerbForm=Inf	5	ccomp	_	GTtags=Inf|SpaceAfter=No
 11	,	,	PUNCT	PUNCT	_	14	punct	_	_
-12	ныес	ныес	PRON	Pron	Case=Acc|Number=Plur	14	obj	_	GTtags=Pl,Acc
+12	ныес	ныес	PRON	Pron	Case=Acc|Number=Plur|PronType=Prs	14	obj	_	GTtags=Pl,Acc
 13	бурджыка	бурджыка	ADV	Adv	_	14	advmod	_	_
 14	велэдны	велӧдны	VERB	V	VerbForm=Inf	10	conj	_	GTtags=Err/Dial,Inf
 15	и	и	CCONJ	CC	_	17	cc	_	_
@@ -2897,7 +2897,7 @@
 # sent_id = kpv_izva20150705-02-b.088
 # text = И сы кузя нин, сыа тема кузяыс водзе мунны, научнэй мыйке кузяыс.
 1	И	и	CCONJ	CC	_	2	cc	_	_
-2	сы	сійӧ	PRON	Pron	PronType=Dem	10	obl	_	GTtags=Dem
+2	сы	сійӧ	PRON	Pron	Case=Adp|PronType=Dem	10	obl	_	GTtags=Dem
 3	кузя	кузя	ADP	Adp	AdpType=Post	2	case	_	GTtags=Po
 4	нин	нин	ADV	Adv	AdvType=Tim	2	advmod	_	GTtags=Sem/Time|SpaceAfter=No
 5	,	,	PUNCT	PUNCT	_	7	punct	_	_
@@ -2993,7 +2993,7 @@
 # text = Но мӧдъясыслэн сыа выйым, но сідз и тадз, мый куимнан войтырыс, ӧ, кӧреннэйяс.
 # comment = Check
 1	Но	но	CCONJ	CC	_	2	cc	_	_
-2	мӧдъясыслэн	мӧд	PRON	Pron	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	0	root	_	GTtags=Pl,Gen,PxSg3,Err/Dial
+2	мӧдъясыслэн	мӧд	PRON	Pron	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3|PronType=Ind	0	root	_	GTtags=Pl,Gen,PxSg3,Err/Dial
 3	сыа	сійӧ	PRON	Pron	PronType=Dem	2	nsubj:cop	_	GTtags=Err/Dial,Dem
 4	выйым	эм	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	GTtags=Ind,Prs,Sg3,WORK|SpaceAfter=No
 5	,	,	PUNCT	PUNCT	_	7	punct	_	_
