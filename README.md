@@ -36,9 +36,11 @@ The transcription is also published in Zenodo:
 
 # Changelog
 
-* 2026-04-30
+* 2026-04-30 v2.18
   * Add PronType feature with values for DET and PRON
   * Validate
+  * Added ten new trees.
+  * Apply VerbForm=NomAg for compliance with Erzya and Moksha. This replaces Nomzr=Ag
 * 2025-10-30
   * Add VerbForm=Fin where Mood feature is present
   * Add PronType feature with values for DET and PRON
