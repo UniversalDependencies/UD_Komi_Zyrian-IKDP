@@ -1,10 +1,10 @@
 Running the following version of UD tools:
-commit 26e6c87a2f518322d15901a351199b6be6569062
+commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri Nov 7 15:39:58 2025 +0100
+Date:   Tue May 5 17:01:41 2026 +0200
 Evaluating the following revision of UD_Komi_Zyrian-IKDP:
-commit cd41cadd1943299012808a1ed993c70930730458
-Merge: cbdcdc1 2dd6d6a
+commit 30fdc0a271243c272259500703c01621ff7083b4
+Merge: 78bed6a e29e052
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'kpv_ikdp'
@@ -19,24 +19,12 @@ Split: Did not find at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 0.5.
 Universal POS tags: 16 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.9.
-Features: 1401 out of 2309 total words have one or more features.
+Features: 1405 out of 2309 total words have one or more features.
 Features: source of annotation (from README) factor is 0.5.
 Universal relations: 33 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Genres: found 1 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang kpv --max-err=10 UD_Komi_Zyrian-IKDP/kpv_ikdp-ud-test.conllu
-[Line 49 Sent kpv_izva19591100-05582_1az-11]: [L3 Warning pron-det-without-prontype] The word 'асланум' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 98 Sent kpv_izva19591100-05582_1az-16]: [L3 Warning pron-det-without-prontype] The word 'ачум' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 104 Sent kpv_izva19591100-05582_1az-17]: [L3 Warning pron-det-without-prontype] The word 'Всё' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 635 Sent kpv_izva20150411-1-b-0017]: [L3 Warning pron-det-without-prontype] The word 'этія' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 784 Sent kpv_izva20150411-1-b-0032]: [L3 Warning pron-det-without-prontype] The word 'что' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 804 Sent kpv_izva20150411-1-b-0033]: [L3 Warning pron-det-without-prontype] The word 'мӧд' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 923 Sent kpv_izva20150411-1-b-0058]: [L3 Warning pron-det-without-prontype] The word 'что' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 961 Sent kpv_izva20150411-1-b-0062]: [L3 Warning pron-det-without-prontype] The word 'ачыс' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 1127 Sent kpv_izva20150409-1-b.0846]: [L3 Warning pron-det-without-prontype] The word 'всю' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 1185 Sent kpv_izva20140329-1-b-438]: [L3 Warning pron-det-without-prontype] The word 'ачыс' is tagged 'PRON' but it lacks the 'PronType' feature
-...suppressing further errors regarding Warning
-Warnings: 21
 *** PASSED ***
 Validity: 1
 (weight=0.111111111111111) * (score{features}=0.5) = 0.0555555555555556
